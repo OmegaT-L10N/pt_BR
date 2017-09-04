@@ -1,1 +1,1 @@
-# pt_BR
+# Portuguese (Brazil) OmegaT Localisation
