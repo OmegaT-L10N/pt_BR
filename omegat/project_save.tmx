@@ -7937,6 +7937,26 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T123333Z" creationid="Sheila" creationdate="20170909T123333Z">
+        <seg>Ocorreu um erro durante o processamento de um evento de fonte alterada:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T123245Z" creationid="Sheila" creationdate="20170909T123245Z">
+        <seg>Ocorreu um erro durante o processamento de um evento de novo arquivo:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
@@ -7947,11 +7967,31 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T123228Z" creationid="Sheila" creationdate="20170909T123228Z">
+        <seg>Ocorreu um erro durante o processamento de um evento de desligamento de aplicativo:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing an application startup event:
 {0}</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T123206Z" creationid="Sheila" creationdate="20170909T123206Z">
         <seg>Ocorreu um erro durante o processamento de um evento de inicialização de aplicativo:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an entry activated event:
+{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T123311Z" creationid="Sheila" creationdate="20170909T123311Z">
+        <seg>Ocorreu um erro durante o processamento de um evento de entrada ativada:
 {0}</seg>
       </tuv>
     </tu>
@@ -13144,6 +13184,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T123428Z" creationid="Sheila" creationdate="20170909T123428Z">
+        <seg>Verifique se você está especificando a versão correta da API (a URL deve incluir "/v2/").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182148Z" creationid="karol" creationdate="20160308T182148Z">
@@ -13507,8 +13555,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Event: font changed</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111014Z" creationid="Evandro" creationdate="20160312T111014Z">
-        <seg>Evento: fonte modificada</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T123337Z" creationid="Evandro" creationdate="20160312T111014Z">
+        <seg>Evento: fonte alterada</seg>
       </tuv>
     </tu>
     <tu>
@@ -19774,6 +19822,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T224006Z" creationid="Sheila" creationdate="20170905T224006Z">
         <seg>LanguageTool: a porta local não está disponível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T123356Z" creationid="Sheila" creationdate="20170909T123356Z">
+        <seg>LanguageTool: o servidor retornou XML quando era esperado JSON.</seg>
       </tuv>
     </tu>
     <tu>
