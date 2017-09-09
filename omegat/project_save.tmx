@@ -7585,6 +7585,14 @@ the above requirements apply either way.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153540Z" creationid="Sheila" creationdate="20170909T153540Z">
+        <seg>Retorno de &amp;fonte agressivo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Aggressive Font Fallback</seg>
@@ -15500,8 +15508,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>Go To Segment Source</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170815T191139Z" creationid="Evandro" creationdate="20160312T111751Z">
-        <seg>Acessar o segmento fonte</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153545Z" creationid="Evandro" creationdate="20160312T111751Z">
+        <seg>Acessar o segmento de origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -18519,8 +18527,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111808Z" creationid="Evandro" creationdate="20160312T111808Z">
-        <seg>Inserir Correspondência ou Seleção na Tradução</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153552Z" creationid="Evandro" creationdate="20160312T111808Z">
+        <seg>inserir correspondência ou seleção na tradução</seg>
       </tuv>
     </tu>
     <tu>
@@ -26345,8 +26353,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace Translation with Match or Selection</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111828Z" creationid="Evandro" creationdate="20160312T111828Z">
-        <seg>Substituir Tradução por Correspondência ou Seleção</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153556Z" creationid="Evandro" creationdate="20160312T111828Z">
+        <seg>Substituir tradução por correspondência ou seleção</seg>
       </tuv>
     </tu>
     <tu>
@@ -29594,6 +29602,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T172056Z" creationid="Sheila" creationdate="20170905T172056Z">
         <seg>Correspondências de TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153616Z" creationid="Sheila" creationdate="20170909T153616Z">
+        <seg>Opções de correspondências de TM</seg>
       </tuv>
     </tu>
     <tu>
