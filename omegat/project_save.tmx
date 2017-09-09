@@ -7947,6 +7947,16 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing an application startup event:
+{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T123206Z" creationid="Sheila" creationdate="20170909T123206Z">
+        <seg>Ocorreu um erro durante o processamento de um evento de inicialização de aplicativo:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184622Z" creationid="Evandro" creationdate="20160311T184622Z">
