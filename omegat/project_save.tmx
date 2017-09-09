@@ -19279,6 +19279,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JAR files</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T125651Z" creationid="Sheila" creationdate="20170909T125651Z">
+        <seg>Arquivos JAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JGit (Eclipse Distribution License)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010007Z" creationid="karol" creationdate="20160309T010007Z">
@@ -19794,6 +19802,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool settings</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T125633Z" creationid="Sheila" creationdate="20170909T125633Z">
+        <seg>Configurações do LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T125636Z" creationid="Sheila" creationdate="20170909T125624Z">
+        <seg>O LanguageTool será desativado até o projeto ser fechado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170523T172309Z" creationid="karol" creationdate="20160308T171457Z">
@@ -19806,6 +19830,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171534Z" creationid="karol" creationdate="20160308T171534Z">
         <seg>O LanguageTool não funcionará corretamente se houver uma versão antiga na pasta /plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T125617Z" creationid="Sheila" creationdate="20170909T125617Z">
+        <seg>LanguageTool: ocorreu um erro durante a verificação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20618,6 +20650,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171252Z" creationid="karol" creationdate="20160308T171252Z">
         <seg>Maltês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manually defined rules</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T125654Z" creationid="Sheila" creationdate="20170909T125654Z">
+        <seg>Regras definidas manualmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -21699,6 +21739,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T171823Z" creationid="Evandro" creationdate="20160312T105813Z">
         <seg>Novo idioma e país</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New LanguageTool rule</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T130851Z" creationid="Sheila" creationdate="20170909T130851Z">
+        <seg>Nova regra do LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -27888,6 +27936,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002137Z" creationid="karol" creationdate="20160309T002137Z">
         <seg>Selecione busca de palavra-chave para qualquer quantidade de palavras individuais completas, em qualquer ordem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select languagetool-server.jar</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T125644Z" creationid="Sheila" creationdate="20170909T125644Z">
+        <seg>Selecionar languagetool-server.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -35297,6 +35353,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182140Z" creationid="karol" creationdate="20160308T182140Z">
         <seg>Digite &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; para executar o comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T125718Z" creationid="Sheila" creationdate="20170909T125718Z">
+        <seg>Digite a ID da nova regra</seg>
       </tuv>
     </tu>
     <tu>
