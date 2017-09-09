@@ -19810,6 +19810,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool: Bad URL</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T123440Z" creationid="Sheila" creationdate="20170909T123440Z">
+        <seg>LanguageTool: URL inexistente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Server start timeout</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T125612Z" creationid="Sheila" creationdate="20170909T125612Z">
+        <seg>LanguageTool: tempo limite de inicialização do servidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool: bad local path</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T223958Z" creationid="Sheila" creationdate="20170905T223958Z">
