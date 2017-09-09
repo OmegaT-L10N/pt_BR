@@ -579,6 +579,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T130902Z" creationid="Sheila" creationdate="20170909T130902Z">
+        <seg>&amp;Integrado (LanguageTool {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Cancel</seg>
@@ -919,6 +927,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T192412Z" creationid="Evandro" creationdate="20160311T180008Z">
         <seg>&amp;Últimas alterações...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Launch local server</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T130924Z" creationid="Sheila" creationdate="20170909T130924Z">
+        <seg>&amp;Inicializar servidor local</seg>
       </tuv>
     </tu>
     <tu>
@@ -20259,6 +20275,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local installation path:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153208Z" creationid="Sheila" creationdate="20170909T153208Z">
+        <seg>Caminho de instalação local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113032Z" creationid="Evandro" creationdate="20160312T113032Z">
@@ -25974,6 +25998,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T130941Z" creationid="Sheila" creationdate="20170909T130941Z">
+        <seg>&amp;Servidor remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote File/Folder</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170320Z" creationid="Sheila" creationdate="20170905T170320Z">
@@ -28065,6 +28097,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113608Z" creationid="Evandro" creationdate="20160312T113608Z">
         <seg>Servidor (atualizado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Service type</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T130950Z" creationid="Sheila" creationdate="20170909T130950Z">
+        <seg>Tipo de serviço</seg>
       </tuv>
     </tu>
     <tu>
