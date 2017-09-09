@@ -769,8 +769,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Fix All</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115400Z" creationid="Evandro" creationdate="20160310T115400Z">
-        <seg>&amp;Corrigir todas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T120621Z" creationid="Evandro" creationdate="20160310T115400Z">
+        <seg>&amp;Corrigir tudo</seg>
       </tuv>
     </tu>
     <tu>
@@ -18311,6 +18311,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T120512Z" creationid="Sheila" creationdate="20170909T120512Z">
+        <seg>Projeto de equipe {0}-{1} inicializado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initializing</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112617Z" creationid="Evandro" creationdate="20160312T112617Z">
@@ -24314,8 +24322,10 @@ free programs, and that you know you can do these things.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T160712Z" creationid="Sheila" creationdate="20170905T160712Z">
-        <seg>Coloque os arquivos de origem em ./source e o material suplementar em ./tm, ./glossary e ./dictionary, conforme seja necessário e, em seguida, confirme tudo.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T120549Z" creationid="Sheila" creationdate="20170905T160712Z">
+        <seg>Coloque os arquivos de origem em ./source e o material
+suplementar em ./tm, ./glossary e ./dictionary, conforme seja necessário e,
+em seguida, confirme tudo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25364,8 +25374,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Re&amp;place All</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T132526Z" creationid="Evandro" creationdate="20160310T115048Z">
-        <seg>Su&amp;bstituir Tudo</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T120603Z" creationid="Evandro" creationdate="20160310T115048Z">
+        <seg>Su&amp;bstituir tudo</seg>
       </tuv>
     </tu>
     <tu>
