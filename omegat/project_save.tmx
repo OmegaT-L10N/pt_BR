@@ -7937,6 +7937,16 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a project change event:
+{0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121557Z" creationid="Sheila" creationdate="20170909T121557Z">
+        <seg>Ocorreu um erro durante o processamento de um evento de mudança de projeto: {0}
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184622Z" creationid="Evandro" creationdate="20160311T184622Z">
@@ -10560,6 +10570,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121352Z" creationid="Sheila" creationdate="20170909T121352Z">
+        <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk e outros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171212Z" creationid="karol" creationdate="20160308T171212Z">
@@ -12114,6 +12132,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110723Z" creationid="Evandro" creationdate="20160312T110723Z">
         <seg>Exibir os segmentos de memórias de tradução que correspondam ao segmento fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121510Z" creationid="Sheila" creationdate="20170909T121503Z">
+        <seg>Exibe a tradução do segmento de origem feita pelo serviço de tradução automática selecionado em Preferências &gt; Tradução automática, quando disponível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13726,6 +13752,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T210312Z" creationid="karol" creationdate="20160308T202006Z">
         <seg>Exporta o segmento atual para um arquivo de texto para processamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121346Z" creationid="Sheila" creationdate="20170909T121346Z">
+        <seg>Lin&amp;ks externos</seg>
       </tuv>
     </tu>
     <tu>
@@ -18504,6 +18538,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105944Z" creationid="Evandro" creationdate="20160312T105944Z">
         <seg>Inserir a &amp;melhor correspondência parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121419Z" creationid="Sheila" creationdate="20170909T121419Z">
+        <seg>Inserir o texto de &amp;origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -27162,6 +27204,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115706Z" creationid="Evandro" creationdate="20160310T115706Z">
         <seg>Veja o "Capítulo 3".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121403Z" creationid="Sheila" creationdate="20170909T121403Z">
+        <seg>Veja /docs/contributors.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -36592,6 +36642,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121332Z" creationid="Sheila" creationdate="20170909T121332Z">
+        <seg>Legendas WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172802Z" creationid="karol" creationdate="20160308T172802Z">
@@ -38374,6 +38432,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181319Z" creationid="karol" creationdate="20160308T181319Z">
         <seg>A partir daí você poderá acessar o OmegaT chamando este arquivo da linha de comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121327Z" creationid="Sheila" creationdate="20170909T121327Z">
+        <seg>Legendas do YouTube</seg>
       </tuv>
     </tu>
     <tu>
