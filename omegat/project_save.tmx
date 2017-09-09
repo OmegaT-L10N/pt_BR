@@ -1015,8 +1015,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Modification Info</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111420Z" creationid="Evandro" creationdate="20160312T111420Z">
-        <seg>Informações de &amp;Modificação</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153422Z" creationid="Evandro" creationdate="20160312T111420Z">
+        <seg>Informações de &amp;alteração</seg>
       </tuv>
     </tu>
     <tu>
@@ -11845,8 +11845,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Dictionary Installer</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111214Z" creationid="Evandro" creationdate="20160312T111200Z">
-        <seg>Instalador do Dicionário</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153323Z" creationid="Evandro" creationdate="20160312T111200Z">
+        <seg>Instalador do dicionário</seg>
       </tuv>
     </tu>
     <tu>
@@ -11958,8 +11958,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111442Z" creationid="Evandro" creationdate="20160312T111442Z">
-        <seg>&amp;Não Exibir Nenhum</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153429Z" creationid="Evandro" creationdate="20160312T111442Z">
+        <seg>&amp;Não exibir nenhum</seg>
       </tuv>
     </tu>
     <tu>
@@ -11967,8 +11967,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111343Z" creationid="Evandro" creationdate="20160312T111343Z">
-        <seg>Mostrar Segmentos &amp;Fonte</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153409Z" creationid="Evandro" creationdate="20160312T111343Z">
+        <seg>Mostrar &amp;segmentos de origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -19770,6 +19770,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153320Z" creationid="Sheila" creationdate="20170909T153320Z">
+        <seg>LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170744Z" creationid="Sheila" creationdate="20170905T170744Z">
@@ -19790,6 +19798,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T223927Z" creationid="Sheila" creationdate="20170905T223927Z">
         <seg>O LanguageTool está configurado incorretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool is not available for your target language.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153248Z" creationid="Sheila" creationdate="20170909T153248Z">
+        <seg>O LanguageTool não está disponível para seu idioma de destino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20202,6 +20218,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171247Z" creationid="karol" creationdate="20160308T171247Z">
         <seg>Lituano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load a project to configure rules for that project's languages.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153319Z" creationid="Sheila" creationdate="20170909T153319Z">
+        <seg>Carrega um projeto para configurar as regras dos idiomas do projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20705,8 +20729,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111559Z" creationid="Evandro" creationdate="20160312T111559Z">
-        <seg>Marcar &amp;Espaço em Branco</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153444Z" creationid="Evandro" creationdate="20160312T111559Z">
+        <seg>Marcar &amp;espaço em branco</seg>
       </tuv>
     </tu>
     <tu>
@@ -20734,12 +20758,20 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153515Z" creationid="Sheila" creationdate="20170909T153515Z">
+        <seg>Marcar segmentos &amp;autopreenchidos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111618Z" creationid="Evandro" creationdate="20160312T111618Z">
-        <seg>Marcar Caracteres de Controle de Algoritmo &amp;Bidirecional</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153451Z" creationid="Evandro" creationdate="20160312T111618Z">
+        <seg>Marcar caracteres de controle de algoritmo &amp;bidirecional</seg>
       </tuv>
     </tu>
     <tu>
@@ -20747,8 +20779,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111542Z" creationid="Evandro" creationdate="20160312T111542Z">
-        <seg>Marcar Espaços &amp;Não-separáveis</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153439Z" creationid="Evandro" creationdate="20160312T111542Z">
+        <seg>Marcar espaços &amp;não separáveis</seg>
       </tuv>
     </tu>
     <tu>
@@ -20788,6 +20820,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153354Z" creationid="Sheila" creationdate="20170909T153354Z">
+        <seg>Marcar se&amp;gmentos não repetidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172334Z" creationid="karol" creationdate="20160308T172334Z">
@@ -20807,8 +20847,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111414Z" creationid="Evandro" creationdate="20160312T111414Z">
-        <seg>Marcar Segmentos &amp;com Notas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153416Z" creationid="Evandro" creationdate="20160312T111414Z">
+        <seg>Marcar segmentos &amp;com notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -26726,10 +26766,26 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153227Z" creationid="Sheila" creationdate="20170909T153227Z">
+        <seg>O ID de regra pode conter apenas letras latinas, sublinhados e pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule priority</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002427Z" creationid="karol" creationdate="20160309T002427Z">
         <seg>Prioridade de regra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153215Z" creationid="Sheila" creationdate="20170909T153215Z">
+        <seg>Regras</seg>
       </tuv>
     </tu>
     <tu>
@@ -33177,6 +33233,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There was an error initializing LanguageTool.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153256Z" creationid="Sheila" creationdate="20170909T153256Z">
+        <seg>Houve um erro ao inicializar o LanguageTool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, by modifying or propagating a
 covered work, you indicate your acceptance of this License to do so.</seg>
       </tuv>
@@ -33407,6 +33471,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112149Z" creationid="Evandro" creationdate="20160312T112149Z">
         <seg>Esta chave de API foi bloqueada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This ID is already being used.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153231Z" creationid="Sheila" creationdate="20170909T153231Z">
+        <seg>Este ID já está sendo usado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35476,6 +35548,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111138Z" creationid="Evandro" creationdate="20160312T111138Z">
         <seg>URL dos dicionários online:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153211Z" creationid="Sheila" creationdate="20170909T153211Z">
+        <seg>URL:</seg>
       </tuv>
     </tu>
     <tu>
