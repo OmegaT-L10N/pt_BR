@@ -1228,6 +1228,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121310Z" creationid="Sheila" creationdate="20170909T121310Z">
+        <seg>&amp;Redefinir opções</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Reset This Colour</seg>
@@ -10187,10 +10195,26 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121034Z" creationid="Sheila" creationdate="20170909T121034Z">
+        <seg>Confirmar arquivos de origem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112853Z" creationid="Evandro" creationdate="20160312T112853Z">
         <seg>Não foi possível a confirmação; a tradução remota já foi alterada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121158Z" creationid="Sheila" creationdate="20170909T121158Z">
+        <seg>Confirmando arquivos de origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -12986,6 +13010,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121259Z" creationid="Sheila" creationdate="20170909T121259Z">
+        <seg>Habilite-os em &lt;b&gt;Preferências &gt; Gravação e saída......&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102212Z" creationid="Evandro" creationdate="20160312T102212Z">
@@ -13827,6 +13859,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T190123Z" creationid="Evandro" creationdate="20160311T190123Z">
         <seg>Erro ao fazer backup do arquivo de preferências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit source file!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121151Z" creationid="Sheila" creationdate="20170909T121151Z">
+        <seg>Falha ao confirmar o arquivo de origem!</seg>
       </tuv>
     </tu>
     <tu>
@@ -24592,6 +24632,14 @@ para determinar a origem do erro e tente novamente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121053Z" creationid="Sheila" creationdate="20170909T121053Z">
+        <seg>Formatação direcional de POP (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Portuguese</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171313Z" creationid="karol" creationdate="20160308T171313Z">
@@ -28504,6 +28552,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121207Z" creationid="Sheila" creationdate="20170909T121207Z">
+        <seg>Arquivos de origem confirmados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184509Z" creationid="Evandro" creationdate="20160311T184509Z">
@@ -29170,6 +29226,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T203016Z" creationid="karol" creationdate="20160308T203016Z">
         <seg>Alternar letra para</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121123Z" creationid="Sheila" creationdate="20170909T121123Z">
+        <seg>Alternar visualizações entre {0} e {1}</seg>
       </tuv>
     </tu>
     <tu>
