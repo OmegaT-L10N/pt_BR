@@ -516,8 +516,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111858Z" creationid="Evandro" creationdate="20160312T111858Z">
-        <seg>Buscar Traduções &amp;Automaticamente</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170911T215503Z" creationid="Evandro" creationdate="20160312T111858Z">
+        <seg>Buscar traduções &amp;automaticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -1532,8 +1532,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Untranslated Segments Only</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111917Z" creationid="Evandro" creationdate="20160312T111909Z">
-        <seg>Apenas Segmentos Não Trad&amp;uzidos</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170911T215511Z" creationid="Evandro" creationdate="20160312T111909Z">
+        <seg>Apenas segmentos não trad&amp;uzidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -7859,6 +7859,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181218Z" creationid="karol" creationdate="20160308T181218Z">
         <seg>Podem ser selecionados locais alternativos para algumas pastas na etapa de criação do projeto, ou durante a tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternative Language</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170911T215526Z" creationid="Sheila" creationdate="20170911T215454Z">
+        <seg>Idioma alternativo</seg>
       </tuv>
     </tu>
     <tu>
