@@ -8097,6 +8097,14 @@ O arquivo TMX não será carregado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170911T234534Z" creationid="CALDAS" creationdate="20170911T234534Z">
+        <seg>Um aspecto importante dessa liberdade é que os usuários também podem modificar o código do programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An interactive user interface displays "Appropriate Legal Notices"
 to the extent that it includes a convenient and prominently visible
 feature that (1) displays an appropriate copyright notice, and (2)
@@ -34957,6 +34965,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172754Z" creationid="karol" creationdate="20160308T172754Z">
         <seg>Para apoiar financeiramente o projeto do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170911T234743Z" creationid="CALDAS" creationdate="20170911T234743Z">
+        <seg>Para o movimento de código aberto, a liberdade que os usuários têm para alterar o programa a fim de atender às suas próprias necessidades é mais importante do que o fato de não precisarem pagar por ele.</seg>
       </tuv>
     </tu>
     <tu>
