@@ -23176,6 +23176,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is an open-source application and project.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170911T233025Z" creationid="CALDAS" creationdate="20170911T233025Z">
+        <seg>O OmegaT é um aplicativo de código aberto e de projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181150Z" creationid="karol" creationdate="20160308T181150Z">
@@ -32045,6 +32053,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The open-source philosophy</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170911T232923Z" creationid="CALDAS" creationdate="20170911T232923Z">
+        <seg>A filosofia do código aberto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T173137Z" creationid="karol" creationdate="20160308T173137Z">
@@ -34094,6 +34110,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170523T195335Z" creationid="karol" creationdate="20160308T181428Z">
         <seg>Isto significa que se o idioma fonte é da EPD e o idioma destino é da DPE, ou vice-versa, pode ser necessário alternar entre esses dois modos para visualizar o texto nos seus respectivos modos de escrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170911T233852Z" creationid="CALDAS" creationdate="20170911T233852Z">
+        <seg>Isso significa que o código-fonte do OmegaT está disponível gratuitamente e que a licença do OmegaT proporciona aos seus usuários uma liberdade considerável na sua utilização.</seg>
       </tuv>
     </tu>
     <tu>
