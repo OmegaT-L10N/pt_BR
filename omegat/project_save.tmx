@@ -18385,6 +18385,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T000716Z" creationid="CALDAS" creationdate="20170912T000716Z">
+        <seg>Por sua vez, são livres, e até mesmo encorajada (mas de nenhuma maneira obrigados) a contribuir com o projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002426Z" creationid="karol" creationdate="20160309T002426Z">
@@ -30685,6 +30693,14 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project philosophy</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T000244Z" creationid="CALDAS" creationdate="20170912T000244Z">
+        <seg>A filosofia do projeto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
@@ -32409,6 +32425,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T180948Z" creationid="karol" creationdate="20160308T180948Z">
         <seg>A mesma caixa de diálogo é usada para acrescentar um padrão ou editar um padrão específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same spirit can be found within the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T000336Z" creationid="CALDAS" creationdate="20170912T000336Z">
+        <seg>A mesma correlação pode ser encontrada no projeto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36537,6 +36561,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110625Z" creationid="Evandro" creationdate="20160312T110625Z">
         <seg>Usuário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users are free to download and use the program.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T000343Z" creationid="CALDAS" creationdate="20170912T000343Z">
+        <seg>Os usuários são livres para baixar e usar o programa.</seg>
       </tuv>
     </tu>
     <tu>
