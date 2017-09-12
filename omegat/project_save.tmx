@@ -12701,6 +12701,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222445Z" creationid="mroch" creationdate="20170912T222445Z">
+        <seg>Gerente de Documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents and Settings\&lt;User Name&gt;\Application Data\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T210554Z" creationid="Sheila" creationdate="20170903T210554Z">
@@ -19235,6 +19243,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222418Z" creationid="mroch" creationdate="20170912T222418Z">
+        <seg>Gerente de Integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Intention</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002444Z" creationid="karol" creationdate="20160309T002444Z">
@@ -20603,6 +20619,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181920Z" creationid="karol" creationdate="20160308T181920Z">
         <seg>Ao iniciar esta função – &lt;g0&gt;Ctrl+Shift+V&lt;i1/&gt;&lt;/g0&gt; - uma janela é aberta com todos os segmentos de um arquivo onde há tags incorretas ou danificadas na tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222409Z" creationid="mroch" creationdate="20170912T222409Z">
+        <seg>Desenvolvedor chefe</seg>
       </tuv>
     </tu>
     <tu>
@@ -26113,6 +26137,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214243Z" creationid="karol" creationdate="20160308T214243Z">
         <seg>Atalhos de gerenciamento do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222252Z" creationid="mroch" creationdate="20170912T222252Z">
+        <seg>Gerente de Projetos</seg>
       </tuv>
     </tu>
     <tu>
@@ -38091,6 +38123,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170912T221540Z" creationid="mroch" creationdate="20170912T221540Z">
         <seg>Design do Site</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222432Z" creationid="mroch" creationdate="20170912T222432Z">
+        <seg>Gerente do Site</seg>
       </tuv>
     </tu>
     <tu>
