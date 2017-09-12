@@ -1069,6 +1069,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T103932Z" creationid="Sheila" creationdate="20170912T103932Z">
+        <seg>&amp;Novo script</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;New...</seg>
@@ -7374,8 +7382,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>Add Script</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112547Z" creationid="Evandro" creationdate="20160312T112547Z">
-        <seg>Adicionar Script</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T103811Z" creationid="Evandro" creationdate="20160312T112547Z">
+        <seg>Adicionar script</seg>
       </tuv>
     </tu>
     <tu>
@@ -18312,8 +18320,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T182143Z" creationid="karol" creationdate="20160308T182143Z">
-        <seg>No campo "Comando", use o botão de navegação para encontrar o script para rodar o &lt;a0&gt;OmegaT&lt;/a0&gt; (o arquivo chamado &lt;a1&gt;OmegaT&lt;/a1&gt; na pasta descompactada), e o selecione.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T103855Z" creationid="karol" creationdate="20160308T182143Z">
+        <seg>No campo "Comando", use o botão de navegação para encontrar o script para executar o &lt;a0&gt;OmegaT&lt;/a0&gt; (o arquivo chamado &lt;a1&gt;OmegaT&lt;/a1&gt; na pasta descompactada), e o selecione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23809,8 +23817,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can click on &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; to launch it directly or you can launch it directly from the command line.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T182118Z" creationid="karol" creationdate="20160308T182118Z">
-        <seg>Após instalar o&lt;a0&gt;OmegaT&lt;/a0&gt; , clique em&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; para rodar o programa ou o inicie diretamente da linha de comando.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T103839Z" creationid="karol" creationdate="20160308T182118Z">
+        <seg>Após instalar o&lt;a0&gt;OmegaT&lt;/a0&gt; , clique em&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; para executar o programa ou o inicie diretamente da linha de comando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26089,6 +26097,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T103735Z" creationid="Sheila" creationdate="20170912T103735Z">
+        <seg>Atualizando a pasta de scripts "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regardless of what server hosts the</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201426Z" creationid="karol" creationdate="20160308T201426Z">
@@ -26416,8 +26432,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112548Z" creationid="Evandro" creationdate="20160312T112548Z">
-        <seg>Remover Script</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T103813Z" creationid="Evandro" creationdate="20160312T112548Z">
+        <seg>Remover script</seg>
       </tuv>
     </tu>
     <tu>
@@ -27112,8 +27128,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and set the settings.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T214419Z" creationid="karol" creationdate="20160308T214419Z">
-        <seg>Rodar o &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (com a interface gráfica de usuário) e definir as configurações.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T103916Z" creationid="karol" creationdate="20160308T214419Z">
+        <seg>Executar o &lt;a0&gt;OmegaT&lt;/a0&gt; normalmente (com a interface gráfica de usuário) e definir as configurações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27128,8 +27144,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112541Z" creationid="Evandro" creationdate="20160312T112541Z">
-        <seg>Rodar script no slot #{0}.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T103808Z" creationid="Evandro" creationdate="20160312T112541Z">
+        <seg>Executar script no slot #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27350,8 +27366,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112537Z" creationid="Evandro" creationdate="20160312T112537Z">
-        <seg>Salvar Script</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T103739Z" creationid="Evandro" creationdate="20160312T112537Z">
+        <seg>Salvar script</seg>
       </tuv>
     </tu>
     <tu>
@@ -28505,6 +28521,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T130950Z" creationid="Sheila" creationdate="20170909T130950Z">
         <seg>Tipo de serviço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104008Z" creationid="Sheila" creationdate="20170912T104008Z">
+        <seg>Definir pasta de scripts...</seg>
       </tuv>
     </tu>
     <tu>
@@ -34089,8 +34113,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This creates an &lt;e2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/e2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T182221Z" creationid="karol" creationdate="20160308T182221Z">
-        <seg>Isso criará um diretório &lt;e2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/e2&gt; na pasta de trabalho com todos os arquivos necessários para rodar o&lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T103904Z" creationid="karol" creationdate="20160308T182221Z">
+        <seg>Isso criará um diretório &lt;e2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/e2&gt; na pasta de trabalho com todos os arquivos necessários para executar o&lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
