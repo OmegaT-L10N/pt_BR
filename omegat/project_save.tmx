@@ -10751,6 +10751,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T203543Z" creationid="Sheila" creationdate="20170912T203532Z">
+        <seg>Converter o projeto de equipe antigo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conveying Modified Source Versions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201400Z" creationid="karol" creationdate="20160308T201400Z">
@@ -23668,6 +23676,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T120042Z" creationid="Evandro" creationdate="20160310T120042Z">
         <seg>O OmegaT selecionou a opção 'Sim' automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T203611Z" creationid="Sheila" creationdate="20170912T203537Z">
+        <seg>O OmegaT detectou um projeto de equipe no estilo da versão 3.6.</seg>
       </tuv>
     </tu>
     <tu>
