@@ -3840,6 +3840,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T204739Z" creationid="Sheila" creationdate="20170912T204739Z">
+        <seg>&lt;html&gt;URL do repositório:&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;http://fsf.org/&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T133627Z" creationid="Sheila" creationdate="20170905T133627Z">
@@ -12850,8 +12858,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T172107Z" creationid="karol" creationdate="20160308T172107Z">
-        <seg>Baixar projetos de equipe</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T212033Z" creationid="karol" creationdate="20160308T172107Z">
+        <seg>Baixar projeto de equipe</seg>
       </tuv>
     </tu>
     <tu>
