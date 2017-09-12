@@ -9613,6 +9613,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115207Z" creationid="CALDAS" creationdate="20170912T115207Z">
+        <seg>Contudo, determinadas funções do programa foram comissionadas por patrocinadores comerciais, que por sua vez doaram os recursos para a comunidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chamorro</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001001Z" creationid="Evandro" creationdate="20160310T001001Z">
@@ -32280,6 +32288,14 @@ instead.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181953Z" creationid="karol" creationdate="20160308T181953Z">
         <seg>A função do glossário é encontrar apenas correspondências exatas com os termos do glossário (por exemplo, não encontra formas flexionadas, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114937Z" creationid="CALDAS" creationdate="20170912T114937Z">
+        <seg>A grande maioria dos trabalhos no projeto OmegaT foi concluído de forma voluntária.</seg>
       </tuv>
     </tu>
     <tu>
