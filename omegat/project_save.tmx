@@ -1468,6 +1468,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Store for this session only</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102159Z" creationid="Sheila" creationdate="20170912T102159Z">
+        <seg>&amp;Guardar apenas para esta sessão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;TaaS Terminology Lookup</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113750Z" creationid="Evandro" creationdate="20160312T113750Z">
@@ -21332,6 +21340,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111929Z" creationid="Evandro" creationdate="20160312T111929Z">
         <seg>Microsoft Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Translator Subscription Key not available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T101855Z" creationid="Sheila" creationdate="20170912T101855Z">
+        <seg>A chave de assinatura do Microsoft Translator não está disponível.</seg>
       </tuv>
     </tu>
     <tu>
