@@ -15066,6 +15066,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T032102Z" creationid="CALDAS" creationdate="20170912T032102Z">
+        <seg>Para este propósito, existe uma dedicada &lt;a0&gt;lista de discussão de desenvolvedores&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this reason, the two commands described above are contained in a file (a "script", also called a ".bat file" on Windows systems).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182250Z" creationid="karol" creationdate="20160308T182250Z">
