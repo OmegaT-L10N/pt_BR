@@ -28807,6 +28807,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T105514Z" creationid="CALDAS" creationdate="20170912T105514Z">
+        <seg>Mostrar versão em Inglês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Find Search Bar</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104215Z" creationid="Sheila" creationdate="20170912T104215Z">
