@@ -33393,6 +33393,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T030417Z" creationid="CALDAS" creationdate="20170912T030417Z">
+        <seg>No entanto, há margem considerável no projeto para os usuários sugerirem melhorias e influenciar o curso do desenvolvimento futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182054Z" creationid="karol" creationdate="20160308T182054Z">
