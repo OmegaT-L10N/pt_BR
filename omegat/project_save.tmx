@@ -14709,6 +14709,14 @@ tal como por transmissão de dados interna ou fluxo de controle entre os subprog
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T014536Z" creationid="CALDAS" creationdate="20170912T014536Z">
+        <seg>Por exemplo, qualquer pessoa é livre para fazer alterações no código do OmegaT e enviar essas alterações para a equipe de desenvolvimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181147Z" creationid="karol" creationdate="20160308T181147Z">
@@ -18138,6 +18146,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185156Z" creationid="Evandro" creationdate="20160311T185156Z">
         <seg>No texto f&amp;onte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some areas, some degree of co-ordination is required.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T014450Z" creationid="CALDAS" creationdate="20170912T014450Z">
+        <seg>Em algumas áreas, é necessário algum grau de coordenação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23780,6 +23796,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105217Z" creationid="Evandro" creationdate="20160312T105217Z">
         <seg>Somente se o arquivo  (X)HTML tiver uma declaração de &amp;codificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T014814Z" creationid="CALDAS" creationdate="20170912T014814Z">
+        <seg>Contudo, somente se tais alterações forem consideradas benéficas para os usuários do OmegaT, é que a equipe de desenvolvimento irá incluí-las no mesmo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33923,6 +33947,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181847Z" creationid="karol" creationdate="20160308T181847Z">
         <seg>Esta formatação será excluída.&lt;segmento 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T014353Z" creationid="CALDAS" creationdate="20170912T014353Z">
+        <seg>Esta abordagem sem interferência é descrita pelo atual coordenador do projeto OmegaT como "anarquia delegada".</seg>
       </tuv>
     </tu>
     <tu>
