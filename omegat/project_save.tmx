@@ -25491,8 +25491,16 @@ para determinar a origem do erro e tente novamente.</seg>
       <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T233634Z" creationid="mroch" creationdate="20170912T233634Z">
-        <seg>Entre em contato com o &lt;a0&gt;gerente de projetos do OmegaT&lt;/a0&gt; sobre questões que não se encaixem nas categorias acima.&lt;br1/&gt;</seg>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T234044Z" creationid="mroch" creationdate="20170912T233634Z">
+        <seg>Entre em contato com o &lt;a0&gt;gerente de projetos do OmegaT&lt;/a0&gt; caso o assunto não se encaixe nas categorias acima.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a2&gt;webmaster&lt;/a2&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T233641Z" creationid="mroch" creationdate="20170912T233641Z">
+        <seg>Entre em contato com o &lt;a2&gt;webmaster&lt;/a2&gt; para qualquer ponto em relação especificamente ao site.</seg>
       </tuv>
     </tu>
     <tu>
