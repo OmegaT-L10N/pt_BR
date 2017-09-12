@@ -780,6 +780,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104028Z" creationid="Sheila" creationdate="20170912T104028Z">
+        <seg>&amp;Encontrar...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Finish</seg>
@@ -1273,6 +1281,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115421Z" creationid="Evandro" creationdate="20160310T115421Z">
         <seg>&amp;Substituir próxima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104034Z" creationid="Sheila" creationdate="20170912T104034Z">
+        <seg>&amp;Substituir...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7266,6 +7282,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T192725Z" creationid="Sheila" creationdate="20170625T192725Z">
         <seg>Acessar conteúdo do projeto/Glossário editável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104018Z" creationid="Sheila" creationdate="20170912T104018Z">
+        <seg>Acessar pasta de scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -15783,6 +15807,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111926Z" creationid="Evandro" creationdate="20160312T111912Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104043Z" creationid="Sheila" creationdate="20170912T104043Z">
+        <seg>Acessar &amp;linha...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27362,6 +27394,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104304Z" creationid="Sheila" creationdate="20170912T104304Z">
+        <seg>Salvar conjunto atual...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Save Script</seg>
@@ -28566,6 +28606,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104244Z" creationid="Sheila" creationdate="20170912T104244Z">
+        <seg>Conjuntos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sets of segmentation rules:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105803Z" creationid="Evandro" creationdate="20160312T105803Z">
@@ -28739,6 +28787,22 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184743Z" creationid="Evandro" creationdate="20160311T184743Z">
         <seg>Mostrar &amp;Opções Avançadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104215Z" creationid="Sheila" creationdate="20170912T104215Z">
+        <seg>Mostrar barra de buscas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Replace Search Bar</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104230Z" creationid="Sheila" creationdate="20170912T104230Z">
+        <seg>Mostrar barra de substituição</seg>
       </tuv>
     </tu>
     <tu>
