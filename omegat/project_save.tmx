@@ -9011,6 +9011,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Balabit</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115236Z" creationid="CALDAS" creationdate="20170912T115236Z">
+        <seg>Balabit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bambara</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001000Z" creationid="Evandro" creationdate="20160310T001000Z">
@@ -9493,6 +9501,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T161340Z" creationid="Evandro" creationdate="20160310T121257Z">
         <seg>Documento de destino a&amp;tual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CJ Translations</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115239Z" creationid="CALDAS" creationdate="20170912T115239Z">
+        <seg>CJ Translations</seg>
       </tuv>
     </tu>
     <tu>
@@ -10523,6 +10539,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121158Z" creationid="Sheila" creationdate="20170909T121158Z">
         <seg>Confirmando arquivos de origem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commodity12</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115240Z" creationid="CALDAS" creationdate="20170912T115240Z">
+        <seg>Commodity12</seg>
       </tuv>
     </tu>
     <tu>
@@ -12211,6 +12235,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diptik</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115241Z" creationid="CALDAS" creationdate="20170912T115241Z">
+        <seg>Diptik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Disclaimer of Warranty.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201535Z" creationid="karol" creationdate="20160308T201535Z">
@@ -12735,6 +12767,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010540Z" creationid="karol" creationdate="20160309T010540Z">
         <seg>Palavras duplicadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doublet KK</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115242Z" creationid="CALDAS" creationdate="20170912T115242Z">
+        <seg>Doublet KK</seg>
       </tuv>
     </tu>
     <tu>
@@ -15579,6 +15619,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Genua</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115244Z" creationid="CALDAS" creationdate="20170912T115244Z">
+        <seg>Genua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Georgian</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171222Z" creationid="karol" creationdate="20160308T171222Z">
@@ -15951,6 +15999,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T210900Z" creationid="Sheila" creationdate="20170903T210900Z">
         <seg>Groups.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grup de Recerca Tradumàtica</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115246Z" creationid="CALDAS" creationdate="20170912T115246Z">
+        <seg>Grup de Recerca Tradumàtica</seg>
       </tuv>
     </tu>
     <tu>
@@ -19121,6 +19177,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Institut Laue-Langevin</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115247Z" creationid="CALDAS" creationdate="20170912T115247Z">
+        <seg>Institut Laue-Langevin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Intention</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002444Z" creationid="karol" creationdate="20160309T002444Z">
@@ -19222,6 +19286,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170331Z" creationid="Sheila" creationdate="20170905T170331Z">
         <seg>Tipo de repositório inválido: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invantive</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115248Z" creationid="CALDAS" creationdate="20170912T115248Z">
+        <seg>Invantive</seg>
       </tuv>
     </tu>
     <tu>
@@ -19832,6 +19904,14 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Julian Rippon</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115249Z" creationid="CALDAS" creationdate="20170912T115249Z">
+        <seg>Julian Rippon</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
@@ -20025,6 +20105,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001007Z" creationid="Evandro" creationdate="20160310T001007Z">
         <seg>Kikuyu, Gikuyu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kilgray</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115251Z" creationid="CALDAS" creationdate="20170912T115251Z">
+        <seg>Kilgray</seg>
       </tuv>
     </tu>
     <tu>
@@ -21147,6 +21235,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001010Z" creationid="Evandro" creationdate="20160310T001010Z">
         <seg>Marathi (Marāṭhī)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115253Z" creationid="CALDAS" creationdate="20170912T115253Z">
+        <seg>Marc Prior</seg>
       </tuv>
     </tu>
     <tu>
@@ -25396,6 +25492,14 @@ para determinar a origem do erro e tente novamente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Portavita</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115252Z" creationid="CALDAS" creationdate="20170912T115252Z">
+        <seg>Portavita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Portuguese</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171313Z" creationid="karol" creationdate="20160308T171313Z">
@@ -26079,6 +26183,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010536Z" creationid="karol" creationdate="20160309T010536Z">
         <seg>QA - Regras de Verificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Qabiria</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115254Z" creationid="CALDAS" creationdate="20170912T115254Z">
+        <seg>Qabiria</seg>
       </tuv>
     </tu>
     <tu>
@@ -35368,6 +35480,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To date, these sponsors are:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115235Z" creationid="CALDAS" creationdate="20170912T115235Z">
+        <seg>Até à data, estes patrocinadores são:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002417Z" creationid="karol" creationdate="20160309T002417Z">
@@ -37514,6 +37634,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214404Z" creationid="karol" creationdate="20160308T214404Z">
         <seg>Vários atalhos de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Velior</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115255Z" creationid="CALDAS" creationdate="20170912T115255Z">
+        <seg>Velior</seg>
       </tuv>
     </tu>
     <tu>
@@ -40562,6 +40690,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cApStAn</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115238Z" creationid="CALDAS" creationdate="20170912T115238Z">
+        <seg>cApStAn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ca</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001001Z" creationid="Evandro" creationdate="20160310T001001Z">
@@ -41054,6 +41190,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201452Z" creationid="karol" creationdate="20160308T201452Z">
         <seg>e) Recusa de conceder direitos de acordo com a lei de marcas comerciais do uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>e-lexica</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115243Z" creationid="CALDAS" creationdate="20170912T115243Z">
+        <seg>e-lexica</seg>
       </tuv>
     </tu>
     <tu>
@@ -46048,6 +46192,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114509Z" creationid="Evandro" creationdate="20160312T114509Z">
         <seg>wa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>weLocalize</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115256Z" creationid="CALDAS" creationdate="20170912T115256Z">
+        <seg>weLocalize</seg>
       </tuv>
     </tu>
     <tu>
