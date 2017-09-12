@@ -9291,6 +9291,22 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T113442Z" creationid="CALDAS" creationdate="20170912T113442Z">
+        <seg>Por Arno Peters e Mariëtte van Drunen (em Holandês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Václav Hejda (in Czech).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T113600Z" creationid="CALDAS" creationdate="20170912T113600Z">
+        <seg>Por Václav Hejda (em Tcheco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By contrast,
 the GNU General Public License is intended to guarantee your freedom to
 share and change all versions of a program--to make sure it remains free
@@ -19057,6 +19073,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduction to OmegaT (2.5.0).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T113429Z" creationid="CALDAS" creationdate="20170912T113429Z">
+        <seg>Introdução ao OmegaT (2.5.0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction to tokenizers and scripts</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170349Z" creationid="karol" creationdate="20160308T170349Z">
@@ -27066,6 +27090,30 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003716Z" creationid="karol" creationdate="20160309T003716Z">
         <seg>Reutilizando memórias de tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT 1.6 RC5.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T113808Z" creationid="CALDAS" creationdate="20170912T113808Z">
+        <seg>Avaliação do OmegaT 1.6 RC5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT 2.3.0.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T113502Z" creationid="CALDAS" creationdate="20170912T113502Z">
+        <seg>Avaliação do OmegaT 2.3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviews of OmegaT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T113533Z" creationid="CALDAS" creationdate="20170912T113417Z">
+        <seg>Avaliações do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
