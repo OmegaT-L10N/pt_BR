@@ -31540,6 +31540,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T030508Z" creationid="CALDAS" creationdate="20170912T030508Z">
+        <seg>A primeira delas é o &lt;a0&gt;grupo de usuários do OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first of these is:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T230419Z" creationid="Sheila" creationdate="20170903T230419Z">
