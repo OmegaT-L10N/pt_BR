@@ -7555,6 +7555,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T233404Z" creationid="mroch" creationdate="20170912T233404Z">
+        <seg>Administração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182258Z" creationid="karol" creationdate="20160308T182258Z">
@@ -12729,6 +12737,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222445Z" creationid="mroch" creationdate="20170912T222445Z">
         <seg>Gerente de Documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T233359Z" creationid="mroch" creationdate="20170912T233359Z">
+        <seg>Sistema de rastreamento de documentação</seg>
       </tuv>
     </tu>
     <tu>
@@ -25469,6 +25485,14 @@ to determine the source of the error and try again.</seg>
         <seg>Consulte o arquivo de registro
 ({1})
 para determinar a origem do erro e tente novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T233634Z" creationid="mroch" creationdate="20170912T233634Z">
+        <seg>Entre em contato com o &lt;a0&gt;gerente de projetos do OmegaT&lt;/a0&gt; sobre questões que não se encaixem nas categorias acima.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
