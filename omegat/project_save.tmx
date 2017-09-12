@@ -7831,10 +7831,18 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T145607Z" creationid="Sheila" creationdate="20170912T145607Z">
+        <seg>Permitir salvar a senha como texto sem formatação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow to save password locally as plain text</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T113420Z" creationid="Sheila" creationdate="20170912T113420Z">
-        <seg>Permitem salvar senha localmente como texto sem formatação</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T113456Z" creationid="Sheila" creationdate="20170912T113420Z">
+        <seg>Permitir salvar a senha localmente como texto sem formatação</seg>
       </tuv>
     </tu>
     <tu>
@@ -9095,8 +9103,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T003227Z" creationid="karol" creationdate="20160309T003227Z">
-        <seg>Antes que a funcionalidade de verificação ortográfica possa ser usada, um dicionário adequado (ou seja, do idioma destino) deve ser instalado.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T145907Z" creationid="karol" creationdate="20160309T003227Z">
+        <seg>Antes que o recurso de verificação ortográfica possa ser usado, é preciso instalar um dicionário adequado (ou seja, do idioma de destino).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12492,8 +12500,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T214204Z" creationid="karol" creationdate="20160308T214204Z">
-        <seg>Exibe a lista de novas funcionalidades, melhorias e correção de bugs para cada nova versão.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T145823Z" creationid="karol" creationdate="20160308T214204Z">
+        <seg>Exibe a lista de novos recursos, melhorias e correção de erros para cada nova versão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15651,26 +15659,34 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T113647Z" creationid="Sheila" creationdate="20170912T113528Z">
+        <seg>'{0}' do Git não fez nada porque não houve alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112938Z" creationid="Evandro" creationdate="20160312T112938Z">
-        <seg>Git '{0}' erro: {1}</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T113551Z" creationid="Evandro" creationdate="20160312T112938Z">
+        <seg>Erro de '{0}' do Git: {1}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Git '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112937Z" creationid="Evandro" creationdate="20160312T112937Z">
-        <seg>Finalizada a execução Git '{0}'</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T113638Z" creationid="Evandro" creationdate="20160312T112937Z">
+        <seg>Finalizada a execução de '{0}' do Git</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Git '{0}' execution start</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112935Z" creationid="Evandro" creationdate="20160312T112935Z">
-        <seg>Início da execução Git '{0}'</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T113631Z" creationid="Evandro" creationdate="20160312T112935Z">
+        <seg>Início da execução de '{0}' do Git</seg>
       </tuv>
     </tu>
     <tu>
@@ -19657,6 +19673,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T230313Z" creationid="Sheila" creationdate="20170903T230313Z">
         <seg>Também é possível abrir um projeto do OmegaT clicando duas vezes em um arquivo &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T145646Z" creationid="Sheila" creationdate="20170912T145646Z">
+        <seg>Ele precisa ser convertido em um novo projeto de equipe, mas isso não pode ser feito no modo console.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24097,8 +24121,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>On the other hand this functionality can be very useful in special cases, where you can increase your productivity by tuning the segmentation rules to the text to be translated.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T002400Z" creationid="karol" creationdate="20160309T002400Z">
-        <seg>Por outro lado, esta funcionalidade pode ser muito útil em casos especiais, em que você pode aumentar sua produtividade ao ajustar as regras de segmentação ao texto que será traduzido.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T145838Z" creationid="karol" creationdate="20160309T002400Z">
+        <seg>Por outro lado, este recurso pode ser muito útil em casos especiais, em que você pode aumentar sua produtividade ao ajustar as regras de segmentação ao texto que será traduzido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26983,8 +27007,8 @@ public, and in some countries other activities as well.</seg>
         <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
 6.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112930Z" creationid="Evandro" creationdate="20160312T112930Z">
-        <seg>Substituir &lt;project&gt;/omegat/project_save.tmx no novo projeto baixado com o arquivo salvo no local seguro
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T113441Z" creationid="Evandro" creationdate="20160312T112930Z">
+        <seg>Substituir &lt;project&gt;/omegat/project_save.tmx no novo projeto baixado com o arquivo salvo no local seguro.
 6.</seg>
       </tuv>
     </tu>
@@ -29904,8 +29928,8 @@ can do so.</seg>
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112927Z" creationid="Evandro" creationdate="20160312T112927Z">
-        <seg>Iniciar o OmegaT de novo, baixar o projeto da equipe e fechar o OmegaT
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T113429Z" creationid="Evandro" creationdate="20160312T112927Z">
+        <seg>Iniciar o OmegaT de novo, baixar o projeto da equipe e fechar o OmegaT.
 5.</seg>
       </tuv>
     </tu>
@@ -29913,8 +29937,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Start OmegaT and continue to translate</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112934Z" creationid="Evandro" creationdate="20160312T112934Z">
-        <seg>Iniciar o OmegaT e continuar a traduzir</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T113444Z" creationid="Evandro" creationdate="20160312T112934Z">
+        <seg>Iniciar o OmegaT e continuar a traduzir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31764,8 +31788,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170810T161031Z" creationid="karol" creationdate="20160308T172602Z">
-        <seg>A tradução colaborativa oferecida pelo OmegaT é baseada na funcionalidade de controle de versão ou revisão, bastante usada pela comunidade de software para manter o controle de alterações no código de um programa e permitir a colaboração desimpedida dentro da equipe de desenvolvimento.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T145811Z" creationid="karol" creationdate="20160308T172602Z">
+        <seg>A tradução colaborativa oferecida pelo OmegaT é baseada no recurso de controle de versão ou revisão, bastante usado pela comunidade de programação para manter o controle de alterações no código de um programa e permitir a colaboração desimpedida dentro da equipe de desenvolvimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33048,6 +33072,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T145712Z" creationid="Sheila" creationdate="20170912T145656Z">
+        <seg>O projeto será carregado como um projeto local sem recursos de equipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The purpose of the console (i.e. command line) mode is to permit the use &lt;a0&gt;of OmegaT&lt;/a0&gt; as translation tool in a scripting environment.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214412Z" creationid="karol" creationdate="20160308T214412Z">
@@ -33509,6 +33541,14 @@ Dúvida nesse "call-out" do segmento.</note>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111152Z" creationid="Evandro" creationdate="20160312T111152Z">
         <seg>A pasta de dicionários especificada não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T145634Z" creationid="Sheila" creationdate="20170912T145634Z">
+        <seg>O projeto especificado é um projeto de equipe no estilo da versão 3.6 do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37794,8 +37834,8 @@ searchable without subscription:</seg>
         <seg>WARNING: all unsaved data will be lost
 4.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112924Z" creationid="Evandro" creationdate="20160312T112924Z">
-        <seg>AVISO: todos os dados não salvos serão perdidos
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T113424Z" creationid="Evandro" creationdate="20160312T112924Z">
+        <seg>AVISO: todos os dados não salvos serão perdidos.
 4.</seg>
       </tuv>
     </tu>
