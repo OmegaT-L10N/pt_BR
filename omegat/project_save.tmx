@@ -37505,6 +37505,14 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T002355Z" creationid="CALDAS" creationdate="20170912T002355Z">
+        <seg>No que tange tarefas de rotina, é garantido aos voluntários que trabalham no projeto OmegaT o máximo de liberdade possível para determinar como contribuirão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While the translation is progressing, additional files (&lt;e2&gt;&lt;f3&gt;project_name&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, project_name-level1.tmx and project_name-level2.tmx&lt;/f4&gt;) are created (and updated during the process of translation) in this folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181226Z" creationid="karol" creationdate="20160308T181226Z">
