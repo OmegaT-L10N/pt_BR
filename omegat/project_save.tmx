@@ -9307,6 +9307,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Yutaka Kachi (in Japanese).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T113903Z" creationid="CALDAS" creationdate="20170912T113903Z">
+        <seg>Por Yutaka Kachi (em Japonês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By contrast,
 the GNU General Public License is intended to guarantee your freedom to
 share and change all versions of a program--to make sure it remains free
@@ -11903,6 +11911,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113754Z" creationid="Evandro" creationdate="20160312T113754Z">
         <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Description of OmegaT (2008).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T113908Z" creationid="CALDAS" creationdate="20170912T113908Z">
+        <seg>Descrição do OmegaT (2008).</seg>
       </tuv>
     </tu>
     <tu>
