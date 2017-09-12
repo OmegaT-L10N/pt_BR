@@ -23712,6 +23712,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T032734Z" creationid="CALDAS" creationdate="20170912T032734Z">
+        <seg>Depois que um usuário formulou uma proposta de alteração ou aprimoramento para o OmegaT, existe um procedimento definido para submeter o mesmo à consideração pela equipe de desenvolvedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once computed, the data also available in &lt;f6&gt;omegat/project_stats_match.txt.&lt;/f6&gt; Note that the file is time-stamped, as the calculation (contrary to the standard statistics) is not instantaneous and can thus quickly become obsolete.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005253Z" creationid="karol" creationdate="20160309T005253Z">
