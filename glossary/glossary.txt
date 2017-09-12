@@ -7,3 +7,5 @@ refresh	atualizar
 folder	pasta
 set	definir
 functionality	recurso
+content	conteúdo
+Website	Site
