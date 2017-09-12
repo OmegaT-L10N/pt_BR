@@ -511,6 +511,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102611Z" creationid="Sheila" creationdate="20170912T102611Z">
+        <seg>&amp;Aplicar a tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
@@ -8003,8 +8011,8 @@ organization, or merging organizations.</seg>
       <tuv lang="EN">
         <seg>An error occurred while opening the item.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114401Z" creationid="Evandro" creationdate="20160312T114401Z">
-        <seg>Ocorreu um erro ocorreu ao abrir o item.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102559Z" creationid="Evandro" creationdate="20160312T114401Z">
+        <seg>Ocorreu um erro ao abrir o item.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8109,6 +8117,14 @@ The TMX file will not be loaded.</seg>
         <seg>Ocorreu uma exceção durante a análise do arquivos TMX
 {0}
 O arquivo TMX não será carregado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102629Z" creationid="Sheila" creationdate="20170912T102629Z">
+        <seg>Uma tradução existente foi alterada para algo diferente do que você escolheu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19698,6 +19714,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep Mine</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102645Z" creationid="Sheila" creationdate="20170912T102645Z">
+        <seg>Manter a minha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep Other</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102651Z" creationid="Sheila" creationdate="20170912T102651Z">
+        <seg>Manter outra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep in mind that a pair group must have both its opening and its closing tag deleted to ensure that all traces of the formatting are properly erased, otherwise the translated file may become corrupted.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181845Z" creationid="karol" creationdate="20160308T181845Z">
@@ -20392,8 +20424,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113708Z" creationid="Evandro" creationdate="20160312T113708Z">
-        <seg>Visualização em Lista</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102709Z" creationid="Evandro" creationdate="20160312T113708Z">
+        <seg>Visualização em lista</seg>
       </tuv>
     </tu>
     <tu>
@@ -26844,6 +26876,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resolve Conflicts</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102623Z" creationid="Sheila" creationdate="20170912T102623Z">
+        <seg>Resolver conflitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110838Z" creationid="Evandro" creationdate="20160312T110838Z">
@@ -27503,8 +27543,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Scripts Folder:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112417Z" creationid="Evandro" creationdate="20160312T112417Z">
-        <seg>Pasta de Scripts:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102510Z" creationid="Evandro" creationdate="20160312T112417Z">
+        <seg>Pasta de scripts:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27974,6 +28014,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102659Z" creationid="Sheila" creationdate="20170912T102659Z">
+        <seg>Propriedades do segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment encountered outside translation unit variant.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T190407Z" creationid="Evandro" creationdate="20160311T190407Z">
@@ -28268,10 +28316,26 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102524Z" creationid="Sheila" creationdate="20170912T102524Z">
+        <seg>Selecionar a pastas de scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113811Z" creationid="Evandro" creationdate="20160312T113811Z">
         <seg>Selecionar domínio de TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102543Z" creationid="Sheila" creationdate="20170912T102543Z">
+        <seg>Selecionar um arquivo de script</seg>
       </tuv>
     </tu>
     <tu>
@@ -29922,6 +29986,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113309Z" creationid="Evandro" creationdate="20160312T113309Z">
         <seg>Tab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table View</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102706Z" creationid="Sheila" creationdate="20170912T102706Z">
+        <seg>Visualização em tabela</seg>
       </tuv>
     </tu>
     <tu>
@@ -37797,6 +37869,14 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T101807Z" creationid="CALDAS" creationdate="20170912T100547Z">
         <seg>A aprovação ou não de tal solicitação depende, em primeiro lugar, da equipe de desenvolvedores considera-la benéfica para o OmegaT, e, em segundo lugar, se um dos desenvolvedores está disposto a trabalho na implementação do mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Which version do you want to keep?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102634Z" creationid="Sheila" creationdate="20170912T102634Z">
+        <seg>Qual versão você quer manter?</seg>
       </tuv>
     </tu>
     <tu>
