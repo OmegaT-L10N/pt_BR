@@ -39363,6 +39363,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T220420Z" creationid="mroch" creationdate="20170912T220420Z">
+        <seg>Você pode retornar à &lt;a0&gt;home page&lt;/a0&gt; e esperamos que consiga encontrar a informação que procura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182009Z" creationid="karol" creationdate="20160308T182009Z">
