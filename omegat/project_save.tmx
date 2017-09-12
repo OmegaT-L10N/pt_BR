@@ -33887,6 +33887,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T020312Z" creationid="CALDAS" creationdate="20170912T020312Z">
+        <seg>Isto garante que os interesses dos usuários sejam protegidos, e também resultou na obtenção do prêmio &lt;a0&gt;Garantia Softpedia "100% LIVRE" para o OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001621Z" creationid="karol" creationdate="20160309T001621Z">
