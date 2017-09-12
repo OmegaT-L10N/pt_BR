@@ -11,3 +11,4 @@ content	conteúdo
 Website	Site
 design	design
 OmegaT	OmegaT
+home page	página inicial
