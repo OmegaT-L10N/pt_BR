@@ -10,3 +10,4 @@ functionality	recurso
 content	conteúdo
 Website	Site
 design	design
+OmegaT	OmegaT
