@@ -257,6 +257,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>#download-wizard</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170911T222910Z" creationid="Sheila" creationdate="20170911T222910Z">
+        <seg>#download-wizard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T013656Z" creationid="Sheila" creationdate="20170905T013656Z">
@@ -7043,6 +7051,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170911T222943Z" creationid="Sheila" creationdate="20170911T222943Z">
+        <seg>Chave de API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182337Z" creationid="karol" creationdate="20160308T182337Z">
@@ -13075,6 +13091,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170911T222936Z" creationid="Sheila" creationdate="20170911T222936Z">
+        <seg>E-mail:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
@@ -13500,6 +13524,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113900Z" creationid="Evandro" creationdate="20160312T113900Z">
         <seg>Erro ao atualizar o arquivo de glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170911T222931Z" creationid="Sheila" creationdate="20170911T222931Z">
+        <seg>Erro ao ler os resultados da TA</seg>
       </tuv>
     </tu>
     <tu>
@@ -24980,6 +25012,14 @@ para determinar a origem do erro e tente novamente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Premium Edition</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170911T222952Z" creationid="Sheila" creationdate="20170911T222952Z">
+        <seg>Edição Premium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Prerequisites</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182342Z" creationid="karol" creationdate="20160308T182342Z">
@@ -28765,6 +28805,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170911T222849Z" creationid="Sheila" creationdate="20170911T222849Z">
+        <seg>Sorry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort by source term &amp;alphabetically</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T210528Z" creationid="Sheila" creationdate="20170904T210528Z">
@@ -29412,6 +29460,14 @@ makes it unnecessary.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201345Z" creationid="karol" creationdate="20160308T201345Z">
         <seg>Não é permitido sublicenciar; a seção 10 torna isso desnecessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subscription Key:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170911T223005Z" creationid="Sheila" creationdate="20170911T223005Z">
+        <seg>Chave de assinatura:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37041,6 +37097,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121332Z" creationid="Sheila" creationdate="20170909T121332Z">
         <seg>Legendas WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170911T222854Z" creationid="Sheila" creationdate="20170911T222854Z">
+        <seg>Website content authors</seg>
       </tuv>
     </tu>
     <tu>
