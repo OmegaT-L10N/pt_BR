@@ -929,6 +929,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Language Checker</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102205Z" creationid="Sheila" creationdate="20170912T102205Z">
+        <seg>&amp;Verificador de idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
@@ -7977,6 +7985,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when loading the script: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102500Z" creationid="Sheila" creationdate="20170912T102500Z">
+        <seg>Ocorreu um erro ao carregar o script: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111156Z" creationid="Evandro" creationdate="20160312T111156Z">
@@ -9357,6 +9373,22 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T211056Z" creationid="Sheila" creationdate="20170903T211056Z">
         <seg>Camtasia for Windows (*.camproj)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102301Z" creationid="Sheila" creationdate="20170912T102301Z">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102314Z" creationid="Sheila" creationdate="20170912T102314Z">
+        <seg>Cancelar só funciona em scripts que verificam explicitamente o cancelamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21824,8 +21856,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Multiple Translations</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112229Z" creationid="Evandro" creationdate="20160312T112229Z">
-        <seg>Traduções Múltiplas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102211Z" creationid="Evandro" creationdate="20160312T112229Z">
+        <seg>Traduções múltiplas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22937,6 +22969,14 @@ otherwise be available to you under applicable patent law.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T222835Z" creationid="Sheila" creationdate="20170905T222818Z">
         <seg>Avisar quando um segmento tiver termos do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102248Z" creationid="Sheila" creationdate="20170912T102248Z">
+        <seg>Avisar quando um segmento tiver várias traduções</seg>
       </tuv>
     </tu>
     <tu>
@@ -26578,8 +26618,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace Translation with Text</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112315Z" creationid="Evandro" creationdate="20160312T112315Z">
-        <seg>Substituir Tradução com Texto</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102229Z" creationid="Evandro" creationdate="20160312T112315Z">
+        <seg>Substituir a tradução pelo texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -40082,6 +40122,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102411Z" creationid="Sheila" creationdate="20170912T102411Z">
+        <seg>cancelado ({0} ms decorridos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cat</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001001Z" creationid="Evandro" creationdate="20160310T001001Z">
@@ -40502,6 +40550,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T210909Z" creationid="Sheila" creationdate="20170903T210909Z">
         <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>done ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102332Z" creationid="Sheila" creationdate="20170912T102332Z">
+        <seg>pronto ({0} ms decorridos)</seg>
       </tuv>
     </tu>
     <tu>
