@@ -12,3 +12,4 @@ Website	Site
 design	design
 OmegaT	OmegaT
 home page	página inicial
+mailing lists	listas de discussão
