@@ -38162,6 +38162,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T235035Z" creationid="mroch" creationdate="20170912T235035Z">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vincent Bidaux (documentation manager)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005849Z" creationid="karol" creationdate="20160309T005849Z">
