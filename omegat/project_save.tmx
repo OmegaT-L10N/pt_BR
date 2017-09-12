@@ -8432,6 +8432,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T022300Z" creationid="CALDAS" creationdate="20170912T022300Z">
+        <seg>Como em todas as partes do projeto OmegaT, o trabalho de programação também é feito por voluntários, e, em consonância com a filosofia do projeto, os desenvolvimentos e melhorias feitos pelos voluntários estão, em última análise, à critério deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182039Z" creationid="karol" creationdate="20160308T182039Z">
@@ -11794,6 +11802,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T193957Z" creationid="karol" creationdate="20160308T193957Z">
         <seg>Os desenvolvedores que usam o GNU GPL protegem os seus direitos com dois passos: (1) declarando os direitos autorais do software, e (2) oferecendo a você esta Licença que dá permissão legal de copiá-lo, distribui-lo e/ou modificá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Development of OmegaT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T020327Z" creationid="CALDAS" creationdate="20170912T020327Z">
+        <seg>Desenvolvimento do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
