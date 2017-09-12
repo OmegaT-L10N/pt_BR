@@ -10671,6 +10671,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains a comprehensive description of OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114603Z" creationid="CALDAS" creationdate="20170912T114603Z">
+        <seg>Contém uma descrição abrangente do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains options for displaying texts and modification information in different ways.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T095214Z" creationid="karol" creationdate="20160308T213514Z">
@@ -21592,6 +21600,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mini-review of OmegaT, 2012.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114619Z" creationid="CALDAS" creationdate="20170912T114619Z">
+        <seg>Breve avaliação do OmegaT, 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110835Z" creationid="Evandro" creationdate="20160312T110835Z">
@@ -23678,6 +23694,22 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004103Z" creationid="karol" creationdate="20160309T004103Z">
         <seg>A correspondência do OmegaT, incluindo números, tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT on Wikipedia</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114623Z" creationid="CALDAS" creationdate="20170912T114623Z">
+        <seg>OmegaT na Wikipédia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT on Wikipedia &lt;s0&gt;25 languages&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114657Z" creationid="CALDAS" creationdate="20170912T114657Z">
+        <seg>OmegaT na Wikipédia &lt;s0&gt;25 idiomas&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29729,6 +29761,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010543Z" creationid="karol" creationdate="20160309T010543Z">
         <seg>Erro(s) ortográfico(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sponsorship</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114844Z" creationid="CALDAS" creationdate="20170912T114844Z">
+        <seg>Patrocinadores</seg>
       </tuv>
     </tu>
     <tu>
