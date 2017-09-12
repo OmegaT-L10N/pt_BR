@@ -9296,6 +9296,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T232520Z" creationid="mroch" creationdate="20170912T232520Z">
+        <seg>Erros, solicitações de novas funcionalidades e documentação de problemas são tratados pelo Sourceforge através dos sistemas de rastreamento abaixo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Building &lt;a0&gt;OmegaT&lt;/a0&gt; From Source</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182437Z" creationid="karol" creationdate="20160308T182437Z">
@@ -35270,6 +35278,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T231936Z" creationid="mroch" creationdate="20170912T231936Z">
+        <seg>Esta lista de discussão é voltada ao traodutores que trabalham na localização do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170402Z" creationid="karol" creationdate="20160308T170402Z">
@@ -36350,6 +36366,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T182526Z" creationid="Evandro" creationdate="20160311T182526Z">
         <seg>Total de palavras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T231945Z" creationid="mroch" creationdate="20170912T231945Z">
+        <seg>Sistema de rastreamento</seg>
       </tuv>
     </tu>
     <tu>
