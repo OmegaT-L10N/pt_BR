@@ -1,2 +1,3 @@
 open-source	código aberto
 source code	código-fonte
+hands-off approach	abordagem sem interferência
