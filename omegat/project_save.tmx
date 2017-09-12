@@ -14786,6 +14786,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T001603Z" creationid="CALDAS" creationdate="20170912T001603Z">
+        <seg>Por exemplo, não há nada que impeça um usuário de escrever seu próprio manual de usuário ou um vídeo apresentando o OmegaT, e caso o projeto considere tal iniciativa útil, é provável que seja disponibilizado para a Comunidade de usuários do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, this is the backslash character</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001717Z" creationid="karol" creationdate="20160309T001717Z">
@@ -15991,8 +15999,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T000909Z" creationid="CALDAS" creationdate="20170912T000909Z">
-        <seg>Como decidem faze-lo vai de acordo com s.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T001113Z" creationid="CALDAS" creationdate="20170912T000909Z">
+        <seg>Como decidem fazê-lo vai de acordo com o julgamento de cada um.</seg>
       </tuv>
     </tu>
     <tu>
