@@ -6,3 +6,4 @@ elapsed	decorrido
 refresh	atualizar
 folder	pasta
 set	definir
+functionality	recurso
