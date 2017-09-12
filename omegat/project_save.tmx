@@ -22385,6 +22385,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T212042Z" creationid="Sheila" creationdate="20170912T212042Z">
+        <seg>Nova pasta de projeto local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181955Z" creationid="karol" creationdate="20160308T181955Z">
@@ -25991,6 +25999,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111034Z" creationid="Evandro" creationdate="20160312T111034Z">
         <seg>Início da criação do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project file should be on http protocol.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T212135Z" creationid="Sheila" creationdate="20170912T212135Z">
+        <seg>O arquivo do projeto deve estar em protocolo http.</seg>
       </tuv>
     </tu>
     <tu>
