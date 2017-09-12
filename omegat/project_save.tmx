@@ -33910,6 +33910,15 @@ permission to run the unmodified Program.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>https://www.howtogeek.com/howto/31717/what-do-the-phrases-free-speech-vs.-free-beer-really-mean/</note>
+      <tuv lang="EN">
+        <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T000155Z" creationid="CALDAS" creationdate="20170912T000155Z">
+        <seg>Isto é descrito como "free as in speech", em contraste com o "free as in beer".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This is effective upon &lt;e1&gt;Edit &gt; Replace with Source&lt;/e1&gt;, &lt;e2&gt;Edit &gt; Insert Source&lt;/e2&gt;, and when entering a segment when &lt;e3&gt;Options &gt; Editing Behavior &gt; [Insert] The source text&lt;/e3&gt; is enabled.</seg>
       </tuv>
