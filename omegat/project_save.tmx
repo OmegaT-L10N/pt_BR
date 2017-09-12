@@ -1774,6 +1774,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T204021Z" creationid="Sheila" creationdate="20170912T204021Z">
+        <seg>(Você ainda poderá usar o OmegaT
+3.6 para editar este projeto como um projeto de equipe.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T013755Z" creationid="Sheila" creationdate="20170905T013755Z">
@@ -25325,6 +25335,16 @@ para determinar a origem do erro e tente novamente.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T204722Z" creationid="Sheila" creationdate="20170912T204722Z">
+        <seg>Entre em contato com o administrador do projeto para descobrir se
+é necessário tomar alguma medida adicional.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
@@ -33102,6 +33122,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182029Z" creationid="karol" creationdate="20160308T182029Z">
         <seg>A configuração do projeto permite a entrada de um nome para um arquivo de glossário editável (ver o início deste capítulo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project was converted successfully.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T204036Z" creationid="Sheila" creationdate="20170912T204036Z">
+        <seg>O projeto foi convertido.</seg>
       </tuv>
     </tu>
     <tu>
