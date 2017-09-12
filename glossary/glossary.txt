@@ -9,3 +9,4 @@ set	definir
 functionality	recurso
 content	conteúdo
 Website	Site
+design	design
