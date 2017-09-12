@@ -8075,6 +8075,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T212157Z" creationid="Sheila" creationdate="20170912T212157Z">
+        <seg>Ocorreu um erro ao tentar detectar o arquivo do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111156Z" creationid="Evandro" creationdate="20160312T111156Z">
@@ -35014,6 +35022,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113129Z" creationid="Evandro" creationdate="20160312T113129Z">
         <seg>Este é um repositório Subversion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a valid project file.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T212216Z" creationid="Sheila" creationdate="20170912T212216Z">
+        <seg>Este é um arquivo de projeto válido.</seg>
       </tuv>
     </tu>
     <tu>
