@@ -35246,6 +35246,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T230155Z" creationid="mroch" creationdate="20170912T230155Z">
+        <seg>Esta lista tem como objetivo discutir tecnicamente funcionalidades e o desenvolvimento, é destinada a desenvolvedores do OmegaT e outras partes interessadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170402Z" creationid="karol" creationdate="20160308T170402Z">
