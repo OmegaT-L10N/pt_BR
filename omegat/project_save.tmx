@@ -9293,24 +9293,56 @@ been installed in ROM).</seg>
       <tuv lang="EN">
         <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T113442Z" creationid="CALDAS" creationdate="20170912T113442Z">
-        <seg>Por Arno Peters e Mariëtte van Drunen (em Holandês).</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114044Z" creationid="CALDAS" creationdate="20170912T113442Z">
+        <seg>Por Arno Peters e Mariëtte van Drunen (em holandês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Asier Sarasua Garmendia (in Basque).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114020Z" creationid="CALDAS" creationdate="20170912T113931Z">
+        <seg>Por Asier Sarasua Garmendia (em basco).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Corinne McKay (in English).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114012Z" creationid="CALDAS" creationdate="20170912T114012Z">
+        <seg>Por Corinne McKay (em inglês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Leo Viëtor (in Dutch).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114109Z" creationid="CALDAS" creationdate="20170912T114109Z">
+        <seg>Por Leo Viëtor (em holandês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Takashi Miyamoto (in Japanese).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114016Z" creationid="CALDAS" creationdate="20170912T113954Z">
+        <seg>Por Takashi Miyamoto (em japonês).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>By Václav Hejda (in Czech).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T113600Z" creationid="CALDAS" creationdate="20170912T113600Z">
-        <seg>Por Václav Hejda (em Tcheco).</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114027Z" creationid="CALDAS" creationdate="20170912T113600Z">
+        <seg>Por Václav Hejda (em tcheco).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>By Yutaka Kachi (in Japanese).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T113903Z" creationid="CALDAS" creationdate="20170912T113903Z">
-        <seg>Por Yutaka Kachi (em Japonês).</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114024Z" creationid="CALDAS" creationdate="20170912T113903Z">
+        <seg>Por Yutaka Kachi (em japonês).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18056,6 +18088,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003229Z" creationid="karol" creationdate="20160309T003229Z">
         <seg>No OmegaT, selecione&lt;g0&gt;&lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;Opções &gt; Verificador ortográfico&lt;/g2&gt;, então clique &lt;g3&gt;Escolher &lt;/g3&gt;ao lado do campo Pasta de arquivo de dicionários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In PCW.GR (in Greek).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114217Z" creationid="CALDAS" creationdate="20170912T114217Z">
+        <seg>No site PCW.GR (em grego).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27118,10 +27158,42 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Review of OmegaT 1.6.1_1.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T113949Z" creationid="CALDAS" creationdate="20170912T113949Z">
+        <seg>Avaliação do OmegaT 1.6.1_1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Review of OmegaT 2.3.0.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T113502Z" creationid="CALDAS" creationdate="20170912T113502Z">
         <seg>Avaliação do OmegaT 2.3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 11 April 2008.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114001Z" creationid="CALDAS" creationdate="20170912T114001Z">
+        <seg>Revisão do OmegaT, 11 de abril de 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 2009.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114114Z" creationid="CALDAS" creationdate="20170912T114114Z">
+        <seg>Avaliação do OmegaT, 2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 2010.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114102Z" creationid="CALDAS" creationdate="20170912T114102Z">
+        <seg>Avaliação do OmegaT, 2010.</seg>
       </tuv>
     </tu>
     <tu>
