@@ -21152,6 +21152,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T225128Z" creationid="mroch" creationdate="20170912T225128Z">
+        <seg>Listas de discussão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201703Z" creationid="karol" creationdate="20160308T201703Z">
