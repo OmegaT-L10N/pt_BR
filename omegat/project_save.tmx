@@ -14450,6 +14450,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T233343Z" creationid="mroch" creationdate="20170912T233343Z">
+        <seg>Sistema de rastreamento de solicitações de funcionalidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Few more things to remember</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182510Z" creationid="karol" creationdate="20160308T182510Z">
@@ -19408,6 +19416,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113732Z" creationid="Evandro" creationdate="20160312T113732Z">
         <seg>É a tradução padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T232649Z" creationid="mroch" creationdate="20170912T232649Z">
+        <seg>Sistema de rastreamento de Problemas/Erros</seg>
       </tuv>
     </tu>
     <tu>
@@ -25472,6 +25488,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T180225Z" creationid="Evandro" creationdate="20160311T180225Z">
         <seg>Por favor corrija os problemas com as tags antes de selecionar Criar Documentos Traduzidos..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T232600Z" creationid="mroch" creationdate="20170912T232600Z">
+        <seg>Por favor, não use os sistemas de rastreamento antes de discutir o problema no grupo de usuários e/ou nas listas de discussão.</seg>
       </tuv>
     </tu>
     <tu>
