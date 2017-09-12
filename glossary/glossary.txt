@@ -3,3 +3,6 @@ source code	código-fonte
 hands-off approach	abordagem sem interferência
 feature	recurso
 elapsed	decorrido
+refresh	atualizar
+folder	pasta
+set	definir
