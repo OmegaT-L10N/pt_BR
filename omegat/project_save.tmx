@@ -32360,6 +32360,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T034417Z" creationid="CALDAS" creationdate="20170912T034417Z">
+        <seg>O procedimento é denominado como &lt;a0&gt;"RFE" (Request for Feature Enhancement — solicitação de melhoria de recurso) e é gerido aqui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172631Z" creationid="karol" creationdate="20160308T172631Z">
@@ -33955,6 +33963,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170515T200637Z" creationid="karol" creationdate="20160308T170042Z">
         <seg>Esta documentação foi criada para ser tanto um tutorial como um guia de referência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This enables the numerous suggestions to be managed more easily.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T032756Z" creationid="CALDAS" creationdate="20170912T032756Z">
+        <seg>Isto permite que as inúmeras sugestões sejam gerenciadas mais facilmente.</seg>
       </tuv>
     </tu>
     <tu>
