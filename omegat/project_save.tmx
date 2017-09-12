@@ -29413,6 +29413,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T223632Z" creationid="mroch" creationdate="20170912T223632Z">
+        <seg>Desde o início do projeto, ele recebeu o apoio de dezenas de outros colaboradores, muito numerosos para mencionarmos aqui, mas agradecemos muito a ajuda deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sindhi</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171318Z" creationid="karol" creationdate="20160308T171318Z">
@@ -33103,8 +33111,8 @@ content, constitutes a covered work.</seg>
       <tuv lang="EN">
         <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222630Z" creationid="mroch" creationdate="20170912T222630Z">
-        <seg>A filosofia do projeto é descrita &lt;a0&gt;aqui&lt;/a0&gt;.</seg>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T223359Z" creationid="mroch" creationdate="20170912T222630Z">
+        <seg>A filosofia do projeto está descrita &lt;a0&gt;aqui&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
