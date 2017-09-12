@@ -16178,6 +16178,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T034629Z" creationid="CALDAS" creationdate="20170912T034629Z">
+        <seg>No entanto, a submissão de um RFE não significa que o recurso ou melhoria desejada será automaticamente implementada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182239Z" creationid="karol" creationdate="20160308T182239Z">
@@ -20346,6 +20354,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113708Z" creationid="Evandro" creationdate="20160312T113708Z">
         <seg>Visualização em Lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T034508Z" creationid="CALDAS" creationdate="20170912T034508Z">
+        <seg>Literalmente centenas de RFE já foram feitos e muitos já foram implementados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37717,6 +37733,14 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T002355Z" creationid="CALDAS" creationdate="20170912T002355Z">
         <seg>No que tange tarefas de rotina, é garantido aos voluntários que trabalham no projeto OmegaT o máximo de liberdade possível para determinar como contribuirão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T100547Z" creationid="CALDAS" creationdate="20170912T100547Z">
+        <seg>Se ele é ou não adotado depende, em primeiro lugar, sobre se a equipe de desenvolvimento considera benéfico para OmegaT, e em segundo lugar, após se um dos desenvolvedores está disposto a fazer o trabalho de implementação.</seg>
       </tuv>
     </tu>
     <tu>
