@@ -2773,8 +2773,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T103635Z" creationid="CALDAS" creationdate="20170912T103635Z">
-        <seg>&lt;a0&gt;Patrocínio do desenvolvimento já resultou na adição de determinados recursos.&lt;/a0&gt; Se você está disposto a financiar o trabalho de implementar sua característica desejada, entre em contato com a equipe de desenvolvimento em particular para uma cotação.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T103957Z" creationid="CALDAS" creationdate="20170912T103635Z">
+        <seg>&lt;a0&gt;O patrocínio do desenvolvimento já resultou na adição de determinados recursos.&lt;/a0&gt; Caso você esteja disposto a financiar o trabalho de implementação de um recurso de seu interesse, entre em contato com a equipe de desenvolvedores, em particular, para uma cotação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8564,6 +8564,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T173134Z" creationid="karol" creationdate="20160308T173134Z">
         <seg>Como esse é o comportamento padrão de arquivos PO, já vem marcado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T105136Z" creationid="CALDAS" creationdate="20170912T105136Z">
+        <seg>No entanto, assim como acontece com os desenvolvimentos gratuitos, ainda se aplica o princípio de que quaisquer alterações para o OmegaT devam ser benéficas para o aplicativo e seus usuários.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19433,6 +19441,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105906Z" creationid="Evandro" creationdate="20160312T105857Z">
         <seg>Ele é usado para marcar as suas traduções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T104358Z" creationid="CALDAS" creationdate="20170912T104358Z">
+        <seg>Também pode ser possível que desenvolvimentos encomendados de desenvolvedores externos sejam implementados no OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
