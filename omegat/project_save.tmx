@@ -23755,8 +23755,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T224051Z" creationid="mroch" creationdate="20170912T224051Z">
-        <seg>O OmegaT possui um grupo de usuários ativo, solidário e multilíngue, que pode ser acessado &lt;a0&gt;Neste link&lt;/a0&gt;, e encorajamos fortemente que participem do grupo.</seg>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T224202Z" creationid="mroch" creationdate="20170912T224051Z">
+        <seg>O OmegaT possui um grupo de usuários ativo, solidário e multilíngue, que pode ser acessado &lt;a0&gt;Neste link&lt;/a0&gt;, e encorajamos fortemente que participem dele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34058,6 +34058,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170523T195543Z" creationid="karol" creationdate="20160309T004035Z">
         <seg>A parte superior é o idioma de origem, em negrito, em negrito e com uma cor de fundo verde, a parte inferior é o campo de edição, terminado por um marcador: &lt;i0/&gt;o marcador é &lt;l1&gt;&lt;segmento nnnn&gt;&lt;/l1&gt; onde nnnn é um número do segmento no projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user group also serves as the main point of contact between users and the project team.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T224728Z" creationid="mroch" creationdate="20170912T224146Z">
+        <seg>O grupo também serve como principal ponto de encontro entre os usuários e o time do projeto.</seg>
       </tuv>
     </tu>
     <tu>
