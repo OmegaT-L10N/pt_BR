@@ -7831,6 +7831,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow to save password locally as plain text</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T113420Z" creationid="Sheila" creationdate="20170912T113420Z">
+        <seg>Permitem salvar senha localmente como texto sem formatação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110716Z" creationid="Evandro" creationdate="20160312T110716Z">
@@ -23260,6 +23268,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104419Z" creationid="Sheila" creationdate="20170912T104409Z">
+        <seg>Javadoc do OmegaT...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
@@ -25067,6 +25083,14 @@ para determinar a origem do erro e tente novamente.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010531Z" creationid="karol" creationdate="20160309T010531Z">
         <seg>Baixe e instale a última versão do Java em www.java.com e tente outra vez.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104406Z" creationid="Sheila" creationdate="20170912T104355Z">
+        <seg>Digite o nome desta lista:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27413,8 +27437,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Save Current Set...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104304Z" creationid="Sheila" creationdate="20170912T104304Z">
-        <seg>Salvar conjunto atual...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104402Z" creationid="Sheila" creationdate="20170912T104304Z">
+        <seg>Salvar lista atual...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28624,8 +28648,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Sets</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104244Z" creationid="Sheila" creationdate="20170912T104244Z">
-        <seg>Conjuntos</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104359Z" creationid="Sheila" creationdate="20170912T104244Z">
+        <seg>Listas</seg>
       </tuv>
     </tu>
     <tu>
