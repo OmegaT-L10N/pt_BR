@@ -24770,6 +24770,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222229Z" creationid="mroch" creationdate="20170912T222229Z">
+        <seg>Criador original do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Oriya</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171309Z" creationid="karol" creationdate="20160308T171309Z">
@@ -33106,6 +33114,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T212601Z" creationid="karol" creationdate="20160308T212601Z">
         <seg>O segmento anterior com uma nota anexada será aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The principal members of the project are:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222058Z" creationid="mroch" creationdate="20170912T222058Z">
+        <seg>Os principais membros do projeto são:</seg>
       </tuv>
     </tu>
     <tu>
