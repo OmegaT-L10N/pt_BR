@@ -10519,6 +10519,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convenient alternative functions or solutions may also exist.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T030834Z" creationid="CALDAS" creationdate="20170912T030834Z">
+        <seg>Funções alternativas convenientes ou soluções também podem existir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conveying Modified Source Versions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201400Z" creationid="karol" creationdate="20160308T201400Z">
@@ -21934,6 +21942,14 @@ your receipt of the notice.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T030553Z" creationid="CALDAS" creationdate="20170912T030553Z">
+        <seg>Novos usuários do OmegaT são encorajados a fazer quaisquer sugestões aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>New...</seg>
@@ -23788,6 +23804,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182056Z" creationid="karol" creationdate="20160308T182056Z">
         <seg>Um ou mais dos problemas acima podem ter sido corrigidos, mas o projeto não foi recarregado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T030718Z" creationid="CALDAS" creationdate="20170912T030718Z">
+        <seg>Uma razão para isso é que a função desejada pode já ter sido implementada, ou pode haver razões do por que não poder ter sido implementada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34182,6 +34206,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172842Z" creationid="karol" creationdate="20160308T172842Z">
         <seg>Esta é a opção padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the main focus of the OmegaT user community.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T030531Z" creationid="CALDAS" creationdate="20170912T030531Z">
+        <seg>Este é o foco principal da comunidade de usuários do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
