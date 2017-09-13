@@ -8471,6 +8471,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apertium Plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T135145Z" creationid="CALDAS" creationdate="20170913T135145Z">
+        <seg>Plugin da Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apertium uses a shallow-transfer machine translation engine which processes the input text in stages, as in an assembly line: de-formatting, morphological analysis, part-of-speech disambiguation, shallow structural transfer, lexical transfer, morphological generation, and re-formatting.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201643Z" creationid="karol" creationdate="20160308T201643Z">
@@ -19344,6 +19352,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115247Z" creationid="CALDAS" creationdate="20170912T115247Z">
         <seg>Institut Laue-Langevin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T163516Z" creationid="CALDAS" creationdate="20170913T163516Z">
+        <seg>Integra o recurso de tradução automática da Apertium ao OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
