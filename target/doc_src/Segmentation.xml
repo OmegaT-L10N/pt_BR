@@ -9,7 +9,7 @@
           <primary>Projeto</primary> <secondary>Opções</secondary>
         </indexterm>Opções</guimenu> → <guimenuitem>Segmentação...</guimenuitem></menuchoice> no menu principal.</para>
 
-  <para>Regras de segmentação dependentes já estão disponíveis para muitos idiomas, então é provável que você não irá precisar se envolver criando suas próprias regras de segmentação. Por outro lado, esta funcionalidade pode ser muito útil em casos especiais, em que você pode aumentar sua produtividade ao ajustar as regras de segmentação ao texto que será traduzido.</para>
+  <para>Regras de segmentação dependentes já estão disponíveis para muitos idiomas, então é provável que você não irá precisar se envolver criando suas próprias regras de segmentação. Por outro lado, este recurso pode ser muito útil em casos especiais, em que você pode aumentar sua produtividade ao ajustar as regras de segmentação ao texto que será traduzido.</para>
 
   <para><emphasis role="bold">Atenção: </emphasis>uma vez que o texto vai se segmentar diferentemente após mudanças terem sido feitas nas opções de filtro, você talvez tenha que recomeçar a traduzir do princípio. Ao mesmo tempo, segmentos válidos anteriores na memória de tradução do projeto se tornarão segmentos orfãos. Se você alterar opções de segmentação quando um projeto estiver aberto, você deverá recarregar o projeto para aplicar as alterações.</para>
 

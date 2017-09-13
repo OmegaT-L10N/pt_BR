@@ -27,7 +27,7 @@
 
       <itemizedlist>
         <listitem>
-          <para>Rodar o <application>OmegaT</application> normalmente (com a interface gráfica de usuário) e definir as configurações. Se iniciar o <application>OmegaT</application> no modo console, serão usadas as mesmas definições que você configurou.</para>
+          <para>Executar o <application>OmegaT</application> normalmente (com a interface gráfica de usuário) e definir as configurações. Se iniciar o <application>OmegaT</application> no modo console, serão usadas as mesmas definições que você configurou.</para>
         </listitem>
 
         <listitem>

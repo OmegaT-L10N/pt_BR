@@ -39,7 +39,7 @@
           <primary>Executando o OmegaT no</primary> <secondary>Windows</secondary>
         </indexterm></application></title>
 
-      <para>Após instalar o<application>OmegaT</application> , clique em<emphasis><application>OmegaT</application>.jar</emphasis> para rodar o programa ou o inicie diretamente da linha de comando.</para>
+      <para>Após instalar o<application>OmegaT</application> , clique em<emphasis><application>OmegaT</application>.jar</emphasis> para executar o programa ou o inicie diretamente da linha de comando.</para>
 
       <para>Entretanto, a maneira mais simples para iniciar o OmegaT é executar o<emphasis> <application>OmegaT</application>.exe</emphasis>. <indexterm class="singular">
           <primary>Executando o OmegaT no</primary> <secondary>Windows</secondary> <tertiary>arquivo INI</tertiary>
@@ -147,7 +147,7 @@
           </listitem>
 
           <listitem>
-            <para>No campo &quot;Comando&quot;, use o botão de navegação para encontrar o script para rodar o <application>OmegaT</application> (o arquivo chamado <application>OmegaT</application> na pasta descompactada), e o selecione.</para>
+            <para>No campo &quot;Comando&quot;, use o botão de navegação para encontrar o script para executar o <application>OmegaT</application> (o arquivo chamado <application>OmegaT</application> na pasta descompactada), e o selecione.</para>
           </listitem>
 
           <listitem>
@@ -288,7 +288,7 @@
           <primary>Instalar o OmegaT</primary> <secondary>Outros sistemas</secondary>
         </indexterm></title>
 
-      <para>Para instalar o <application>OmegaT</application>, basta descompactar o arquivo <emphasis role="bold">OmegaT_3.n.n_Without_JRE.zip</emphasis> file. Isso criará um diretório <emphasis>./OmegaT_3.n.n_Without_JRE/</emphasis> na pasta de trabalho com todos os arquivos necessários para rodar o<application>OmegaT</application>.</para>
+      <para>Para instalar o <application>OmegaT</application>, basta descompactar o arquivo <emphasis role="bold">OmegaT_3.n.n_Without_JRE.zip</emphasis> file. Isso criará um diretório <emphasis>./OmegaT_3.n.n_Without_JRE/</emphasis> na pasta de trabalho com todos os arquivos necessários para executar o<application>OmegaT</application>.</para>
     </section>
 
     <section id="installing.convenient.shortcuts">

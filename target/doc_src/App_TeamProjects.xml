@@ -8,7 +8,7 @@
   <section>
     <title>Controle de versão - introdução</title>
 
-    <para>A tradução colaborativa oferecida pelo OmegaT é baseada na funcionalidade de controle de versão ou revisão, bastante usada pela comunidade de software para manter o controle de alterações no código de um programa e permitir a colaboração desimpedida dentro da equipe de desenvolvimento. O OmegaT suporta os dois sistemas populares de controle de versão (abreviado como VCS, version control system), o <ulink url="http://subversion.apache.org">Apache Subversion</ulink> (muitas vezes abreviado como SVN, relacionado ao comando svn) e o <ulink url="http://git-scm.com/">Git</ulink>. As vantagens de um sistema VC para uma equipe de tradutores podem ser resumidas da seguinte maneira:</para>
+    <para>A tradução colaborativa oferecida pelo OmegaT é baseada no recurso de controle de versão ou revisão, bastante usado pela comunidade de programação para manter o controle de alterações no código de um programa e permitir a colaboração desimpedida dentro da equipe de desenvolvimento. O OmegaT suporta os dois sistemas populares de controle de versão (abreviado como VCS, version control system), o <ulink url="http://subversion.apache.org">Apache Subversion</ulink> (muitas vezes abreviado como SVN, relacionado ao comando svn) e o <ulink url="http://git-scm.com/">Git</ulink>. As vantagens de um sistema VC para uma equipe de tradutores podem ser resumidas da seguinte maneira:</para>
 
     <itemizedlist>
       <listitem>
