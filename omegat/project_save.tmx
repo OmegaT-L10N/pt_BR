@@ -1558,8 +1558,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;TaaS Terminology Lookup</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113750Z" creationid="Evandro" creationdate="20160312T113750Z">
-        <seg>Consulta de Terminologia &amp;TaaS...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T222259Z" creationid="Evandro" creationdate="20160312T113750Z">
+        <seg>Consulta de terminologia &amp;TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -11346,6 +11346,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T222348Z" creationid="Sheila" creationdate="20170913T222348Z">
+        <seg>Crie sua própria chave e digite-a abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T190132Z" creationid="Evandro" creationdate="20160311T190132Z">
@@ -15882,6 +15890,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171222Z" creationid="karol" creationdate="20160308T171222Z">
         <seg>Alemão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get API Key</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T222356Z" creationid="Sheila" creationdate="20170913T222356Z">
+        <seg>Obter chave de API</seg>
       </tuv>
     </tu>
     <tu>
@@ -29279,6 +29295,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T222247Z" creationid="Sheila" creationdate="20170913T222247Z">
+        <seg>Se&amp;lecionar domínio de consulta de terminologia TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113811Z" creationid="Evandro" creationdate="20160312T113811Z">
@@ -31041,10 +31065,34 @@ LEGISLAÇÃO APLICÁVEL.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T222357Z" creationid="Sheila" creationdate="20170913T222357Z">
+        <seg>TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS API key not set.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T222325Z" creationid="Sheila" creationdate="20170913T222325Z">
+        <seg>A chave da API do TaaS não foi definida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS Collections</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113752Z" creationid="Evandro" creationdate="20160312T113752Z">
-        <seg>Coleções de TaaS</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T222308Z" creationid="Evandro" creationdate="20160312T113752Z">
+        <seg>Coleções do TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T222448Z" creationid="Sheila" creationdate="20170913T222448Z">
+        <seg>Terminologia TaaS</seg>
       </tuv>
     </tu>
     <tu>
