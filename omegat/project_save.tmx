@@ -478,6 +478,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221800Z" creationid="Sheila" creationdate="20170913T221800Z">
+        <seg>&amp;Permitir apenas caracteres únicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105958Z" creationid="Evandro" creationdate="20160312T105958Z">
@@ -736,6 +744,22 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102935Z" creationid="Evandro" creationdate="20160312T102935Z">
         <seg>Linhas &amp;vazias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221539Z" creationid="Sheila" creationdate="20170913T221539Z">
+        <seg>Habilitar autot&amp;exto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221721Z" creationid="Sheila" creationdate="20170913T221721Z">
+        <seg>&amp;Habilitar a tabela de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -8911,16 +8935,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113545Z" creationid="Evandro" creationdate="20160312T113545Z">
-        <seg>Configuração de auto-texto</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221646Z" creationid="Evandro" creationdate="20160312T113545Z">
+        <seg>Configuração de autotexto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113550Z" creationid="Evandro" creationdate="20160312T113550Z">
-        <seg>Arquivo Auto-text (*.autotext)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221704Z" creationid="Evandro" creationdate="20160312T113550Z">
+        <seg>Arquivo de autotext (*.autotext)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8945,6 +8969,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T095412Z" creationid="karol" creationdate="20160308T173040Z">
         <seg>Automatizar alterações dos nomes dos arquivos traduzidos substituindo os conteúdos traduzíveis por sua respectiva tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221711Z" creationid="Sheila" creationdate="20170913T221711Z">
+        <seg>Autotexto</seg>
       </tuv>
     </tu>
     <tu>
@@ -9592,6 +9624,14 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221805Z" creationid="Sheila" creationdate="20170913T221805Z">
+        <seg>&amp;Limpar</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
@@ -9844,6 +9884,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001342Z" creationid="karol" creationdate="20160309T001342Z">
         <seg>Modificar esta marcação não modifica a segmentação das memórias de tradução já existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221808Z" creationid="Sheila" creationdate="20170913T221808Z">
+        <seg>Tabela de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -11922,6 +11970,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201648Z" creationid="karol" creationdate="20160308T201648Z">
         <seg>ID do Consumidor (corresponde ao parâmetro &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; da linha de comando)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221738Z" creationid="Sheila" creationdate="20170913T221738Z">
+        <seg>&amp;Personalizar a tabela de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -29988,6 +30044,30 @@ can do so.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170913T003642Z" creationid="Sheila" creationdate="20170911T222849Z">
         <seg>Desculpe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221620Z" creationid="Sheila" creationdate="20170913T221620Z">
+        <seg>Classificar por ordem &amp;alfabética</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221641Z" creationid="Sheila" creationdate="20170913T221641Z">
+        <seg>Classificar por texto completo, não por atal&amp;hos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221623Z" creationid="Sheila" creationdate="20170913T221601Z">
+        <seg>Classificar por comp&amp;rimento</seg>
       </tuv>
     </tu>
     <tu>
