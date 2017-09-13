@@ -24999,6 +24999,14 @@ http://omegat.org/reviews</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Other OmegaT resources</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T073446Z" creationid="CALDAS" creationdate="20170913T073446Z">
+        <seg>Outros recursos do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Other Options:</seg>
@@ -36357,6 +36365,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001338Z" creationid="karol" creationdate="20160309T001338Z">
         <seg>Tokenizers correspondentes aos idiomas selecionados são exibidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers plug-in</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T073656Z" creationid="CALDAS" creationdate="20170913T073656Z">
+        <seg>Plug-in Tokenizers</seg>
       </tuv>
     </tu>
     <tu>
