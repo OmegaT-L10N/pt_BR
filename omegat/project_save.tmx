@@ -15143,6 +15143,14 @@ actually uses, or expects or is expected to use, the product.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221828Z" creationid="Sheila" creationdate="20170913T221828Z">
+        <seg>Para melhores resultados, instale os dicionários adequados em Preferências &gt; Verificação ortográfica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For both users' and
 authors' sake, the GPL requires that modified versions be marked as
 changed, so that their problems will not be attributed erroneously to
