@@ -6714,8 +6714,8 @@ on the Program.</seg>
       <tuv lang="EN">
         <seg>A &lt;a0&gt;HowTo describing the tokenizers plug-in&lt;/a0&gt; is also available.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T110253Z" creationid="CALDAS" creationdate="20170913T110253Z">
-        <seg>Um &lt;a0&gt;HowTo descrevendo os tokenizers plug-in&lt;/a0&gt; também está disponível.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T121918Z" creationid="CALDAS" creationdate="20170913T110253Z">
+        <seg>As &lt;a0&gt;Instruções descrevendo os plugin de tokenizers&lt;/a0&gt; também estão disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10196,6 +10196,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113029Z" creationid="Evandro" creationdate="20160312T113029Z">
         <seg>Verificando o projeto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checks for language errors (style, grammar, etc.).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T122114Z" creationid="CALDAS" creationdate="20170913T122114Z">
+        <seg>Verifica erros de linguagem (estilo, gramática etc).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20473,6 +20481,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153248Z" creationid="Sheila" creationdate="20170909T153248Z">
         <seg>O LanguageTool não está disponível para seu idioma de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool plug-in</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T121940Z" creationid="CALDAS" creationdate="20170913T121940Z">
+        <seg>Plugin da LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
