@@ -13872,6 +13872,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T113010Z" creationid="Sheila" creationdate="20170913T113010Z">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Error saving project file!</seg>
@@ -25825,6 +25833,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T193949Z" creationid="karol" creationdate="20160308T193949Z">
         <seg>Preâmbulo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T112700Z" creationid="Sheila" creationdate="20170913T112700Z">
+        <seg>As credenciais predefinidas não foram passadas.</seg>
       </tuv>
     </tu>
     <tu>
