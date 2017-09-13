@@ -1,4 +1,4 @@
-open-source	código aberto
+﻿open-source	código aberto
 source code	código-fonte
 hands-off approach	abordagem sem interferência
 feature	recurso
@@ -14,3 +14,42 @@ OmegaT	OmegaT
 home page	página inicial
 mailing lists	listas de discussão
 mailing list	lista de discussão
+language	idioma
+software	programa
+online	on-line
+tool	ferramenta
+place holders	espaços reservados
+placeholders	espaços reservados
+place holder	espaços reservado
+scripts	scripts
+subfolder	subpasta
+folder	pasta
+bug	erro
+code	código
+requirement	requisito
+machine translation engine	mecanismo de tradução automática
+more on that	mais informações
+directions	instruções
+GNU General Public License	Licença Pública Geral (GNU)
+non-breakable space	espaço inseparável
+match	correspondência
+Match statistics	Estatísticas das correspondências
+text	texto
+warning	aviso
+translation memories	memórias de tradução
+project files	arquivos de projeto
+user interface	interface do usuário
+shortcut	atalho
+properties	propriedades
+settings	sonfigurações
+glossary	glossário
+
+auto-text	autotexto
+
+possible	possível
+
+for instance	por exemplo
+
+Editor pane	painel do editor
+fuzzy matches	correspondências parciais
+fuzzy match	correspondência parcial
