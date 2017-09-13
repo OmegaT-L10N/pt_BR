@@ -26439,8 +26439,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T100547Z" creationid="CALDAS" creationdate="20170913T100547Z">
-        <seg>Fornece reconhecimento de formas inflexas em fuzzy match e glossary hits.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T121508Z" creationid="CALDAS" creationdate="20170913T100547Z">
+        <seg>Fornece reconhecimento de formas inflexas nas correspondências parciais e glossary hits.</seg>
       </tuv>
     </tu>
     <tu>
