@@ -20875,8 +20875,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T034508Z" creationid="CALDAS" creationdate="20170912T034508Z">
-        <seg>Literalmente centenas de RFE já foram feitos e muitos já foram implementados.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T043514Z" creationid="CALDAS" creationdate="20170912T034508Z">
+        <seg>Literalmente centenas de RFE foram feitos e muitos já foram implementados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33341,8 +33341,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T040216Z" creationid="CALDAS" creationdate="20170912T034417Z">
-        <seg>O procedimento é denominado como &lt;a0&gt;“”RFE" (Request for Feature Enhancement, solicitação de melhoria de recurso) e é gerido aqui&lt;/a0&gt;.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T043347Z" creationid="CALDAS" creationdate="20170912T034417Z">
+        <seg>O procedimento é denominado como &lt;a0&gt;“RFE” (Request for Feature Enhancement, solicitação de melhoria de recurso) e é gerido aqui&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
