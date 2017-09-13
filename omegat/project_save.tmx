@@ -16512,9 +16512,25 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221144Z" creationid="Sheila" creationdate="20170913T221144Z">
+        <seg>Autocompletar histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History Prediction</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T191756Z" creationid="Sheila" creationdate="20170625T191756Z">
+        <seg>Autocompletar preditivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221146Z" creationid="Sheila" creationdate="20170913T221146Z">
         <seg>Autocompletar preditivo</seg>
       </tuv>
     </tu>
@@ -21542,8 +21558,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153439Z" creationid="Evandro" creationdate="20160312T111542Z">
-        <seg>Marcar espaços &amp;não separáveis</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221119Z" creationid="Evandro" creationdate="20160312T111542Z">
+        <seg>Marcar espaços i&amp;nseparáveis</seg>
       </tuv>
     </tu>
     <tu>
@@ -22876,8 +22892,8 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113321Z" creationid="Evandro" creationdate="20160312T113305Z">
-        <seg>Espaço não-separável</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221054Z" creationid="Evandro" creationdate="20160312T113305Z">
+        <seg>Espaço inseparável</seg>
       </tuv>
     </tu>
     <tu>
@@ -22885,8 +22901,8 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       <tuv lang="EN">
         <seg>Non-breakable spaces</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114102Z" creationid="Evandro" creationdate="20160312T114102Z">
-        <seg>Espaços não-separáveis</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221111Z" creationid="Evandro" creationdate="20160312T114102Z">
+        <seg>Espaços inseparáveis</seg>
       </tuv>
     </tu>
     <tu>
@@ -29565,6 +29581,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003723Z" creationid="karol" creationdate="20160309T003723Z">
         <seg>Caso você queira reutilizar uma memória de tradução de um projeto anterior (por exemplo, por semelhança do novo projeto com o anterior, ou por usar terminologia já utilizada antes), você pode usar essas memórias de tradução como "memórias de entrada de tradução", ou seja, para importar para o novo projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221221Z" creationid="Sheila" creationdate="20170913T221221Z">
+        <seg>Mostrar termos de destino mais &amp;longos primeiro</seg>
       </tuv>
     </tu>
     <tu>
