@@ -1,4 +1,4 @@
-﻿open-source	código aberto
+open-source	código aberto
 source code	código-fonte
 hands-off approach	abordagem sem interferência
 feature	recurso
@@ -43,13 +43,9 @@ shortcut	atalho
 properties	propriedades
 settings	sonfigurações
 glossary	glossário
-
 auto-text	autotexto
-
 possible	possível
-
 for instance	por exemplo
-
 Editor pane	painel do editor
 fuzzy matches	correspondências parciais
 fuzzy match	correspondência parcial
