@@ -6712,6 +6712,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;a0&gt;HowTo describing the tokenizers plug-in&lt;/a0&gt; is also available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T110253Z" creationid="CALDAS" creationdate="20170913T110253Z">
+        <seg>Um &lt;a0&gt;HowTo descrevendo os tokenizers plug-in&lt;/a0&gt; também está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A batch file, used to launch &lt;a0&gt;OmegaT&lt;/a0&gt; from the Windows command line.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181320Z" creationid="karol" creationdate="20160308T181320Z">
