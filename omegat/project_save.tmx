@@ -2783,8 +2783,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T103957Z" creationid="CALDAS" creationdate="20170912T103635Z">
-        <seg>&lt;a0&gt;O patrocínio do desenvolvimento já resultou na adição de determinados recursos.&lt;/a0&gt; Caso você esteja disposto a financiar o trabalho de implementação de um recurso de seu interesse, entre em contato com a equipe de desenvolvedores, em particular, para uma cotação.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T043959Z" creationid="CALDAS" creationdate="20170912T103635Z">
+        <seg>&lt;a0&gt;O patrocínio do desenvolvimento já resultou na adição de determinados recursos.&lt;/a0&gt; Caso esteja disposto a financiar o trabalho de implementação de um recurso do seu interesse, entre em contato com a equipe de desenvolvedores, em particular, para uma cotação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38850,8 +38850,8 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
       <tuv lang="EN">
         <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T040353Z" creationid="CALDAS" creationdate="20170912T100547Z">
-        <seg>A aprovação ou não de tal solicitação depende, em primeiro lugar, da equipe de desenvolvedores considerá-la benéfica para o OmegaT, e, em segundo lugar, se um dos desenvolvedores está disposto a trabalho na implementação do mesmo.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T043818Z" creationid="CALDAS" creationdate="20170912T100547Z">
+        <seg>A aprovação ou não de tal solicitação depende, primeiramente, da equipe de desenvolvedores considerá-la benéfica para o OmegaT, e, em segundo lugar, da disposição de um dos desenvolvedores para trabalhar na implementação da solicitação.</seg>
       </tuv>
     </tu>
     <tu>
