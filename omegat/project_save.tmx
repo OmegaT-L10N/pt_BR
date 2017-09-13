@@ -10804,8 +10804,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Convenient alternative functions or solutions may also exist.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T051027Z" creationid="CALDAS" creationdate="20170912T030834Z">
-        <seg>Também, podem existir e funções ou soluções alternativas convenientes.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T051237Z" creationid="CALDAS" creationdate="20170912T030834Z">
+        <seg>podem existir funções ou soluções alternativas convenientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24497,8 +24497,8 @@ http://omegat.org/reviews</note>
       <tuv lang="EN">
         <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T045953Z" creationid="CALDAS" creationdate="20170912T030718Z">
-        <seg>Isso se deve ao fato de que a função desejada pode já ter sido implementada ou pode ser que existem razões relativas a impossibilidade de implementá-las.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T051225Z" creationid="CALDAS" creationdate="20170912T030718Z">
+        <seg>Isso se deve ao fato de que a função desejada pode já ter sido implementada, ou pode ser que existem razões para a impossibilidade de implementá-las, ou ainda, </seg>
       </tuv>
     </tu>
     <tu>
