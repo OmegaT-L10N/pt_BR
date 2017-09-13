@@ -486,6 +486,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221024Z" creationid="Sheila" creationdate="20170913T221024Z">
+        <seg>&amp;Permitir também comandos externos por projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T171649Z" creationid="Evandro" creationdate="20160312T105153Z">
@@ -13907,8 +13915,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T113010Z" creationid="Sheila" creationdate="20170913T113010Z">
-        <seg>Error retrieve {0} as remote project file</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T220651Z" creationid="Sheila" creationdate="20170913T113010Z">
+        <seg>Erro ao recuperar {0} como arquivo de projeto remoto</seg>
       </tuv>
     </tu>
     <tu>
@@ -25765,8 +25773,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113226Z" creationid="Evandro" creationdate="20160312T113226Z">
-        <seg>Por favor selecione o intervalo que o projeto deve ser salvo automaticamente, em minutos e segundos.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T220736Z" creationid="Evandro" creationdate="20160312T113226Z">
+        <seg>Selecione o intervalo no qual o projeto deve ser salvo automaticamente, em minutos e segundos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27566,6 +27574,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T220657Z" creationid="Sheila" creationdate="20170913T220657Z">
+        <seg>Credenciais do repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository Mapping</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170156Z" creationid="Sheila" creationdate="20170905T170156Z">
@@ -28231,12 +28247,20 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T220713Z" creationid="Sheila" creationdate="20170913T220713Z">
+        <seg>Gravação e saída</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Saving and Output Options</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113210Z" creationid="Evandro" creationdate="20160312T113210Z">
-        <seg>Opções de Gravação e Saída</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T220706Z" creationid="Evandro" creationdate="20160312T113210Z">
+        <seg>Opções de gravação e saída</seg>
       </tuv>
     </tu>
     <tu>
@@ -30769,6 +30793,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T223937Z" creationid="Sheila" creationdate="20170905T223937Z">
         <seg>Alternando para versão interna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T220701Z" creationid="Sheila" creationdate="20170913T220701Z">
+        <seg>Sincronização de repositórios</seg>
       </tuv>
     </tu>
     <tu>
