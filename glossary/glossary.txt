@@ -49,3 +49,5 @@ for instance	por exemplo
 Editor pane	painel do editor
 fuzzy matches	correspondências parciais
 fuzzy match	correspondência parcial
+tokenizers plug-in	plugin de tokenizers
+HowTo	Instruções
