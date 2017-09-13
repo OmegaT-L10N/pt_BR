@@ -740,6 +740,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221501Z" creationid="Sheila" creationdate="20170913T221501Z">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T163804Z" creationid="Sheila" creationdate="20170625T192243Z">
@@ -12598,8 +12606,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113535Z" creationid="Evandro" creationdate="20160312T113535Z">
-        <seg>Mostrar os termos como "&lt;tradução&gt; → &lt;original&gt;"</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221521Z" creationid="Evandro" creationdate="20160312T113535Z">
+        <seg>Mostrar os termos como "&lt;destino&gt; → &lt;origem&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -29600,6 +29608,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221423Z" creationid="Sheila" creationdate="20170913T221423Z">
+        <seg>Mostrar &amp;termos de destino primeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Show Advanced &amp;Options</seg>
@@ -29988,6 +30004,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110415Z" creationid="Evandro" creationdate="20160312T110411Z">
         <seg>Ordenar as correspondências parciais por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221403Z" creationid="Sheila" creationdate="20170913T221403Z">
+        <seg>&amp;Classificar termos de destino em ordem alfabética</seg>
       </tuv>
     </tu>
     <tu>
