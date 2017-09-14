@@ -10921,6 +10921,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributed by Henry Pijffers.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T033612Z" creationid="CALDAS" creationdate="20170914T033612Z">
+        <seg>Com a contribuição de Henry Pijffers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172744Z" creationid="karol" creationdate="20160308T172744Z">
@@ -20191,6 +20199,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T033543Z" creationid="CALDAS" creationdate="20170914T033543Z">
         <seg>Um script de linha de comando em linguagem Java para a fusão de dois ou mais arquivos TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T033959Z" creationid="CALDAS" creationdate="20170914T033959Z">
+        <seg>Um script de linha de comando em linguagem Java para a remoção de unidades de tradução "redundantes" de um arquivo TMX: exclui todas as UTs sem segmento de chegada ou em que o segmento de chegada seja idêntico ao segmento de partida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31109,6 +31125,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003710Z" creationid="karol" creationdate="20160309T003710Z">
         <seg>os arquivos TMX podem geralmente conter unidades de tradução com vários idiomas utilizáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMXCleaner</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T033613Z" creationid="CALDAS" creationdate="20170914T033613Z">
+        <seg>TMXCleaner</seg>
       </tuv>
     </tu>
     <tu>
