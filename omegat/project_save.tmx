@@ -11410,6 +11410,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a TMX file containing all strings, with identical source and target</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T122534Z" creationid="CALDAS" creationdate="20170914T122534Z">
+        <seg>Criar um arquivo TMX contendo todos os seguimentos, com idêntica origem e de destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003726Z" creationid="karol" creationdate="20160309T003726Z">
