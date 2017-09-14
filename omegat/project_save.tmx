@@ -25345,6 +25345,14 @@ http://omegat.org/reviews</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035526Z" creationid="CALDAS" creationdate="20170914T035526Z">
+        <seg>É aconselhado aos outros usuários que usem o &lt;a0&gt;Plugin de Filtros da Okapi&lt;/a0&gt;, em vez do Toxic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other windows</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003855Z" creationid="karol" creationdate="20160309T003855Z">
