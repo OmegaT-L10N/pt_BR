@@ -14614,6 +14614,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extract all source text from the project files into a single, large text file</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T122424Z" creationid="CALDAS" creationdate="20170914T122424Z">
+        <seg>Extrair todo o texto de origem dos arquivos de projeto em um único grande arquivo de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extracted comments:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112558Z" creationid="Evandro" creationdate="20160312T112558Z">
