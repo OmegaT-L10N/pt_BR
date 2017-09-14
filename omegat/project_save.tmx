@@ -26338,6 +26338,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Priorview</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T093034Z" creationid="CALDAS" creationdate="20170914T093034Z">
+        <seg>Priorview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Private collections are displayed in bold.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003302Z" creationid="karol" creationdate="20160309T003302Z">
@@ -31691,6 +31699,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001016Z" creationid="Evandro" creationdate="20160310T001016Z">
         <seg>Tatar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tcl/tk utility providing a formatted layout preview of translated files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T093639Z" creationid="CALDAS" creationdate="20170914T093639Z">
+        <seg>Utilitário tcl/tk que fornece uma pré-visualização do layout formatado de arquivos traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
