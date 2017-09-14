@@ -21097,6 +21097,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux binary version of Toxic.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035853Z" creationid="CALDAS" creationdate="20170914T035853Z">
+        <seg>Versão binária do Toxic para Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux/Solaris/FreeBSD</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T210559Z" creationid="Sheila" creationdate="20170903T210559Z">
@@ -28530,6 +28538,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112526Z" creationid="Evandro" creationdate="20160312T112526Z">
         <seg>Resultado do Script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script versions of Toxic.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035958Z" creationid="CALDAS" creationdate="20170914T035958Z">
+        <seg>Versões de scripts do Toxic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36910,6 +36926,30 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toxic for Linux</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035821Z" creationid="CALDAS" creationdate="20170914T035817Z">
+        <seg>Toxic para Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toxic for Windows</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035710Z" creationid="CALDAS" creationdate="20170914T035659Z">
+        <seg>Toxic para Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toxic scripts</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035945Z" creationid="CALDAS" creationdate="20170914T035945Z">
+        <seg>Scripts do Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toxic was contributed by Marc Prior.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035556Z" creationid="CALDAS" creationdate="20170914T035556Z">
@@ -39456,6 +39496,14 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181256Z" creationid="karol" creationdate="20160308T181256Z">
         <seg>Windows Vista e 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows executable version of Toxic.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035816Z" creationid="CALDAS" creationdate="20170914T035738Z">
+        <seg>Versão do Toxic executável no Windows.</seg>
       </tuv>
     </tu>
     <tu>
