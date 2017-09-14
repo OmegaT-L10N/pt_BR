@@ -10837,6 +10837,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T101410Z" creationid="CALDAS" creationdate="20170914T101410Z">
+        <seg>É composto pelo manual do aluno modelo com instruções para instrutores para adaptação e recursos de amostra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -24429,6 +24437,14 @@ http://omegat.org/reviews</note>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003706Z" creationid="karol" creationdate="20160309T003706Z">
         <seg>O OmegaT coloca os segmentos TUV correspondentes aos códigos de idioma fonte e alvo do projeto e os usa como os segmentos fonte e alvo, respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT training course.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T101236Z" creationid="CALDAS" creationdate="20170914T101236Z">
+        <seg>Curso de treinamento do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
