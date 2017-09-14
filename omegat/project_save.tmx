@@ -23,6 +23,14 @@ License by making exceptions from one or more of its conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Bligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T031734Z" creationid="CALDAS" creationdate="20170914T031734Z">
+        <seg>"Bligner" utilitário de alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010533Z" creationid="karol" creationdate="20160309T010533Z">
@@ -10893,6 +10901,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181305Z" creationid="karol" creationdate="20160308T181305Z">
         <seg>Conteúdos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributed by Dmitri Gabinski.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T031601Z" creationid="CALDAS" creationdate="20170914T031601Z">
+        <seg>Contribuição de Dmitri Gabinski.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39514,6 +39530,14 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184531Z" creationid="Evandro" creationdate="20160311T184531Z">
         <seg>A pasta inidicada de arquivo de glossário editável não existe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T031530Z" creationid="CALDAS" creationdate="20170914T031530Z">
+        <seg>Escrito em Python.</seg>
       </tuv>
     </tu>
     <tu>
