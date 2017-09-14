@@ -6891,6 +6891,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A detailed tutorial is available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T110627Z" creationid="CALDAS" creationdate="20170914T110627Z">
+        <seg>Um tutorial detalhado está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182031Z" creationid="karol" creationdate="20160308T182031Z">
