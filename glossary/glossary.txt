@@ -54,3 +54,4 @@ How To	Instruções
 tokenizers plug-in	plugin de tokenizers
 Spelling dictionaries	Dicionários ortográficos
 set	definir; conjunto
+source text	texto de origem
