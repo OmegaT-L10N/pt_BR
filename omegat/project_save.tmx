@@ -10931,8 +10931,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Contributed by Marc Prior.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041318Z" creationid="CALDAS" creationdate="20170914T041318Z">
-        <seg>Com a contribuirão de Marc Prior.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041820Z" creationid="CALDAS" creationdate="20170914T041318Z">
+        <seg>Com a contribuição de Marc Prior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16410,6 +16410,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171225Z" creationid="karol" creationdate="20160308T171225Z">
         <seg>Crioulo haitiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Has been tested on Linux.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041808Z" creationid="CALDAS" creationdate="20170914T041808Z">
+        <seg>Foi testado no Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24714,6 +24722,14 @@ http://omegat.org/reviews</note>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182509Z" creationid="karol" creationdate="20160308T182509Z">
         <seg>Depois de verificar se não há erros de tags em sua tradução, pressione &lt;k0&gt;Ctrl+D&lt;/k0&gt; para gerar o arquivo destino, que será criado na subpasta&lt;f1&gt; /target/&lt;/f1&gt;da pasta do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ondiloto</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041844Z" creationid="CALDAS" creationdate="20170914T041844Z">
+        <seg>Ondiloto</seg>
       </tuv>
     </tu>
     <tu>
@@ -37017,8 +37033,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Toxic was contributed by Marc Prior.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035556Z" creationid="CALDAS" creationdate="20170914T035556Z">
-        <seg>Com a contribuirão de Marc Prior.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041843Z" creationid="CALDAS" creationdate="20170914T035556Z">
+        <seg>Com a contribuição de Marc Prior.</seg>
       </tuv>
     </tu>
     <tu>
