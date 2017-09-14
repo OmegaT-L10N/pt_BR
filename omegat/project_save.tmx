@@ -39709,6 +39709,14 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wordfast TMX file converter</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T094212Z" creationid="CALDAS" creationdate="20170914T094212Z">
+        <seg>O Wordfast TMX conversor de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wordfast TXML</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103338Z" creationid="Evandro" creationdate="20160312T103338Z">
