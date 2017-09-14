@@ -23862,6 +23862,14 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ONline DIctionary LOokup TOol.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T092748Z" creationid="CALDAS" creationdate="20170914T092538Z">
+        <seg>ONline DIctionary LOokup TOol (ferramenta de pesquisa em dicionário on-line).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Occitan</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171300Z" creationid="karol" creationdate="20160308T171300Z">
@@ -27850,6 +27858,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005317Z" creationid="karol" creationdate="20160309T005317Z">
         <seg>Os pedidos para melhorias (em inglês), no site da SourceForge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T093029Z" creationid="CALDAS" creationdate="20170914T093029Z">
+        <seg>Requer Linux, w3m e tcl/tk (ambos geralmente fornecidos com o Linux).</seg>
       </tuv>
     </tu>
     <tu>
