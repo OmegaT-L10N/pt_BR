@@ -27838,6 +27838,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requires tcl/tk, Abiword and pdftotext.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041803Z" creationid="CALDAS" creationdate="20170914T041803Z">
+        <seg>Requer tcl/tk, Abiword e pdftotext.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Requires tcl/tk.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041309Z" creationid="CALDAS" creationdate="20170914T041309Z">
