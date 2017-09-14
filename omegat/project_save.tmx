@@ -25765,6 +25765,14 @@ em seguida, confirme tudo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Platform-independent; require tcl/tk.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T040210Z" creationid="CALDAS" creationdate="20170914T040210Z">
+        <seg>Independente de plataforma; requer tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170519T004028Z" creationid="karol" creationdate="20160308T171139Z">
@@ -28542,6 +28550,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T040653Z" creationid="CALDAS" creationdate="20170914T040653Z">
+        <seg>Um script para extrair texto para tradução a partir de arquivos de texto simples (por exemplo, computador de código fonte) para a tradução em OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script versions of Toxic.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035958Z" creationid="CALDAS" creationdate="20170914T035958Z">
@@ -30782,6 +30798,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T155313Z">
         <seg>Eliminar tags no segmento atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stripper</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T040214Z" creationid="CALDAS" creationdate="20170914T040214Z">
+        <seg>Stripper</seg>
       </tuv>
     </tu>
     <tu>
