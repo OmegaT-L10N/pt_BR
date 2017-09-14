@@ -22547,8 +22547,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T120845Z" creationid="CALDAS" creationdate="20170914T120845Z">
-        <seg>A maioria desses scripts requer MS Windows, embora alguns procedimentos podem também funcionar em outras plataformas.&lt;br0/&gt;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T121148Z" creationid="CALDAS" creationdate="20170914T120845Z">
+        <seg>Embora alguns procedimentos possam funcionar também em outras plataformas, a maioria desses scripts requer MS Windows.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28868,6 +28868,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102510Z" creationid="Evandro" creationdate="20160312T112417Z">
         <seg>Pasta de scripts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts/procedures are available to enable you to do the following:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T121237Z" creationid="CALDAS" creationdate="20170914T121015Z">
+        <seg>Os scripts/procedimentos disponíveis permitem que você faça o seguinte:</seg>
       </tuv>
     </tu>
     <tu>
