@@ -12302,6 +12302,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T120339Z" creationid="CALDAS" creationdate="20170914T120339Z">
+        <seg>Descrições e links para os scripts/procedimentos de Samuel Murray.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detail View</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113718Z" creationid="Evandro" creationdate="20160312T113718Z">
@@ -22533,6 +22541,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181213Z" creationid="karol" creationdate="20160308T181213Z">
         <seg>A maioria é necessária para o OmegaT funcionar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T120845Z" creationid="CALDAS" creationdate="20170914T120845Z">
+        <seg>A maioria desses scripts requer MS Windows, embora alguns procedimentos podem também funcionar em outras plataformas.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
