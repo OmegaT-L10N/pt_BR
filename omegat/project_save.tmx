@@ -2845,6 +2845,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T104957Z" creationid="CALDAS" creationdate="20170914T104957Z">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T043959Z" creationid="CALDAS" creationdate="20170912T103635Z">
@@ -2865,6 +2873,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003845Z" creationid="karol" creationdate="20160309T003845Z">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; pode detectar e atualizar tais arquivos tmx para aumentar os resultados de correspondências parciais para serem melhor aproveitados, assim você não terá que refazer tudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T105000Z" creationid="CALDAS" creationdate="20170914T105000Z">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6818,6 +6834,14 @@ beyond what the individual works permit.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201410Z" creationid="karol" creationdate="20160308T201410Z">
         <seg>Uma compilação de um trabalho coberto com outros trabalhos separados e independentes, que não são por sua natureza extensões do trabalho coberto, e que não se combinam com ele para, por exemplo, formar um programa maior, em ou junto com um volume de um meio de armazenamento ou de distribuição, é chamado de "agregado" se a compilação e os seus direitos autorais resultantes não forem usados para limitar o acesso ou direitos legais dos usuários da compilação além do que trabalhos individuais permitem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T110026Z" creationid="CALDAS" creationdate="20170914T110026Z">
+        <seg>Um pacote abrangente de utilitários para preparar arquivos para a tradução em uma ferramenta CAT (Computer Aided Translation, tradução assistida por computador).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15741,6 +15765,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Free (compatible) alternatives to Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T105142Z" creationid="CALDAS" creationdate="20170914T105142Z">
+        <seg>Alternativas (compatíveis) livres para substituir o Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>French</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171219Z" creationid="karol" creationdate="20160308T171219Z">
@@ -23987,6 +24019,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T132719Z" creationid="CALDAS" creationdate="20170913T132719Z">
         <seg>Plugin de filtros da Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Okapi Framework</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T105144Z" creationid="CALDAS" creationdate="20170914T105144Z">
+        <seg>Okapi Framework</seg>
       </tuv>
     </tu>
     <tu>
