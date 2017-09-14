@@ -15564,6 +15564,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For testing and demonstrating OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T101742Z" creationid="CALDAS" creationdate="20170914T101742Z">
+        <seg>Para testar e apresentar o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For that reason, it is OFF by default.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T211953Z" creationid="Sheila" creationdate="20170904T211939Z">
@@ -16962,6 +16970,14 @@ SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T211054Z" creationid="Sheila" creationdate="20170903T211054Z">
         <seg>Iceni Infix (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Icons</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T101454Z" creationid="CALDAS" creationdate="20170914T101454Z">
+        <seg>Ícones</seg>
       </tuv>
     </tu>
     <tu>
@@ -28414,6 +28430,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample texts</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T101705Z" creationid="CALDAS" creationdate="20170914T101705Z">
+        <seg>Textos de amostra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samuel Murray</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T134612Z" creationid="Sheila" creationdate="20170905T134612Z">
@@ -29612,6 +29636,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004129Z" creationid="karol" creationdate="20160309T004129Z">
         <seg>Selecionando uma delas irá inseri-la na posição atual do cursor no segmento alvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection of alternative icons for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T101622Z" creationid="CALDAS" creationdate="20170914T101622Z">
+        <seg>Uma seleção de ícones alternativos para usar com o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
