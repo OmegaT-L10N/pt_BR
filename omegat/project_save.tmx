@@ -21278,10 +21278,26 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localization TMX repository</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T102114Z" creationid="CALDAS" creationdate="20170914T102114Z">
+        <seg>Repositório de TMX para localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Localization manager, user group owner</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170913T003957Z" creationid="mroch" creationdate="20170912T222540Z">
         <seg>Gerente de localização e proprietário do grupo de usuários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localization resources</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T101754Z" creationid="CALDAS" creationdate="20170914T101754Z">
+        <seg>Recursos de localização</seg>
       </tuv>
     </tu>
     <tu>
