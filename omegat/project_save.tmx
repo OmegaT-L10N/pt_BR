@@ -24855,6 +24855,14 @@ http://omegat.org/reviews</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T104955Z" creationid="CALDAS" creationdate="20170914T104826Z">
+        <seg>Repositórios on-line de dicionários ortográficos para uso no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181146Z" creationid="karol" creationdate="20160308T181146Z">
@@ -30740,6 +30748,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003236Z" creationid="karol" creationdate="20160309T003236Z">
         <seg>Definição do verificador ortográfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T104930Z" creationid="CALDAS" creationdate="20170914T104743Z">
+        <seg>Dicionários ortográficos</seg>
       </tuv>
     </tu>
     <tu>
