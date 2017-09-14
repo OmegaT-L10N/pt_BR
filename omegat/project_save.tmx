@@ -31338,6 +31338,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T102258Z" creationid="CALDAS" creationdate="20170914T102258Z">
+        <seg>Os arquivos TMX de localização da documentação do OmegaT e deste site para uso por localizadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMXCleaner</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T033613Z" creationid="CALDAS" creationdate="20170914T033613Z">
