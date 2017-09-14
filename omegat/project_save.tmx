@@ -25347,8 +25347,8 @@ http://omegat.org/reviews</note>
       <tuv lang="EN">
         <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035526Z" creationid="CALDAS" creationdate="20170914T035526Z">
-        <seg>É aconselhado aos outros usuários que usem o &lt;a0&gt;Plugin de Filtros da Okapi&lt;/a0&gt;, em vez do Toxic.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035653Z" creationid="CALDAS" creationdate="20170914T035526Z">
+        <seg>Aconselha-se que os outros usuários utilizem o &lt;a0&gt;Plugin de Filtros da Okapi&lt;/a0&gt;, em vez do Toxic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36906,6 +36906,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T034217Z" creationid="CALDAS" creationdate="20170914T034217Z">
         <seg>Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toxic was contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035556Z" creationid="CALDAS" creationdate="20170914T035556Z">
+        <seg>Com a contribuirão de Marc Prior.</seg>
       </tuv>
     </tu>
     <tu>
