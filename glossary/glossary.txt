@@ -53,3 +53,4 @@ tokenizers plug-in	plugin de tokenizers
 HowTo	Instruções
 How To	Instruções
 tokenizers plug-in	plugin de tokenizers
+Spelling dictionaries	Dicionários ortográficos
