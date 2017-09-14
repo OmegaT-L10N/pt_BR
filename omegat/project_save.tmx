@@ -31340,8 +31340,8 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       <tuv lang="EN">
         <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T103421Z" creationid="CALDAS" creationdate="20170914T102258Z">
-        <seg>Arquivos TMX de localização da documentação do OmegaT e deste site para uso dos localizadores.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T103427Z" creationid="CALDAS" creationdate="20170914T102258Z">
+        <seg>Arquivos TMX de localização da documentação do OmegaT e deste site para uso pelos localizadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33156,6 +33156,14 @@ instead.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172849Z" creationid="karol" creationdate="20160308T172849Z">
         <seg>Os arquivos são arquivos de texto simples não formatados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T103530Z" creationid="CALDAS" creationdate="20170914T103530Z">
+        <seg>Os arquivos deste site, em um pacote conveniente para aqueles que desejam localizá-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36255,6 +36263,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004136Z" creationid="karol" creationdate="20160309T004136Z">
         <seg>Desta forma, o tradutor pode descobrir o contexto do segmento a ser traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This web site</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T103433Z" creationid="CALDAS" creationdate="20170914T103433Z">
+        <seg>Este site</seg>
       </tuv>
     </tu>
     <tu>
