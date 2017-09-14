@@ -20365,8 +20365,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T033959Z" creationid="CALDAS" creationdate="20170914T033959Z">
-        <seg>Um script de linha de comando em linguagem Java para a remoção de unidades de tradução "redundantes" de um arquivo TMX: exclui todas as UTs sem segmento de chegada ou em que o segmento de chegada seja idêntico ao segmento de partida.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T123850Z" creationid="CALDAS" creationdate="20170914T033959Z">
+        <seg>Um script de linha de comando em linguagem Java para a remoção de unidades de tradução "redundantes" de um arquivo TMX: exclui todas as UTs sem segmento de destino ou em que o segmento de destino seja idêntico ao segmento de origem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42044,8 +42044,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>bitext2tmx</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T110631Z" creationid="CALDAS" creationdate="20170914T110631Z">
-        <seg>bitext2tmx</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T123715Z" creationid="CALDAS" creationdate="20170914T110631Z">
+        <seg>Bitext2tmx</seg>
       </tuv>
     </tu>
     <tu>
