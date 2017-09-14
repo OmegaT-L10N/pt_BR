@@ -10256,6 +10256,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T123114Z" creationid="CALDAS" creationdate="20170914T123114Z">
+        <seg>Verificar a ortografia (vários procedimentos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check start case</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010545Z" creationid="karol" creationdate="20160309T010545Z">
