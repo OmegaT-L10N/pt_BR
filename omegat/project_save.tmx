@@ -17,16 +17,16 @@ License by making exceptions from one or more of its conditions.</seg>
       <tuv lang="EN">
         <seg>"Aligner" aligner utility</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T031509Z" creationid="CALDAS" creationdate="20170914T031509Z">
-        <seg>"Aligner" utilitário de alinhamento</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T031816Z" creationid="CALDAS" creationdate="20170914T031509Z">
+        <seg>Utilitário alinhador "Aligner"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>"Bligner" aligner utility</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T031734Z" creationid="CALDAS" creationdate="20170914T031734Z">
-        <seg>"Bligner" utilitário de alinhamento</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T031841Z" creationid="CALDAS" creationdate="20170914T031734Z">
+        <seg>Utilitário alinhador "Bligner"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10905,10 +10905,18 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributed by Didier Briel.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T032001Z" creationid="CALDAS" creationdate="20170914T032001Z">
+        <seg>Com a contribuição de Didier Briel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributed by Dmitri Gabinski.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T031601Z" creationid="CALDAS" creationdate="20170914T031601Z">
-        <seg>Contribuição de Dmitri Gabinski.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T032007Z" creationid="CALDAS" creationdate="20170914T031601Z">
+        <seg>Com a contribuição de Dmitri Gabinski.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39538,6 +39546,14 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T031530Z" creationid="CALDAS" creationdate="20170914T031530Z">
         <seg>Escrito em Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python/Perl.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T031846Z" creationid="CALDAS" creationdate="20170914T031846Z">
+        <seg>Escrito em Python/Perl.</seg>
       </tuv>
     </tu>
     <tu>
