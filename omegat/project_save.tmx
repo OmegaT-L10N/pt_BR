@@ -15966,6 +15966,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T111333Z" creationid="CALDAS" creationdate="20170914T111333Z">
+        <seg>Ferramenta de alinhamento da GUI (interface gráfica do usuário) para gerar arquivos de memória de tradução a partir de textos obsoletos e suas traduções. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Galician</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171221Z" creationid="karol" creationdate="20160308T171221Z">
@@ -41926,6 +41934,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001000Z" creationid="Evandro" creationdate="20160310T001000Z">
         <seg>bis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bitext2tmx</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T110631Z" creationid="CALDAS" creationdate="20170914T110631Z">
+        <seg>bitext2tmx</seg>
       </tuv>
     </tu>
     <tu>
