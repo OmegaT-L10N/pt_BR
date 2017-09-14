@@ -10929,6 +10929,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041318Z" creationid="CALDAS" creationdate="20170914T041318Z">
+        <seg>Com a contribuirão de Marc Prior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172744Z" creationid="karol" creationdate="20160308T172744Z">
@@ -27830,6 +27838,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requires tcl/tk.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041309Z" creationid="CALDAS" creationdate="20170914T041309Z">
+        <seg>Requer tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ResX</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103307Z" creationid="Evandro" creationdate="20160312T103307Z">
@@ -28552,8 +28568,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T040653Z" creationid="CALDAS" creationdate="20170914T040653Z">
-        <seg>Um script para extrair texto para tradução a partir de arquivos de texto simples (por exemplo, computador de código fonte) para a tradução em OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041253Z" creationid="CALDAS" creationdate="20170914T040653Z">
+        <seg>Um script para extrair texto para tradução a partir de arquivos de texto sem formatação (e.g.: código fonte de computador) para traduzir no OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31133,6 +31149,23 @@ APPLICABLE LAW.</seg>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201536Z" creationid="karol" creationdate="20160308T201536Z">
         <seg>NÃO HÁ NENHUMA GARANTIA PARA O PROGRAMA, ATÉ O PONTO PERMITIDO POR
 LEGISLAÇÃO APLICÁVEL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TKount</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041319Z" creationid="CALDAS" creationdate="20170914T041319Z">
+        <seg>TKount</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Preciso repetir o nome do script de novo?</note>
+      <tuv lang="EN">
+        <seg>TKount text counting utility.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041728Z" creationid="CALDAS" creationdate="20170914T041728Z">
+        <seg>Utilitário para contagem de texto.</seg>
       </tuv>
     </tu>
     <tu>
