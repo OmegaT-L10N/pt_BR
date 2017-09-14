@@ -8371,6 +8371,14 @@ O arquivo TMX não será carregado.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T115807Z" creationid="CALDAS" creationdate="20170914T115807Z">
+        <seg>Uma ferramenta de alinhamento inteligente de linha de comando para gerar arquivos de memória de tradução de textos obsoletos e suas traduções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An interactive user interface displays "Appropriate Legal Notices"
 to the extent that it includes a convenient and prominently visible
 feature that (1) displays an appropriate copyright notice, and (2)
@@ -20693,6 +20701,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T155356Z" creationid="karol" creationdate="20160309T155356Z">
         <seg>APRENDIDOS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LF Aligner</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T111425Z" creationid="CALDAS" creationdate="20170914T111425Z">
+        <seg>LF Aligner</seg>
       </tuv>
     </tu>
     <tu>
