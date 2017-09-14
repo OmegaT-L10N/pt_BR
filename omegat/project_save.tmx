@@ -7559,10 +7559,26 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add numbers to all segments, making them all "unique"</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T122939Z" creationid="CALDAS" creationdate="20170914T122910Z">
+        <seg>Adicionar números em todos os segmentos tornando-os "únicos"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105151Z" creationid="Evandro" creationdate="20160312T105151Z">
         <seg>Acrescentar ou regravar a declaração de codificação nos arquivos HTML e XHTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add terms to a glossary whilst translating in OmegaT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T122842Z" creationid="CALDAS" creationdate="20170914T122842Z">
+        <seg>Adicionar termos em um glossário enquanto se traduz no OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -11412,8 +11428,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create a TMX file containing all strings, with identical source and target</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T122534Z" creationid="CALDAS" creationdate="20170914T122534Z">
-        <seg>Criar um arquivo TMX contendo todos os seguimentos, com idêntica origem e de destino</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T122913Z" creationid="CALDAS" creationdate="20170914T122534Z">
+        <seg>Criar um arquivo TMX contendo todos os segmentos com origem e destino idênticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27621,6 +27637,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T203242Z" creationid="karol" creationdate="20160308T203242Z">
         <seg>Remover tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all text except tags, or all tags except text</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T123051Z" creationid="CALDAS" creationdate="20170914T123051Z">
+        <seg>Remover todo o texto com exceção das tags, ou todas as tags  com exceção do texto</seg>
       </tuv>
     </tu>
     <tu>
