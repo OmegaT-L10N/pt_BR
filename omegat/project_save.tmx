@@ -35383,6 +35383,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Third-party software for use with OmegaT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T104709Z" creationid="CALDAS" creationdate="20170914T104709Z">
+        <seg>Software de terceiros para uso com o OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T133645Z" creationid="Sheila" creationdate="20170905T133645Z">
