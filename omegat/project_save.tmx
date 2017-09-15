@@ -56,14 +56,6 @@ works, such as semiconductor masks.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T103843Z" creationid="CALDAS" creationdate="20170915T103843Z">
-        <seg>Os documentos de "Instruções" neste site, contém informações sobre determinados procedimentos e recursos do OmegaT para usuários avançados, que não são cobertos pelo manual.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>"Installation Information" for a User Product means any methods,
 procedures, authorization keys, or other information required to install
 and execute modified versions of a covered work in that User Product from
@@ -768,14 +760,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102935Z" creationid="Evandro" creationdate="20160312T102935Z">
         <seg>Linhas &amp;vazias</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&amp;Enable TaaS terminology lookup</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T104611Z" creationid="Sheila" creationdate="20170915T104611Z">
-        <seg>&amp;Habilitar consulta de terminologia do TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1807,8 +1791,8 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="EN">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T044159Z" creationid="CALDAS" creationdate="20170913T132648Z">
-        <seg>Não deve ser confundido com o recurso "exportar texto", que também permite que scripts sejam usados com o OmegaT, mas em um nível mais básico.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T132648Z" creationid="CALDAS" creationdate="20170913T132648Z">
+        <seg>(Não deve ser confundido com o recurso "exportar texto", que também permite que scripts sejam usados com o OmegaT, mas em um nível mais básico).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3948,14 +3932,6 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T212638Z" creationid="karol" creationdate="20160308T212638Z">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Verifica se faltam tags ou se elas estão posicionadas de forma errada nos arquivos formatados.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T104702Z" creationid="Sheila" creationdate="20170915T104639Z">
-        <seg>&lt;html&gt;Adicionar padrões usando curingas (estilo Apache Ant): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Exemplo: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6874,8 +6850,8 @@ on the Program.</seg>
       <tuv lang="EN">
         <seg>A &lt;a0&gt;HowTo describing the tokenizers plug-in&lt;/a0&gt; is also available.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T044437Z" creationid="CALDAS" creationdate="20170913T110253Z">
-        <seg>&lt;a0&gt;Instruções descrevendo os plugin de tokenizers&lt;/a0&gt; também estão disponíveis.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T121918Z" creationid="CALDAS" creationdate="20170913T110253Z">
+        <seg>As &lt;a0&gt;Instruções descrevendo os plugin de tokenizers&lt;/a0&gt; também estão disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7641,8 +7617,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>Add numbers to all segments, making them all "unique"</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043557Z" creationid="CALDAS" creationdate="20170914T122910Z">
-        <seg>Adicionar números em todos os segmentos tornando-os "únicos";</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T122939Z" creationid="CALDAS" creationdate="20170914T122910Z">
+        <seg>Adicionar números em todos os segmentos tornando-os "únicos"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7657,8 +7633,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043554Z" creationid="CALDAS" creationdate="20170914T122842Z">
-        <seg>Adicionar termos em um glossário enquanto se traduz no OmegaT;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T122842Z" creationid="CALDAS" creationdate="20170914T122842Z">
+        <seg>Adicionar termos em um glossário enquanto se traduz no OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -7953,30 +7929,6 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112712Z" creationid="Evandro" creationdate="20160312T112712Z">
         <seg>Alinhar projeto com {0}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Aligner "Accepted" Group</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T165746Z" creationid="Sheila" creationdate="20170915T105125Z">
-        <seg>Grupo "Aceito" no alinhamento</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Aligner "Needs Review" Group</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T165744Z" creationid="Sheila" creationdate="20170915T165744Z">
-        <seg>Grupo "precisa de revisão" no alinhamento</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Aligner Highlight</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T165757Z" creationid="Sheila" creationdate="20170915T165757Z">
-        <seg>Destaque do alinhamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -8287,14 +8239,6 @@ organization, or merging organizations.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181216Z" creationid="karol" creationdate="20160308T181216Z">
         <seg>Um projeto de tradução no &lt;a0&gt;OmegaT&lt;/a0&gt; é composto de arquivos e pastas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T052130Z" creationid="CALDAS" creationdate="20170915T052130Z">
-        <seg>Um guia de início instantâneo, que traz orientações sobre os principais procedimentos e funções do OmegaT, é exibido na interface do usuário do OmegaT por padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9661,22 +9605,6 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>By Susan Welsh (Open Document Format).</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102932Z" creationid="CALDAS" creationdate="20170915T102932Z">
-        <seg>Por Susan Welsh (formato de documento aberto - ODF).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>By Susan Welsh (PDF format).</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102959Z" creationid="CALDAS" creationdate="20170915T102959Z">
-        <seg>Por Susan Welsh (formato PDF).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>By Takashi Miyamoto (in Japanese).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114016Z" creationid="CALDAS" creationdate="20170912T113954Z">
@@ -10386,8 +10314,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check spelling (various procedures)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043614Z" creationid="CALDAS" creationdate="20170914T123114Z">
-        <seg>Verificar a ortografia (vários procedimentos).</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T123114Z" creationid="CALDAS" creationdate="20170914T123114Z">
+        <seg>Verificar a ortografia (vários procedimentos)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10929,14 +10857,6 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Compatibility HowTos</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T103857Z" creationid="CALDAS" creationdate="20170915T103857Z">
-        <seg>Instruções sobre compatibilidade</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025758Z" creationid="mroch" creationdate="20170915T025736Z">
@@ -11123,32 +11043,32 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Contributed by Didier Briel.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T044211Z" creationid="CALDAS" creationdate="20170914T032001Z">
-        <seg>Contribuição de Didier Briel.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T032001Z" creationid="CALDAS" creationdate="20170914T032001Z">
+        <seg>Com a contribuição de Didier Briel</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Contributed by Dmitri Gabinski.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T042311Z" creationid="CALDAS" creationdate="20170914T031601Z">
-        <seg>Contribuição de Dmitri Gabinski.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T032007Z" creationid="CALDAS" creationdate="20170914T031601Z">
+        <seg>Com a contribuição de Dmitri Gabinski.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Contributed by Henry Pijffers.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T042311Z" creationid="CALDAS" creationdate="20170914T033612Z">
-        <seg>Contribuição de Henry Pijffers.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T033612Z" creationid="CALDAS" creationdate="20170914T033612Z">
+        <seg>Com a contribuição de Henry Pijffers.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Contributed by Marc Prior.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T042311Z" creationid="CALDAS" creationdate="20170914T041318Z">
-        <seg>Contribuição de Marc Prior.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041820Z" creationid="CALDAS" creationdate="20170914T041318Z">
+        <seg>Com a contribuição de Marc Prior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11580,8 +11500,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create a TMX file containing all strings, with identical source and target</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043549Z" creationid="CALDAS" creationdate="20170914T122534Z">
-        <seg>Criar um arquivo TMX contendo todos os segmentos com origem e destino idênticos;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T122913Z" creationid="CALDAS" creationdate="20170914T122534Z">
+        <seg>Criar um arquivo TMX contendo todos os segmentos com origem e destino idênticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12214,14 +12134,6 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Custom Colours</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T104718Z" creationid="Sheila" creationdate="20170915T104718Z">
-        <seg>Cores personalizadas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Custom Colours Selection</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113925Z" creationid="Evandro" creationdate="20160312T113919Z">
@@ -12466,65 +12378,6 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181837Z" creationid="karol" creationdate="20160308T181837Z">
         <seg>Dependendo das regras de segmentação, o par de tags pode ficar separado em dois segmentos consecutivos e a validação de tags, por cautela, marcará os dois segmentos.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Describes OmegaT's compatibility with Déjà Vu.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T105632Z" creationid="CALDAS" creationdate="20170915T105632Z">
-        <seg>Descreve a compatibilidade do OmegaT com o Déjà Vu.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T105521Z" creationid="CALDAS" creationdate="20170915T104941Z">
-        <seg>Descreve a compatibilidade do OmegaT com arquivos do Microsoft Office 2007, em especial, o Word 2007.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Describes OmegaT's compatibility with selected other software products.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T104033Z" creationid="CALDAS" creationdate="20170915T104033Z">
-        <seg>Descreve a compatibilidade do OmegaT em relação a outros software.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Describes OmegaT's propagation and one-to-many matching features.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123613Z" creationid="CALDAS" creationdate="20170915T123613Z">
-        <seg>Descreve a propagação do OmegaT e recursos de correspondência de um para muitos.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Describes OmegaT's spellchecking feature.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123214Z" creationid="CALDAS" creationdate="20170915T123214Z">
-        <seg>Descreve o recurso de verificação ortográfica do OmegaT.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T114539Z" creationid="CALDAS" creationdate="20170915T114516Z">
-        <seg>Descreve como usar o OmegaT em conjunto com Iceni Infix para traduzir arquivos em formato PDF.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note>Pesquisando termo "uncleaned".
-
-Contamido ou irregular?</note>
-      <tuv lang="EN">
-        <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123116Z" creationid="CALDAS" creationdate="20170915T110728Z">
-        <seg>Descreve como usar o OmegaT em conjunto com o formato RTF bilíngue do Trados (arquivos "bilíngue com marcas").</seg>
       </tuv>
     </tu>
     <tu>
@@ -13609,14 +13462,6 @@ project_save.tmx não foi atualizada no servidor, e o SVN entrou em estado inst�
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Déjà Vu compatibility</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T105558Z" creationid="CALDAS" creationdate="20170915T105539Z">
-        <seg>Compatibilidade com o Déjà Vu</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
@@ -14696,14 +14541,6 @@ propagate that work, subject to this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Exclusion Patterns</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T104615Z" creationid="Sheila" creationdate="20170915T104615Z">
-        <seg>Padrões de exclusão</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Executing external command...</seg>
@@ -14883,8 +14720,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Extract all source text from the project files into a single, large text file</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043543Z" creationid="CALDAS" creationdate="20170914T122424Z">
-        <seg>Extrair todo o texto de origem dos arquivos de projeto em um único grande arquivo de texto;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T122424Z" creationid="CALDAS" creationdate="20170914T122424Z">
+        <seg>Extrair todo o texto de origem dos arquivos de projeto em um único grande arquivo de texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -16737,14 +16574,6 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>HOWTOs</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T103014Z" creationid="CALDAS" creationdate="20170915T103014Z">
-        <seg>INSTRUÇÕES</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>HTML Help Compiler</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105443Z" creationid="Evandro" creationdate="20160312T105443Z">
@@ -16773,14 +16602,6 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T173211Z" creationid="karol" creationdate="20160308T173211Z">
         <seg>Arquivos HTML e XHTML</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>HTML user manual online</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102504Z" creationid="CALDAS" creationdate="20170915T102504Z">
-        <seg>Manual do usuário on-line em HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -17341,14 +17162,6 @@ SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171233Z" creationid="karol" creationdate="20160308T171233Z">
         <seg>Islandês</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Iceni Infix</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T110904Z" creationid="CALDAS" creationdate="20170915T110904Z">
-        <seg>Iceni Infix</seg>
       </tuv>
     </tu>
     <tu>
@@ -20200,14 +20013,6 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T052342Z" creationid="CALDAS" creationdate="20170915T052342Z">
-        <seg>Ele pode ser encontrado na pasta "docs", na pasta de instalação do OmegaT.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181422Z" creationid="karol" creationdate="20160308T181422Z">
@@ -21842,14 +21647,6 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>MS Translator</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123712Z" creationid="CALDAS" creationdate="20170915T123658Z">
-        <seg>Microsoft Translator</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Mac OS X Users</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182154Z" creationid="karol" creationdate="20160308T182154Z">
@@ -22424,8 +22221,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Matches Changed</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T105034Z" creationid="Evandro" creationdate="20160312T114137Z">
-        <seg>Correspondências alteradas</seg>
+      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114137Z" creationid="Evandro" creationdate="20160312T114137Z">
+        <seg>Correspondências Alteradas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22433,8 +22230,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Matches Deleted Active</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T105055Z" creationid="Evandro" creationdate="20160312T114225Z">
-        <seg>Correspondências excluídas ativas</seg>
+      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114225Z" creationid="Evandro" creationdate="20160312T114225Z">
+        <seg>Correspondências Excluídas Ativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22442,8 +22239,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Matches Deleted Inactive</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T105058Z" creationid="Evandro" creationdate="20160312T114241Z">
-        <seg>Correspondências excluídas inativas</seg>
+      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114241Z" creationid="Evandro" creationdate="20160312T114241Z">
+        <seg>Correspondências Excluídas Inativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22451,8 +22248,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Matches Inserted Active</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T105047Z" creationid="Evandro" creationdate="20160312T114149Z">
-        <seg>Correspondências inseridas ativas</seg>
+      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114206Z" creationid="Evandro" creationdate="20160312T114149Z">
+        <seg>Correspondências Inseridas Ativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22460,8 +22257,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Matches Inserted Inactive</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T105052Z" creationid="Evandro" creationdate="20160312T114215Z">
-        <seg>Correspondências inseridas inativas</seg>
+      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114215Z" creationid="Evandro" creationdate="20160312T114215Z">
+        <seg>Correspondências Inseridas Inativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22469,8 +22266,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Matches Unchanged</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T105042Z" creationid="Evandro" creationdate="20160312T114147Z">
-        <seg>Correspondências não alteradas</seg>
+      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114147Z" creationid="Evandro" creationdate="20160312T114147Z">
+        <seg>Correspondências Não Alteradas</seg>
       </tuv>
     </tu>
     <tu>
@@ -24235,22 +24032,6 @@ otherwise be available to you under applicable patent law.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Notification (flash)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T105123Z" creationid="Sheila" creationdate="20170915T105123Z">
-        <seg>Notificação (rápida)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Notification (steady)</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T105129Z" creationid="Sheila" creationdate="20170915T105112Z">
-        <seg>Notificação (constante)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T222953Z" creationid="Sheila" creationdate="20170905T222953Z">
@@ -24646,14 +24427,6 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>OmegaT compatibility</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T103905Z" creationid="CALDAS" creationdate="20170915T103905Z">
-        <seg>Compatibilidade do OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and Configuration.properties) contain a template entry.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T132925Z" creationid="Sheila" creationdate="20170905T013930Z">
@@ -24690,14 +24463,6 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003732Z" creationid="karol" creationdate="20160309T003732Z">
         <seg>O OmegaT segue procedimentos muito restritos ao carregar arquivos de memória de tradução (tmx).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>OmegaT for Beginners tutorial</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102827Z" creationid="CALDAS" creationdate="20170915T102827Z">
-        <seg>Tutorial para Iniciantes do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -24837,14 +24602,6 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181301Z" creationid="karol" creationdate="20160308T181301Z">
         <seg>O OmegaT é um pacote que pode ser baixado a partir do SourceForge.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T050944Z" creationid="CALDAS" creationdate="20170915T050944Z">
-        <seg>O OmegaT é fornecido com um manual do usuário abrangente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24998,8 +24755,8 @@ http://omegat.org/reviews</note>
       <tuv lang="EN">
         <seg>OmegaT training course.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043030Z" creationid="CALDAS" creationdate="20170914T101236Z">
-        <seg>Curso de treinamento do OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T101236Z" creationid="CALDAS" creationdate="20170914T101236Z">
+        <seg>Curso de treinamento do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -26890,14 +26647,6 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Preview</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123958Z" creationid="CALDAS" creationdate="20170915T123958Z">
-        <seg>Pré-visualização</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113739Z" creationid="Evandro" creationdate="20160312T113739Z">
@@ -27026,14 +26775,6 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172808Z" creationid="karol" creationdate="20160308T172808Z">
         <seg>Problemas com dicionários</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Procedure for configuring Microsoft Translator.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123758Z" creationid="CALDAS" creationdate="20170915T123758Z">
-        <seg>Procedimento para configurar o Microsoft Translator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27354,15 +27095,6 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172639Z" creationid="karol" creationdate="20160308T172639Z">
         <seg>Os projetos podem ser gerenciados de acordo com seu estilo de desenvolvimento e necessidades.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note>Ainda não estou certo se o termo "one-to-many" equivale a tradução literal proposta.</note>
-      <tuv lang="EN">
-        <seg>Propagation and one-to-many matching</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123407Z" creationid="CALDAS" creationdate="20170915T123407Z">
-        <seg>Propagação e correspondência de um para muitos</seg>
       </tuv>
     </tu>
     <tu>
@@ -28103,8 +27835,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remove all text except tags, or all tags except text</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T044252Z" creationid="CALDAS" creationdate="20170914T123051Z">
-        <seg>Remover todo o texto com exceção das tags, ou todas as tags com exceção do texto;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T123051Z" creationid="CALDAS" creationdate="20170914T123051Z">
+        <seg>Remover todo o texto com exceção das tags, ou todas as tags  com exceção do texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -28695,8 +28427,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Review of OmegaT 2.3.0.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T045702Z" creationid="CALDAS" creationdate="20170912T113502Z">
-        <seg>Análise sobre o OmegaT 2.3.0.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T015434Z" creationid="CALDAS" creationdate="20170912T113502Z">
+        <seg>Análise sobre o OmegaT 2.3.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -29374,8 +29106,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Scripts/procedures are available to enable you to do the following:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043535Z" creationid="CALDAS" creationdate="20170914T121015Z">
-        <seg>Os scripts/procedimentos disponíveis permitem fazer o seguinte:</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T121237Z" creationid="CALDAS" creationdate="20170914T121015Z">
+        <seg>Os scripts/procedimentos disponíveis permitem que você faça o seguinte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30421,14 +30153,6 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Setting up a preview function for use with OmegaT.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T124203Z" creationid="CALDAS" creationdate="20170915T124203Z">
-        <seg>Criação de uma função de pré-visualização para usar com o OmegaT.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Settings dialogs</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T100533Z" creationid="karol" creationdate="20160309T003902Z">
@@ -30760,8 +30484,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Skip segments containing a certain set of characters</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043538Z" creationid="CALDAS" creationdate="20170914T121608Z">
-        <seg>Ignorar os segmentos que contêm um determinado conjunto de caracteres;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T121608Z" creationid="CALDAS" creationdate="20170914T121608Z">
+        <seg>Ignorar os segmentos que contêm um determinado conjunto de caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -31396,14 +31120,6 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Spellchecking</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123153Z" creationid="CALDAS" creationdate="20170915T123153Z">
-        <seg>Verificação Ortográfica</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Spelling dictionaries</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T104930Z" creationid="CALDAS" creationdate="20170914T104743Z">
@@ -31422,7 +31138,7 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Sponsorship</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T100654Z" creationid="CALDAS" creationdate="20170912T114844Z">
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114844Z" creationid="CALDAS" creationdate="20170912T114844Z">
         <seg>Patrocinadores</seg>
       </tuv>
     </tu>
@@ -32469,8 +32185,8 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       <tuv lang="EN">
         <seg>Tcl/tk utility providing a formatted layout preview of translated files.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T042737Z" creationid="CALDAS" creationdate="20170914T093639Z">
-        <seg>Utilitário tcl/tk que fornece uma pré-visualização formatada do layout de arquivos traduzidos.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T093639Z" creationid="CALDAS" creationdate="20170914T093639Z">
+        <seg>Utilitário tcl/tk que fornece uma pré-visualização do layout formatado de arquivos traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32578,14 +32294,6 @@ this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201459Z" creationid="karol" creationdate="20160308T201459Z">
         <seg>Rescisão.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Terminology</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T104725Z" creationid="Sheila" creationdate="20170915T104725Z">
-        <seg>Terminologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -33033,14 +32741,6 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004126Z" creationid="karol" creationdate="20160309T004126Z">
         <seg>O painel Glossário permite que você acesse a sua própria coleção de expressões e terminologia especializada que construiu em seus arquivos glossário.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The HTML user manual for OmegaT standard version.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102657Z" creationid="CALDAS" creationdate="20170915T102657Z">
-        <seg>O manual do usuário em HTML para a versão padrão do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33992,14 +33692,6 @@ instead.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172609Z" creationid="karol" creationdate="20160308T172609Z">
         <seg>Os seguintes termos, que serão usados no texto abaixo, merecem uma explicação curta:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The following tutorials are available online/for download:</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102742Z" creationid="CALDAS" creationdate="20170915T102742Z">
-        <seg>Os seguintes tutoriais estão disponíveis on-line e para download:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35560,14 +35252,6 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The user manual for OmegaT in PDF format (OmegaT version 3.6.0 update 5).</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T101626Z" creationid="CALDAS" creationdate="20170915T101626Z">
-        <seg>O manual do usuário para o OmegaT em formato PDF (OmegaT, versão 3.6.0, atualização 5).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The user manual is an HTML document with links to different chapters.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005257Z" creationid="karol" creationdate="20160309T005257Z">
@@ -36101,8 +35785,8 @@ not accept this License.</seg>
       <tuv lang="EN">
         <seg>Third-party software for use with OmegaT</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043507Z" creationid="CALDAS" creationdate="20170914T104709Z">
-        <seg>Software de terceiros para usar no OmegaT</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T104709Z" creationid="CALDAS" creationdate="20170914T104709Z">
+        <seg>Software de terceiros para uso com o OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -36284,8 +35968,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043856Z" creationid="CALDAS" creationdate="20170914T035325Z">
-        <seg>Esta coleção de scripts pode ser útil para programadores com conhecimento de tcl/tk.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035325Z" creationid="CALDAS" creationdate="20170914T035325Z">
+        <seg>Esta coleção de scripts pode ser útil para programadores com conhecimento de tcl/tk (Tool Command Language).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37220,14 +36904,6 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T051540Z" creationid="CALDAS" creationdate="20170915T051540Z">
-        <seg>Para abrir o manual a partir do OmegaT, simplesmente selecione Ajuda &gt; Manual do usuário, ou pressione F1.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and change the content of &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T225804Z" creationid="Sheila" creationdate="20170903T225804Z">
@@ -37925,8 +37601,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Toxic was contributed by Marc Prior.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T042311Z" creationid="CALDAS" creationdate="20170914T035556Z">
-        <seg>Contribuição de Marc Prior.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T041843Z" creationid="CALDAS" creationdate="20170914T035556Z">
+        <seg>Com a contribuição de Marc Prior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38306,14 +37982,6 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Tutorials</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102700Z" creationid="CALDAS" creationdate="20170915T102700Z">
-        <seg>Tutoriais</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Twi</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001016Z" creationid="Evandro" creationdate="20160310T001016Z">
@@ -38546,33 +38214,6 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T173029Z" creationid="karol" creationdate="20160308T173029Z">
         <seg>Desmarque esta opção para prevenir danos às tags (por exemplo, exclusão parcial) durante a edição.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note>Pesquisando termo "uncleaned".
-
-microsoft.com = sem limpeza / com erros
-mymemory = contaminado
-
-bruto, sujo, impuro
-
-Conversa com a Sheila:
-
-arquivo bilíngue com marcas de formatação visíveis
-com marcas
-bilíngue com marcas **
-
-Ver:
-http://docs.translatehouse.org/projects/localization-guide/en/latest/guide/translation_memory_with_wordfast.html
-
-https://tradoshelp.wordpress.com/2010/12/
-
-http://necco.ca/dv/trados.htm</note>
-      <tuv lang="EN">
-        <seg>Uncleaned RTF</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T122958Z" creationid="CALDAS" creationdate="20170915T105955Z">
-        <seg>RTF bilíngue com marcas</seg>
       </tuv>
     </tu>
     <tu>
@@ -39331,18 +38972,10 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>User manual online</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102508Z" creationid="CALDAS" creationdate="20170915T052350Z">
-        <seg>Manual do usuário on-line</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>User manuals</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T050555Z" creationid="mroch" creationdate="20170912T234300Z">
-        <seg>Manuais do usuário</seg>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T234300Z" creationid="mroch" creationdate="20170912T234300Z">
+        <seg>Manual do usuário...</seg>
       </tuv>
     </tu>
     <tu>
@@ -39432,14 +39065,6 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182226Z" creationid="karol" creationdate="20160308T182226Z">
         <seg>Usando o Java Web Start</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Using OmegaT in conjunction with Google Translate.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123655Z" creationid="CALDAS" creationdate="20170915T123655Z">
-        <seg>Usando o OmegaT junto com o Google Translate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40572,14 +40197,6 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>With links to more detailed HOWTOs.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T104637Z" creationid="CALDAS" creationdate="20170915T104637Z">
-        <seg>Com links para INSTRUÇÕES mais detalhadas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>With that option, no locking occurs.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182430Z" creationid="karol" creationdate="20160308T182430Z">
@@ -41119,14 +40736,6 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005220Z" creationid="karol" creationdate="20160309T005220Z">
         <seg>Para acrescentar arquivos fonte de páginas da Internet ao projeto, gravados no MediaWiki, basta clicar no botão &lt;g4&gt; "Importar do MediaWiki"&lt;/g4&gt; e fornecer o URL correspondente.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T052226Z" creationid="CALDAS" creationdate="20170915T052226Z">
-        <seg>Também é possível abrir o manual do usuário fornecido com o OmegaT sem iniciar o programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42697,6 +42306,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>bitext2tmx</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T123715Z" creationid="CALDAS" creationdate="20170914T110631Z">
+        <seg>Bitext2tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>bm</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001000Z" creationid="Evandro" creationdate="20160310T001000Z">
@@ -43245,14 +42862,6 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T210909Z" creationid="Sheila" creationdate="20170903T210909Z">
         <seg>doc-license.txt</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>docx compatibility</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T105619Z" creationid="CALDAS" creationdate="20170915T104653Z">
-        <seg>Compatibilidade com arquivos docx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44183,14 +43792,6 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001004Z" creationid="Evandro" creationdate="20160310T001004Z">
         <seg>ho</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>howtos/export_uncleaned_rtf.html</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T113210Z" creationid="Sheila" creationdate="20170915T113210Z">
-        <seg>howtos/export_uncleaned_rtf.html</seg>
       </tuv>
     </tu>
     <tu>
