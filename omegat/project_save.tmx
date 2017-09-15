@@ -1797,6 +1797,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025115Z" creationid="mroch" creationdate="20170915T025115Z">
+        <seg>(O nome disso é "tradução automática" e terá que procurar em outro lugar.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005426Z" creationid="karol" creationdate="20160309T005426Z">
@@ -6701,6 +6709,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T210820Z" creationid="karol" creationdate="20160309T004508Z">
         <seg>&lt;r0&gt;Observação:&lt;/r0&gt;é possível esconder a janela de Arquivos do projeto. Basta passar &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; para &lt;e2&gt;falso&lt;/e2&gt; no arquivo &lt;f3&gt;omegat.prefs&lt;/f3&gt; (é possível acessá-lo no menu Opções / Acessar pasta de configurações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024833Z" creationid="mroch" creationdate="20170915T024833Z">
+        <seg>O &lt;s0&gt;OmegaT&lt;/s0&gt; é uma ferramenta de memória de tradução livre escrita em Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19989,6 +20005,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It does not translate for you!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024915Z" creationid="mroch" creationdate="20170915T024915Z">
+        <seg>Ele não traduz para você!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It has been translated into a number of languages.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170523T185625Z" creationid="karol" creationdate="20160308T181317Z">
@@ -20009,6 +20033,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170531T001326Z" creationid="karol" creationdate="20160308T171910Z">
         <seg>É uma linguagem de multiparadigma, com suporte a estilos de programação orientados a objetos, imperativos e funcionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024856Z" creationid="mroch" creationdate="20170915T024856Z">
+        <seg>É um software destinado a tradutores profissionais.</seg>
       </tuv>
     </tu>
     <tu>
