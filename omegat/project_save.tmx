@@ -10889,6 +10889,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility HowTos</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T103857Z" creationid="CALDAS" creationdate="20170915T103857Z">
+        <seg>Instruções sobre compatibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025758Z" creationid="mroch" creationdate="20170915T025736Z">
@@ -12410,6 +12418,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181837Z" creationid="karol" creationdate="20160308T181837Z">
         <seg>Dependendo das regras de segmentação, o par de tags pode ficar separado em dois segmentos consecutivos e a validação de tags, por cautela, marcará os dois segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with selected other software products.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T104033Z" creationid="CALDAS" creationdate="20170915T104033Z">
+        <seg>Descreve a compatibilidade do OmegaT em relação a outros software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24479,6 +24495,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181858Z" creationid="karol" creationdate="20160308T181858Z">
         <seg>OmegaT pode verificar as variáveis de programação (como %s, por exemplo) nos segmentos fonte na tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT compatibility</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T103905Z" creationid="CALDAS" creationdate="20170915T103905Z">
+        <seg>Compatibilidade do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
