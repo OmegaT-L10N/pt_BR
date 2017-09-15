@@ -12445,6 +12445,17 @@ unpacking, reading or copying.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Pesquisando termo "uncleaned".
+
+Contamido ou irregular?</note>
+      <tuv lang="EN">
+        <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T110728Z" creationid="CALDAS" creationdate="20170915T110728Z">
+        <seg>Descreve como usar o OmegaT em conjunto com o formato RTF bilíngue do Trados (arquivos "contaminados").</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
@@ -17250,6 +17261,14 @@ SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171233Z" creationid="karol" creationdate="20160308T171233Z">
         <seg>Islandês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Iceni Infix</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T110904Z" creationid="CALDAS" creationdate="20170915T110904Z">
+        <seg>Iceni Infix</seg>
       </tuv>
     </tu>
     <tu>
@@ -38380,8 +38399,9 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       <note>Pesquisando termo "uncleaned".
 
 microsoft.com = sem limpeza / com erros
+mymemory = contaminado
 
-bruto, sujo, impuro
+bruto, sujo, impuro, 
 </note>
       <tuv lang="EN">
         <seg>Uncleaned RTF</seg>
