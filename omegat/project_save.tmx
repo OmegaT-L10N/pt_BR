@@ -32185,8 +32185,8 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       <tuv lang="EN">
         <seg>Tcl/tk utility providing a formatted layout preview of translated files.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T093639Z" creationid="CALDAS" creationdate="20170914T093639Z">
-        <seg>Utilitário tcl/tk que fornece uma pré-visualização do layout formatado de arquivos traduzidos.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T042737Z" creationid="CALDAS" creationdate="20170914T093639Z">
+        <seg>Utilitário tcl/tk que fornece uma pré-visualização formatada do layout de arquivos traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
