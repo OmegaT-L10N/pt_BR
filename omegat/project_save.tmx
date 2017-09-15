@@ -12446,6 +12446,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's spellchecking feature.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123214Z" creationid="CALDAS" creationdate="20170915T123214Z">
+        <seg>Descreve o recurso de verificação ortográfica do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T114539Z" creationid="CALDAS" creationdate="20170915T114516Z">
@@ -27245,6 +27253,15 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Ainda não estou certo se o termo "one-to-many" equivale a tradução literal proposta.</note>
+      <tuv lang="EN">
+        <seg>Propagation and one-to-many matching</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123407Z" creationid="CALDAS" creationdate="20170915T123407Z">
+        <seg>Propagação e correspondência de um para muitos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Propagation includes copying,
 distribution (with or without modification), making available to the
@@ -31263,6 +31280,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003236Z" creationid="karol" creationdate="20160309T003236Z">
         <seg>Definição do verificador ortográfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecking</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123153Z" creationid="CALDAS" creationdate="20170915T123153Z">
+        <seg>Verificação Ortográfica</seg>
       </tuv>
     </tu>
     <tu>
