@@ -12422,6 +12422,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Déjà Vu.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T105632Z" creationid="CALDAS" creationdate="20170915T105632Z">
+        <seg>Descreve a compatibilidade do OmegaT com o Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T105521Z" creationid="CALDAS" creationdate="20170915T104941Z">
@@ -13515,6 +13523,14 @@ project_save.tmx não foi atualizada no servidor, e o SVN entrou em estado inst�
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001002Z" creationid="Evandro" creationdate="20160310T001002Z">
         <seg>Dzongkha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Déjà Vu compatibility</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T105558Z" creationid="CALDAS" creationdate="20170915T105539Z">
+        <seg>Compatibilidade com o Déjà Vu</seg>
       </tuv>
     </tu>
     <tu>
@@ -38362,6 +38378,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uncleaned RTF</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T105955Z" creationid="CALDAS" creationdate="20170915T105955Z">
+        <seg>As RTF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Under Linux, if &lt;a2&gt;OmegaT&lt;/a2&gt; is still asking for your credentials, you can checking the &lt;g3&gt;Force saving password as plain text&lt;/g3&gt; checkbox.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172712Z" creationid="karol" creationdate="20160308T172712Z">
@@ -43028,8 +43052,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>docx compatibility</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T104843Z" creationid="CALDAS" creationdate="20170915T104653Z">
-        <seg>Compatibilidade com docx.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T105619Z" creationid="CALDAS" creationdate="20170915T104653Z">
+        <seg>Compatibilidade com arquivos docx.</seg>
       </tuv>
     </tu>
     <tu>
