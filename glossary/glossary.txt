@@ -60,3 +60,4 @@ source segment	segmento de origem
 application	ferramenta
 user manual	manual do usuário
 Iceni Infix	Iceni Infix
+Preview	Pré-visualização
