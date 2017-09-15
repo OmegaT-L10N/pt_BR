@@ -12446,6 +12446,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's propagation and one-to-many matching features.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123613Z" creationid="CALDAS" creationdate="20170915T123613Z">
+        <seg>Descreve a propagação do OmegaT e recursos de correspondência de um para muitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Describes OmegaT's spellchecking feature.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123214Z" creationid="CALDAS" creationdate="20170915T123214Z">
@@ -39305,6 +39313,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182226Z" creationid="karol" creationdate="20160308T182226Z">
         <seg>Usando o Java Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using OmegaT in conjunction with Google Translate.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123655Z" creationid="CALDAS" creationdate="20170915T123655Z">
+        <seg>Usando o OmegaT junto com o Google Translate.</seg>
       </tuv>
     </tu>
     <tu>
