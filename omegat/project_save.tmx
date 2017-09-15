@@ -2270,6 +2270,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>...and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025553Z" creationid="mroch" creationdate="20170915T025553Z">
+        <seg>... e cerca de 30 outros formatos de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182057Z" creationid="karol" creationdate="20160308T182057Z">
@@ -2703,8 +2711,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024610Z" creationid="mroch" creationdate="20170915T024610Z">
-        <seg>&lt;a0&gt;Baixe&lt;/a0&gt;&lt;a1&gt;Início&lt;/a1&gt;</seg>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T030000Z" creationid="mroch" creationdate="20170915T024610Z">
+        <seg>&lt;a0&gt;Baixe aqui&lt;/a0&gt;&lt;a1&gt;Início&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6717,6 +6725,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024833Z" creationid="mroch" creationdate="20170915T024833Z">
         <seg>O &lt;s0&gt;OmegaT&lt;/s0&gt; é uma ferramenta de memória de tradução livre escrita em Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T030035Z" creationid="mroch" creationdate="20170915T030035Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; está disponível em diferentes versões para se adequar a uma variedade de requisitos de seus usuários.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10841,6 +10857,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025758Z" creationid="mroch" creationdate="20170915T025736Z">
+        <seg>Compatível com outras ferramentas de memória de tradução (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105344Z" creationid="Evandro" creationdate="20160312T105344Z">
@@ -13170,6 +13194,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T115242Z" creationid="CALDAS" creationdate="20170912T115242Z">
         <seg>Doublet KK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025952Z" creationid="mroch" creationdate="20170915T025952Z">
+        <seg>Baixe aqui</seg>
       </tuv>
     </tu>
     <tu>
@@ -19732,6 +19764,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integral spelling checker</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025702Z" creationid="mroch" creationdate="20170915T025702Z">
+        <seg>Verificador ortográfico completo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T163516Z" creationid="CALDAS" creationdate="20170913T163516Z">
@@ -19752,6 +19792,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002444Z" creationid="karol" creationdate="20160309T002444Z">
         <seg>Intenção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Interface to Google Translate</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025833Z" creationid="mroch" creationdate="20170915T025833Z">
+        <seg>Possui interface com o Google Translate</seg>
       </tuv>
     </tu>
     <tu>
@@ -24282,6 +24330,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025929Z" creationid="mroch" creationdate="20170915T025929Z">
+        <seg>Captura de tela do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Team Projects</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172544Z" creationid="karol" creationdate="20160308T172544Z">
@@ -26085,6 +26141,14 @@ em seguida, confirme tudo.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plain text</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025549Z" creationid="mroch" creationdate="20170915T025549Z">
+        <seg>Texto simples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plain text files</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181326Z" creationid="karol" creationdate="20160308T181326Z">
@@ -26417,6 +26481,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103940Z" creationid="Evandro" creationdate="20160312T103940Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025556Z" creationid="mroch" creationdate="20170915T025556Z">
+        <seg>Ferramentas poderosas</seg>
       </tuv>
     </tu>
     <tu>
@@ -30346,6 +30418,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simultaneous use of multiple translation memories</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025410Z" creationid="mroch" creationdate="20170915T025410Z">
+        <seg>Uso simultâneo de mais de uma memória de tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since tags are included in the text itself, it is possible to use segmentation rules to create segments with fewer tags.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181934Z" creationid="karol" creationdate="20160308T181934Z">
@@ -31425,6 +31505,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170746Z" creationid="Sheila" creationdate="20170905T170746Z">
         <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Support for right-to-left languages</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025631Z" creationid="mroch" creationdate="20170915T025631Z">
+        <seg>Suporte para idiomas escritos da direita para a esquerda</seg>
       </tuv>
     </tu>
     <tu>
@@ -37016,6 +37104,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T030055Z" creationid="mroch" creationdate="20170915T030055Z">
+        <seg>Para encontrar a versão adequada para você, siga o link abaixo para o Seletor de Download.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172747Z" creationid="karol" creationdate="20160308T172747Z">
@@ -38166,6 +38262,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185952Z" creationid="Evandro" creationdate="20160311T185952Z">
         <seg>Caractere inesperado {0} ({1})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025605Z" creationid="mroch" creationdate="20170915T025605Z">
+        <seg>Suporte Unicode (UTF-8): pode ser usado com alfabetos não-latinos</seg>
       </tuv>
     </tu>
     <tu>
@@ -40205,6 +40309,14 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Work with more than 30 file formats</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025443Z" creationid="mroch" creationdate="20170915T025443Z">
+        <seg>Trabalhe com mais de 30 formatos de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Working with formatted text</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181810Z" creationid="karol" creationdate="20160308T181810Z">
@@ -40396,6 +40508,14 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105502Z" creationid="Evandro" creationdate="20160312T105502Z">
         <seg>Opções de Filtro XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025448Z" creationid="mroch" creationdate="20170915T025448Z">
+        <seg>XHTML e HTML</seg>
       </tuv>
     </tu>
     <tu>
