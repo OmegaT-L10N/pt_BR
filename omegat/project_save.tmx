@@ -56,6 +56,14 @@ works, such as semiconductor masks.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T103843Z" creationid="CALDAS" creationdate="20170915T103843Z">
+        <seg>Os documentos de "Instruções" neste site, contém informações sobre determinados procedimentos e recursos do OmegaT para usuários avançados, que não são cobertos pelo manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Installation Information" for a User Product means any methods,
 procedures, authorization keys, or other information required to install
 and execute modified versions of a covered work in that User Product from
@@ -9613,6 +9621,22 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102932Z" creationid="CALDAS" creationdate="20170915T102932Z">
+        <seg>Por Susan Welsh (formato de documento aberto - ODF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102959Z" creationid="CALDAS" creationdate="20170915T102959Z">
+        <seg>Por Susan Welsh (formato PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Takashi Miyamoto (in Japanese).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114016Z" creationid="CALDAS" creationdate="20170912T113954Z">
@@ -16578,6 +16602,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105445Z" creationid="Evandro" creationdate="20160312T105445Z">
         <seg>Arquivo HHC muito grande!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HOWTOs</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T103014Z" creationid="CALDAS" creationdate="20170915T103014Z">
+        <seg>INSTRUÇÕES</seg>
       </tuv>
     </tu>
     <tu>
@@ -24487,6 +24519,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003732Z" creationid="karol" creationdate="20160309T003732Z">
         <seg>O OmegaT segue procedimentos muito restritos ao carregar arquivos de memória de tradução (tmx).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102827Z" creationid="CALDAS" creationdate="20170915T102827Z">
+        <seg>Tutorial para Iniciantes do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
