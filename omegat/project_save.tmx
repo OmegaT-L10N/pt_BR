@@ -16110,6 +16110,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024736Z" creationid="mroch" creationdate="20170915T024736Z">
+        <seg>Começando a usar o OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113001Z" creationid="Evandro" creationdate="20160312T113001Z">
@@ -39142,6 +39150,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024805Z" creationid="mroch" creationdate="20170915T024805Z">
+        <seg>Vídeo de &lt;a0&gt;CATgutuEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vietnamese</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171341Z" creationid="karol" creationdate="20160308T171341Z">
@@ -48040,6 +48056,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T190737Z" creationid="Sheila" creationdate="20170625T190737Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>×</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024701Z" creationid="mroch" creationdate="20170915T024701Z">
+        <seg>×</seg>
       </tuv>
     </tu>
     <tu>
