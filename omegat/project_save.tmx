@@ -24606,6 +24606,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T050944Z" creationid="CALDAS" creationdate="20170915T050944Z">
+        <seg>O OmegaT é fornecido com um manual do usuário abrangente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005441Z" creationid="karol" creationdate="20160309T005441Z">
