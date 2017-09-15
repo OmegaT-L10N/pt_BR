@@ -30349,6 +30349,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting up a preview function for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T124203Z" creationid="CALDAS" creationdate="20170915T124203Z">
+        <seg>Criação de uma função de pré-visualização para usar com o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Settings dialogs</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T100533Z" creationid="karol" creationdate="20160309T003902Z">
