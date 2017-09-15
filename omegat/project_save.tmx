@@ -35567,6 +35567,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T023900Z" creationid="mroch" creationdate="20170915T023900Z">
+        <seg>Eles contêm informações de formatação de texto, mas essas informações não podem ser reutilizadas pelo &lt;a0&gt;OmegaT&lt;/a0&gt; para criar arquivos de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They contain the one and the same translation memory contents in different forms, to be used in future projects.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181229Z" creationid="karol" creationdate="20160308T181229Z">
@@ -36562,6 +36570,14 @@ your copyrighted material outside their relationship with you.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201344Z" creationid="karol" creationdate="20160308T201344Z">
         <seg>Os que assim fazem ou executam os trabalhos cobertos para você devem fazê-lo exclusivamente em seu benefício, sob sua direção e controle, com requisitos que lhes proíbem fazer qualquer cópia do seu material protegido pelos direitos autorais fora da sua relação com você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024007Z" creationid="mroch" creationdate="20170915T024007Z">
+        <seg>Dessa forma, os arquivos PDF são tratados como arquivos de texto simples, e os arquivos de saída são arquivos de texto simples.</seg>
       </tuv>
     </tu>
     <tu>
