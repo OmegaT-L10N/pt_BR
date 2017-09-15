@@ -12422,6 +12422,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T104941Z" creationid="CALDAS" creationdate="20170915T104941Z">
+        <seg>Descreve a compatibilidade com arquivos do Microsoft Office 2007, especialmente Word 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Describes OmegaT's compatibility with selected other software products.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T104033Z" creationid="CALDAS" creationdate="20170915T104033Z">
