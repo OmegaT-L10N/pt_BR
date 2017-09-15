@@ -16614,6 +16614,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102504Z" creationid="CALDAS" creationdate="20170915T102504Z">
+        <seg>Manual do usuário on-line em HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML, XHTML, ODF and Infix segmentation</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105636Z" creationid="Evandro" creationdate="20160312T105636Z">
