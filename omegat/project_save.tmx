@@ -38480,7 +38480,14 @@ Conversa com a Sheila:
 
 arquivo bilíngue com marcas de formatação visíveis
 com marcas
-bilíngue com marcas</note>
+bilíngue com marcas **
+
+Ver:
+http://docs.translatehouse.org/projects/localization-guide/en/latest/guide/translation_memory_with_wordfast.html
+
+https://tradoshelp.wordpress.com/2010/12/
+
+http://necco.ca/dv/trados.htm</note>
       <tuv lang="EN">
         <seg>Uncleaned RTF</seg>
       </tuv>
