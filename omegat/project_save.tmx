@@ -40764,6 +40764,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T052226Z" creationid="CALDAS" creationdate="20170915T052226Z">
+        <seg>Também é possível abrir o manual do usuário fornecido com o OmegaT sem iniciar o programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also enable project-specific file filters, which will only be used on the current project, by selecting the &lt;e1&gt;File Filters...&lt;/e1&gt; option in Project Properties.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T095526Z" creationid="karol" creationdate="20160308T173111Z">
