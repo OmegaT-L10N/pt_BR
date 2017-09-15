@@ -2693,6 +2693,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024610Z" creationid="mroch" creationdate="20170915T024610Z">
+        <seg>&lt;a0&gt;Baixe&lt;/a0&gt;&lt;a1&gt;Início&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Folders</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181209Z" creationid="karol" creationdate="20160308T181209Z">
