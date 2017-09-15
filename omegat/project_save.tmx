@@ -20021,6 +20021,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T052342Z" creationid="CALDAS" creationdate="20170915T052342Z">
+        <seg>Ele pode ser encontrado na pasta "docs", na pasta de instalação do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181422Z" creationid="karol" creationdate="20160308T181422Z">
@@ -31154,8 +31162,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Sponsorship</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T045622Z" creationid="CALDAS" creationdate="20170912T114844Z">
-        <seg>Patrocinadores quality assurance</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T100654Z" creationid="CALDAS" creationdate="20170912T114844Z">
+        <seg>Patrocinadores</seg>
       </tuv>
     </tu>
     <tu>
@@ -38992,6 +39000,14 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010534Z" creationid="karol" creationdate="20160309T010534Z">
         <seg>Idioma da interface do usuário para o OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T052350Z" creationid="CALDAS" creationdate="20170915T052350Z">
+        <seg>Manual do usuário online</seg>
       </tuv>
     </tu>
     <tu>
