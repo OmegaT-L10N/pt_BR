@@ -8243,6 +8243,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T052130Z" creationid="CALDAS" creationdate="20170915T052130Z">
+        <seg>Um guia de início instantâneo, que traz orientações sobre os principais procedimentos e funções do OmegaT, é exibido na interface do usuário do OmegaT por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T214144Z" creationid="Sheila" creationdate="20170904T214144Z">
