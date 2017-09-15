@@ -32776,6 +32776,14 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102657Z" creationid="CALDAS" creationdate="20170915T102657Z">
+        <seg>O manual do usuário em HTML para a versão padrão do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
@@ -33724,6 +33732,14 @@ instead.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172609Z" creationid="karol" creationdate="20160308T172609Z">
         <seg>Os seguintes termos, que serão usados no texto abaixo, merecem uma explicação curta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102742Z" creationid="CALDAS" creationdate="20170915T102742Z">
+        <seg>Os seguintes tutoriais estão disponíveis on-line e para download:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38030,6 +38046,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102700Z" creationid="CALDAS" creationdate="20170915T102700Z">
+        <seg>Tutoriais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Twi</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001016Z" creationid="Evandro" creationdate="20160310T001016Z">
@@ -39022,8 +39046,8 @@ na linha {1}, coluna {2}.</seg>
       <tuv lang="EN">
         <seg>User manual online</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T052350Z" creationid="CALDAS" creationdate="20170915T052350Z">
-        <seg>Manual do usuário online</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T102508Z" creationid="CALDAS" creationdate="20170915T052350Z">
+        <seg>Manual do usuário on-line</seg>
       </tuv>
     </tu>
     <tu>
