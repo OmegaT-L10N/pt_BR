@@ -7959,8 +7959,24 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T165728Z" creationid="Sheila" creationdate="20170915T105125Z">
-        <seg>Grupo "aceito" no alinhamento</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T165746Z" creationid="Sheila" creationdate="20170915T105125Z">
+        <seg>Grupo "Aceito" no alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T165744Z" creationid="Sheila" creationdate="20170915T165744Z">
+        <seg>Grupo "precisa de revisão" no alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170915T165757Z" creationid="Sheila" creationdate="20170915T165757Z">
+        <seg>Destaque do alinhamento</seg>
       </tuv>
     </tu>
     <tu>
