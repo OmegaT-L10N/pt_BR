@@ -16030,6 +16030,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fuzzy matching</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025207Z" creationid="mroch" creationdate="20170915T025207Z">
+        <seg>Correspondências parciais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GNOME Users</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182146Z" creationid="karol" creationdate="20160308T182146Z">
@@ -22139,6 +22147,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match propagation</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025233Z" creationid="mroch" creationdate="20170915T025233Z">
+        <seg>Propagação de Correspondências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match statistics</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005240Z" creationid="karol" creationdate="20160309T005240Z">
@@ -26707,6 +26723,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Professional features</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025204Z" creationid="mroch" creationdate="20170915T025204Z">
+        <seg>Funcionalidades profissionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201714Z" creationid="karol" creationdate="20160308T201714Z">
@@ -30310,6 +30334,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005231Z" creationid="karol" creationdate="20160309T005231Z">
         <seg>Simplificar a formatação do texto original no arquivo fonte antes de se iniciar a tradução, reduz bastante a quantidade de tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simultaneous processing of multiple-file projects</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025352Z" creationid="mroch" creationdate="20170915T025352Z">
+        <seg>Processamento simultâneo de projetos com diversos arquivos</seg>
       </tuv>
     </tu>
     <tu>
