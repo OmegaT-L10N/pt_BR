@@ -6072,6 +6072,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PDF files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T023821Z" creationid="mroch" creationdate="20170915T023821Z">
+        <seg>&lt;p0&gt;Arquivos fonte&lt;/p0&gt;&lt;s1&gt;Arquivos PDF&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PO as bilingual files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181337Z" creationid="karol" creationdate="20160308T181337Z">
@@ -6316,6 +6324,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181403Z" creationid="karol" creationdate="20160308T181403Z">
         <seg>&lt;p0&gt;Arquivos destino&lt;/p0&gt; &lt;s1&gt;Outros formatos de arquivo&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;PDF text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T023749Z" creationid="mroch" creationdate="20170915T023749Z">
+        <seg>&lt;p0&gt;Arquivos destino&lt;/p0&gt; &lt;s1&gt;Arquivos de texto simples&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25649,6 +25665,22 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102833Z" creationid="Evandro" creationdate="20160312T102833Z">
         <seg>Entrada PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF files</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T023828Z" creationid="mroch" creationdate="20170915T023828Z">
+        <seg>Arquivos PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T023839Z" creationid="mroch" creationdate="20170915T023839Z">
+        <seg>Arquivos PDF são um caso especial</seg>
       </tuv>
     </tu>
     <tu>
