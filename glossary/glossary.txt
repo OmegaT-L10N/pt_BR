@@ -57,3 +57,4 @@ set	definir; conjunto
 source text	texto de origem
 target segment	segmento de destino
 source segment	segmento de origem
+application	ferramenta
