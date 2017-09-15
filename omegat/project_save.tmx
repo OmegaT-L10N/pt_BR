@@ -21786,6 +21786,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MS Translator</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123712Z" creationid="CALDAS" creationdate="20170915T123658Z">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac OS X Users</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182154Z" creationid="karol" creationdate="20160308T182154Z">
@@ -26810,6 +26818,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123958Z" creationid="CALDAS" creationdate="20170915T123958Z">
+        <seg>Pré-visualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113739Z" creationid="Evandro" creationdate="20160312T113739Z">
@@ -26938,6 +26954,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172808Z" creationid="karol" creationdate="20160308T172808Z">
         <seg>Problemas com dicionários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for configuring Microsoft Translator.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123758Z" creationid="CALDAS" creationdate="20170915T123758Z">
+        <seg>Procedimento para configurar o Microsoft Translator.</seg>
       </tuv>
     </tu>
     <tu>
