@@ -6850,8 +6850,8 @@ on the Program.</seg>
       <tuv lang="EN">
         <seg>A &lt;a0&gt;HowTo describing the tokenizers plug-in&lt;/a0&gt; is also available.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T121918Z" creationid="CALDAS" creationdate="20170913T110253Z">
-        <seg>As &lt;a0&gt;Instruções descrevendo os plugin de tokenizers&lt;/a0&gt; também estão disponíveis.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T044437Z" creationid="CALDAS" creationdate="20170913T110253Z">
+        <seg>&lt;a0&gt;Instruções descrevendo os plugin de tokenizers&lt;/a0&gt; também estão disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11043,8 +11043,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Contributed by Didier Briel.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T042311Z" creationid="CALDAS" creationdate="20170914T032001Z">
-        <seg>Contribuição de Didier Briel</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T044211Z" creationid="CALDAS" creationdate="20170914T032001Z">
+        <seg>Contribuição de Didier Briel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27835,8 +27835,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remove all text except tags, or all tags except text</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043600Z" creationid="CALDAS" creationdate="20170914T123051Z">
-        <seg>Remover todo o texto com exceção das tags, ou todas as tags  com exceção do texto;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T044252Z" creationid="CALDAS" creationdate="20170914T123051Z">
+        <seg>Remover todo o texto com exceção das tags, ou todas as tags com exceção do texto;</seg>
       </tuv>
     </tu>
     <tu>
