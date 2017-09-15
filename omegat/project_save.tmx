@@ -14720,8 +14720,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Extract all source text from the project files into a single, large text file</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T122424Z" creationid="CALDAS" creationdate="20170914T122424Z">
-        <seg>Extrair todo o texto de origem dos arquivos de projeto em um único grande arquivo de texto</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043543Z" creationid="CALDAS" creationdate="20170914T122424Z">
+        <seg>Extrair todo o texto de origem dos arquivos de projeto em um único grande arquivo de texto;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29106,8 +29106,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Scripts/procedures are available to enable you to do the following:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T121237Z" creationid="CALDAS" creationdate="20170914T121015Z">
-        <seg>Os scripts/procedimentos disponíveis permitem que você faça o seguinte:</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043535Z" creationid="CALDAS" creationdate="20170914T121015Z">
+        <seg>Os scripts/procedimentos disponíveis permitem fazer o seguinte:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30484,8 +30484,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Skip segments containing a certain set of characters</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T121608Z" creationid="CALDAS" creationdate="20170914T121608Z">
-        <seg>Ignorar os segmentos que contêm um determinado conjunto de caracteres</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043538Z" creationid="CALDAS" creationdate="20170914T121608Z">
+        <seg>Ignorar os segmentos que contêm um determinado conjunto de caracteres;</seg>
       </tuv>
     </tu>
     <tu>
