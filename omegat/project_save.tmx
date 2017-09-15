@@ -1791,8 +1791,8 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="EN">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T132648Z" creationid="CALDAS" creationdate="20170913T132648Z">
-        <seg>(Não deve ser confundido com o recurso "exportar texto", que também permite que scripts sejam usados com o OmegaT, mas em um nível mais básico).</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T044159Z" creationid="CALDAS" creationdate="20170913T132648Z">
+        <seg>Não deve ser confundido com o recurso "exportar texto", que também permite que scripts sejam usados com o OmegaT, mas em um nível mais básico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35968,8 +35968,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T035325Z" creationid="CALDAS" creationdate="20170914T035325Z">
-        <seg>Esta coleção de scripts pode ser útil para programadores com conhecimento de tcl/tk (Tool Command Language).</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T043856Z" creationid="CALDAS" creationdate="20170914T035325Z">
+        <seg>Esta coleção de scripts pode ser útil para programadores com conhecimento de tcl/tk.</seg>
       </tuv>
     </tu>
     <tu>
