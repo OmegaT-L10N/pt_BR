@@ -40341,6 +40341,14 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With links to more detailed HOWTOs.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T104637Z" creationid="CALDAS" creationdate="20170915T104637Z">
+        <seg>Com links para INSTRUÇÕES mais detalhadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With that option, no locking occurs.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182430Z" creationid="karol" creationdate="20160308T182430Z">
@@ -42458,14 +42466,6 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>bitext2tmx</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T123715Z" creationid="CALDAS" creationdate="20170914T110631Z">
-        <seg>Bitext2tmx</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>bm</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001000Z" creationid="Evandro" creationdate="20160310T001000Z">
@@ -43014,6 +43014,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T210909Z" creationid="Sheila" creationdate="20170903T210909Z">
         <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>docx compatibility</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T104843Z" creationid="CALDAS" creationdate="20170915T104653Z">
+        <seg>Compatibilidade com docx.</seg>
       </tuv>
     </tu>
     <tu>
