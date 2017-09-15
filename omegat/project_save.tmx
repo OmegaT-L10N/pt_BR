@@ -12445,6 +12445,14 @@ unpacking, reading or copying.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T114516Z" creationid="CALDAS" creationdate="20170915T114516Z">
+        <seg>Descreve como usar o OmegaT em conjunto com Icenos Infix para traduzir arquivos em formato PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Pesquisando termo "uncleaned".
 
 Contamido ou irregular?</note>
