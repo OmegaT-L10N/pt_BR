@@ -12459,8 +12459,8 @@ Contamido ou irregular?</note>
       <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T110728Z" creationid="CALDAS" creationdate="20170915T110728Z">
-        <seg>Descreve como usar o OmegaT em conjunto com o formato RTF bilíngue do Trados (arquivos "contaminados").</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T123116Z" creationid="CALDAS" creationdate="20170915T110728Z">
+        <seg>Descreve como usar o OmegaT em conjunto com o formato RTF bilíngue do Trados (arquivos "bilíngue com marcas").</seg>
       </tuv>
     </tu>
     <tu>
@@ -38409,13 +38409,18 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
 microsoft.com = sem limpeza / com erros
 mymemory = contaminado
 
-bruto, sujo, impuro, 
-</note>
+bruto, sujo, impuro
+
+Conversa com a Sheila:
+
+arquivo bilíngue com marcas de formatação visíveis
+com marcas
+bilíngue com marcas</note>
       <tuv lang="EN">
         <seg>Uncleaned RTF</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T110702Z" creationid="CALDAS" creationdate="20170915T105955Z">
-        <seg>RTF irregular</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T122958Z" creationid="CALDAS" creationdate="20170915T105955Z">
+        <seg>RTF bilíngue com marcas</seg>
       </tuv>
     </tu>
     <tu>
