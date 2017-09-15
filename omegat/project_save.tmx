@@ -38377,11 +38377,17 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Pesquisando termo "uncleaned".
+
+microsoft.com = sem limpeza / com erros
+
+bruto, sujo, impuro
+</note>
       <tuv lang="EN">
         <seg>Uncleaned RTF</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T105955Z" creationid="CALDAS" creationdate="20170915T105955Z">
-        <seg>As RTF</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T110702Z" creationid="CALDAS" creationdate="20170915T105955Z">
+        <seg>RTF irregular</seg>
       </tuv>
     </tu>
     <tu>
