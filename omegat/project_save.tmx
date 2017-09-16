@@ -35396,6 +35396,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user interface and documentation were originally written in English.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T025338Z" creationid="CALDAS" creationdate="20170916T025338Z">
+        <seg>A interface do usuário e documentação foram originalmente escritos em inglês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user manual is an HTML document with links to different chapters.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005257Z" creationid="karol" creationdate="20160309T005257Z">
