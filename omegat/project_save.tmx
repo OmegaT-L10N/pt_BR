@@ -16646,6 +16646,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HOWTOs</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T024825Z" creationid="CALDAS" creationdate="20170916T024825Z">
+        <seg>INSTRUÇÕES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML Help Compiler</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105443Z" creationid="Evandro" creationdate="20160312T105443Z">
@@ -37026,8 +37034,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T024731Z" creationid="CALDAS" creationdate="20170916T024731Z">
-        <seg>Para abrir o manual a partir do OmegaT, basta selecionar Ajuda &gt; manual do utilizador, ou pressione F1.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T024804Z" creationid="CALDAS" creationdate="20170916T024731Z">
+        <seg>Para abrir o manual a partir do OmegaT, basta selecionar Ajuda &gt; Manual do Usuário, ou pressione F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39108,6 +39116,7 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Tinha traduzido mais da metade desse arquivo e metade desapareceu; nem na TM aparece.</note>
       <tuv lang="EN">
         <seg>User manuals</seg>
       </tuv>
