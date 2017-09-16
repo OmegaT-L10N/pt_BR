@@ -7763,6 +7763,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Administrative and technical procedure for localizating OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T024244Z" creationid="CALDAS" creationdate="20170916T024244Z">
+        <seg>Procedimento administrativo e técnico de localização do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced feature HowTos</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T015515Z" creationid="CALDAS" creationdate="20170916T015515Z">
