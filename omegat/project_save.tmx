@@ -178,6 +178,14 @@ License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"We" refers below to the OmegaT project team.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T023444Z" creationid="CALDAS" creationdate="20170916T023316Z">
+        <seg>O pronome "nós" abaixo, refere-se a equipe do projecto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"XX" in the command stands for the two-digit code of the desired language.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182315Z" creationid="karol" creationdate="20160308T182315Z">
@@ -38034,6 +38042,15 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110832Z" creationid="Evandro" creationdate="20160312T110832Z">
         <seg>Tradução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Gostaria de traduzir esse arquivo também - Fabio M Caldas.</note>
+      <tuv lang="EN">
+        <seg>Translation: general remarks</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T023252Z" creationid="CALDAS" creationdate="20170916T023252Z">
+        <seg>Tradução: observações gerais</seg>
       </tuv>
     </tu>
     <tu>
