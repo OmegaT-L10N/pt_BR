@@ -24769,6 +24769,14 @@ http://omegat.org/reviews</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT text export function</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T015839Z" creationid="CALDAS" creationdate="20170916T015839Z">
+        <seg>Função de exportação de texto do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT thus takes the TUV segments corresponding to the project's source and target language codes and uses them as the source and target segments respectively.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003706Z" creationid="karol" creationdate="20160309T003706Z">
@@ -39153,6 +39161,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003240Z" creationid="karol" creationdate="20160309T003240Z">
         <seg>Usando dicionários ortográficos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the OmegaT text export function (scripting interface).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T020704Z" creationid="CALDAS" creationdate="20170916T020704Z">
+        <seg>Usando a função do OmegaT de exportação de texto (interface de script).</seg>
       </tuv>
     </tu>
     <tu>
