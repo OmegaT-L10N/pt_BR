@@ -7739,6 +7739,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T015827Z" creationid="CALDAS" creationdate="20170916T015827Z">
+        <seg>Adiciona reconhecimento de formas flexionadas às funções de glossário e correspondências parciais do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Administration</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170912T233404Z" creationid="mroch" creationdate="20170912T233404Z">
@@ -14847,6 +14855,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T190306Z" creationid="Evandro" creationdate="20160311T190306Z">
         <seg>Erro fatal na linha {0}, coluna {1} durante a análise:{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feature HowTos</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T015527Z" creationid="CALDAS" creationdate="20170916T015527Z">
+        <seg>Instruções de recursos</seg>
       </tuv>
     </tu>
     <tu>
@@ -24761,6 +24777,14 @@ http://omegat.org/reviews</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT tokenizer plugin</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T015613Z" creationid="CALDAS" creationdate="20170916T015613Z">
+        <seg>Plugin de tokenizers do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT training course.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T101236Z" creationid="CALDAS" creationdate="20170914T101236Z">
@@ -31124,6 +31148,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003236Z" creationid="karol" creationdate="20160309T003236Z">
         <seg>Definição do verificador ortográfico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecking</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T015531Z" creationid="CALDAS" creationdate="20170916T015531Z">
+        <seg>Verificação Ortográfica</seg>
       </tuv>
     </tu>
     <tu>
