@@ -7970,6 +7970,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170916T104254Z" creationid="Sheila" creationdate="20170916T104254Z">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182406Z" creationid="karol" creationdate="20160308T182406Z">
