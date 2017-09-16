@@ -24636,6 +24636,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free, open-source translation memory program.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T025323Z" creationid="CALDAS" creationdate="20170916T025323Z">
+        <seg>O OmegaT é um programa de memória de tradução livre e de código aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172842Z" creationid="karol" creationdate="20160308T172842Z">
@@ -32969,6 +32977,14 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project team is not a company or formal legal body, just a group of volunteers involved in the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T025251Z" creationid="CALDAS" creationdate="20170916T025251Z">
+        <seg>A equipe do projeto OmegaT não é uma empresa ou entidade jurídica formal, é apenas um grupo de voluntários envolvidos no projeto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
@@ -38077,7 +38093,6 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Gostaria de traduzir esse arquivo também - Fabio M Caldas.</note>
       <tuv lang="EN">
         <seg>Translation: general remarks</seg>
       </tuv>
