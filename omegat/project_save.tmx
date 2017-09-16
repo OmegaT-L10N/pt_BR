@@ -21597,6 +21597,14 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Localizing OmegaT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T021701Z" creationid="CALDAS" creationdate="20170916T021701Z">
+        <seg>Localização do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Location</seg>
