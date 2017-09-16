@@ -177,11 +177,16 @@ License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>É necessário essa adição?
+
+formas ocultas
+formas não expressas
+desinência **</note>
       <tuv lang="EN">
         <seg>"We" refers below to the OmegaT project team.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T023538Z" creationid="CALDAS" creationdate="20170916T023316Z">
-        <seg>O pronome "nós" refere-se a equipe do projeto OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T032937Z" creationid="CALDAS" creationdate="20170916T023316Z">
+        <seg>O pronome "nós" e suas desinências, referem-se a equipe do projeto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
