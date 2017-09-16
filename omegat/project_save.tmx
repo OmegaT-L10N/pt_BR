@@ -24686,6 +24686,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T024650Z" creationid="CALDAS" creationdate="20170916T024650Z">
+        <seg>O OmegaT é fornecido com um manual do usuário abrangente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005441Z" creationid="karol" creationdate="20160309T005441Z">
@@ -37012,6 +37020,14 @@ computer or modifying a private copy.</seg>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112915Z" creationid="Evandro" creationdate="20160312T112915Z">
         <seg>Para assegurar que nenhuma tradução será perdida, você deve:
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T024731Z" creationid="CALDAS" creationdate="20170916T024731Z">
+        <seg>Para abrir o manual a partir do OmegaT, basta selecionar Ajuda &gt; manual do utilizador, ou pressione F1.</seg>
       </tuv>
     </tu>
     <tu>
