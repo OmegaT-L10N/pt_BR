@@ -10881,6 +10881,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compiling OmegaT from source</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T020810Z" creationid="CALDAS" creationdate="20170916T020752Z">
+        <seg>Compilando o OmegaT a partir da fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105344Z" creationid="Evandro" creationdate="20160312T105344Z">
@@ -11622,6 +11630,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T013823Z" creationid="Sheila" creationdate="20170905T013823Z">
         <seg>Criando uma chave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T020936Z" creationid="CALDAS" creationdate="20170916T020936Z">
+        <seg>Criando um novo filtro de arquivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14579,6 +14595,22 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T182416Z" creationid="Evandro" creationdate="20160311T182416Z">
         <seg>Código de saída: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Explains how to compile OmegaT from the source code.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T020827Z" creationid="CALDAS" creationdate="20170916T020827Z">
+        <seg>Explica como compilar o OmegaT a partir do código-fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Explains how to create a filter for a new file format to be translated by OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T021649Z" creationid="CALDAS" creationdate="20170916T021649Z">
+        <seg>Explica como criar um filtro para um novo formato de arquivo a ser traduzido pelo OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25668,6 +25700,14 @@ http://omegat.org/reviews</note>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214239Z" creationid="karol" creationdate="20160308T214239Z">
         <seg>Outros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other HowTos</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T020712Z" creationid="CALDAS" creationdate="20170916T020712Z">
+        <seg>Outras Instruções</seg>
       </tuv>
     </tu>
     <tu>
