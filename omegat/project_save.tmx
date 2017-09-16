@@ -7747,6 +7747,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advanced feature HowTos</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T015515Z" creationid="CALDAS" creationdate="20170916T015515Z">
+        <seg>Instruções avançadas de recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182258Z" creationid="karol" creationdate="20160308T182258Z">
