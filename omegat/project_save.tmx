@@ -17101,6 +17101,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, since we are not a commercial project, we have no budget for the commissioning of translations.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T032206Z" creationid="CALDAS" creationdate="20170916T032206Z">
+        <seg>No entanto, uma vez que não somos um projeto comercial, nós não tenho orçamento para a colocação em serviço de traduções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T034629Z" creationid="CALDAS" creationdate="20170912T034629Z">
