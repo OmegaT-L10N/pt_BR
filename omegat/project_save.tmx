@@ -7296,6 +7296,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160435Z" creationid="mroch" creationdate="20170918T160435Z">
+        <seg>Ele possui muitos recursos, interface limpa e organizada e, o mais importante, está constantemente sendo aprimorado e possui código aberto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001741Z" creationid="karol" creationdate="20160309T001741Z">
