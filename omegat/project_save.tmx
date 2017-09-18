@@ -12835,6 +12835,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diego Merino - Translator EN &gt; ES</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T155049Z" creationid="mroch" creationdate="20170918T155049Z">
+        <seg>Diego Merino - Tradutor EN &gt; ES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diff (GPL)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010008Z" creationid="karol" creationdate="20160309T010008Z">
@@ -24495,6 +24503,14 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T211037Z" creationid="Sheila" creationdate="20170903T211037Z">
         <seg>ODF - OASIS Open Document Format (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T155226Z" creationid="mroch" creationdate="20170918T155226Z">
+        <seg>Os ODFAuthors e os tradutores italianos do LibreOffice têm orgulho de usar uma ferramenta tão boa em o seu árduo trabalho na Comunidade LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
