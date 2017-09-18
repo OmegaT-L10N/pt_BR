@@ -33350,6 +33350,14 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T161903Z" creationid="mroch" creationdate="20170918T161903Z">
+        <seg>O projeto OmegaT precisa do apoio de voluntários em quase todas as áreas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
