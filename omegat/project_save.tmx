@@ -24953,6 +24953,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is free software.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160604Z" creationid="mroch" creationdate="20170918T160604Z">
+        <seg>OmegaT é um software livre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181150Z" creationid="karol" creationdate="20160308T181150Z">
@@ -24999,6 +25007,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005441Z" creationid="karol" creationdate="20160309T005441Z">
         <seg>OmegaT originou-se do trabalho de Keith Godfrey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160543Z" creationid="mroch" creationdate="20170918T160543Z">
+        <seg>OmegaT não é apenas um produto, é um projeto emocionante, e você pode fazer parte disso!</seg>
       </tuv>
     </tu>
     <tu>
@@ -28958,6 +28974,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160502Z" creationid="mroch" creationdate="20170918T160502Z">
+        <seg>Robert Corner, Instituto Laue-Langevin, France</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Romanian, Moldavian, Moldovan</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171316Z" creationid="karol" creationdate="20160308T171316Z">
@@ -32845,6 +32869,14 @@ O escopo de uma substituição de texto inclui os segmentos destino do projeto, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160635Z" creationid="mroch" creationdate="20170918T160635Z">
+        <seg>Isso significa que usuários como você são livres para baixá-lo e usá-lo com muito poucas restrições.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
@@ -33259,6 +33291,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170912T221639Z" creationid="mroch" creationdate="20170912T221639Z">
         <seg>O projeto OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project and you</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160517Z" creationid="mroch" creationdate="20170918T160517Z">
+        <seg>O projeto OmegaT e você</seg>
       </tuv>
     </tu>
     <tu>
