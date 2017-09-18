@@ -6774,6 +6774,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T153758Z" creationid="mroch" creationdate="20170918T153758Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Versão estável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024833Z" creationid="mroch" creationdate="20170915T024833Z">
@@ -13450,6 +13458,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201850Z" creationid="karol" creationdate="20160308T201850Z">
         <seg>Baixar da página do MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T153423Z" creationid="mroch" creationdate="20170918T153409Z">
+        <seg>Compare as versões</seg>
       </tuv>
     </tu>
     <tu>
