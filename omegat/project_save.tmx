@@ -39604,6 +39604,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Velior's corporate blog &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T083659Z" creationid="CALDAS" creationdate="20170918T083659Z">
+        <seg>Blog da empresa do Velior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Venda</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114458Z" creationid="Evandro" creationdate="20160312T114458Z">
