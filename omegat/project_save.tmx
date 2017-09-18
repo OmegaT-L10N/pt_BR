@@ -46238,6 +46238,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>on translation and the &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T095842Z" creationid="CALDAS" creationdate="20170918T095842Z">
+        <seg>&amp;Na tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170429Z" creationid="karol" creationdate="20160308T170429Z">
