@@ -15660,6 +15660,14 @@ actually uses, or expects or is expected to use, the product.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T161629Z" creationid="mroch" creationdate="20170918T161629Z">
+        <seg>Para os defensores dos programas de código aberto, essa liberdade é ainda mais importante do que não pagar para utilizá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T183224Z" creationid="Evandro" creationdate="20160311T183224Z">
