@@ -56,6 +56,14 @@ works, such as semiconductor masks.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071157Z" creationid="CALDAS" creationdate="20170918T071157Z">
+        <seg>Os documentos de "Instruções" neste site, contém informações sobre determinados procedimentos e recursos do OmegaT para usuários avançados, que não são cobertos pelo manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Installation Information" for a User Product means any methods,
 procedures, authorization keys, or other information required to install
 and execute modified versions of a covered work in that User Product from
@@ -8288,6 +8296,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071135Z" creationid="CALDAS" creationdate="20170918T071135Z">
+        <seg>Um guia de início instantâneo, que traz orientações sobre os principais procedimentos e funções do OmegaT, é exibido na interface do usuário do OmegaT por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T214144Z" creationid="Sheila" creationdate="20170904T214144Z">
@@ -9658,6 +9674,22 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071155Z" creationid="CALDAS" creationdate="20170918T071155Z">
+        <seg>Por Susan Welsh (formato de documento aberto - ODF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071157Z" creationid="CALDAS" creationdate="20170918T071157Z">
+        <seg>Por Susan Welsh (formato PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Takashi Miyamoto (in Japanese).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114016Z" creationid="CALDAS" creationdate="20170912T113954Z">
@@ -10906,6 +10938,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182043Z" creationid="karol" creationdate="20160308T182043Z">
         <seg>Problemas comuns com glossários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compatibility HowTos</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071158Z" creationid="CALDAS" creationdate="20170918T071158Z">
+        <seg>Instruções sobre compatibilidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -12447,6 +12487,22 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181837Z" creationid="karol" creationdate="20160308T181837Z">
         <seg>Dependendo das regras de segmentação, o par de tags pode ficar separado em dois segmentos consecutivos e a validação de tags, por cautela, marcará os dois segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071159Z" creationid="CALDAS" creationdate="20170918T071159Z">
+        <seg>Descreve a compatibilidade com arquivos do Microsoft Office 2007, especialmente Word 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with selected other software products.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071158Z" creationid="CALDAS" creationdate="20170918T071158Z">
+        <seg>Descreve a compatibilidade do OmegaT em relação a outros software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16707,6 +16763,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071153Z" creationid="CALDAS" creationdate="20170918T071153Z">
+        <seg>Manual do usuário on-line em HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML, XHTML, ODF and Infix segmentation</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105636Z" creationid="Evandro" creationdate="20160312T105636Z">
@@ -20118,6 +20182,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171412Z" creationid="karol" creationdate="20160308T171412Z">
         <seg>Ele também pode detectar alguns erros de gramática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071138Z" creationid="CALDAS" creationdate="20170918T071138Z">
+        <seg>Ele pode ser encontrado na pasta "docs", na pasta de instalação do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24544,6 +24616,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT compatibility</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071158Z" creationid="CALDAS" creationdate="20170918T071158Z">
+        <seg>Compatibilidade do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and Configuration.properties) contain a template entry.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T132925Z" creationid="Sheila" creationdate="20170905T013930Z">
@@ -24580,6 +24660,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003732Z" creationid="karol" creationdate="20160309T003732Z">
         <seg>O OmegaT segue procedimentos muito restritos ao carregar arquivos de memória de tradução (tmx).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071155Z" creationid="CALDAS" creationdate="20170918T071155Z">
+        <seg>Tutorial para Iniciantes do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -32909,6 +32997,14 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071153Z" creationid="CALDAS" creationdate="20170918T071153Z">
+        <seg>O manual do usuário em HTML para a versão padrão do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
@@ -33865,6 +33961,14 @@ instead.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172609Z" creationid="karol" creationdate="20160308T172609Z">
         <seg>Os seguintes termos, que serão usados no texto abaixo, merecem uma explicação curta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071154Z" creationid="CALDAS" creationdate="20170918T071154Z">
+        <seg>Os seguintes tutoriais estão disponíveis on-line e para download:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35429,6 +35533,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T025338Z" creationid="CALDAS" creationdate="20170916T025338Z">
         <seg>A interface do usuário e documentação foram originalmente escritos em inglês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format (OmegaT version 3.6.0 update 5).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071152Z" creationid="CALDAS" creationdate="20170918T071152Z">
+        <seg>O manual do usuário para o OmegaT em formato PDF (OmegaT, versão 3.6.0, atualização 5).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37087,8 +37199,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T024804Z" creationid="CALDAS" creationdate="20170916T024731Z">
-        <seg>Para abrir o manual a partir do OmegaT, basta selecionar Ajuda &gt; Manual do Usuário, ou pressione F1.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071133Z" creationid="CALDAS" creationdate="20170916T024731Z">
+        <seg>Para abrir o manual a partir do OmegaT, simplesmente selecione Ajuda &gt; Manual do usuário, ou pressione F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38179,6 +38291,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071154Z" creationid="CALDAS" creationdate="20170918T071154Z">
+        <seg>Tutoriais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Twi</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001016Z" creationid="Evandro" creationdate="20160310T001016Z">
@@ -39165,6 +39285,14 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010534Z" creationid="karol" creationdate="20160309T010534Z">
         <seg>Idioma da interface do usuário para o OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071143Z" creationid="CALDAS" creationdate="20170918T071143Z">
+        <seg>Manual do usuário on-line</seg>
       </tuv>
     </tu>
     <tu>
@@ -40403,6 +40531,14 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With links to more detailed HOWTOs.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071159Z" creationid="CALDAS" creationdate="20170918T071159Z">
+        <seg>Com links para INSTRUÇÕES mais detalhadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With that option, no locking occurs.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182430Z" creationid="karol" creationdate="20160308T182430Z">
@@ -40942,6 +41078,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005220Z" creationid="karol" creationdate="20160309T005220Z">
         <seg>Para acrescentar arquivos fonte de páginas da Internet ao projeto, gravados no MediaWiki, basta clicar no botão &lt;g4&gt; "Importar do MediaWiki"&lt;/g4&gt; e fornecer o URL correspondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071136Z" creationid="CALDAS" creationdate="20170918T071136Z">
+        <seg>Também é possível abrir o manual do usuário fornecido com o OmegaT sem iniciar o programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43068,6 +43212,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T210909Z" creationid="Sheila" creationdate="20170903T210909Z">
         <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>docx compatibility</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071159Z" creationid="CALDAS" creationdate="20170918T071159Z">
+        <seg>Compatibilidade com docx.</seg>
       </tuv>
     </tu>
     <tu>
