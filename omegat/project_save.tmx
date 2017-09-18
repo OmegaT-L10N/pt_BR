@@ -17371,6 +17371,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T155945Z" creationid="mroch" creationdate="20170918T155945Z">
+        <seg>Eu uso o OmegaT como tradutor profissional há mais de 10 anos, e tiro proveito da sua usabilidade e de seu fórum extremamente útil desde quando foi lançado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182218Z" creationid="karol" creationdate="20160308T182218Z">
@@ -39743,6 +39751,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112648Z" creationid="Evandro" creationdate="20160312T112648Z">
         <seg>Verificando tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Valter Mura - Translator EN &gt; IT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T155236Z" creationid="mroch" creationdate="20170918T155236Z">
+        <seg>Valter Mura - Tradutor EN &gt; IT</seg>
       </tuv>
     </tu>
     <tu>
