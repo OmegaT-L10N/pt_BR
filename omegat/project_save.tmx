@@ -1798,6 +1798,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>(In English)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T083718Z" creationid="CALDAS" creationdate="20170918T083718Z">
+        <seg>Inglês</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
@@ -8298,8 +8306,8 @@ organization, or merging organizations.</seg>
       <tuv lang="EN">
         <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071135Z" creationid="CALDAS" creationdate="20170918T071135Z">
-        <seg>Um guia de início instantâneo, que traz orientações sobre os principais procedimentos e funções do OmegaT, é exibido na interface do usuário do OmegaT por padrão.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T084013Z" creationid="CALDAS" creationdate="20170918T071135Z">
+        <seg>Um guia de início rápido, que traz orientações sobre os principais procedimentos e funções do OmegaT, é exibido na interface do usuário do OmegaT por padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39606,8 +39614,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Velior's corporate blog &lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T083659Z" creationid="CALDAS" creationdate="20170918T083659Z">
-        <seg>Blog da empresa do Velior</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T083806Z" creationid="CALDAS" creationdate="20170918T083659Z">
+        <seg>Blog da empresa do Velior &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
