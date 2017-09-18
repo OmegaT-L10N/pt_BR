@@ -8294,6 +8294,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T152728Z" creationid="mroch" creationdate="20170918T152728Z">
+        <seg>Mas, se você já sabe qual versão deseja utilizar, clique link para ter uma visão geral das difernetes versões do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172625Z" creationid="karol" creationdate="20160308T172625Z">
@@ -37511,8 +37519,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T030055Z" creationid="mroch" creationdate="20170915T030055Z">
-        <seg>Para encontrar a versão adequada para você, siga o link abaixo para o Seletor de Download.</seg>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T152635Z" creationid="mroch" creationdate="20170915T030055Z">
+        <seg>Encontre a versão adequada para você seguindo o link abaixo para o Seletor de Download.</seg>
       </tuv>
     </tu>
     <tu>
