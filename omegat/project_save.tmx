@@ -785,6 +785,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101333Z" creationid="Sheila" creationdate="20170918T101333Z">
+        <seg>Consulta de terminologia &amp;TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221539Z" creationid="Sheila" creationdate="20170913T221539Z">
@@ -1381,8 +1389,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Reset This Colour</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114259Z" creationid="Evandro" creationdate="20160312T114259Z">
-        <seg>&amp;Restaurar Esta Cor</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T103300Z" creationid="Evandro" creationdate="20160312T114259Z">
+        <seg>&amp;Restaurar esta cor</seg>
       </tuv>
     </tu>
     <tu>
@@ -3961,6 +3969,22 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T212638Z" creationid="karol" creationdate="20160308T212638Z">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Verifica se faltam tags ou se elas estão posicionadas de forma errada nos arquivos formatados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T103343Z" creationid="Sheila" creationdate="20170918T103343Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferências&lt;/i&gt; &amp;gt; &lt;i&gt;Geral&lt;/i&gt; &amp;gt; &lt;i&gt;Usar TAB para avançar&lt;/i&gt; está marcado&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101414Z" creationid="Sheila" creationdate="20170918T101414Z">
+        <seg>&lt;html&gt;Adicionar padrões usando curings (estilo Apache Ant): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Exemplo: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7562,16 +7586,16 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>Active segment source</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113932Z" creationid="Evandro" creationdate="20160312T113932Z">
-        <seg>Segmento fonte ativo</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101621Z" creationid="Evandro" creationdate="20160312T113932Z">
+        <seg>Segmento de origem ativo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Active segment source text</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113935Z" creationid="Evandro" creationdate="20160312T113935Z">
-        <seg>Texto do segmento fonte ativo</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101631Z" creationid="Evandro" creationdate="20160312T113935Z">
+        <seg>Texto do segmento de origem ativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7579,8 +7603,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>Active segment target</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113957Z" creationid="Evandro" creationdate="20160312T113957Z">
-        <seg>Segmento alvo ativo</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101639Z" creationid="Evandro" creationdate="20160312T113957Z">
+        <seg>Segmento de destino ativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7588,8 +7612,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>Active segment target text</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114008Z" creationid="Evandro" creationdate="20160312T114008Z">
-        <seg>Texto do segmento alvo ativo</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101645Z" creationid="Evandro" creationdate="20160312T114008Z">
+        <seg>Texto do segmento de destino ativo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7986,10 +8010,34 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner "Accepted" Group</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T103138Z" creationid="Sheila" creationdate="20170918T101804Z">
+        <seg>Grupo "Aceito" de alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T103135Z" creationid="Sheila" creationdate="20170918T103135Z">
+        <seg>Grupo "Precisa de revisão" de alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aligner Highlight</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170916T104254Z" creationid="Sheila" creationdate="20170916T104254Z">
-        <seg>Aligner Highlight</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T103153Z" creationid="Sheila" creationdate="20170916T104254Z">
+        <seg>Destaques do alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner Table Row Highlight</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T103251Z" creationid="Sheila" creationdate="20170918T103251Z">
+        <seg>Destaque de linha da tabela de alinhamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -10834,6 +10882,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Colours</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T103311Z" creationid="Sheila" creationdate="20170918T103311Z">
+        <seg>Cores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102217Z" creationid="Evandro" creationdate="20160312T102217Z">
@@ -12251,10 +12307,18 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101553Z" creationid="Sheila" creationdate="20170918T101553Z">
+        <seg>Cores personalizadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours Selection</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113925Z" creationid="Evandro" creationdate="20160312T113919Z">
-        <seg>Seleção de Cores Personalizadas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101557Z" creationid="Evandro" creationdate="20160312T113919Z">
+        <seg>Seleção de cores personalizadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -14671,6 +14735,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185735Z" creationid="Evandro" creationdate="20160311T185735Z">
         <seg>Excluir segmentos órfãos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101343Z" creationid="Sheila" creationdate="20170918T101343Z">
+        <seg>Padrão de exclusão</seg>
       </tuv>
     </tu>
     <tu>
@@ -22418,8 +22490,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Matches Changed</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114137Z" creationid="Evandro" creationdate="20160312T114137Z">
-        <seg>Correspondências Alteradas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101713Z" creationid="Evandro" creationdate="20160312T114137Z">
+        <seg>Correspondências alteradas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22427,8 +22499,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Matches Deleted Active</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114225Z" creationid="Evandro" creationdate="20160312T114225Z">
-        <seg>Correspondências Excluídas Ativas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101732Z" creationid="Evandro" creationdate="20160312T114225Z">
+        <seg>Correspondências excluídas ativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22436,8 +22508,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Matches Deleted Inactive</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114241Z" creationid="Evandro" creationdate="20160312T114241Z">
-        <seg>Correspondências Excluídas Inativas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101738Z" creationid="Evandro" creationdate="20160312T114241Z">
+        <seg>Correspondências excluídas inativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22445,8 +22517,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Matches Inserted Active</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114206Z" creationid="Evandro" creationdate="20160312T114149Z">
-        <seg>Correspondências Inseridas Ativas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101723Z" creationid="Evandro" creationdate="20160312T114149Z">
+        <seg>Correspondências inseridas ativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22454,8 +22526,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Matches Inserted Inactive</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114215Z" creationid="Evandro" creationdate="20160312T114215Z">
-        <seg>Correspondências Inseridas Inativas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101727Z" creationid="Evandro" creationdate="20160312T114215Z">
+        <seg>Correspondências inseridas inativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22463,8 +22535,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Matches Unchanged</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114147Z" creationid="Evandro" creationdate="20160312T114147Z">
-        <seg>Correspondências Não Alteradas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101719Z" creationid="Evandro" creationdate="20160312T114147Z">
+        <seg>Correspondências não alteradas</seg>
       </tuv>
     </tu>
     <tu>
@@ -24225,6 +24297,22 @@ otherwise be available to you under applicable patent law.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201451Z" creationid="karol" creationdate="20160308T201451Z">
         <seg>Apropriados expostos por trabalhos que o contenham; ou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101809Z" creationid="Sheila" creationdate="20170918T101802Z">
+        <seg>Notificação (rápida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101755Z" creationid="Sheila" creationdate="20170918T101755Z">
+        <seg>Notificação (constante)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28566,8 +28654,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Reset &amp;All Colours</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114319Z" creationid="Evandro" creationdate="20160312T114319Z">
-        <seg>Restaurar &amp;Todas as Cores</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T103304Z" creationid="Evandro" creationdate="20160312T114319Z">
+        <seg>Restaurar &amp;todas as cores</seg>
       </tuv>
     </tu>
     <tu>
@@ -31201,16 +31289,16 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source segments</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114015Z" creationid="Evandro" creationdate="20160312T114015Z">
-        <seg>Segmentos fonte</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101654Z" creationid="Evandro" creationdate="20160312T114015Z">
+        <seg>Segmentos de origem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Source segments text</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114016Z" creationid="Evandro" creationdate="20160312T114016Z">
-        <seg>Texto dos segmentos fonte</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101658Z" creationid="Evandro" creationdate="20160312T114016Z">
+        <seg>Texto dos segmentos de origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -32555,6 +32643,14 @@ this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201459Z" creationid="karol" creationdate="20160308T201459Z">
         <seg>Rescisão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101710Z" creationid="Sheila" creationdate="20170918T101710Z">
+        <seg>Terminologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -48560,6 +48656,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113625Z" creationid="Evandro" creationdate="20160312T113625Z">
         <seg>{0} segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T112941Z" creationid="Sheila" creationdate="20170918T112941Z">
+        <seg>{0} alterna a orientação entre LTR, RTL e dependente de idioma</seg>
       </tuv>
     </tu>
     <tu>
