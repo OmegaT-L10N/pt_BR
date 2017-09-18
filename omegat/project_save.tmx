@@ -34704,6 +34704,14 @@ content, constitutes a covered work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much efficient</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T155037Z" creationid="mroch" creationdate="20170918T155037Z">
+        <seg>O acompanhante perfeito para tradutores que procuram eficiência e não querem adicionar complexidade ao processo. Recursos como glossários, auto-completar e tradução automática trazem produtividade para o meu trabalho como tradutor literário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182230Z" creationid="karol" creationdate="20160308T182230Z">
@@ -39446,6 +39454,14 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T023902Z" creationid="mroch" creationdate="20170912T234300Z">
         <seg>Manual do Usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T154415Z" creationid="mroch" creationdate="20170918T154415Z">
+        <seg>Foto do usuário</seg>
       </tuv>
     </tu>
     <tu>
