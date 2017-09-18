@@ -24977,6 +24977,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is open-source software.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160851Z" creationid="mroch" creationdate="20170918T160851Z">
+        <seg>O OmegaT é um programa com código aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is refused access to the system property containing
 the name of your OS and/or the system property containing
 your home folder.</seg>
@@ -32871,8 +32879,8 @@ O escopo de uma substituição de texto inclui os segmentos destino do projeto, 
       <tuv lang="EN">
         <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160635Z" creationid="mroch" creationdate="20170918T160635Z">
-        <seg>Isso significa que usuários como você são livres para baixá-lo e usá-lo com muito poucas restrições.</seg>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160808Z" creationid="mroch" creationdate="20170918T160635Z">
+        <seg>Isso significa que usuários como você são livres para baixar e usar o OmegaT, com muito poucas restrições.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41228,6 +41236,14 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172825Z" creationid="karol" creationdate="20160308T172825Z">
         <seg>Você chega ao mesmo resultado limpando o segmento destino e pressionando &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are also free to copy it and pass it on to other people.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160825Z" creationid="mroch" creationdate="20170918T160737Z">
+        <seg>Você também poderá copiar e distribuir o OmegaT para outras pessoas.</seg>
       </tuv>
     </tu>
     <tu>
