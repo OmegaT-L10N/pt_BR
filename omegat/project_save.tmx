@@ -32877,6 +32877,14 @@ O escopo de uma substituição de texto inclui os segmentos destino do projeto, 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T161340Z" creationid="mroch" creationdate="20170918T161340Z">
+        <seg>Isso significa que se você quiser muito, você pode até modificar OmegaT para se ele adeque às suas nececidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160808Z" creationid="mroch" creationdate="20170918T160635Z">
