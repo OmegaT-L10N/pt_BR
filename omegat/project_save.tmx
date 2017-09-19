@@ -8680,6 +8680,14 @@ to receive a copy likewise does not require acceptance.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T160923Z" creationid="mroch" creationdate="20170919T160923Z">
+        <seg>E quando eles acharem erros ou deficiências na documentação, devem nos informar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And you must show them these terms so they
 know their rights.</seg>
       </tuv>
@@ -25635,6 +25643,14 @@ http://omegat.org/reviews</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T160610Z" creationid="mroch" creationdate="20170919T160610Z">
+        <seg>Uma das coisas mais úteis que os usuários OmegaT podem fazer é ... usar o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182056Z" creationid="karol" creationdate="20160308T182056Z">
@@ -32875,6 +32891,14 @@ this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113537Z" creationid="Evandro" creationdate="20160312T113537Z">
         <seg>Termos com múltiplas traduções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T160558Z" creationid="mroch" creationdate="20170919T160558Z">
+        <seg>Testes</seg>
       </tuv>
     </tu>
     <tu>
