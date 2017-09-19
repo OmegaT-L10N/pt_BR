@@ -8352,8 +8352,8 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T162100Z" creationid="mroch" creationdate="20170918T162100Z">
-        <seg>Embora muitos usuários saibam disso, a maioria deles não ajuda o projeto porque não sabe programar.</seg>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T154815Z" creationid="mroch" creationdate="20170918T162100Z">
+        <seg>Embora muitos usuários saibam disso, a maioria deles não ajuda o porque não sabe programar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27252,6 +27252,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025204Z" creationid="mroch" creationdate="20170915T025204Z">
         <seg>Funcionalidades profissionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155108Z" creationid="mroch" creationdate="20170919T155108Z">
+        <seg>O desenvolvedor desempenha, sem sombra de dúvida, função mais importante no time, e sem programação não existiria nenhum programa.</seg>
       </tuv>
     </tu>
     <tu>
