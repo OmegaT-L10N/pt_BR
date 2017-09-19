@@ -21946,6 +21946,14 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T160247Z" creationid="mroch" creationdate="20170919T160247Z">
+        <seg>A localização do OmegaT para outros idiomas também é uma tarefa contínua, uma vez que novos recursos e funções estão sendo adicionados o tempo todo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Location</seg>
@@ -30038,6 +30046,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the &lt;a0&gt;Localizing OmegaT HowTo&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T160554Z" creationid="mroch" creationdate="20170919T160554Z">
+        <seg>Acesse &lt;a0&gt;Instruções sobre como Localizar o OmegaT&lt;/a0&gt; para ter mais detalhes sobre o a localização/tradução do programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the &lt;e1&gt;Main Menu&lt;/e1&gt; appendix for a full description of all menus and menu items.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004141Z" creationid="karol" creationdate="20160309T004141Z">
@@ -32985,6 +33001,14 @@ O escopo de uma substituição de texto inclui os segmentos destino do projeto, 
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160808Z" creationid="mroch" creationdate="20170918T160635Z">
         <seg>Isso significa que usuários como você são livres para baixar e usar o OmegaT, com muito poucas restrições.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That means there are only a few thousand left!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T160227Z" creationid="mroch" creationdate="20170919T160227Z">
+        <seg>Isso significa que só sobraram alguns milhares de outros idiomas!</seg>
       </tuv>
     </tu>
     <tu>
