@@ -13419,6 +13419,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161018Z" creationid="mroch" creationdate="20170919T161018Z">
+        <seg>Doações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113653Z" creationid="Evandro" creationdate="20160312T113653Z">
@@ -18010,6 +18018,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not, why not write an article on using OmegaT?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161014Z" creationid="mroch" creationdate="20170919T161014Z">
+        <seg>Caso contrário, por que não escrever um artigo sobre o uso do OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If on, when a PO segment (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T173133Z" creationid="karol" creationdate="20160308T173133Z">
@@ -18587,6 +18603,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can program in another language, you can write code to support the core application.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161351Z" creationid="mroch" creationdate="20170919T161351Z">
+        <seg>Se você programa em outra linguagem, você pode nos ajudar escrevendo código que possa ser utilizado pela aplicação principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182346Z" creationid="karol" creationdate="20160308T182346Z">
@@ -18747,6 +18771,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182022Z" creationid="karol" creationdate="20160308T182022Z">
         <seg>Se você já tiver um sistema de tratamento de terminologia é muito provável que ele ofereça a exportação de dados terminológicos via formato TBX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161124Z" creationid="mroch" creationdate="20170919T161124Z">
+        <seg>Se você achou o OmegaT útil e gostaria de nos agradecer fazendo uma &lt;a0&gt;doação&lt;/a0&gt; através da nossa conta no Paypal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18956,6 +18988,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172755Z" creationid="karol" creationdate="20160308T172755Z">
         <seg>Se você quiser ajudar a apoiar o desenvolvimento contínuo do OmegaT, seu apoio seria muito bem-vindo - clique neste link para ir à &lt;u0&gt;conta do OmegaT no PayPal&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161216Z" creationid="mroch" creationdate="20170919T161216Z">
+        <seg>Se você é um programador e conhece Java, verifique a documentação do &lt;a0&gt;Código fonte&lt;/a0&gt; em /docs_devel para ter mais informações sobre como começar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25123,6 +25163,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is written in Java.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161133Z" creationid="mroch" creationdate="20170919T161133Z">
+        <seg>OmegaT é escrito em Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160543Z" creationid="mroch" creationdate="20170918T160543Z">
@@ -27348,6 +27396,22 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025204Z" creationid="mroch" creationdate="20170915T025204Z">
         <seg>Funcionalidades profissionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming (Java)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161127Z" creationid="mroch" creationdate="20170919T161127Z">
+        <seg>Programação (Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming (not Java)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161229Z" creationid="mroch" creationdate="20170919T161229Z">
+        <seg>Programação (outras linguagens)</seg>
       </tuv>
     </tu>
     <tu>
