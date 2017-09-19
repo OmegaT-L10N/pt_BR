@@ -17003,6 +17003,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Have you considered writing some user documentation yourself?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155837Z" creationid="mroch" creationdate="20170919T155837Z">
+        <seg>Você mesmo, já pensou em escrever alguma documentação?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Having no languages defined elicits this kind or a response.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201701Z" creationid="karol" creationdate="20160308T201701Z">
@@ -20735,6 +20743,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It's a real eye-opener!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155925Z" creationid="mroch" creationdate="20170919T155925Z">
+        <seg>É uma experiência realmente reveladora!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171234Z" creationid="karol" creationdate="20160308T171234Z">
@@ -21891,6 +21907,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155928Z" creationid="mroch" creationdate="20170919T155928Z">
+        <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Localization TMX repository</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T102114Z" creationid="CALDAS" creationdate="20170914T102114Z">
@@ -22336,8 +22360,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155727Z" creationid="mroch" creationdate="20170919T155727Z">
-        <seg>Muitos de vocês, que estão lendo isso, serão tradutores que traduzirão muita documentação para usuários.</seg>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155742Z" creationid="mroch" creationdate="20170919T155727Z">
+        <seg>Muitos de vocês, que estão lendo isso, traduzirão muita documentação para usuários.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32937,6 +32961,14 @@ O escopo de uma substituição de texto inclui os segmentos destino do projeto, 
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170354Z" creationid="karol" creationdate="20160308T170354Z">
         <seg>Obrigado a todos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T160205Z" creationid="mroch" creationdate="20170919T160205Z">
+        <seg>Graças a trabalhos anteriores de tradutores voluntários, a interface e os textos de ajuda do OmegaT foram traduzidos para vários idiomas.</seg>
       </tuv>
     </tu>
     <tu>
