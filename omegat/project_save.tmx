@@ -9741,6 +9741,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But I can't program at all, I hear you say.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161448Z" creationid="mroch" creationdate="20170919T161448Z">
+        <seg>"Mas não sei programar nada", você diz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But first, please read
 &lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;.</seg>
       </tuv>
@@ -18526,6 +18534,14 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181237Z" creationid="karol" creationdate="20160308T181237Z">
         <seg>Se já tiver uma lista das palavras que você deseja que o verificador ortográfico ignore/aceite, basta copiar os dois arquivos correspondentes na subpasta &lt;f0&gt;omegat&lt;/f0&gt;do respectivo projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161556Z" creationid="mroch" creationdate="20170919T161556Z">
+        <seg>Se você já está um tanto quanto familiarizado com os computadores em geral e escolher uma linguagem de script direta como Javascript ou Tcl/Tk, você pode aprender o suficiente para poder escrever scripts simples e úteis em apenas algumas semanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32088,6 +32104,14 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161412Z" creationid="mroch" creationdate="20170919T161412Z">
+        <seg>Muito código auxiliar já foi escrito em Javascript, Groovy e Tcl / Tk, por exemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such file formats are designed to hold formatting information.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181347Z" creationid="karol" creationdate="20160308T181347Z">
@@ -40391,6 +40415,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172802Z" creationid="karol" creationdate="20160308T172802Z">
         <seg>Dicionário Webster's completo e revisado (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Well, have you considered learning?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161456Z" creationid="mroch" creationdate="20170919T161456Z">
+        <seg>Bem, você já pensou em aprender?</seg>
       </tuv>
     </tu>
     <tu>
