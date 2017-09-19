@@ -2746,6 +2746,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155616Z" creationid="mroch" creationdate="20170919T155616Z">
+        <seg>&lt;a0&gt;Criar documentação&lt;/a0&gt;é parte importante do processo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170915T030000Z" creationid="mroch" creationdate="20170915T024610Z">
@@ -22322,6 +22330,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001009Z" creationid="Evandro" creationdate="20160310T001009Z">
         <seg>Manx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155727Z" creationid="mroch" creationdate="20170919T155727Z">
+        <seg>Muitos de vocês, que estão lendo isso, serão tradutores que traduzirão muita documentação para usuários.</seg>
       </tuv>
     </tu>
     <tu>
