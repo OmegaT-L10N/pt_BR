@@ -9727,6 +9727,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But programming isn't the only job needing to be done.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155128Z" creationid="mroch" creationdate="20170919T155128Z">
+        <seg>Mas o desenvolvimento não é o único trabalho que precisa ser feito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But this requirement does not apply
 if neither you nor any third party retains the ability to install
 modified object code on the User Product (for example, the work has
