@@ -8350,6 +8350,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T162100Z" creationid="mroch" creationdate="20170918T162100Z">
+        <seg>Embora muitos usuários saibam disso, a maioria deles não ajuda o projeto porque não sabe programar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172352Z" creationid="karol" creationdate="20160308T172352Z">
