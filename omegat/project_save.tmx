@@ -17019,6 +17019,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Have you ever written an article for your professional association's journal?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161005Z" creationid="mroch" creationdate="20170919T161005Z">
+        <seg>Você já pensou em escrever um artigo para a revista da sua associação profissional?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Having no languages defined elicits this kind or a response.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201701Z" creationid="karol" creationdate="20160308T201701Z">
@@ -27743,6 +27751,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003832Z" creationid="karol" creationdate="20160309T003832Z">
         <seg>Memória pseudo-traduzida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publicity</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T160926Z" creationid="mroch" creationdate="20170919T160926Z">
+        <seg>Publicidade</seg>
       </tuv>
     </tu>
     <tu>
