@@ -39769,6 +39769,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User glossaries with recognition of inflected forms</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T162449Z" creationid="mroch" creationdate="20170919T162449Z">
+        <seg>Glossários de usuários com reconhecimento de formas flexionadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User group</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170912T223722Z" creationid="mroch" creationdate="20170912T223722Z">
@@ -41386,14 +41394,6 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105502Z" creationid="Evandro" creationdate="20160312T105502Z">
         <seg>Opções de Filtro XHTML</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>XHTML and HTML</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025448Z" creationid="mroch" creationdate="20170915T025448Z">
-        <seg>XHTML e HTML</seg>
       </tuv>
     </tu>
     <tu>
