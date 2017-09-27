@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10197,6 +10197,22 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed by</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222319Z" creationid="Sheila" creationdate="20170927T222319Z">
+        <seg>Alterado por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed on</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222323Z" creationid="Sheila" creationdate="20170927T222323Z">
+        <seg>Alterado em</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changer</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113727Z" creationid="Evandro" creationdate="20160312T113727Z">
@@ -11807,10 +11823,26 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222327Z" creationid="Sheila" creationdate="20170927T222327Z">
+        <seg>Criado por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T190132Z" creationid="Evandro" creationdate="20160311T190132Z">
         <seg>Criado por: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created on</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222331Z" creationid="Sheila" creationdate="20170927T222331Z">
+        <seg>Criado em</seg>
       </tuv>
     </tu>
     <tu>
@@ -17027,6 +17059,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Has note</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222402Z" creationid="Sheila" creationdate="20170927T222402Z">
+        <seg>Tem notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hausa</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171226Z" creationid="karol" creationdate="20160308T171226Z">
@@ -17487,6 +17527,14 @@ later version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182218Z" creationid="karol" creationdate="20160308T182218Z">
         <seg>IBM oferece JREs para Linux PowerPC em &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ID</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222220Z" creationid="Sheila" creationdate="20170927T222220Z">
+        <seg>ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -20378,10 +20426,26 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222412Z" creationid="Sheila" creationdate="20170927T222412Z">
+        <seg>É alternativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Is default translation</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113732Z" creationid="Evandro" creationdate="20160312T113732Z">
         <seg>É a tradução padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is duplicate</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222415Z" creationid="Sheila" creationdate="20170927T222352Z">
+        <seg>Está duplicada</seg>
       </tuv>
     </tu>
     <tu>
@@ -24036,8 +24100,8 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       <tuv lang="EN">
         <seg>Note</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T003203Z" creationid="karol" creationdate="20160309T003203Z">
-        <seg>Observação:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222427Z" creationid="karol" creationdate="20160309T003203Z">
+        <seg>Nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -26628,6 +26692,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222308Z" creationid="Sheila" creationdate="20170927T222308Z">
+        <seg>Caminho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Path of the TMX starting from the root of /tm</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004122Z" creationid="karol" creationdate="20160309T004122Z">
@@ -28984,6 +29056,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102623Z" creationid="Sheila" creationdate="20170912T102623Z">
         <seg>Resolver conflitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resource name</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222343Z" creationid="Sheila" creationdate="20170927T222343Z">
+        <seg>Nome do recurso</seg>
       </tuv>
     </tu>
     <tu>
@@ -38657,6 +38737,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Translation is fuzzy</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222301Z" creationid="Sheila" creationdate="20170927T222301Z">
+        <seg>A tradução é uma correspondência parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
@@ -40111,6 +40199,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170918T155236Z" creationid="mroch" creationdate="20170918T155236Z">
         <seg>Valter Mura - Tradutor EN &gt; IT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222218Z" creationid="Sheila" creationdate="20170927T222218Z">
+        <seg>Valor</seg>
       </tuv>
     </tu>
     <tu>
