@@ -20428,8 +20428,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Is alternative</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222412Z" creationid="Sheila" creationdate="20170927T222412Z">
-        <seg>É alternativas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170930T141819Z" creationid="Sheila" creationdate="20170927T222412Z">
+        <seg>É alternativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -22780,6 +22780,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003900Z" creationid="karol" creationdate="20160309T003900Z">
         <seg>Janela Estatísticas das correspondências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170930T152140Z" creationid="Sheila" creationdate="20170930T152140Z">
+        <seg>pushMatch type</seg>
       </tuv>
     </tu>
     <tu>
