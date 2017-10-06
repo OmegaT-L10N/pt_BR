@@ -36081,6 +36081,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translation work</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171006T104109Z" creationid="CALDAS" creationdate="20171006T104109Z">
+        <seg>O trabalho de tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translator can add notes to the opened segment, for instance to come back later to the segment and redo the translation, check that alternative translations are correct or to ask colleagues for their opinion.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004134Z" creationid="karol" creationdate="20160309T004134Z">
