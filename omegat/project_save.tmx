@@ -24893,6 +24893,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171006T030555Z" creationid="CALDAS" creationdate="20171006T030555Z">
+        <seg>OmegaT - &lt;s0&gt; A ferramenta de memória de tradução livre&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT 3.5 - User's Guide</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T224425Z" creationid="Sheila" creationdate="20170903T210226Z">
