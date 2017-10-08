@@ -19,8 +19,6 @@ online	on-line
 tool	ferramenta
 place holders	espaços reservados
 placeholders	espaços reservados
-place holder	espaços reservado
-scripts	scripts
 subfolder	subpasta
 folder	pasta
 bug	erro
@@ -40,7 +38,6 @@ project files	arquivos de projeto
 user interface	interface do usuário
 shortcut	atalho
 properties	propriedades
-settings	sonfigurações
 glossary	glossário
 auto-text	autotexto
 possible	possível
@@ -60,4 +57,7 @@ source segment	segmento de origem
 application	ferramenta
 Standard Version	Versão Estável
 Latest Version	Última versão
-user interface	interface
+place holder	espaço reservado
+script	script
+settings	configurações
+user interface	interface de usuário
