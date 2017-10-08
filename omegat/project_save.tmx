@@ -8034,6 +8034,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171008T132726Z" creationid="Sheila" creationdate="20171008T132726Z">
+        <seg>Alinhar arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112712Z" creationid="Evandro" creationdate="20160312T112712Z">
@@ -9689,6 +9697,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184030Z" creationid="Evandro" creationdate="20160311T184030Z">
         <seg>Procurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171008T133447Z" creationid="Sheila" creationdate="20171008T133447Z">
+        <seg>Procurar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -31535,8 +31551,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T010538Z" creationid="karol" creationdate="20160309T010538Z">
-        <seg>Fonte</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171008T133434Z" creationid="karol" creationdate="20160309T010538Z">
+        <seg>Origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -34385,6 +34401,14 @@ instead.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004107Z" creationid="karol" creationdate="20160309T004107Z">
         <seg>A figura acima mostra o modelo de exibição padrão de correspondências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171008T140213Z" creationid="Sheila" creationdate="20171008T140213Z">
+        <seg>O arquivo "{0}" não é compatível.</seg>
       </tuv>
     </tu>
     <tu>
