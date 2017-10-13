@@ -1949,6 +1949,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* The user interface (menus etc.) * The user manual (very comprehensive) * The Instant Start guide (a short introduction to using OmegaT) * The readme file (a document that contains general information about OmegaT) * The Beginner's Tutorial * The OmegaT web pages (probably where you are reading this)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171013T114416Z" creationid="CALDAS" creationdate="20171013T114416Z">
+        <seg>* A interface de usuário (menus, etc.) * O manual do usuário (muito completo) * Início imediato guia (uma breve introdução ao uso do OmegaT) * O arquivo readme (um documento que contém informações gerais sobre o OmegaT) * O Tutorial Iniciante * O OmegaT páginas da web (provavelmente o lugar onde você está lendo isso)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170446Z" creationid="karol" creationdate="20160308T170446Z">
@@ -9091,6 +9099,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181352Z" creationid="karol" creationdate="20160308T181352Z">
         <seg>Atualmente, o OmegaT é compatível com os seguintes formatos de texto formatado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Adição: destas observações</note>
+      <tuv lang="EN">
+        <seg>At the time of writing, the material to be translated comprises:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171013T114444Z" creationid="CALDAS" creationdate="20171013T114407Z">
+        <seg>No momento da escrita destas observações, o material a ser traduzido era composto pela:</seg>
       </tuv>
     </tu>
     <tu>
