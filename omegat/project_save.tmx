@@ -193,8 +193,8 @@ desinência **</note>
       <tuv lang="EN">
         <seg>"We" refers below to the OmegaT project team.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171006T031030Z" creationid="CALDAS" creationdate="20170916T023316Z">
-        <seg>O pronome "nós" e suas desinências, refere-se a equipe do projeto OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171014T043520Z" creationid="CALDAS" creationdate="20170916T023316Z">
+        <seg>O pronome "nós" e suas desinências referem-se a equipe do projeto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17485,8 +17485,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>However, since we are not a commercial project, we have no budget for the commissioning of translations.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T033500Z" creationid="CALDAS" creationdate="20170916T032206Z">
-        <seg>No entanto, uma vez que não somos um projeto comercial, não temos orçamento para a comissão de serviço de traduções.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171014T044138Z" creationid="CALDAS" creationdate="20170916T032206Z">
+        <seg>No entanto, já que não somos um projeto comercial, não temos orçamento para comissionar serviço de traduções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33738,8 +33738,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The OmegaT project team is not a company or formal legal body, just a group of volunteers involved in the OmegaT project.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T025251Z" creationid="CALDAS" creationdate="20170916T025251Z">
-        <seg>A equipe do projeto OmegaT não é uma empresa ou entidade jurídica formal, é apenas um grupo de voluntários envolvidos no projeto OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171014T043552Z" creationid="CALDAS" creationdate="20170916T025251Z">
+        <seg>A equipe do projeto OmegaT não é uma empresa ou entidade jurídica formal, mas apenas um grupo de voluntários envolvidos no projeto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36196,8 +36196,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>The user interface and documentation were originally written in English.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T025338Z" creationid="CALDAS" creationdate="20170916T025338Z">
-        <seg>A interface do usuário e documentação foram originalmente escritos em inglês.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171014T043616Z" creationid="CALDAS" creationdate="20170916T025338Z">
+        <seg>A interface do usuário e documentação foram, originalmente, escritos em inglês.</seg>
       </tuv>
     </tu>
     <tu>
