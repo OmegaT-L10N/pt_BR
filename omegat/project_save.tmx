@@ -9102,12 +9102,11 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Adição: destas observações</note>
       <tuv lang="EN">
         <seg>At the time of writing, the material to be translated comprises:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171013T114444Z" creationid="CALDAS" creationdate="20171013T114407Z">
-        <seg>No momento da escrita destas observações, o material a ser traduzido era composto pela:</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171014T045055Z" creationid="CALDAS" creationdate="20171013T114407Z">
+        <seg>No momento da escrita desta página, o material a ser traduzido era composto pela:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38936,6 +38935,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112556Z" creationid="Evandro" creationdate="20160312T112556Z">
         <seg>Comentários do tradutor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translators are free to tackle as much or as little of the work as they wish.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171014T045348Z" creationid="CALDAS" creationdate="20171014T045348Z">
+        <seg>Os tradutores estão livres para traduzir o material tanto quanto quiserem</seg>
       </tuv>
     </tu>
     <tu>
