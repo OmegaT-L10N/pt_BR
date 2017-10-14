@@ -11301,6 +11301,16 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Depois dos dois pontos há uma quebra de linha, por isso deixei "para" capitalizado.
+Vide: http://omegat.org/howtos/localizing_omegat.html</note>
+      <tuv lang="EN">
+        <seg>Contact the relevant co-ordinator for the translation work: For the user interface, user manual, Instant Start guide and/or the readme file, please contact the OmegaT Localization Co-ordinator.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171014T053925Z" creationid="CALDAS" creationdate="20171014T053925Z">
+        <seg>Entre em contato com o coordenador para o trabalho de tradução: Para a interface do usuário, o manual do usuário, o guia de Início Rápido e/ou o arquivo leiame, por favor, entre em contato com o Coordenador de Localização do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
@@ -27540,6 +27550,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172808Z" creationid="karol" creationdate="20160308T172808Z">
         <seg>Problemas com dicionários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171014T051349Z" creationid="CALDAS" creationdate="20171014T051349Z">
+        <seg>Procedimento</seg>
       </tuv>
     </tu>
     <tu>
