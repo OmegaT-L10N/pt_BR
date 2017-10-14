@@ -19090,6 +19090,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to translate the OmegaT website and/or the Beginner's Tutorial, please contact the OmegaT Website Manager.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171014T054454Z" creationid="CALDAS" creationdate="20171014T054005Z">
+        <seg>Caso deseje traduzir o site do OmegaT e/ou o Tutorial do Iniciante, por favor, contate o Gerente de Site do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003733Z" creationid="karol" creationdate="20160309T003733Z">
