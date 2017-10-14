@@ -19574,6 +19574,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In particular, the main user manual is likely to take around two weeks to translate, and several translators may wish to share the work.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171014T051344Z" creationid="CALDAS" creationdate="20171014T051344Z">
+        <seg>Em particular, o manual do usuário principal pode levar cerca de duas semanas para traduzir e ser preciso que vários tradutores compartilhem o trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In practice, this command will therefore be something like this:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182245Z" creationid="karol" creationdate="20160308T182245Z">
