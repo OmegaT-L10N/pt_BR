@@ -16292,6 +16292,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the user interface, user manual, Instant Start guide and/or the readme file, please contact the &lt;a1&gt;OmegaT Localization Co-ordinator&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T123607Z" creationid="CALDAS" creationdate="20171016T123607Z">
+        <seg>Para a interface do usuário, o manual do usuário, o guia de Início Rápido e/ou o arquivo leiame, por favor, entre em contato com o Coordenador de Localização do OmegaT&lt;a1&gt;.&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005348Z" creationid="karol" creationdate="20160309T005348Z">
