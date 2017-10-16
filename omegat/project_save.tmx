@@ -11360,6 +11360,14 @@ Vide: http://omegat.org/howtos/localizing_omegat.html</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contact the relevant co-ordinator for the translation work:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T122703Z" creationid="CALDAS" creationdate="20171016T122703Z">
+        <seg>Entre em contato com o coordenador para o trabalho de tradução:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181308Z" creationid="karol" creationdate="20160308T181308Z">
@@ -39024,8 +39032,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Translators are free to tackle as much or as little of the work as they wish.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171014T050026Z" creationid="CALDAS" creationdate="20171014T045348Z">
-        <seg>Os tradutores estão livres para se engajarem no trabalho de localização tanto quanto desejarem.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T122526Z" creationid="CALDAS" creationdate="20171014T045348Z">
+        <seg>Os tradutores são livres para se engajarem no trabalho de localização tanto quanto desejarem.</seg>
       </tuv>
     </tu>
     <tu>
