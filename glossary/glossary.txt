@@ -62,3 +62,4 @@ script	script
 settings	configurações
 user interface	interface de usuário
 Instant Start guide	guia de Início Rápido
+readme	leiame
