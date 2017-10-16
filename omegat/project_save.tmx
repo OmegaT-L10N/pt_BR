@@ -1959,16 +1959,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="EN">
         <seg>* The Instant Start guide (a short introduction to using OmegaT)&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T115612Z" creationid="CALDAS" creationdate="20171016T115454Z">
-        <seg>* O Guia de Início Rápido (breve introdução de como usar o OmegaT)&lt;br2/&gt;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T122434Z" creationid="CALDAS" creationdate="20171016T115454Z">
+        <seg>* O guia de Início Rápido (breve introdução de como usar o OmegaT)&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>* The OmegaT web pages (probably where you are reading this)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T115842Z" creationid="CALDAS" creationdate="20171016T115746Z">
-        <seg>* As páginas do site do OmegaT (probably where you are reading this)</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T122456Z" creationid="CALDAS" creationdate="20171016T115746Z">
+        <seg>* As páginas do site do OmegaT (provavelmente, onde você está lendo agora)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1999,8 +1999,8 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="EN">
         <seg>* The user manual (very comprehensive)&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T115402Z" creationid="CALDAS" creationdate="20171016T115305Z">
-        <seg>* O manual do usuário (muito abrangente)&lt;br1/&gt;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T122406Z" creationid="CALDAS" creationdate="20171016T115305Z">
+        <seg>* O manual do usuário (bastante abrangente)&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
