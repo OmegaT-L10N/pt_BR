@@ -8504,6 +8504,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when loading the source files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171017T111731Z" creationid="Sheila" creationdate="20171017T111731Z">
+        <seg>Ocorreu um erro ao carregar o os arquivos de origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T212157Z" creationid="Sheila" creationdate="20170912T212157Z">
@@ -10769,6 +10777,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T160759Z" creationid="karol" creationdate="20160309T160759Z">
         <seg>Selecione o repositório SVN para executar o comando cleanup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose Source File</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171017T175351Z" creationid="Sheila" creationdate="20171017T175351Z">
+        <seg>Choose Source File</seg>
       </tuv>
     </tu>
     <tu>
