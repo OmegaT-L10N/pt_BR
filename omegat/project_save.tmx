@@ -35972,6 +35972,14 @@ Dúvida nesse "call-out" do segmento.</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171017T104514Z" creationid="Sheila" creationdate="20171017T104514Z">
+        <seg>Os arquivos especificados não são compatíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified project is an OmegaT 3.6-style team project.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T145634Z" creationid="Sheila" creationdate="20170912T145634Z">
