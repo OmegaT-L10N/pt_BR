@@ -8090,6 +8090,22 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Algorithm:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161451Z" creationid="Sheila" creationdate="20171023T161451Z">
+        <seg>Algoritmo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Align</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161447Z" creationid="Sheila" creationdate="20171023T161447Z">
+        <seg>Alinhar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align Files</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171008T132726Z" creationid="Sheila" creationdate="20171008T132726Z">
@@ -9402,6 +9418,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161522Z" creationid="Sheila" creationdate="20171023T161522Z">
+        <seg>Pontuação média: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Avestan</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171157Z" creationid="karol" creationdate="20160308T171157Z">
@@ -10096,6 +10120,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculator:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161457Z" creationid="Sheila" creationdate="20171023T161457Z">
+        <seg>Calculadora:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103319Z" creationid="Evandro" creationdate="20160312T103319Z">
@@ -10116,6 +10148,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102301Z" creationid="Sheila" creationdate="20170912T102301Z">
         <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161359Z" creationid="Sheila" creationdate="20171023T161359Z">
+        <seg>Cancelar alinhamento distante</seg>
       </tuv>
     </tu>
     <tu>
@@ -10783,8 +10823,16 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Choose Source File</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T153911Z" creationid="Sheila" creationdate="20171017T175351Z">
-        <seg>Escolha arquivo de origem</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T153917Z" creationid="Sheila" creationdate="20171017T175351Z">
+        <seg>Escolher arquivo de origem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose Target File</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T153925Z" creationid="Sheila" creationdate="20171023T153913Z">
+        <seg>Escolher arquivo de destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -10817,6 +10865,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113601Z" creationid="Evandro" creationdate="20160312T113601Z">
         <seg>Limpar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear Mark</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T160950Z" creationid="Sheila" creationdate="20171023T160950Z">
+        <seg>Limpar marcação</seg>
       </tuv>
     </tu>
     <tu>
@@ -11198,6 +11254,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comparison Mode:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161513Z" creationid="Sheila" creationdate="20171023T161513Z">
+        <seg>Modo de comparação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatibility HowTos</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071158Z" creationid="CALDAS" creationdate="20170918T071158Z">
@@ -11412,6 +11476,14 @@ Vide: http://omegat.org/howtos/localizing_omegat.html</note>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181305Z" creationid="karol" creationdate="20160308T181305Z">
         <seg>Conteúdos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161623Z" creationid="Sheila" creationdate="20171023T161623Z">
+        <seg>Continuar</seg>
       </tuv>
     </tu>
     <tu>
@@ -11783,6 +11855,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110720Z" creationid="Evandro" creationdate="20160312T110720Z">
         <seg>Contabilizar texto &amp;protegido e tags personalizadas nas estatísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Counter:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161505Z" creationid="Sheila" creationdate="20171023T161505Z">
+        <seg>Contador:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14394,6 +14474,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161351Z" creationid="Sheila" creationdate="20171023T161351Z">
+        <seg>Encerrar alinhamento distante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T190043Z" creationid="Evandro" creationdate="20160311T190043Z">
@@ -15642,6 +15730,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T181245Z" creationid="Evandro" creationdate="20160311T181227Z">
         <seg>Filtro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filters...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161614Z" creationid="Sheila" creationdate="20171023T161614Z">
+        <seg>Filtros...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17379,6 +17475,22 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184756Z" creationid="Evandro" creationdate="20160311T184756Z">
         <seg>Esconder &amp;Opções Avançadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161407Z" creationid="Sheila" creationdate="20171023T161407Z">
+        <seg>Destacar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight Pattern...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161426Z" creationid="Sheila" creationdate="20171023T161426Z">
+        <seg>Padrão de destaque...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21332,10 +21444,26 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep All</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161010Z" creationid="Sheila" creationdate="20171023T161010Z">
+        <seg>Manter tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep Mine</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102645Z" creationid="Sheila" creationdate="20170912T102645Z">
         <seg>Manter a minha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep None</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161021Z" creationid="Sheila" creationdate="20171023T161021Z">
+        <seg>Não manter nenhum</seg>
       </tuv>
     </tu>
     <tu>
@@ -22764,6 +22892,14 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Mark Accepted</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T154011Z" creationid="Sheila" creationdate="20171023T154011Z">
+        <seg>Marcar como aceito</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Mark Auto-Populated Segments</seg>
@@ -22778,6 +22914,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172337Z" creationid="karol" creationdate="20160308T172337Z">
         <seg>Marcar caracteres de controle de algoritmo bidirecional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Needs Review</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T160940Z" creationid="Sheila" creationdate="20171023T160940Z">
+        <seg>Marcar como "Precisa de revisão"</seg>
       </tuv>
     </tu>
     <tu>
@@ -23509,12 +23653,28 @@ your receipt of the notice.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T153956Z" creationid="Sheila" creationdate="20171023T153956Z">
+        <seg>Mover para baixo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T171806Z" creationid="Evandro" creationdate="20160312T105741Z">
         <seg>Mover para ci&amp;ma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T153951Z" creationid="Sheila" creationdate="20171023T153951Z">
+        <seg>Mover para cima</seg>
       </tuv>
     </tu>
     <tu>
@@ -26904,6 +27064,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pattern...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161619Z" creationid="Sheila" creationdate="20171023T161619Z">
+        <seg>Padrão...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;e0&gt;omegat&lt;/e0&gt; instead of &lt;e1&gt;OmegaT &lt;/e1&gt;!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T230542Z" creationid="karol" creationdate="20160308T182249Z">
@@ -28315,6 +28483,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Realign Pending</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161321Z" creationid="Sheila" creationdate="20171023T161004Z">
+        <seg>Realinhar pendentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T190302Z" creationid="Evandro" creationdate="20160311T190302Z">
@@ -29220,6 +29396,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T153943Z" creationid="Sheila" creationdate="20171023T153943Z">
+        <seg>Redefinir</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Reset &amp;All Colours</seg>
@@ -29520,6 +29704,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rules...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161608Z" creationid="Sheila" creationdate="20171023T161608Z">
+        <seg>Regras...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and set the settings.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T103916Z" creationid="karol" creationdate="20160308T214419Z">
@@ -29786,6 +29978,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T103739Z" creationid="Evandro" creationdate="20160312T112537Z">
         <seg>Salvar script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save TMX...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T153938Z" creationid="Sheila" creationdate="20171023T153938Z">
+        <seg>Salvar TMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -30589,6 +30789,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003950Z" creationid="karol" creationdate="20160309T003950Z">
         <seg>Segmentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161442Z" creationid="Sheila" creationdate="20171023T161442Z">
+        <seg>Regras de segmentação...</seg>
       </tuv>
     </tu>
     <tu>
@@ -32087,6 +32295,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Split</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161531Z" creationid="Sheila" creationdate="20171023T154001Z">
+        <seg>Separar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sponsorship</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114844Z" creationid="CALDAS" creationdate="20170912T114844Z">
@@ -32117,6 +32333,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T113444Z" creationid="Evandro" creationdate="20160312T112934Z">
         <seg>Iniciar o OmegaT e continuar a traduzir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161346Z" creationid="Sheila" creationdate="20171023T161346Z">
+        <seg>Iniciar alinhamento distante</seg>
       </tuv>
     </tu>
     <tu>
@@ -32217,6 +32441,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T213454Z" creationid="Evandro" creationdate="20160312T110422Z">
         <seg>Lematização, sem tags nem números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Adjust alignment parameters</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T180222Z" creationid="Sheila" creationdate="20171023T180222Z">
+        <seg>Passo 1: Ajustar parâmetros de alinhamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -32472,6 +32704,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025631Z" creationid="mroch" creationdate="20170915T025631Z">
         <seg>Suporte para idiomas escritos da direita para a esquerda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Supported Files</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T153933Z" creationid="Sheila" creationdate="20171023T153933Z">
+        <seg>Arquivos compatíveis</seg>
       </tuv>
     </tu>
     <tu>
@@ -38518,6 +38758,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004054Z" creationid="karol" creationdate="20160309T004054Z">
         <seg>Para usar na sua tradução a correspondência selecionada, pressione &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; para substituir o campo destino com a correspondência, ou  pressione &lt;g7&gt;Ctrl+I&lt;i8/&gt;&lt;/g7&gt; para inseri-la na posição onde está o cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toggle Selected</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161106Z" creationid="Sheila" creationdate="20171023T161037Z">
+        <seg>Alternar seleção</seg>
       </tuv>
     </tu>
     <tu>
@@ -49497,6 +49745,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113722Z" creationid="Evandro" creationdate="20160312T113722Z">
         <seg>← Voltar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161523Z" creationid="Sheila" creationdate="20171023T161523Z">
+        <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161523Z" creationid="Sheila" creationdate="20171023T161523Z">
+        <seg>▼</seg>
       </tuv>
     </tu>
     <tu>
