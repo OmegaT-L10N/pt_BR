@@ -32453,6 +32453,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 2: Make manual corrections</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171025T220003Z" creationid="Sheila" creationdate="20171025T220003Z">
+        <seg>Etapa 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Steps to reproduce</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172740Z" creationid="karol" creationdate="20160308T172740Z">
