@@ -11222,6 +11222,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171104T154930Z" creationid="Sheila" creationdate="20171104T154930Z">
+        <seg>Commit Target Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112853Z" creationid="Evandro" creationdate="20160312T112853Z">
