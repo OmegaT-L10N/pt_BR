@@ -65,3 +65,5 @@ Instant Start guide	guia de Início Rápido
 readme	leiame
 source	de origem
 target	de destino
+Commit	Confirmar
+commit	confirmação
