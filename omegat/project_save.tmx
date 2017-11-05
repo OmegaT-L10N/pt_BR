@@ -3919,16 +3919,16 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout folder and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T095320Z" creationid="karol" creationdate="20160308T172701Z">
-        <seg>&lt;e0&gt;confirme as alterações locais no servidor: &lt;/e0&gt;clique com o botão direito na pasta de checkout local e escolha &lt;g1&gt;SVN Commit....&lt;/g1&gt; A janela Commit abre-se - veja abaixo.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171104T155229Z" creationid="karol" creationdate="20160308T172701Z">
+        <seg>&lt;e0&gt;confirme as alterações locais no servidor: &lt;/e0&gt;clique com o botão direito na pasta de checkout local e escolha &lt;g1&gt;Confirmar no SVN....&lt;/g1&gt; A janela Confirmar abre-se - veja abaixo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170810T161434Z" creationid="karol" creationdate="20160308T172622Z">
-        <seg>&lt;e0&gt;commit: &lt;/e0&gt;uma vez que suas alterações locais estejam prontas, o commit pode ser feito no repositório e elas serão postas à disposição para o resto da equipe.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171104T155156Z" creationid="karol" creationdate="20160308T172622Z">
+        <seg>&lt;e0&gt;confirmar: &lt;/e0&gt;uma vez que suas alterações locais estejam prontas, a confirmação pode ser feita no repositório e elas serão postas à disposição para o resto da equipe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11224,8 +11224,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Commit Target Files</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171104T154930Z" creationid="Sheila" creationdate="20171104T154930Z">
-        <seg>Commit Target Files</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171104T155016Z" creationid="Sheila" creationdate="20171104T154930Z">
+        <seg>Confirmar arquivos de destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -11242,6 +11242,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121158Z" creationid="Sheila" creationdate="20170909T121158Z">
         <seg>Confirmando arquivos de origem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171104T155046Z" creationid="Sheila" creationdate="20171104T155046Z">
+        <seg>Confirmando arquivos de destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -15369,6 +15377,22 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121151Z" creationid="Sheila" creationdate="20170909T121151Z">
         <seg>Falha ao confirmar o arquivo de origem!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171104T155027Z" creationid="Sheila" creationdate="20171104T155027Z">
+        <seg>Falha ao confirmar os arquivos de origem!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171104T155034Z" creationid="Sheila" creationdate="20171104T155034Z">
+        <seg>Falha ao confirmar os arquivos de de destino!</seg>
       </tuv>
     </tu>
     <tu>
@@ -33347,6 +33371,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171104T155051Z" creationid="Sheila" creationdate="20171104T155051Z">
+        <seg>Arquivos de de destino confirmados</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Target folder {0} does not exist.</seg>
@@ -33916,8 +33948,8 @@ for making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The Commit window will open and show the progress of the commit command.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T172703Z" creationid="karol" creationdate="20160308T172703Z">
-        <seg>A janela Commit abrirá e mostrará o progresso do comando de commit.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171104T155238Z" creationid="karol" creationdate="20160308T172703Z">
+        <seg>A janela Confirmar abrirá e mostrará o progresso do comando de confirmação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36093,8 +36125,8 @@ Dúvida nesse "call-out" do segmento.</note>
       <tuv lang="EN">
         <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T172621Z" creationid="karol" creationdate="20160308T172621Z">
-        <seg>O servidor guarda a informação sobre checkouts, para depois fazer o commit (veja abaixo) de uma maneira ordenada.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171104T155119Z" creationid="karol" creationdate="20160308T172621Z">
+        <seg>O servidor guarda a informação sobre checkouts, para depois confirmar (veja abaixo) de uma maneira ordenada.</seg>
       </tuv>
     </tu>
     <tu>
