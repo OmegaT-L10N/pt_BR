@@ -9732,6 +9732,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T225158Z" creationid="grego" creationdate="20171108T225158Z">
+        <seg>Livros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172722Z" creationid="karol" creationdate="20160308T172722Z">
@@ -16694,8 +16702,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T225008Z" creationid="grego" creationdate="20171108T225008Z">
-        <seg>Série de vídeos sobre OmegaT no  YouTube por Miguel Navarro (em espanhol).</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T225142Z" creationid="grego" creationdate="20171108T225008Z">
+        <seg>Série de vídeos no YouTube sobre OmegaT por Miguel Navarro (em espanhol).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41067,6 +41075,22 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171108T224822Z" creationid="grego" creationdate="20171108T224822Z">
         <seg>Vídeo 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T225021Z" creationid="grego" creationdate="20171108T225021Z">
+        <seg>Vídeo 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 3</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T225034Z" creationid="grego" creationdate="20171108T225034Z">
+        <seg>Vídeo 3</seg>
       </tuv>
     </tu>
     <tu>
