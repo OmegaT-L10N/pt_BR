@@ -19004,6 +19004,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T233511Z" creationid="grego" creationdate="20171108T233511Z">
+        <seg>Caso tenha dúvidas sobre qual versão baixar, utilize o &lt;a0&gt;Seletor de Download&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in modifying or distributing &lt;a1&gt;OmegaT&lt;/a1&gt;, read this document carefully and ensure you understand its implications before doing anything.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181313Z" creationid="karol" creationdate="20160308T181313Z">
@@ -22368,6 +22376,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T232416Z" creationid="grego" creationdate="20171108T232416Z">
+        <seg>Os links abaixo estão disponíveis para as diversas versões do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux (Intel) Users</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182131Z" creationid="karol" creationdate="20160308T182131Z">
@@ -25411,6 +25427,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T024013Z" creationid="CALDAS" creationdate="20170915T023804Z">
         <seg>OmegaT - &lt;s0&gt; A ferramenta de memória de tradução livre&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T233531Z" creationid="grego" creationdate="20171108T233531Z">
+        <seg>Seletor de Download do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
