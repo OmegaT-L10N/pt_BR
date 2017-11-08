@@ -37189,6 +37189,14 @@ not accept this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T224230Z" creationid="grego" creationdate="20171108T224230Z">
+        <seg>Esses utilitários permitem que o OmegaT seja usado na tradução de formatos de arquivo para os quais filtros de conversão XLIFF estão disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>They all involve the application of file filters in the&lt;e1&gt; Options &lt;/e1&gt;menu.</seg>
