@@ -58,8 +58,8 @@ works, such as semiconductor masks.</seg>
       <tuv lang="EN">
         <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071157Z" creationid="CALDAS" creationdate="20170918T071157Z">
-        <seg>Os documentos de "Instruções" neste site, contém informações sobre determinados procedimentos e recursos do OmegaT para usuários avançados, que não são cobertos pelo manual.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T014729Z" creationid="CALDAS" creationdate="20170918T071157Z">
+        <seg>Os documentos de "Instruções" neste site contém informações sobre determinados procedimentos e recursos do OmegaT para usuários avançados que não são cobertos pelo manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14064,8 +14064,8 @@ project_save.tmx não foi atualizada no servidor, e o SVN entrou em estado inst�
       <tuv lang="EN">
         <seg>Déjà Vu compatibility</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T004418Z" creationid="grego" creationdate="20171108T004418Z">
-        <seg>compatibilidade com Déjà Vu</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T014803Z" creationid="grego" creationdate="20171108T004418Z">
+        <seg>Compatibilidade com Déjà Vu</seg>
       </tuv>
     </tu>
     <tu>
