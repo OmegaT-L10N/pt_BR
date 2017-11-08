@@ -12927,8 +12927,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012646Z" creationid="grego" creationdate="20171108T012151Z">
-        <seg>Descreve como usar o OmegaT em conjunto com o Iceni Infix para traduzir arquivos no formato PDF.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T015226Z" creationid="grego" creationdate="20171108T012151Z">
+        <seg>Descreve a utilização do OmegaT em conjunto com o Iceni Infix para traduzir arquivos no formato PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27798,6 +27798,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T015414Z" creationid="grego" creationdate="20171108T015414Z">
+        <seg>Visualização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113739Z" creationid="Evandro" creationdate="20160312T113739Z">
@@ -27940,8 +27948,8 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="EN">
         <seg>Procedure for configuring Microsoft Translator.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012932Z" creationid="grego" creationdate="20171108T012932Z">
-        <seg>Procedimento para configurar o Microsoft Translator.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T015302Z" creationid="grego" creationdate="20171108T012932Z">
+        <seg>Procedimento de configuração do Microsoft Translator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31436,6 +31444,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170627T230655Z" creationid="karol" creationdate="20160308T212626Z">
         <seg>Definir a opção Exibir alteração para &lt;e0&gt;Segmento atual&lt;/e0&gt; exibirá a hora e o autor da última mudança no segmento atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up a preview function for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T015603Z" creationid="grego" creationdate="20171108T015603Z">
+        <seg>Como configurar a função de visualização para utilização com o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
