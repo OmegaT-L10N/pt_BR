@@ -36652,6 +36652,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T011203Z" creationid="grego" creationdate="20171108T011203Z">
+        <seg>Manual do usuário em formato PDF ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user manual is an HTML document with links to different chapters.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005257Z" creationid="karol" creationdate="20160309T005257Z">
