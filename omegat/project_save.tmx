@@ -1814,6 +1814,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>(In Italian)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T225223Z" creationid="grego" creationdate="20171108T225223Z">
+        <seg>(em italiano)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
@@ -31383,6 +31391,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T225939Z" creationid="grego" creationdate="20171108T225939Z">
+        <seg>Curso online de treinamento em inglês (para compra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sentence level segmentation</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002406Z" creationid="karol" creationdate="20160309T002406Z">
@@ -39227,6 +39243,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170912T231945Z" creationid="mroch" creationdate="20170912T231945Z">
         <seg>Sistema de rastreamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T225233Z" creationid="grego" creationdate="20171108T225233Z">
+        <seg>Treinamento</seg>
       </tuv>
     </tu>
     <tu>
