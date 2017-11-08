@@ -15349,6 +15349,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T013424Z" creationid="grego" creationdate="20171108T013424Z">
+        <seg>Documentação externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External tools can be used to convert files to supported formats.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181406Z" creationid="karol" creationdate="20160308T181406Z">
@@ -20289,6 +20297,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110958Z" creationid="Evandro" creationdate="20160312T110958Z">
         <seg>Info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T013651Z" creationid="grego" creationdate="20171108T013651Z">
+        <seg>Informação sobre procedimentos e recursos do OmegaT para usuários avançados que pode ser encontrada em outros websites.</seg>
       </tuv>
     </tu>
     <tu>
