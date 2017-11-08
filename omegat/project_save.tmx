@@ -31450,8 +31450,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Setting up a preview function for use with OmegaT.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T015603Z" creationid="grego" creationdate="20171108T015603Z">
-        <seg>Como configurar a função de visualização para utilização com o OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T015651Z" creationid="grego" creationdate="20171108T015603Z">
+        <seg>Como configurar a função de visualização para usá-la com o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39351,6 +39351,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112639Z" creationid="Evandro" creationdate="20160312T112639Z">
         <seg>Projeto de Tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating with Rainbow and OmegaT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T015803Z" creationid="grego" creationdate="20171108T015803Z">
+        <seg>Como traduzir com Rainbow e OmegaT</seg>
       </tuv>
     </tu>
     <tu>
