@@ -12925,10 +12925,18 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's propagation and one-to-many matching features.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T221349Z" creationid="grego" creationdate="20171108T221349Z">
+        <seg>Descreve os recursos do OmegaT de propagação e de correspondência única ou múltipla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Describes OmegaT's spellchecking feature.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T014911Z" creationid="grego" creationdate="20171108T012344Z">
-        <seg>Descreve o recurso de verificação ortográfica do OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T221405Z" creationid="grego" creationdate="20171108T012344Z">
+        <seg>Descreve o recurso do OmegaT de verificação ortográfica.</seg>
       </tuv>
     </tu>
     <tu>
