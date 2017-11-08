@@ -48,11 +48,11 @@
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">checkout:</emphasis> a operação que cria uma cópia de trabalho do repositório no seu computador local. O servidor guarda a informação sobre checkouts, para depois fazer o commit (veja abaixo) de uma maneira ordenada.</para>
+        <para><emphasis role="bold">checkout:</emphasis> a operação que cria uma cópia de trabalho do repositório no seu computador local. O servidor guarda a informação sobre checkouts, para depois confirmar (veja abaixo) de uma maneira ordenada.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">commit: </emphasis>uma vez que suas alterações locais estejam prontas, o commit pode ser feito no repositório e elas serão postas à disposição para o resto da equipe. O servidor garante que qualquer alteração conflitante, devido a dois membros trabalharem no mesmo conteúdo, seja resolvida.</para>
+        <para><emphasis role="bold">confirmar: </emphasis>uma vez que suas alterações locais estejam prontas, a confirmação pode ser feita no repositório e elas serão postas à disposição para o resto da equipe. O servidor garante que qualquer alteração conflitante, devido a dois membros trabalharem no mesmo conteúdo, seja resolvida.</para>
       </listitem>
 
       <listitem>
@@ -172,7 +172,7 @@
 
         </listitem>
         <listitem>
-          <para><emphasis role="bold">confirme as alterações locais no servidor: </emphasis>clique com o botão direito na pasta de checkout local e escolha <guilabel>SVN Commit....</guilabel> A janela Commit abre-se - veja abaixo. Verifique as alterações a fazer - isto é, as pastas e arquivos acrescentados, neste caso.</para>
+          <para><emphasis role="bold">confirme as alterações locais no servidor: </emphasis>clique com o botão direito na pasta de checkout local e escolha <guilabel>Confirmar no SVN....</guilabel> A janela Confirmar abre-se - veja abaixo. Verifique as alterações a fazer - isto é, as pastas e arquivos acrescentados, neste caso.</para>
  
           <mediaobject>
             <imageobject role="html">
@@ -183,7 +183,7 @@
             </imageobject>
           </mediaobject>
 
-          <para>Insira a mensagem apropriada na janela de mensagem e pressione <guilabel>OK</guilabel>. A janela Commit abrirá e mostrará o progresso do comando de commit. Primeiro os conteúdos atuais serão enviados ao repositório do servidor e depois a cópia local do repositório será atualizada - isto é, os conteúdos da subpasta .svn - para mantê-los de acordo com a última versão do repositório.</para>
+          <para>Insira a mensagem apropriada na janela de mensagem e pressione <guilabel>OK</guilabel>. A janela Confirmar abrirá e mostrará o progresso do comando de confirmação. Primeiro os conteúdos atuais serão enviados ao repositório do servidor e depois a cópia local do repositório será atualizada - isto é, os conteúdos da subpasta .svn - para mantê-los de acordo com a última versão do repositório.</para>
         </listitem>
 
         <listitem>

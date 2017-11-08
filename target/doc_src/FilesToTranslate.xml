@@ -184,18 +184,12 @@
       <para>Outros tipos de arquivos de texto formatados podem ser processados pelo OmegaT associando sua extensão de arquivo com um tipo de arquivo compatível, desde que sejam pré-processados com regras de segmentação específica.</para>
     </section>
     <section>
-		<title>PDF files<indexterm class="singular">
-          <primary>Target files</primary>
-          <secondary>PDF text files</secondary>
+		<title>Arquivos PDF<indexterm class="singular">
+          <primary>Arquivos destino</primary> <secondary>Arquivos de texto simples</secondary>
         </indexterm><indexterm class="singular">
-          <primary>Source files</primary>
-          <secondary>PDF files</secondary>
+          <primary>Arquivos fonte</primary><secondary>Arquivos PDF</secondary>
         </indexterm></title>
-  <para>PDF files are a special case. They contain text formatting
-  information, but such information cannot be reused by
-  <application>OmegaT</application> in order to create target files.
-  Thus, PDF files are handled as plain text files, and output files are
-  plain text files.</para>
+  <para>Arquivos PDF são um caso especial Eles contêm informações de formatação de texto, mas essas informações não podem ser reutilizadas pelo <application>OmegaT</application> para criar arquivos de destino. Dessa forma, os arquivos PDF são tratados como arquivos de texto simples, e os arquivos de saída são arquivos de texto simples.</para>
   <para>If you need to reproduce text formatting (as well as other
   things such as drawings) in your translation, there are three ways
   to try:</para>

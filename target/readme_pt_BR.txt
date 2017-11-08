@@ -1,4 +1,4 @@
-${translationNotice}
+@TRANSLATION_NOTICE@
 
 
 O que é OmegaT?
@@ -189,7 +189,7 @@ The most current info about OmegaT can be found at:
 
 Suporte ao usuário, no grupo (poliglota) de usuários do Yahoo, onde os arquivos podem ser pesquisados sem ser preciso fazer a inscrição no grupo:
 
-   http://tech.groups.yahoo.com/group/OmegaT/
+   https://groups.yahoo.com/neo/groups/OmegaT/info
 
 Os pedidos para melhorias (em inglês), no site da SourceForge:
 
