@@ -9732,6 +9732,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Blog pages on OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T230434Z" creationid="grego" creationdate="20171108T230434Z">
+        <seg>Páginas de blog sobrepor OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103539Z" creationid="Evandro" creationdate="20160312T103539Z">
@@ -41049,8 +41057,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Velior's corporate blog &lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T083806Z" creationid="CALDAS" creationdate="20170918T083659Z">
-        <seg>Blog da empresa do Velior &lt;br0/&gt;</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T230309Z" creationid="CALDAS" creationdate="20170918T083659Z">
+        <seg>Blog empresarial da Velior &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47707,8 +47715,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>on translation and the &lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T230147Z" creationid="CALDAS" creationdate="20170918T095842Z">
-        <seg>sobre o ato de traduzir e</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T230341Z" creationid="CALDAS" creationdate="20170918T095842Z">
+        <seg>sobre a tradução e</seg>
       </tuv>
     </tu>
     <tu>
@@ -49382,8 +49390,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>translation industry</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T230112Z" creationid="grego" creationdate="20171108T230112Z">
-        <seg>a indústria da tradução</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T230358Z" creationid="grego" creationdate="20171108T230112Z">
+        <seg>sua indústria</seg>
       </tuv>
     </tu>
     <tu>
