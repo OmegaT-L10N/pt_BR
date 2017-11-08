@@ -12927,16 +12927,16 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012151Z" creationid="grego" creationdate="20171108T012151Z">
-        <seg>Descreve como usar o OmegaT em conjunto com o Iceni Infix para traduzir arquivos no formato PDF.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012358Z" creationid="grego" creationdate="20171108T012151Z">
+        <seg>Descreve como utilizar o OmegaT em conjunto com o Iceni Infix para traduzir arquivos no formato PDF.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T011952Z" creationid="grego" creationdate="20171108T011952Z">
-        <seg>Descreve como usar o OmegaT em conjunto com os arquivos bilíngues em formato RTF do Trados (arquivos"unclean").</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012352Z" creationid="grego" creationdate="20171108T011952Z">
+        <seg>Descreve como utilizar o OmegaT em conjunto com os arquivos bilíngues em formato RTF do Trados (arquivos"unclean").</seg>
       </tuv>
     </tu>
     <tu>
