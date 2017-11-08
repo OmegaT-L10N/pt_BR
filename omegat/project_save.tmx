@@ -8725,6 +8725,14 @@ work under this License, and how to view a copy of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T224815Z" creationid="grego" creationdate="20171108T224815Z">
+        <seg>Um vídeo de intro ao OmegaT em inglês por John Moran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114348Z" creationid="Evandro" creationdate="20160312T114348Z">
@@ -16680,6 +16688,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114108Z" creationid="Evandro" creationdate="20160312T114108Z">
         <seg>Da memória</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T225008Z" creationid="grego" creationdate="20171108T225008Z">
+        <seg>Série de vídeos sobre OmegaT no  YouTube por Miguel Navarro (em espanhol).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25607,6 +25623,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003806Z" creationid="karol" creationdate="20160309T003806Z">
         <seg>O OmegaT tem interface para SVN e Git, dois softwares de equipe comum com versões e sistemas de controle de revisão (RCS), disponíveis sob uma licença open source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T224713Z" creationid="grego" creationdate="20171108T224713Z">
+        <seg>Tutorial de introdução ao OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -41035,6 +41059,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172615Z" creationid="karol" creationdate="20160308T172615Z">
         <seg>Alguns clientes muito populares do ambiente de Windows são &lt;u1&gt;TortoiseSVN&lt;/u1&gt; e &lt;u2&gt;TortoiseGit&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T224822Z" creationid="grego" creationdate="20171108T224822Z">
+        <seg>Vídeo 1</seg>
       </tuv>
     </tu>
     <tu>
