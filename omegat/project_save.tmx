@@ -17695,6 +17695,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T013941Z" creationid="grego" creationdate="20171108T013941Z">
+        <seg>Como traduzir o Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However,
 nothing other than this License grants you permission to propagate or
 modify any covered work.</seg>
@@ -27926,6 +27934,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171108T012932Z" creationid="grego" creationdate="20171108T012932Z">
         <seg>Procedimento para configurar o Microsoft Translator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T013904Z" creationid="grego" creationdate="20171108T013904Z">
+        <seg>Procedimento de como usar o OmegaT para a localização do NetBeans IDE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39278,6 +39294,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T181448Z" creationid="Evandro" creationdate="20160311T181448Z">
         <seg>Segmentos únicos traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T013755Z" creationid="grego" creationdate="20171108T013755Z">
+        <seg>Como traduzir o NetBeans IDE</seg>
       </tuv>
     </tu>
     <tu>
