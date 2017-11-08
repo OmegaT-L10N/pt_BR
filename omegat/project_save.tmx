@@ -1809,8 +1809,8 @@ for which you have or can give appropriate copyright permission.</seg>
       <tuv lang="EN">
         <seg>(In English)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T083718Z" creationid="CALDAS" creationdate="20170918T083718Z">
-        <seg>Inglês</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T230441Z" creationid="CALDAS" creationdate="20170918T083718Z">
+        <seg>( em Inglês)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1819,6 +1819,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171108T225223Z" creationid="grego" creationdate="20171108T225223Z">
         <seg>(em italiano)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In Russian)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T230521Z" creationid="grego" creationdate="20171108T230521Z">
+        <seg>(em russo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9734,8 +9742,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T230434Z" creationid="grego" creationdate="20171108T230434Z">
-        <seg>Páginas de blog sobrepor OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T230515Z" creationid="grego" creationdate="20171108T230434Z">
+        <seg>Páginas de blog sobre OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49390,7 +49398,7 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>translation industry</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T230358Z" creationid="grego" creationdate="20171108T230112Z">
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T230504Z" creationid="grego" creationdate="20171108T230112Z">
         <seg>sua indústria</seg>
       </tuv>
     </tu>
