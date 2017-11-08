@@ -7338,8 +7338,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T020453Z" creationid="grego" creationdate="20171108T020453Z">
-        <seg>Um guia em como usar a Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T020957Z" creationid="grego" creationdate="20171108T020453Z">
+        <seg>Um guia de como usar a Extração de Texto e Combinação de Texto do Rainbow em arquivos pré e pós-processados para traduzi-los no OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
