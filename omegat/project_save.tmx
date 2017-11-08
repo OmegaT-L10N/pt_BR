@@ -7336,6 +7336,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T020453Z" creationid="grego" creationdate="20171108T020453Z">
+        <seg>Um guia em como usar a Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A text file containing two lines:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181317Z" creationid="karol" creationdate="20160308T181317Z">
