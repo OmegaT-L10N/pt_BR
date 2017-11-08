@@ -12917,6 +12917,22 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's spellchecking feature.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012344Z" creationid="grego" creationdate="20171108T012344Z">
+        <seg>Descreve a ferramenta do OmegaT de verificação ortográfica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012151Z" creationid="grego" creationdate="20171108T012151Z">
+        <seg>Descreve como usar o OmegaT em conjunto com o Iceni Infix para traduzir arquivos no formato PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171108T011952Z" creationid="grego" creationdate="20171108T011952Z">
@@ -39678,6 +39694,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T173029Z" creationid="karol" creationdate="20160308T173029Z">
         <seg>Desmarque esta opção para prevenir danos às tags (por exemplo, exclusão parcial) durante a edição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncleaned RTF</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012040Z" creationid="grego" creationdate="20171108T012040Z">
+        <seg>Arquivo RTF unclean</seg>
       </tuv>
     </tu>
     <tu>
