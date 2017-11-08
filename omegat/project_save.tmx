@@ -20642,6 +20642,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T233547Z" creationid="grego" creationdate="20171108T233547Z">
+        <seg>Tipo de instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installation and Use</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171459Z" creationid="karol" creationdate="20160308T171459Z">
@@ -26729,6 +26737,14 @@ http://omegat.org/reviews</note>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214406Z" creationid="karol" creationdate="20160308T214406Z">
         <seg>Abre a janela Verificação de tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T234351Z" creationid="grego" creationdate="20171108T234351Z">
+        <seg>Sistema operacional</seg>
       </tuv>
     </tu>
     <tu>
@@ -41099,6 +41115,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114458Z" creationid="Evandro" creationdate="20160312T114458Z">
         <seg>Venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T233552Z" creationid="grego" creationdate="20171108T233552Z">
+        <seg>Versão</seg>
       </tuv>
     </tu>
     <tu>
