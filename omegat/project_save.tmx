@@ -12919,8 +12919,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Describes OmegaT's spellchecking feature.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012344Z" creationid="grego" creationdate="20171108T012344Z">
-        <seg>Descreve a ferramenta do OmegaT de verificação ortográfica.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T014911Z" creationid="grego" creationdate="20171108T012344Z">
+        <seg>Descreve o recurso de verificação ortográfica do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12935,8 +12935,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012653Z" creationid="grego" creationdate="20171108T011952Z">
-        <seg>Descreve como usar o OmegaT em conjunto com os arquivos bilíngues em formato RTF do Trados (arquivos"unclean").</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T015204Z" creationid="grego" creationdate="20171108T011952Z">
+        <seg>Descreve a utilização do OmegaT em conjunto com os arquivos bilíngues em formato RTF do Trados (arquivos"unclean").</seg>
       </tuv>
     </tu>
     <tu>
