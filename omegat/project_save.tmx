@@ -28330,6 +28330,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Propagation and one-to-many matching</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T221240Z" creationid="grego" creationdate="20171108T221240Z">
+        <seg>Propagação e correspondência única ou múltipla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Propagation includes copying,
 distribution (with or without modification), making available to the
 public, and in some countries other activities as well.</seg>
