@@ -11296,8 +11296,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Compiling OmegaT from source</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T020810Z" creationid="CALDAS" creationdate="20170916T020752Z">
-        <seg>Compilando o OmegaT a partir da fonte</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T013128Z" creationid="CALDAS" creationdate="20170916T020752Z">
+        <seg>Como compilar o OmegaT a partir da fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -12107,8 +12107,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Creating a new file filter</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T020936Z" creationid="CALDAS" creationdate="20170916T020936Z">
-        <seg>Criando um novo filtro de arquivo</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T013143Z" creationid="CALDAS" creationdate="20170916T020936Z">
+        <seg>Como criar um novo filtro de arquivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -20623,6 +20623,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222418Z" creationid="mroch" creationdate="20170912T222418Z">
         <seg>Gerente de Integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Intended in particular for users who are new to Linux.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T013355Z" creationid="grego" creationdate="20171108T013355Z">
+        <seg>Destinado particularmente a novos usuários do Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40598,6 +40606,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using OmegaT on Linux</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T013209Z" creationid="grego" creationdate="20171108T013209Z">
+        <seg>Como usar o OmegaT no Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using TMX with alternative language pairs</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003808Z" creationid="karol" creationdate="20160309T003808Z">
@@ -40648,8 +40664,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using the OmegaT text export function (scripting interface).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T020704Z" creationid="CALDAS" creationdate="20170916T020704Z">
-        <seg>Usando a função do OmegaT de exportação de texto (interface de script).</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T013107Z" creationid="CALDAS" creationdate="20170916T020704Z">
+        <seg>Como usar a função do OmegaT de exportação de texto (interface de script).</seg>
       </tuv>
     </tu>
     <tu>
