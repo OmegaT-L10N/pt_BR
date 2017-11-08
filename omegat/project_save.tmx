@@ -18368,6 +18368,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T234707Z" creationid="grego" creationdate="20171108T234707Z">
+        <seg>Se tiver dúvidas, escolha essa versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
@@ -36956,6 +36964,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T234618Z" creationid="grego" creationdate="20171108T234618Z">
+        <seg>A versão de instalação pelo usuário, familiar àqueles que já usam o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181953Z" creationid="karol" creationdate="20160308T181953Z">
@@ -39307,6 +39323,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170912T231945Z" creationid="mroch" creationdate="20170912T231945Z">
         <seg>Sistema de rastreamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T234453Z" creationid="grego" creationdate="20171108T234453Z">
+        <seg>Tradicional</seg>
       </tuv>
     </tu>
     <tu>
