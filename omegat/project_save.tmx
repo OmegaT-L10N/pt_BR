@@ -12927,16 +12927,16 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012358Z" creationid="grego" creationdate="20171108T012151Z">
-        <seg>Descreve como utilizar o OmegaT em conjunto com o Iceni Infix para traduzir arquivos no formato PDF.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012646Z" creationid="grego" creationdate="20171108T012151Z">
+        <seg>Descreve como usar o OmegaT em conjunto com o Iceni Infix para traduzir arquivos no formato PDF.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012352Z" creationid="grego" creationdate="20171108T011952Z">
-        <seg>Descreve como utilizar o OmegaT em conjunto com os arquivos bilíngues em formato RTF do Trados (arquivos"unclean").</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012653Z" creationid="grego" creationdate="20171108T011952Z">
+        <seg>Descreve como usar o OmegaT em conjunto com os arquivos bilíngues em formato RTF do Trados (arquivos"unclean").</seg>
       </tuv>
     </tu>
     <tu>
@@ -27898,6 +27898,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Procedure for configuring Microsoft Translator.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012932Z" creationid="grego" creationdate="20171108T012932Z">
+        <seg>Procedimento para configurar o Microsoft Translator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proceed?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111141Z" creationid="Evandro" creationdate="20160312T111141Z">
@@ -40578,6 +40586,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182226Z" creationid="karol" creationdate="20160308T182226Z">
         <seg>Usando o Java Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using OmegaT in conjunction with Google Translate.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012726Z" creationid="grego" creationdate="20171108T012726Z">
+        <seg>Como usar o OmegaT em conjunto com o Google Translate.</seg>
       </tuv>
     </tu>
     <tu>
