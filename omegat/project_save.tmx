@@ -6888,8 +6888,16 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T235818Z" creationid="grego" creationdate="20171108T235818Z">
-        <seg>&lt;s1&gt;O benefício é&lt;/s1&gt;: uma vez instaldo, as futuras atualizações da versão Web Start serão instaladas automaticamente em seu computador.&lt;br2/&gt;</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171108T235903Z" creationid="grego" creationdate="20171108T235818Z">
+        <seg>&lt;s1&gt;A vantagem é&lt;/s1&gt;: uma vez instalado, as futuras atualizações da versão Web Start serão instaladas automaticamente em seu computador.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T000411Z" creationid="grego" creationdate="20171109T000411Z">
+        <seg>&lt;s3&gt;A desvantagem é&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
       </tuv>
     </tu>
     <tu>
