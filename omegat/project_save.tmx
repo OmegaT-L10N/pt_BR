@@ -4093,6 +4093,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T001821Z" creationid="grego" creationdate="20171109T001821Z">
+        <seg>&lt;i1&gt;O OmegaT pode ser instalado em qualquer sistema operacional que seja capaz de rodar a versão 1.6 do Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182119Z" creationid="karol" creationdate="20160308T182119Z">
@@ -16401,6 +16409,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T001240Z" creationid="grego" creationdate="20171109T001240Z">
+        <seg>Versão para Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171109T001226Z" creationid="grego" creationdate="20171109T001226Z">
@@ -16413,6 +16429,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171109T001209Z" creationid="grego" creationdate="20171109T001151Z">
         <seg>Versão para sistemas Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T001332Z" creationid="grego" creationdate="20171109T001332Z">
+        <seg>Versão para outros sistemas operacionais (como o FreeBSD e o Solaris).&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
