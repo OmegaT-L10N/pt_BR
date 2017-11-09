@@ -18235,6 +18235,14 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T002538Z" creationid="grego" creationdate="20171109T002328Z">
+        <seg>Caso um JRE na versão requerida já esteja instalado em seu sistema Windows,  selecione "Sem JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a user interface in this language is available, &lt;a3&gt;OmegaT&lt;/a3&gt; uses it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182302Z" creationid="karol" creationdate="20160308T182302Z">
@@ -31488,8 +31496,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T002223Z" creationid="grego" creationdate="20171109T002107Z">
-        <seg>Escolha entre o OmegaT com ou sem o Java Runtime Environment (JRE) incluso para fazer o download.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T002415Z" creationid="grego" creationdate="20171109T002107Z">
+        <seg>Para fazer o download, escolha entre o OmegaT com ou sem Java Runtime Environment (JRE) incluso.</seg>
       </tuv>
     </tu>
     <tu>
