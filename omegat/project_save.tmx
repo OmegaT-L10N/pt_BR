@@ -58,8 +58,8 @@ works, such as semiconductor masks.</seg>
       <tuv lang="EN">
         <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T014729Z" creationid="CALDAS" creationdate="20170918T071157Z">
-        <seg>Os documentos de "Instruções" neste site contém informações sobre determinados procedimentos e recursos do OmegaT para usuários avançados que não são cobertos pelo manual.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171109T152522Z" creationid="CALDAS" creationdate="20170918T071157Z">
+        <seg>Os documentos de "Instruções" neste site contêm informações sobre determinados procedimentos e recursos do OmegaT para usuários avançados que não são cobertos pelo manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20966,8 +20966,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T145807Z" creationid="Sheila" creationdate="20170905T134829Z">
-        <seg>Chamar `team -h` para obter detalhes.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171109T152442Z" creationid="Sheila" creationdate="20170905T134829Z">
+        <seg>fChamar `team -h` para obter detalhes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37038,8 +37038,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T011203Z" creationid="grego" creationdate="20171108T011203Z">
-        <seg>Manual do usuário em formato PDF ({{ site.data.versions.standard.name }}).</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171109T152509Z" creationid="grego" creationdate="20171108T011203Z">
+        <seg>Manual do usuário em formato PDF ({{ site.data.versions.standard.name }})</seg>
       </tuv>
     </tu>
     <tu>
