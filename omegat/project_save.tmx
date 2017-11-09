@@ -18237,8 +18237,8 @@ not survive such relicensing or conveying.</seg>
       <tuv lang="EN">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T002538Z" creationid="grego" creationdate="20171109T002328Z">
-        <seg>Caso um JRE na versão requerida já esteja instalado em seu sistema Windows,  selecione "Sem JRE".</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T002731Z" creationid="grego" creationdate="20171109T002328Z">
+        <seg>Caso um JRE da versão requerida ou superior já esteja instalado em seu sistema Windows,  selecione "sem JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -18544,6 +18544,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T215059Z" creationid="karol" creationdate="20160308T215059Z">
         <seg>Se não for especificado, o OmegaT reverte para os valores predeterminados (a pasta OmegaT na pasta local do usuário, ou se não estiver disponível: no diretório de trabalho atual).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T002700Z" creationid="grego" creationdate="20171109T002700Z">
+        <seg>Caso não esteja instalado, ou caso não tenha certeza, selecione "com JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -26192,6 +26200,14 @@ http://omegat.org/reviews</note>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T101750Z" creationid="Evandro" creationdate="20160312T101750Z">
         <seg>OmegaT tentará segmentar o arquivo TMX novamente...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T002845Z" creationid="grego" creationdate="20171109T002845Z">
+        <seg>O OmegaT normalmente irá rodar em qualquer sistema Linux que possua uma versão of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
     </tu>
     <tu>
