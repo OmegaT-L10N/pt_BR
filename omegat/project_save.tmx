@@ -4095,8 +4095,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T001821Z" creationid="grego" creationdate="20171109T001821Z">
-        <seg>&lt;i1&gt;O OmegaT pode ser instalado em qualquer sistema operacional que seja capaz de rodar a versão 1.6 do Java runtime environment.&lt;/i1&gt;</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T002125Z" creationid="grego" creationdate="20171109T001821Z">
+        <seg>&lt;i1&gt;O OmegaT pode ser instalado em qualquer sistema operacional que seja capaz de rodar a versão 1.6 do Java Runtime Environment.&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31482,6 +31482,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T203241Z" creationid="karol" creationdate="20160308T203241Z">
         <seg>Selecione este item do menu, se a tradução atual não se aplicar e insira a tradução alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T002223Z" creationid="grego" creationdate="20171109T002107Z">
+        <seg>Escolha entre o OmegaT com ou sem o Java Runtime Environment (JRE) incluso para fazer o download.</seg>
       </tuv>
     </tu>
     <tu>
