@@ -6896,8 +6896,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T000411Z" creationid="grego" creationdate="20171109T000411Z">
-        <seg>&lt;s3&gt;A desvantagem é&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T001122Z" creationid="grego" creationdate="20171109T000411Z">
+        <seg>&lt;s3&gt;A desvantagem&lt;/s3&gt;: atualmente, essa versão não pode ser utilizada com plugins, portanto, nem todas as funções estão disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16397,6 +16397,22 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201924Z" creationid="karol" creationdate="20160308T201924Z">
         <seg>Por exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T001226Z" creationid="grego" creationdate="20171109T001226Z">
+        <seg>Versão para Mac OS X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171109T001209Z" creationid="grego" creationdate="20171109T001151Z">
+        <seg>Versão para sistemas Windows.</seg>
       </tuv>
     </tu>
     <tu>
