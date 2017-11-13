@@ -67,3 +67,4 @@ source	de origem
 target	de destino
 Commit	Confirmar
 commit	confirmação
+Pinpoint Align	Alinhamento distante
