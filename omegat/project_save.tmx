@@ -690,6 +690,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171113T210823Z" creationid="Sheila" creationdate="20171113T210823Z">
+        <seg>&amp;Copiar informações de suporte</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
@@ -13580,6 +13588,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171113T211648Z" creationid="Sheila" creationdate="20171113T211648Z">
+        <seg>Distância</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distribution and modifications</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T095316Z" creationid="karol" creationdate="20160308T171553Z">
@@ -21732,6 +21748,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171113T211654Z" creationid="Sheila" creationdate="20171113T211654Z">
+        <seg>Manter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep All</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161010Z" creationid="Sheila" creationdate="20171023T161010Z">
@@ -27504,6 +27528,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171113T211419Z" creationid="Sheila" creationdate="20171113T211419Z">
+        <seg>Alinhamento distante: Selecionar a célula correspondente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -30072,6 +30104,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171113T211422Z" creationid="Sheila" creationdate="20171113T211422Z">
+        <seg>Linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010538Z" creationid="karol" creationdate="20160309T010538Z">
@@ -30361,6 +30401,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172112Z" creationid="karol" creationdate="20160308T172112Z">
         <seg>Salvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171113T211720Z" creationid="Sheila" creationdate="20171113T211659Z">
+        <seg>Salvar os resultados do alinhamento</seg>
       </tuv>
     </tu>
     <tu>
