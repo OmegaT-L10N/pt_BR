@@ -23512,6 +23512,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171114T100415Z" creationid="CALDAS" creationdate="20171114T100401Z">
+        <seg>MediaWiki (Wikipédia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Memor&amp;y</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185138Z" creationid="Evandro" creationdate="20160311T185138Z">
@@ -23630,6 +23638,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T101855Z" creationid="Sheila" creationdate="20170912T101855Z">
         <seg>A chave de assinatura do Microsoft Translator não está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Word, Excel, Power</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171114T100309Z" creationid="CALDAS" creationdate="20171114T100309Z">
+        <seg>Microsoft Word, Excel, Power</seg>
       </tuv>
     </tu>
     <tu>
@@ -26578,6 +26594,14 @@ http://omegat.org/reviews</note>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172106Z" creationid="karol" creationdate="20160308T172106Z">
         <seg>Abrir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171114T100637Z" creationid="CALDAS" creationdate="20171114T100331Z">
+        <seg>Formato de documento aberto (LibreOffice, OpenOffice.org)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42581,6 +42605,14 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105502Z" creationid="Evandro" creationdate="20160312T105502Z">
         <seg>Opções de Filtro XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171114T100323Z" creationid="CALDAS" creationdate="20171114T100320Z">
+        <seg>XHTML e HTML</seg>
       </tuv>
     </tu>
     <tu>
