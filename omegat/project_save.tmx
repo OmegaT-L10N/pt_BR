@@ -1029,6 +1029,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220801Z" creationid="Sheila" creationdate="20171114T220801Z">
+        <seg>&amp;Ir para o segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
@@ -1317,6 +1325,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220818Z" creationid="Sheila" creationdate="20171114T220818Z">
+        <seg>&amp;Atualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184724Z" creationid="Evandro" creationdate="20160311T184724Z">
@@ -1519,6 +1535,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103550Z" creationid="Evandro" creationdate="20160312T103550Z">
         <seg>Nomes de pl&amp;anilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220814Z" creationid="Sheila" creationdate="20171114T220814Z">
+        <seg>&amp;Mostrar todas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4081,6 +4105,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T183929Z" creationid="Evandro" creationdate="20160311T183929Z">
         <seg>&lt;html&gt;Os comandos externos por projeto estão desabilitados e não serão executados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T215238Z" creationid="Sheila" creationdate="20171114T215238Z">
+        <seg>&lt;html&gt;Coloque o sinal de divisão no local onde deseja dividir o texto.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8584,6 +8616,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T214440Z" creationid="Sheila" creationdate="20171114T214414Z">
+        <seg>Ocorreu um erro ao salvar o arquivo TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T212157Z" creationid="Sheila" creationdate="20170912T212157Z">
@@ -8785,6 +8825,14 @@ work under this License, and how to view a copy of this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114348Z" creationid="Evandro" creationdate="20160312T114348Z">
         <seg>Um item com nome "{0}" já existe neste local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An item of the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T214355Z" creationid="Sheila" creationdate="20171114T214355Z">
+        <seg>Um item com o nome "{0}" já existe neste local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10469,6 +10517,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220748Z" creationid="Sheila" creationdate="20171114T220748Z">
+        <seg>Caractere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character Table</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221808Z" creationid="Sheila" creationdate="20170913T221808Z">
@@ -11588,6 +11644,22 @@ Vide: http://omegat.org/howtos/localizing_omegat.html</note>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161623Z" creationid="Sheila" creationdate="20171023T161623Z">
         <seg>Continuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T215852Z" creationid="Sheila" creationdate="20171114T215852Z">
+        <seg>Continuar de qualquer forma?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T214738Z" creationid="Sheila" creationdate="20171114T214738Z">
+        <seg>Continuar?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13701,6 +13773,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T214417Z" creationid="Sheila" creationdate="20171114T214406Z">
+        <seg>Você quer substituí-lo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114349Z" creationid="Evandro" creationdate="20160312T114349Z">
@@ -14357,6 +14437,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T214836Z" creationid="Sheila" creationdate="20171114T214836Z">
+        <seg>Editar padrão de destaque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Menu</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172120Z" creationid="karol" creationdate="20160308T172120Z">
@@ -14378,6 +14466,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T165519Z" creationid="Evandro" creationdate="20160311T183252Z">
         <seg>Editar projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T214822Z" creationid="Sheila" creationdate="20171114T214822Z">
+        <seg>Editar texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -16724,6 +16820,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220733Z" creationid="Sheila" creationdate="20171114T220733Z">
+        <seg>De frente para trás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111833Z" creationid="Evandro" creationdate="20160312T111833Z">
@@ -17545,6 +17649,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103912Z" creationid="Evandro" creationdate="20160312T103912Z">
         <seg>Cabeç&amp;alhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220658Z" creationid="Sheila" creationdate="20171114T220658Z">
+        <seg>Comparação global</seg>
       </tuv>
     </tu>
     <tu>
@@ -21016,6 +21128,30 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222415Z" creationid="Sheila" creationdate="20170927T222352Z">
         <seg>Está duplicada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220824Z" creationid="Sheila" creationdate="20171114T220824Z">
+        <seg>Problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220828Z" creationid="Sheila" creationdate="20171114T220828Z">
+        <seg>Problemas ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220839Z" creationid="Sheila" creationdate="20171114T220839Z">
+        <seg>Problemas para {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -24660,6 +24796,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220734Z" creationid="Sheila" creationdate="20171114T220734Z">
+        <seg>Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Normally tags are ignored when considering the similarity between different texts for matching purposes.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181812Z" creationid="karol" creationdate="20160308T181812Z">
@@ -27366,6 +27510,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220700Z" creationid="Sheila" creationdate="20171114T220700Z">
+        <seg>Comparação por segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pashto, Pushto</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171313Z" creationid="karol" creationdate="20160308T171313Z">
@@ -27888,6 +28040,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T101944Z" creationid="Evandro" creationdate="20160312T101944Z">
         <seg>Plugin da classe '{0}' carregado com sucesso </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220735Z" creationid="Sheila" creationdate="20171114T220735Z">
+        <seg>Poisson</seg>
       </tuv>
     </tu>
     <tu>
@@ -30479,6 +30639,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T215729Z" creationid="Sheila" creationdate="20171114T215729Z">
+        <seg>Salvar alterações nas configurações de filtro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T215655Z" creationid="Sheila" creationdate="20171114T215655Z">
+        <seg>Salvar alterações nas regras de segmentação?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172102Z" creationid="karol" creationdate="20160308T172102Z">
@@ -32236,6 +32412,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T215844Z" creationid="Sheila" creationdate="20171114T215844Z">
+        <seg>Alguns alinhamentos ainda precisam de revisão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
 can do so.</seg>
@@ -32793,8 +32977,16 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Split</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161531Z" creationid="Sheila" creationdate="20171023T154001Z">
-        <seg>Separar</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T214931Z" creationid="Sheila" creationdate="20171023T154001Z">
+        <seg>Dividir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T215214Z" creationid="Sheila" creationdate="20171114T214917Z">
+        <seg>Dividir texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -38595,6 +38787,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T214735Z" creationid="Sheila" creationdate="20171114T214735Z">
+        <seg>Isto descartará todas as alterações que você fez até agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001601Z" creationid="karol" creationdate="20160309T001601Z">
@@ -41496,6 +41696,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220706Z" creationid="Sheila" creationdate="20171114T220706Z">
+        <seg>Viterbi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vito Smolej</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T224430Z" creationid="Sheila" creationdate="20170903T224430Z">
@@ -42352,8 +42560,8 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       <tuv lang="EN">
         <seg>Word</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103833Z" creationid="Evandro" creationdate="20160312T103833Z">
-        <seg>Word</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220741Z" creationid="Evandro" creationdate="20160312T103833Z">
+        <seg>Palavra</seg>
       </tuv>
     </tu>
     <tu>
