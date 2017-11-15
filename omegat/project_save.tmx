@@ -20914,6 +20914,15 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171115T120414Z" creationid="CALDAS" creationdate="20171115T120414Z">
+        <seg>&lt;p0&gt;Instalar o OmegaT no&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
