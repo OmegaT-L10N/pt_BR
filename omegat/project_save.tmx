@@ -10082,6 +10082,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171115T114849Z" creationid="CALDAS" creationdate="20171115T114820Z">
+        <seg>Por Vladimir Zhdanov (em russo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Václav Hejda (in Czech).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114027Z" creationid="CALDAS" creationdate="20170912T113600Z">
