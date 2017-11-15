@@ -20914,6 +20914,15 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171115T120357Z" creationid="CALDAS" creationdate="20171115T120357Z">
+        <seg>&lt;p0&gt;Instalação do OmegaT no&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182058Z" creationid="karol" creationdate="20160308T182058Z">
@@ -26023,6 +26032,16 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171108T224713Z" creationid="grego" creationdate="20171108T224713Z">
         <seg>Tutorial de introdução ao OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171115T120326Z" creationid="CALDAS" creationdate="20171115T120326Z">
+        <seg>O OmegaT é uma ferramenta de tradução assistida por computador, ou seja CAT (Computer Assisted Translation), gratuita e de código aberto, compatível com diversas plataformas; oferece correspondências parciais, memória de tradução, busca de palavras-chaves, glossários e reutilização de tradução em atualização de projetos traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
