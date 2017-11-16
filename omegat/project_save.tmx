@@ -41449,6 +41449,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User requirements</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T035735Z" creationid="grego" creationdate="20171116T035735Z">
+        <seg>Requisitos do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User settings files</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181248Z" creationid="karol" creationdate="20160308T181248Z">
