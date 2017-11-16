@@ -39596,6 +39596,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T035638Z" creationid="grego" creationdate="20171116T035638Z">
+        <seg>Para obter o OpenOffice.org ou o LibreOffice, siga o link em nosso botão de "softwares third-party" à esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To open a new search window, use &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; in the Main window.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005221Z" creationid="karol" creationdate="20160309T005221Z">
