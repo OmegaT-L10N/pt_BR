@@ -19311,8 +19311,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T003707Z" creationid="grego" creationdate="20171109T003707Z">
-        <seg>Caso não tenha certeza se a versão requerida do JRE já está instalada em seu sistema, poderá baixar e instalar a versão do OmegaT com JRE.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T025336Z" creationid="grego" creationdate="20171109T003707Z">
+        <seg>Caso não tenha certeza se a versão adequada do JRE já esteja instalada em seu sistema, poderá baixar e instalar a versão do OmegaT com JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34500,6 +34500,14 @@ control those activities.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171127Z" creationid="karol" creationdate="20160308T171127Z">
         <seg>A tecla “Shift” não exibe nenhum comportamento especial: quando ela é pressionada, todas as teclas movem o cursor da maneira habitual, exceto no caso da combinação  &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere uma quebra de linha no texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032150Z" creationid="grego" creationdate="20171116T032150Z">
+        <seg>A versão "Estável" do OmegaT inclui um manual completo para o usuário (ao menos em inglês) e, normalmente, já foi testada por algum tempo para a eliminação de quaisquer erros.</seg>
       </tuv>
     </tu>
     <tu>
