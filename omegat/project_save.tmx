@@ -26051,6 +26051,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T033651Z" creationid="grego" creationdate="20171116T033651Z">
+        <seg>O OmegaT pode ser instalado em Windows (em todas as versões a partir da 98), em  macOS  e em Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
@@ -34888,6 +34896,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071153Z" creationid="CALDAS" creationdate="20170918T071153Z">
         <seg>O manual do usuário em HTML para a versão padrão do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T033423Z" creationid="grego" creationdate="20171116T033423Z">
+        <seg>O JRE atualmente pode ser adquirido com OmegaT e não possui a necessidade de ser baixado separadamente.</seg>
       </tuv>
     </tu>
     <tu>
