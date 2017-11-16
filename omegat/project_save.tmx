@@ -9699,6 +9699,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032753Z" creationid="grego" creationdate="20171116T032753Z">
+        <seg>Baseado em suas escolhas, recomendamos que use:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bashkir</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001000Z" creationid="Evandro" creationdate="20160310T001000Z">
@@ -19204,6 +19212,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172831Z" creationid="karol" creationdate="20160308T172831Z">
         <seg>Se esta opção estiver marcada, quando uma correspondência parcial for inserida, manualmente ou automaticamente, o OmegaT tentará converter os números nas correspondências parciais segundo o conteúdo fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T033028Z" creationid="grego" creationdate="20171116T033028Z">
+        <seg>Caso essa versão não esteja disponível, poderá tentar o &lt;a0&gt;download da versão não-assinada&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49492,6 +49508,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001014Z" creationid="Evandro" creationdate="20160310T001014Z">
         <seg>som</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032824Z" creationid="grego" creationdate="20171116T032824Z">
+        <seg>alguma versão</seg>
       </tuv>
     </tu>
     <tu>
