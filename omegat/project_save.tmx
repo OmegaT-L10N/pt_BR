@@ -18592,6 +18592,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If in doubt, select this option.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T020253Z" creationid="grego" creationdate="20171116T020253Z">
+        <seg>Em caso de dúvidas, selecione essa opção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If in doubt, select this version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171108T234707Z" creationid="grego" creationdate="20171108T234707Z">
@@ -38835,6 +38843,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171116T015906Z" creationid="grego" creationdate="20171116T015450Z">
         <seg>Essa versão do JRE funcionará apenas em conjunto com o OmegaT e não irá entrar em conflito, substituir ou desinstalar qualquer outra versão do JRE que o usuário tenha instalado. Portanto, este é um procedimento seguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T023543Z" creationid="grego" creationdate="20171116T020224Z">
+        <seg>Essa versão demora mais para baixar e ocupa mais espaço no HD, mas ela, com certeza, irá rodar.</seg>
       </tuv>
     </tu>
     <tu>
