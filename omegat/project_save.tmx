@@ -13214,6 +13214,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T044015Z" creationid="grego" creationdate="20171116T044015Z">
+        <seg>Versão para desenvolvidores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222547Z" creationid="mroch" creationdate="20170912T222547Z">
@@ -41614,6 +41622,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182212Z" creationid="karol" creationdate="20160308T182212Z">
         <seg>Os usuários de outras plataformas (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) devem ter um Java JRE funcional e compatível com seu sistema para poderem usar o&lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T043857Z" creationid="grego" creationdate="20171116T043857Z">
+        <seg>Usuários que já possuem experiência com o OmegaT normalmente preferem a Última Versão.</seg>
       </tuv>
     </tu>
     <tu>
