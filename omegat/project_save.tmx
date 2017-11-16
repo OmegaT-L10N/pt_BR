@@ -8250,6 +8250,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171116T233148Z" creationid="Sheila" creationdate="20171116T233148Z">
+        <seg>Todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182406Z" creationid="karol" creationdate="20160308T182406Z">
@@ -24825,6 +24833,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171116T215359Z" creationid="Sheila" creationdate="20171116T215359Z">
+        <seg>Nenhum problema encontrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111038Z" creationid="Evandro" creationdate="20160312T111038Z">
@@ -33435,8 +33451,8 @@ make it effectively proprietary.</seg>
       <tuv lang="EN">
         <seg>Step 2: Make manual corrections</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171025T220003Z" creationid="Sheila" creationdate="20171025T220003Z">
-        <seg>Etapa 2:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171116T215344Z" creationid="Sheila" creationdate="20171025T220003Z">
+        <seg>Passo 2: Fazer correções manuais</seg>
       </tuv>
     </tu>
     <tu>
