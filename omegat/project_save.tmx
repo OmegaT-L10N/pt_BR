@@ -21537,6 +21537,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is the recommended version for first-time users.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032244Z" creationid="grego" creationdate="20171116T032244Z">
+        <seg>É a versão recomendada para usuários que utilizarão a ferramenta pela primeira vez..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is the segment that is displayed in two parts.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004034Z" creationid="karol" creationdate="20160309T004034Z">
@@ -22517,6 +22525,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182116Z" creationid="karol" creationdate="20160308T182116Z">
         <seg>Depois que tiver aceitado o contrato de licença, o programa de instalação pergunta se você gostaria de criar uma pasta no menu  &lt;e0&gt;iniciar&lt;/e0&gt; , e se gostaria de criar um atalho na área de trabalho e na barra de inicialização rápida - você pode criar esses atalhos depois, arrastando o &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; para a área de trabalho ou para o menu iniciar, para assim criar um vínculo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032320Z" creationid="grego" creationdate="20171116T032320Z">
+        <seg>Última</seg>
       </tuv>
     </tu>
     <tu>
