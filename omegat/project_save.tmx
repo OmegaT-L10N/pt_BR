@@ -18397,8 +18397,8 @@ not survive such relicensing or conveying.</seg>
       <tuv lang="EN">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T002731Z" creationid="grego" creationdate="20171109T002328Z">
-        <seg>Caso um JRE da versão requerida ou superior já esteja instalado em seu sistema Windows,  selecione "sem JRE".</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T024309Z" creationid="grego" creationdate="20171109T002328Z">
+        <seg>Se um JRE da versão adequada ou superior já estiver instalado em seu sistema Windows,  escolha "sem JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -18718,8 +18718,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T002700Z" creationid="grego" creationdate="20171109T002700Z">
-        <seg>Caso não esteja instalado, ou caso não tenha certeza, selecione "com JRE".</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T024246Z" creationid="grego" creationdate="20171109T002700Z">
+        <seg>Se não estiver instalado, ou caso não tenha certeza, escolha "com JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -39152,6 +39152,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002441Z" creationid="karol" creationdate="20160309T002441Z">
         <seg>Para verificar suas sintaxes e suas aplicabilidades, é recomendado usar ferramentas que permitirão que você veja diretamente seus efeitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T025240Z" creationid="grego" creationdate="20171116T025240Z">
+        <seg>Para verificar qual versão do JRE, caso possua alguma, está instalada em seu sistema Linux, open a console (command-line window) and type:</seg>
       </tuv>
     </tu>
     <tu>
