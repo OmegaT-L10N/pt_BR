@@ -34501,6 +34501,14 @@ implementation is available to the public in source code form.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T020048Z" creationid="grego" creationdate="20171116T020048Z">
+        <seg>A versão do OmegaT que já vem com as "pilhas inclusas", isto é, com o seu próprio Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182125Z" creationid="karol" creationdate="20160308T182125Z">
@@ -42582,6 +42590,14 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T163335Z" creationid="karol" creationdate="20160308T212951Z">
         <seg>Com as &lt;e3&gt;Dicas de tradução/Correspondência exata &lt;/e3&gt;marcadas, apenas as palavras inteiras serão verificadas, senão o programa corresponderá partes de palavras também.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With JRE</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T015943Z" creationid="grego" creationdate="20171116T015943Z">
+        <seg>Com JRE incluso</seg>
       </tuv>
     </tu>
     <tu>
