@@ -19342,8 +19342,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T023921Z" creationid="grego" creationdate="20171116T023921Z">
-        <seg>Caso tenha certeza que uma versão adequada do Java Runtime Environment adequado já esteja instalada em seu sistema operacional, poderá selecionar a opção sem JRE incluso.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T040733Z" creationid="grego" creationdate="20171116T023921Z">
+        <seg>Caso tenha certeza que uma versão adequada do Java Runtime Environment já esteja instalada em seu sistema operacional, poderá selecionar a opção sem JRE incluso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33205,8 +33205,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102526Z" creationid="Evandro" creationdate="20160312T102526Z">
-        <seg>Padrão</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T040747Z" creationid="Evandro" creationdate="20160312T102526Z">
+        <seg>Estável</seg>
       </tuv>
     </tu>
     <tu>
@@ -35120,8 +35120,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The Standard version has usually been in use for some time and is therefore proven.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T040707Z" creationid="grego" creationdate="20171116T040707Z">
-        <seg>A Versão Estável provavelmente já está sendo utilizada há algum tempo e, por isso, é aprovada.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T041535Z" creationid="grego" creationdate="20171116T040707Z">
+        <seg>A Versão Estável normalmente já está sendo utilizada há algum tempo e, por isso, já foi aprovada.</seg>
       </tuv>
     </tu>
     <tu>
