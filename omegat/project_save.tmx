@@ -15996,6 +15996,22 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T033738Z" creationid="grego" creationdate="20171116T033738Z">
+        <seg>Arquivos no formato XML do Microsoft Office podem ser traduzidos diretamente no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T034215Z" creationid="grego" creationdate="20171116T034215Z">
+        <seg>Arquivos em formatos mais antigos do MS Word, Excel e Powerpoint podem ser traduzidos desde que sejam convertidos para formatos atuais equivalentes do Microsoft Office, ou para o formato Office Open XML, que pode ser feito em OpenOffice.org ou ao utilizar o LibreOffice (também grátis).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Files to translate</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181323Z" creationid="karol" creationdate="20160308T181323Z">
