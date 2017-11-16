@@ -9169,8 +9169,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032447Z" creationid="grego" creationdate="20171116T032447Z">
-        <seg>Como o nome sugere, a versão "mais recente" do Omegat é a mais atual.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T041658Z" creationid="grego" creationdate="20171116T032447Z">
+        <seg>Como o nome sugere, a versão "mais recente" do OmegaT é a mais atualizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21723,6 +21723,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will however lack some of the features of the "Latest" version.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T041942Z" creationid="grego" creationdate="20171116T041942Z">
+        <seg>Ele não possuirá, porém, alguns dos recursos da versão "Atual".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It's a real eye-opener!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155925Z" creationid="mroch" creationdate="20170919T155925Z">
@@ -21751,6 +21759,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003311Z" creationid="karol" creationdate="20160309T003311Z">
         <seg>Seu conteúdo estará sempre em ordem alfabética pelo segmento fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T041846Z" creationid="grego" creationdate="20171116T041846Z">
+        <seg>O manual dessa versão, ao menos em inglês, costuma ser bem atualizado.</seg>
       </tuv>
     </tu>
     <tu>
