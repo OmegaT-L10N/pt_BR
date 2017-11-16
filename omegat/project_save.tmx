@@ -9169,8 +9169,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T041658Z" creationid="grego" creationdate="20171116T032447Z">
-        <seg>Como o nome sugere, a versão "mais recente" do OmegaT é a mais atualizada.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042022Z" creationid="grego" creationdate="20171116T032447Z">
+        <seg>Como o nome sugere, a versão "Atual" do OmegaT é a mais recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9701,8 +9701,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Based on your choices, we recommand you use:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032753Z" creationid="grego" creationdate="20171116T032753Z">
-        <seg>Baseado em suas escolhas, recomendamos que use:</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042057Z" creationid="grego" creationdate="20171116T032753Z">
+        <seg>Com base em suas escolhas, recomendamos que use:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13177,6 +13177,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113718Z" creationid="Evandro" creationdate="20160312T113718Z">
         <seg>Visualização em Detalhes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042140Z" creationid="grego" creationdate="20171116T042140Z">
+        <seg>Instruções detalhadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22603,8 +22611,16 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Latest</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032405Z" creationid="grego" creationdate="20171116T032320Z">
-        <seg>Mais recente</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042001Z" creationid="grego" creationdate="20171116T032320Z">
+        <seg>Atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042239Z" creationid="grego" creationdate="20171116T042239Z">
+        <seg>Última versão - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24596,8 +24612,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032727Z" creationid="grego" creationdate="20171116T032727Z">
-        <seg>Ainda assim, as versões "mais recentes" do OmegaT costumam ser bem estáveis e são recomendados para quaisquer usuários que já possuem experiência com o OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042045Z" creationid="grego" creationdate="20171116T032727Z">
+        <seg>Ainda assim, as versões "Atuais" do OmegaT costumam ser bem estáveis e são recomendadas para quaisquer usuários que já possuem experiência com o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27964,6 +27980,14 @@ em seguida, confirme tudo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181327Z" creationid="karol" creationdate="20160308T181327Z">
         <seg>Os arquivos de texto simples contêm apenas texto, portanto sua tradução é um processo simples de inserção do texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042109Z" creationid="grego" creationdate="20171116T042109Z">
+        <seg>Plataforma</seg>
       </tuv>
     </tu>
     <tu>
@@ -50837,6 +50861,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T190724Z" creationid="Sheila" creationdate="20170625T190724Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042155Z" creationid="grego" creationdate="20171116T042155Z">
+        <seg>{% else %} &lt;a0&gt;Baixar&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042149Z" creationid="grego" creationdate="20171116T042149Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Baixar&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
