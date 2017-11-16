@@ -33211,6 +33211,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T040603Z" creationid="grego" creationdate="20171116T040603Z">
+        <seg>Versão Estável - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -35106,6 +35114,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201622Z" creationid="karol" creationdate="20160308T201622Z">
         <seg>A tradução para o espanhol é melhor do que para o esloveno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard version has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T040707Z" creationid="grego" creationdate="20171116T040707Z">
+        <seg>A Versão Estável provavelmente já está sendo utilizada há algum tempo e, por isso, é aprovada.</seg>
       </tuv>
     </tu>
     <tu>
