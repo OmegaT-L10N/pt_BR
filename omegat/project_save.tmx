@@ -34511,8 +34511,8 @@ implementation is available to the public in source code form.</seg>
       <tuv lang="EN">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T020048Z" creationid="grego" creationdate="20171116T020048Z">
-        <seg>A versão do OmegaT que já vem com as "pilhas inclusas", isto é, com o seu próprio Java Runtime Environment.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T023702Z" creationid="grego" creationdate="20171116T020048Z">
+        <seg>A versão do OmegaT que já vem com "pilhas inclusas", isto é, com o seu próprio Java Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35929,6 +35929,14 @@ parts of the General Public License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181811Z" creationid="karol" creationdate="20160308T181811Z">
         <seg>O OmegaT mostra informações de formatação in-line dos formatos que suporta (no momento DocBook, HTML, XHTML, Open Document Format(ODF) e Office Open XML (MS Office 2007 e posteriores)) como tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T023652Z" creationid="grego" creationdate="20171116T023652Z">
+        <seg>A versão inclusa do JRE é a 64-bit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42598,6 +42606,14 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181256Z" creationid="karol" creationdate="20160308T181256Z">
         <seg>Outra versão do Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T023606Z" creationid="grego" creationdate="20171116T023606Z">
+        <seg>Com JRE 64-bit incluso</seg>
       </tuv>
     </tu>
     <tu>
