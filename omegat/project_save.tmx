@@ -9169,8 +9169,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042328Z" creationid="grego" creationdate="20171116T032447Z">
-        <seg>Como o nome sugere, a "última" versão do OmegaT é a mais recente.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042608Z" creationid="grego" creationdate="20171116T032447Z">
+        <seg>Como o nome sugere, a "Última Versão" do OmegaT é a versão mais recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22611,16 +22611,16 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Latest</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042311Z" creationid="grego" creationdate="20171116T032320Z">
-        <seg>Última versão</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042548Z" creationid="grego" creationdate="20171116T032320Z">
+        <seg>Última Versão</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042239Z" creationid="grego" creationdate="20171116T042239Z">
-        <seg>Última versão - {{site.data.versions.latest.name}}</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042631Z" creationid="grego" creationdate="20171116T042239Z">
+        <seg>Última Versão - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35017,6 +35017,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171502Z" creationid="karol" creationdate="20160308T171502Z">
         <seg>O plugin do LanguageTool vem incluído no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Latest version is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T043157Z" creationid="grego" creationdate="20171116T043157Z">
+        <seg>A Última Versão é uma versão mais recente que a Versão Estável e inclui novos recursos que não estão presentes na outra versão.</seg>
       </tuv>
     </tu>
     <tu>
