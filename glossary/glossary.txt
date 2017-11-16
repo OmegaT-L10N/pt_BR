@@ -68,3 +68,5 @@ target	de destino
 Commit	Confirmar
 commit	confirmação
 Pinpoint Align	Alinhamento distante
+enable	habilitar
+disable	desabilitar
