@@ -9167,6 +9167,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032447Z" creationid="grego" creationdate="20171116T032447Z">
+        <seg>Como o nome sugere, a versão "mais recente" do Omegat é a mais atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As opposed to user-generated translation memories (as in the case of &lt;a0&gt;OmegaT&lt;/a0&gt;) Machine translation (MT) tools use rule-based linguistic tools to create a translation of the source segment without the need for a translation memory.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201613Z" creationid="karol" creationdate="20160308T201613Z">
@@ -18084,6 +18092,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032600Z" creationid="grego" creationdate="20171116T032600Z">
+        <seg>Contudo, o manual do usuário pode não estar atualizado (e, portanto, possivelmente confuso) e há a possibilidade de ocorrer pequenos erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T215129Z" creationid="karol" creationdate="20160308T215129Z">
@@ -22531,8 +22547,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Latest</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032320Z" creationid="grego" creationdate="20171116T032320Z">
-        <seg>Última</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032405Z" creationid="grego" creationdate="20171116T032320Z">
+        <seg>Mais recente</seg>
       </tuv>
     </tu>
     <tu>
@@ -24518,6 +24534,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001011Z" creationid="Evandro" creationdate="20160310T001011Z">
         <seg>Nepali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032727Z" creationid="grego" creationdate="20171116T032727Z">
+        <seg>Ainda assim, as versões "mais recentes" do OmegaT costumam ser bem estáveis e são recomendados para quaisquer usuários que já possuem experiência com o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
