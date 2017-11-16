@@ -26511,6 +26511,14 @@ http://omegat.org/reviews</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will run on any system on which the JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T033253Z" creationid="grego" creationdate="20171116T033253Z">
+        <seg>O OmegaT irá rodar em qualquer sistema que possua o JRE (Java Runtime Environment) ou que possa ter ele instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182455Z" creationid="karol" creationdate="20160308T182455Z">
@@ -30121,6 +30129,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T033127Z" creationid="grego" creationdate="20171116T033127Z">
+        <seg>Requisitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T093029Z" creationid="CALDAS" creationdate="20170914T093029Z">
@@ -33660,6 +33676,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113103Z" creationid="Evandro" creationdate="20160312T113103Z">
         <seg>Erro na sincronização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System requirements</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T033201Z" creationid="grego" creationdate="20171116T033201Z">
+        <seg>Requisitos do sistemas</seg>
       </tuv>
     </tu>
     <tu>
