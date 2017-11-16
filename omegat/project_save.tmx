@@ -21286,10 +21286,26 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171116T162027Z" creationid="Sheila" creationdate="20171116T162027Z">
+        <seg>Problemas ({0} de {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Issues ({0})</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220828Z" creationid="Sheila" creationdate="20171114T220828Z">
         <seg>Problemas ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171116T172601Z" creationid="Sheila" creationdate="20171116T172601Z">
+        <seg>Problemas para {0} ({1} de {2})</seg>
       </tuv>
     </tu>
     <tu>
