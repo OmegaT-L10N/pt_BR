@@ -22619,7 +22619,7 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042631Z" creationid="grego" creationdate="20171116T042239Z">
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T043347Z" creationid="grego" creationdate="20171116T042239Z">
         <seg>Última Versão - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
@@ -35023,8 +35023,16 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The Latest version is a more recent version than the Standard version and includes new features not present in the latter.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T043157Z" creationid="grego" creationdate="20171116T043157Z">
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T043342Z" creationid="grego" creationdate="20171116T043157Z">
         <seg>A Última Versão é uma versão mais recente que a Versão Estável e inclui novos recursos que não estão presentes na outra versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171116T043539Z" creationid="grego" creationdate="20171116T043539Z">
+        <seg>A Última Versão costuma ser bem estável e utilizável, mas pode apresentar alguns erros.</seg>
       </tuv>
     </tu>
     <tu>
