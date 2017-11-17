@@ -34751,8 +34751,8 @@ implementation is available to the public in source code form.</seg>
       <tuv lang="EN">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T155458Z" creationid="grego" creationdate="20171116T020048Z">
-        <seg>A versão do OmegaT que vem com "pilhas inclusas", isto é, com o seu próprio Java Runtime Environment.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T162518Z" creationid="grego" creationdate="20171116T020048Z">
+        <seg>Esta é a versão do OmegaT que já vem com "pilhas inclusas", isto é, com o seu próprio Java Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39129,8 +39129,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T155834Z" creationid="grego" creationdate="20171116T020224Z">
-        <seg>Essa versão leva mais tempo para ser baixada e ocupa mais espaço em seu HD, porém ela .</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T163104Z" creationid="grego" creationdate="20171116T020224Z">
+        <seg>Essa versão leva mais tempo para ser baixada e ocupa mais espaço em seu HD, porém, .</seg>
       </tuv>
     </tu>
     <tu>
@@ -42932,8 +42932,8 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       <tuv lang="EN">
         <seg>With JRE</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T015943Z" creationid="grego" creationdate="20171116T015943Z">
-        <seg>Com JRE incluso</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T162449Z" creationid="grego" creationdate="20171116T015943Z">
+        <seg>Versão com JRE incluso</seg>
       </tuv>
     </tu>
     <tu>
