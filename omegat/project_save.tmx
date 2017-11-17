@@ -18477,7 +18477,7 @@ not survive such relicensing or conveying.</seg>
       <tuv lang="EN">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T024309Z" creationid="grego" creationdate="20171109T002328Z">
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T153903Z" creationid="grego" creationdate="20171109T002328Z">
         <seg>Se um JRE da versão adequada ou superior já estiver instalado em seu sistema Windows,  escolha "sem JRE".</seg>
       </tuv>
     </tu>
@@ -26102,7 +26102,7 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T003421Z" creationid="grego" creationdate="20171109T003355Z">
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T153841Z" creationid="grego" creationdate="20171109T003355Z">
         <seg>Atualmente, o OmegaT requer a versão 1.6  ou superior do JRE.</seg>
       </tuv>
     </tu>
@@ -39422,8 +39422,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T025240Z" creationid="grego" creationdate="20171116T025240Z">
-        <seg>Para verificar qual versão do JRE, caso possua alguma, está instalada em seu sistema Linux, open a console (command-line window) and type:</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T155156Z" creationid="grego" creationdate="20171116T025240Z">
+        <seg>Para verificar qual versão do JRE, caso possua alguma, está instalada em seu sistema Linux, abra o terminal e digite:</seg>
       </tuv>
     </tu>
     <tu>
