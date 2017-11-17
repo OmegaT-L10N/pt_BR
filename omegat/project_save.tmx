@@ -4143,8 +4143,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T002125Z" creationid="grego" creationdate="20171109T001821Z">
-        <seg>&lt;i1&gt;O OmegaT pode ser instalado em qualquer sistema operacional que seja capaz de rodar a versão 1.6 do Java Runtime Environment.&lt;/i1&gt;</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T161627Z" creationid="grego" creationdate="20171109T001821Z">
+        <seg>&lt;i1&gt;O OmegaT pode ser instalado em qualquer sistema operacional que rode a versão 1.6 do Java Runtime Environment.&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16635,8 +16635,8 @@ sale, or importing the Program or any portion of it.</seg>
       <tuv lang="EN">
         <seg>For installation on Windows System.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T001209Z" creationid="grego" creationdate="20171109T001151Z">
-        <seg>Versão para sistemas Windows.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T161532Z" creationid="grego" creationdate="20171109T001151Z">
+        <seg>Versão para sistema Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27453,8 +27453,8 @@ http://omegat.org/reviews</note>
       <tuv lang="EN">
         <seg>Other</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T214239Z" creationid="karol" creationdate="20160308T214239Z">
-        <seg>Outros</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T161553Z" creationid="karol" creationdate="20160308T214239Z">
+        <seg>Outras versões</seg>
       </tuv>
     </tu>
     <tu>
@@ -32076,8 +32076,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T152946Z" creationid="grego" creationdate="20171109T002107Z">
-        <seg>Para fazer o download, escolha a opção do OmegaT com ou sem Java Runtime Environment (JRE) incluso.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T161729Z" creationid="grego" creationdate="20171109T002107Z">
+        <seg>Para fazer o download, escolha entre o OmegaT com ou sem Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
