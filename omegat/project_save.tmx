@@ -26682,8 +26682,8 @@ http://omegat.org/reviews</note>
       <tuv lang="EN">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T003112Z" creationid="grego" creationdate="20171109T002845Z">
-        <seg>Geralmente, o OmegaT irá rodar em qualquer sistema Linux em que uma versão adequada do Java Runtime Environment (JRE) possa ser instalada.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T153653Z" creationid="grego" creationdate="20171109T002845Z">
+        <seg>Geralmente, o OmegaT roda em qualquer sistema Linux em que uma versão adequada do Java Runtime Environment (JRE) possa ser instalada.</seg>
       </tuv>
     </tu>
     <tu>
