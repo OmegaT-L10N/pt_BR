@@ -6944,8 +6944,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T001004Z" creationid="grego" creationdate="20171108T235818Z">
-        <seg>&lt;s1&gt;A vantagem&lt;/s1&gt;: quando instalada, futuras atualizações da versão Web Start serão instaladas automaticamente em seu computador.&lt;br2/&gt;</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T161321Z" creationid="grego" creationdate="20171108T235818Z">
+        <seg>&lt;s1&gt;A vantagem&lt;/s1&gt;: quando iniciada, as atualizações dessa versão são instaladas automaticamente.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35283,8 +35283,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T235636Z" creationid="grego" creationdate="20171108T235636Z">
-        <seg>A versão Web Start é a  versão "instale e esqueça" .&lt;br0/&gt;</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T160955Z" creationid="grego" creationdate="20171108T235636Z">
+        <seg>A versão Web Start é a  versão "instale e não se preocupe mais" .&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
