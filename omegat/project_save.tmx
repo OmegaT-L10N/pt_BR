@@ -39422,8 +39422,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T155156Z" creationid="grego" creationdate="20171116T025240Z">
-        <seg>Para verificar qual versão do JRE, caso possua alguma, está instalada em seu sistema Linux, abra o terminal e digite:</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T160654Z" creationid="grego" creationdate="20171116T025240Z">
+        <seg>Para verificar qual versão do JRE, caso possua alguma, está instalada em seu sistema Linux, abra o terminal (janela da linha de comando) e digite:</seg>
       </tuv>
     </tu>
     <tu>
