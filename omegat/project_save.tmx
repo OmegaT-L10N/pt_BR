@@ -32076,8 +32076,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T002415Z" creationid="grego" creationdate="20171109T002107Z">
-        <seg>Para fazer o download, escolha entre o OmegaT com ou sem Java Runtime Environment (JRE) incluso.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T152946Z" creationid="grego" creationdate="20171109T002107Z">
+        <seg>Para fazer o download, escolha a opção do OmegaT com ou sem Java Runtime Environment (JRE) incluso.</seg>
       </tuv>
     </tu>
     <tu>
