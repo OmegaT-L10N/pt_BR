@@ -18798,8 +18798,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T014244Z" creationid="grego" creationdate="20171109T002700Z">
-        <seg>Caso não tenha o JRE instalado, ou caso não tenha certeza, escolha "com JRE".</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T153332Z" creationid="grego" creationdate="20171109T002700Z">
+        <seg>Caso não tenha o JRE instalado, ou caso desconheça essa informação, escolha "com JRE".</seg>
       </tuv>
     </tu>
     <tu>
