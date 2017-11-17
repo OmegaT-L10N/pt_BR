@@ -18798,8 +18798,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T024246Z" creationid="grego" creationdate="20171109T002700Z">
-        <seg>Se não estiver instalado, ou caso não tenha certeza, escolha "com JRE".</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T014244Z" creationid="grego" creationdate="20171109T002700Z">
+        <seg>Caso não tenha o JRE instalado, ou caso não tenha certeza, escolha "com JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -34730,8 +34730,8 @@ control those activities.</seg>
       <tuv lang="EN">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T032150Z" creationid="grego" creationdate="20171116T032150Z">
-        <seg>A versão "Estável" do OmegaT inclui um manual completo para o usuário (ao menos em inglês) e, normalmente, já foi testada por algum tempo para a eliminação de quaisquer erros.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T014055Z" creationid="grego" creationdate="20171116T032150Z">
+        <seg>A versão "estável" do OmegaT inclui um manual completo para o usuário (ao menos em inglês) e, normalmente, já foi testada por algum tempo para a eliminação de quaisquer erros.</seg>
       </tuv>
     </tu>
     <tu>
