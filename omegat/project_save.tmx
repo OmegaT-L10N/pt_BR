@@ -18674,8 +18674,8 @@ excuse you from the conditions of this License.</seg>
       <tuv lang="EN">
         <seg>If in doubt, select this option.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T020253Z" creationid="grego" creationdate="20171116T020253Z">
-        <seg>Em caso de dúvidas, selecione essa opção.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T163428Z" creationid="grego" creationdate="20171116T020253Z">
+        <seg>Em caso de dúvidas, escolha essa opção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39129,8 +39129,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T163104Z" creationid="grego" creationdate="20171116T020224Z">
-        <seg>Essa versão leva mais tempo para ser baixada e ocupa mais espaço em seu HD, porém, .</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T163326Z" creationid="grego" creationdate="20171116T020224Z">
+        <seg>Essa versão leva mais tempo para ser baixada e ocupa mais espaço em seu HD, porém ela não apresenta problemas para rodar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42916,8 +42916,8 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       <tuv lang="EN">
         <seg>With 64-bit JRE</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T023606Z" creationid="grego" creationdate="20171116T023606Z">
-        <seg>Com JRE 64-bit incluso</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T163515Z" creationid="grego" creationdate="20171116T023606Z">
+        <seg>Versão com JRE 64-bits incluso</seg>
       </tuv>
     </tu>
     <tu>
