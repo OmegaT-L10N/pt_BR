@@ -18798,8 +18798,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T153332Z" creationid="grego" creationdate="20171109T002700Z">
-        <seg>Caso não tenha o JRE instalado, ou caso desconheça essa informação, escolha "com JRE".</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T165748Z" creationid="grego" creationdate="20171109T002700Z">
+        <seg>Caso não tenha o JRE instalado, ou caso não possua essa informação, escolha "com JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -19399,8 +19399,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T162121Z" creationid="grego" creationdate="20171109T003707Z">
-        <seg>Caso não saiba se seu sistema já possui uma versão adequada do JRE instalada, baixe e instale a versão do OmegaT com JRE.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T170000Z" creationid="grego" creationdate="20171109T003707Z">
+        <seg>Caso não saiba se seu sistema já possui uma versão adequada do JRE instalada, baixe e instale a versão do OmegaT com JRE incluso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26102,8 +26102,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T153841Z" creationid="grego" creationdate="20171109T003355Z">
-        <seg>Atualmente, o OmegaT requer a versão 1.6  ou superior do JRE.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T165923Z" creationid="grego" creationdate="20171109T003355Z">
+        <seg>O OmegaT atualmente requer versão 1.6  ou superior do JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26682,8 +26682,8 @@ http://omegat.org/reviews</note>
       <tuv lang="EN">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T153653Z" creationid="grego" creationdate="20171109T002845Z">
-        <seg>Geralmente, o OmegaT roda em qualquer sistema Linux em que uma versão adequada do Java Runtime Environment (JRE) possa ser instalada.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T165846Z" creationid="grego" creationdate="20171109T002845Z">
+        <seg>O OmegaT geralmente roda em qualquer sistema Linux em que se possa instalar uma versão adequada do Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39422,8 +39422,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T162030Z" creationid="grego" creationdate="20171116T025240Z">
-        <seg>Caso possua o JRE instalado em seus sistema Linux e deseja verificar qual é sua versão, abra o terminal (janela da linha de comando) e digite:</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T165942Z" creationid="grego" creationdate="20171116T025240Z">
+        <seg>Caso possua o JRE instalado em seus sistema Linux e deseja verificar qual sua versão, abra o terminal (janela da linha de comando) e digite:</seg>
       </tuv>
     </tu>
     <tu>
