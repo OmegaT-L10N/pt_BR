@@ -6952,8 +6952,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171109T001122Z" creationid="grego" creationdate="20171109T000411Z">
-        <seg>&lt;s3&gt;A desvantagem&lt;/s3&gt;: atualmente, essa versão não pode ser utilizada com plugins, portanto, nem todas as funções estão disponíveis.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T161400Z" creationid="grego" creationdate="20171109T000411Z">
+        <seg>&lt;s3&gt;A desvantagem&lt;/s3&gt;: atualmente, essa versão não pode ser utilizada com plugins, portanto, nem todas as funções estão disponíveis nela.</seg>
       </tuv>
     </tu>
     <tu>
