@@ -36207,8 +36207,8 @@ parts of the General Public License.</seg>
       <tuv lang="EN">
         <seg>The included JRE is the 64-bit version.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T023652Z" creationid="grego" creationdate="20171116T023652Z">
-        <seg>A versão inclusa do JRE é a 64-bit.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T165703Z" creationid="grego" creationdate="20171116T023652Z">
+        <seg>O JRE incluso é a versão 64-bit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42916,8 +42916,8 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       <tuv lang="EN">
         <seg>With 64-bit JRE</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T163515Z" creationid="grego" creationdate="20171116T023606Z">
-        <seg>Versão com JRE 64-bits incluso</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T165541Z" creationid="grego" creationdate="20171116T023606Z">
+        <seg>Versão com JRE 64-bit incluso</seg>
       </tuv>
     </tu>
     <tu>
