@@ -7008,8 +7008,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171119T023830Z" creationid="grego" creationdate="20171109T000411Z">
-        <seg>&lt;s3&gt;A desvantagem&lt;/s3&gt;: atualmente, essa versão não possui suporte a plugins, portanto, nem todas as funções estarão disponíveis nela.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T031656Z" creationid="grego" creationdate="20171109T000411Z">
+        <seg>&lt;s3&gt;A desvantagem&lt;/s3&gt;: atualmente, essa versão não possui suporte a plugins, portanto, nem todos os recursos estarão disponíveis nela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35271,8 +35271,8 @@ work thus licensed is called the contributor's "contributor version".</seg>
       <tuv lang="EN">
         <seg>The "/trunk" version is a cutting-edge, "alpha" version, still in development.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171119T030555Z" creationid="grego" creationdate="20171119T030555Z">
-        <seg>A versão "/trunk" é uma versão "alpha" de última geração e que ainda se encontra em desenvolvimento.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T031507Z" creationid="grego" creationdate="20171119T030555Z">
+        <seg>A "/trunk" é uma versão "alpha" de ponta que ainda se encontra em desenvolvimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40014,8 +40014,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071133Z" creationid="CALDAS" creationdate="20170916T024731Z">
-        <seg>Para abrir o manual a partir do OmegaT, simplesmente selecione Ajuda &gt; Manual do usuário, ou pressione F1.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T031622Z" creationid="CALDAS" creationdate="20170916T024731Z">
+        <seg>Para abrir o manual a partir do OmegaT, selecione Ajuda &gt; Manual do usuário, ou pressione F1.</seg>
       </tuv>
     </tu>
     <tu>
