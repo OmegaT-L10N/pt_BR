@@ -2360,9 +2360,9 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T151135Z" creationid="Sheila" creationdate="20170905T151135Z">
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T132130Z" creationid="Sheila" creationdate="20170905T151135Z">
         <seg>--script=&lt;path&gt;
-		Um arquivo script a ser executado no caso de ocorrências no projeto.</seg>
+		Um arquivo de script a ser executado no caso de ocorrências no projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7135,8 +7135,8 @@ on the Program.</seg>
       <tuv lang="EN">
         <seg>A &lt;a0&gt;HowTo describing the tokenizers plug-in&lt;/a0&gt; is also available.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T121918Z" creationid="CALDAS" creationdate="20170913T110253Z">
-        <seg>As &lt;a0&gt;Instruções descrevendo os plugin de tokenizers&lt;/a0&gt; também estão disponíveis.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T131533Z" creationid="CALDAS" creationdate="20170913T110253Z">
+        <seg>As &lt;a0&gt;Instruções descrevendo o plugin de tokenizers&lt;/a0&gt; também estão disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32132,8 +32132,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T112911Z" creationid="Evandro" creationdate="20160310T112813Z">
-        <seg>Consulte OmegaT.jar/META-INF/MANIFEST.MF para valores válidos.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T131556Z" creationid="Evandro" creationdate="20160310T112813Z">
+        <seg>Consulte OmegaT.jar/META-INF/MANIFEST.MF para ver os valores válidos.</seg>
       </tuv>
     </tu>
     <tu>
