@@ -73,3 +73,5 @@ disable	desabilitar
 sensitive	confidencial
 Master Password	Senha mestra
 scope	escopo
+save	salvar	como verbo, "salvar", como substantivo, "gravação"
+saving	gravação	como verbo, "salvar", como substantivo, "gravação"
