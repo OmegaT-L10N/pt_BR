@@ -576,8 +576,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T165655Z" creationid="Evandro" creationdate="20160311T183838Z">
-        <seg>&amp;Propagação automática das traduções</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T191520Z" creationid="Evandro" creationdate="20160311T183838Z">
+        <seg>Propagação &amp;automática das traduções</seg>
       </tuv>
     </tu>
     <tu>
@@ -1642,8 +1642,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T165629Z" creationid="Evandro" creationdate="20160311T183624Z">
-        <seg>&amp;Tokenizer do idioma de origem:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T191511Z" creationid="Evandro" creationdate="20160311T183624Z">
+        <seg>To&amp;kenizer do idioma de origem:</seg>
       </tuv>
     </tu>
     <tu>
