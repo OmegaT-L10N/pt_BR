@@ -22045,8 +22045,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>It will however lack some of the features of the "Latest" version.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T043754Z" creationid="grego" creationdate="20171116T041942Z">
-        <seg>Ele não possuirá, porém, alguns dos recursos da "Última Versão".</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T025815Z" creationid="grego" creationdate="20171116T041942Z">
+        <seg>Essa versão não possui, porém, alguns dos recursos da "última versão".</seg>
       </tuv>
     </tu>
     <tu>
@@ -22955,8 +22955,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T043347Z" creationid="grego" creationdate="20171116T042239Z">
-        <seg>Última Versão - {{site.data.versions.latest.name}}</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T025833Z" creationid="grego" creationdate="20171116T042239Z">
+        <seg>Última versão - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33853,8 +33853,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T040603Z" creationid="grego" creationdate="20171116T040603Z">
-        <seg>Versão Estável - {{site.data.versions.standard.name}}</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T025731Z" creationid="grego" creationdate="20171116T040603Z">
+        <seg>Versão estável - {{site.data.versions.standard.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35639,8 +35639,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The Latest version is a more recent version than the Standard version and includes new features not present in the latter.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T043342Z" creationid="grego" creationdate="20171116T043157Z">
-        <seg>A Última Versão é uma versão mais recente que a Versão Estável e inclui novos recursos que não estão presentes na outra versão.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T030014Z" creationid="grego" creationdate="20171116T043157Z">
+        <seg>A "última versão" é mais recente que a "versão estável" e inclui novos recursos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35792,8 +35792,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The Standard version has usually been in use for some time and is therefore proven.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T041535Z" creationid="grego" creationdate="20171116T040707Z">
-        <seg>A Versão Estável normalmente já está sendo utilizada há algum tempo e, por isso, já foi aprovada.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T025748Z" creationid="grego" creationdate="20171116T040707Z">
+        <seg>A versão estável é a que normalmente já está sendo utilizada há algum tempo e, por isso, já foi aprovada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40358,8 +40358,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T040202Z" creationid="grego" creationdate="20171116T035638Z">
-        <seg>Para obter o OpenOffice.org ou o LibreOffice, siga o link em nosso botão de "programas third-party" à esquerda.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T025647Z" creationid="grego" creationdate="20171116T035638Z">
+        <seg>Para obter o OpenOffice.org ou o LibreOffice, siga o link em nosso botão de "programas third-party" que fica à esquerda.</seg>
       </tuv>
     </tu>
     <tu>
