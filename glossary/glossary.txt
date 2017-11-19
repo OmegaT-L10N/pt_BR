@@ -70,3 +70,5 @@ commit	confirmação
 Pinpoint Align	Alinhamento distante
 enable	habilitar
 disable	desabilitar
+sensitive	confidencial
+Master Password	Senha mestra
