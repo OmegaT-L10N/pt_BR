@@ -1580,6 +1580,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094537Z" creationid="Sheila" creationdate="20171119T094537Z">
+        <seg>&amp;Mostrar no menu de contexto do Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T191106Z" creationid="Sheila" creationdate="20170625T191106Z">
@@ -11474,6 +11482,78 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094432Z" creationid="Sheila" creationdate="20171119T094432Z">
+        <seg>Comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092936Z" creationid="Sheila" creationdate="20171119T092936Z">
+        <seg>O delimitador do comando está vazio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092856Z" creationid="Sheila" creationdate="20171119T092856Z">
+        <seg>O comando não contém "{0}".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092843Z" creationid="Sheila" creationdate="20171119T092809Z">
+        <seg>O comando não tem a string de comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092927Z" creationid="Sheila" creationdate="20171119T092927Z">
+        <seg>O comando não tem um delimitador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing encoding</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092913Z" creationid="Sheila" creationdate="20171119T092913Z">
+        <seg>O comando não tem a codificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing target</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092903Z" creationid="Sheila" creationdate="20171119T092903Z">
+        <seg>O comando não tem o "target".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094605Z" creationid="Sheila" creationdate="20171119T094605Z">
+        <seg>Comando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092950Z" creationid="Sheila" creationdate="20171119T092950Z">
+        <seg>Comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -11836,6 +11916,14 @@ Vide: http://omegat.org/howtos/localizing_omegat.html</note>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181305Z" creationid="karol" creationdate="20160308T181305Z">
         <seg>Conteúdos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094418Z" creationid="Sheila" creationdate="20171119T094418Z">
+        <seg>Prioridade do menu de contexto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13209,6 +13297,22 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T203242Z" creationid="karol" creationdate="20160308T203242Z">
         <seg>Apaga a tradução e marca o segmento como não traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delimiter</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094438Z" creationid="Sheila" creationdate="20171119T094438Z">
+        <seg>Delimitador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delimiter:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094617Z" creationid="Sheila" creationdate="20171119T094617Z">
+        <seg>Delimitador:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14635,6 +14739,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094559Z" creationid="Sheila" creationdate="20171119T094559Z">
+        <seg>Ed&amp;itar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201714Z" creationid="karol" creationdate="20160308T201714Z">
@@ -14936,6 +15048,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable project-specific commands</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094412Z" creationid="Sheila" creationdate="20171119T094412Z">
+        <seg>Habilitar comandos específicos do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121259Z" creationid="Sheila" creationdate="20170909T121259Z">
@@ -14989,6 +15109,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T181042Z" creationid="Evandro" creationdate="20160311T181042Z">
         <seg>Codificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094612Z" creationid="Sheila" creationdate="20171119T094612Z">
+        <seg>Codificação:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20286,6 +20414,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T093014Z" creationid="Sheila" creationdate="20171119T093014Z">
+        <seg>No Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In KMenuEditor select &lt;e3&gt;File -&gt; New Item.&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182141Z" creationid="karol" creationdate="20160308T182141Z">
@@ -22075,10 +22211,18 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item is missing scope</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092437Z" creationid="Sheila" creationdate="20171119T092437Z">
+        <seg>O item não tem escopo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item name is empty or missing</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003902Z" creationid="Sheila" creationdate="20171119T003902Z">
-        <seg>O nome do item está vazio ou ausente</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092359Z" creationid="Sheila" creationdate="20171119T003902Z">
+        <seg>O nome do item está vazio ou ausente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22087,6 +22231,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114249Z" creationid="Evandro" creationdate="20160312T114249Z">
         <seg>Item:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T093002Z" creationid="Sheila" creationdate="20171119T093002Z">
+        <seg>Itens</seg>
       </tuv>
     </tu>
     <tu>
@@ -24910,6 +25062,22 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004120Z" creationid="karol" creationdate="20160309T004120Z">
         <seg>Nome da TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094440Z" creationid="Sheila" creationdate="20171119T094440Z">
+        <seg>Nome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092402Z" creationid="Sheila" creationdate="20171119T092357Z">
+        <seg>Nome: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -30164,6 +30332,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094556Z" creationid="Sheila" creationdate="20171119T094556Z">
+        <seg>Remo&amp;ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote &amp;server</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T130941Z" creationid="Sheila" creationdate="20170909T130941Z">
@@ -31263,6 +31439,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094642Z" creationid="Sheila" creationdate="20171119T094642Z">
+        <seg>Amostra de resultado</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Sample Text</seg>
@@ -31631,6 +31815,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T121237Z" creationid="CALDAS" creationdate="20170914T121015Z">
         <seg>Os scripts/procedimentos disponíveis permitem que você faça o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094550Z" creationid="Sheila" creationdate="20171119T094550Z">
+        <seg>De&amp;finir</seg>
       </tuv>
     </tu>
     <tu>
@@ -32846,8 +33038,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113552Z" creationid="Evandro" creationdate="20160312T113552Z">
-        <seg>Atalhos</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T093010Z" creationid="Evandro" creationdate="20160312T113552Z">
+        <seg>Atalho</seg>
       </tuv>
     </tu>
     <tu>
@@ -33711,6 +33903,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094528Z" creationid="Sheila" creationdate="20171119T094528Z">
+        <seg>Especifique um mnemônico com "&amp;": "F&amp;oobar" para usar O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103614Z" creationid="Evandro" creationdate="20160312T103557Z">
@@ -34228,6 +34428,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201531Z" creationid="karol" creationdate="20160308T201531Z">
         <seg>Tais novas versões serão semelhantes em espírito à versão presente, mas podem diferenciar-se nos detalhes para tratar novos problemas ou assuntos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T093007Z" creationid="Sheila" creationdate="20171119T093007Z">
+        <seg>Resumo</seg>
       </tuv>
     </tu>
     <tu>
@@ -34954,6 +35162,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094609Z" creationid="Sheila" creationdate="20171119T094609Z">
+        <seg>Destino:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tatar</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001016Z" creationid="Evandro" creationdate="20160310T001016Z">
@@ -35105,6 +35321,14 @@ this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113537Z" creationid="Evandro" creationdate="20160312T113537Z">
         <seg>Termos com múltiplas traduções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094646Z" creationid="Sheila" creationdate="20171119T094646Z">
+        <seg>Testar</seg>
       </tuv>
     </tu>
     <tu>
@@ -35851,8 +36075,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002942Z" creationid="Sheila" creationdate="20171119T002942Z">
-        <seg>O URL deve incluir "{target}", que será substituído pelo texto de busca.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T094626Z" creationid="Sheila" creationdate="20171119T002942Z">
+        <seg>A URL deve incluir "{target}", que será substituído pelo texto de busca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41293,6 +41517,38 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092817Z" creationid="Sheila" creationdate="20171119T092507Z">
+        <seg>A URL não contém "{0}".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing URL string</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092824Z" creationid="Sheila" creationdate="20171119T092455Z">
+        <seg>A URL não tem a string de URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092807Z" creationid="Sheila" creationdate="20171119T092807Z">
+        <seg>A URL não tem a codificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092814Z" creationid="Sheila" creationdate="20171119T092510Z">
+        <seg>A URL não tem o "target".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL of online dictionaries:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111138Z" creationid="Evandro" creationdate="20160312T111138Z">
@@ -41305,6 +41561,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T153211Z" creationid="Sheila" creationdate="20170909T153211Z">
         <seg>URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T092937Z" creationid="Sheila" creationdate="20171119T092937Z">
+        <seg>URLs</seg>
       </tuv>
     </tu>
     <tu>
