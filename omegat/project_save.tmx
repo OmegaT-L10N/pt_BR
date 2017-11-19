@@ -18922,8 +18922,8 @@ excuse you from the conditions of this License.</seg>
       <tuv lang="EN">
         <seg>If in doubt, select this option.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T163428Z" creationid="grego" creationdate="20171116T020253Z">
-        <seg>Em caso de dúvidas, escolha essa opção.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T170333Z" creationid="grego" creationdate="20171116T020253Z">
+        <seg>Em caso de dúvidas, escolha esta opção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27026,8 +27026,8 @@ http://omegat.org/reviews</note>
       <tuv lang="EN">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T165846Z" creationid="grego" creationdate="20171109T002845Z">
-        <seg>O OmegaT geralmente roda em qualquer sistema Linux em que se possa instalar uma versão adequada do Java Runtime Environment (JRE).</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T170522Z" creationid="grego" creationdate="20171109T002845Z">
+        <seg>O OmegaT roda em qualquer sistema Linux em que seja possível instalar uma versão adequada do Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36791,8 +36791,8 @@ parts of the General Public License.</seg>
       <tuv lang="EN">
         <seg>The included JRE is the 64-bit version.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T165703Z" creationid="grego" creationdate="20171116T023652Z">
-        <seg>O JRE incluso é a versão 64-bit.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171117T170359Z" creationid="grego" creationdate="20171116T023652Z">
+        <seg>Nesta versão, o JRE incluso é o de 64-bit.</seg>
       </tuv>
     </tu>
     <tu>
