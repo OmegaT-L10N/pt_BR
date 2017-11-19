@@ -35261,6 +35261,14 @@ work thus licensed is called the contributor's "contributor version".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "/trunk" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T030555Z" creationid="grego" creationdate="20171119T030555Z">
+        <seg>A versão "/trunk" é uma versão "alpha" de última geração e que ainda se encontra em desenvolvimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Cmd" key either has a "command" label or an apple symbol on Apple keyboards.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201711Z" creationid="karol" creationdate="20160308T201711Z">
@@ -42292,8 +42300,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T043857Z" creationid="grego" creationdate="20171116T043857Z">
-        <seg>Usuários que já possuem experiência com o OmegaT normalmente preferem a Última Versão.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T030254Z" creationid="grego" creationdate="20171116T043857Z">
+        <seg>Usuários que já possuem experiência com o OmegaT costumam preferir a "última versão".</seg>
       </tuv>
     </tu>
     <tu>
