@@ -21656,8 +21656,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171109T152442Z" creationid="Sheila" creationdate="20170905T134829Z">
-        <seg>fChamar `team -h` para obter detalhes.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T130205Z" creationid="Sheila" creationdate="20170905T134829Z">
+        <seg>Chamar `team -h` para obter detalhes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26550,8 +26550,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170523T185545Z" creationid="karol" creationdate="20160308T172726Z">
-        <seg>O OmegaT seleciona automaticamente um tokenizer para o idioma fonte e destino segundo as configurações de idioma do projeto.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T131435Z" creationid="karol" creationdate="20160308T172726Z">
+        <seg>O OmegaT seleciona automaticamente um tokenizer para o idioma de origem e de destino segundo as configurações de idioma do projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40792,8 +40792,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T213526Z" creationid="karol" creationdate="20160308T172716Z">
-        <seg>Tokenizers (ou lematizadores) melhoram a qualidade das correspondências, reconhecendo palavras flexionadas nos dados da memória de tradução e da fonte.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T130521Z" creationid="karol" creationdate="20160308T172716Z">
+        <seg>Tokenizers (ou lematizadores) melhoram a qualidade das correspondências, reconhecendo palavras flexionadas nos dados da memória de tradução e do texto de origem.</seg>
       </tuv>
     </tu>
     <tu>
