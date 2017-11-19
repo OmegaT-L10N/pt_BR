@@ -501,8 +501,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Align Files...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170524T214404Z" creationid="Sheila" creationdate="20170524T214404Z">
-        <seg>&amp;Alinhar arquivos...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185345Z" creationid="Sheila" creationdate="20170524T214404Z">
+        <seg>A&amp;linhar arquivos...</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,8 +550,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T192317Z" creationid="Evandro" creationdate="20160311T175835Z">
-        <seg>&amp;Sempre confirmar a saída</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185650Z" creationid="Evandro" creationdate="20160311T175835Z">
+        <seg>Sempre confirmar &amp;a saída</seg>
       </tuv>
     </tu>
     <tu>
@@ -685,8 +685,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T161731Z" creationid="karol" creationdate="20160309T161731Z">
-        <seg>&amp;Fechar</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T183844Z" creationid="karol" creationdate="20160309T161731Z">
+        <seg>Fe&amp;char</seg>
       </tuv>
     </tu>
     <tu>
@@ -843,8 +843,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T163804Z" creationid="Sheila" creationdate="20170625T192243Z">
-        <seg>&amp;Habilitar autocompletar histórico</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185637Z" creationid="Sheila" creationdate="20170625T192243Z">
+        <seg>Habilitar autocompl&amp;etar histórico</seg>
       </tuv>
     </tu>
     <tu>
@@ -901,8 +901,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Finish</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115437Z" creationid="Evandro" creationdate="20160310T115437Z">
-        <seg>&amp;Concluir</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184012Z" creationid="Evandro" creationdate="20160310T115437Z">
+        <seg>Co&amp;ncluir</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,8 +910,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Fix All</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T120621Z" creationid="Evandro" creationdate="20160310T115400Z">
-        <seg>&amp;Corrigir tudo</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T183951Z" creationid="Evandro" creationdate="20160310T115400Z">
+        <seg>Corri&amp;gir tudo</seg>
       </tuv>
     </tu>
     <tu>
@@ -936,8 +936,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T162501Z" creationid="Evandro" creationdate="20160310T122334Z">
-        <seg>&amp;Avançar no histórico</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185204Z" creationid="Evandro" creationdate="20160310T122334Z">
+        <seg>Avançar no &amp;histórico</seg>
       </tuv>
     </tu>
     <tu>
@@ -981,8 +981,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T175939Z" creationid="Evandro" creationdate="20160311T175939Z">
-        <seg>&amp;Ajuda</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185705Z" creationid="Evandro" creationdate="20160311T175939Z">
+        <seg>A&amp;juda</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,8 +1074,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T192412Z" creationid="Evandro" creationdate="20160311T180008Z">
-        <seg>&amp;Últimas alterações...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185719Z" creationid="Evandro" creationdate="20160311T180008Z">
+        <seg>Ú&amp;ltimas alterações...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1139,8 +1139,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T183339Z" creationid="Evandro" creationdate="20160311T183339Z">
-        <seg>&amp;Fazer regras de segmentação específicas do projeto</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T191433Z" creationid="Evandro" creationdate="20160311T183339Z">
+        <seg>Fazer regras de seg&amp;mentação específicas do projeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -1299,8 +1299,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Previous Segment</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T162453Z" creationid="Evandro" creationdate="20160310T122247Z">
-        <seg>Segmento &amp;anterior</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185151Z" creationid="Evandro" creationdate="20160310T122247Z">
+        <seg>Se&amp;gmento anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -1395,8 +1395,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115045Z" creationid="Evandro" creationdate="20160310T115045Z">
-        <seg>&amp;Substituir</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T183831Z" creationid="Evandro" creationdate="20160310T115045Z">
+        <seg>Substitui&amp;r</seg>
       </tuv>
     </tu>
     <tu>
@@ -1404,8 +1404,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115421Z" creationid="Evandro" creationdate="20160310T115421Z">
-        <seg>&amp;Substituir próxima</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184004Z" creationid="Evandro" creationdate="20160310T115421Z">
+        <seg>Substitui&amp;r próxima</seg>
       </tuv>
     </tu>
     <tu>
@@ -1499,8 +1499,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Search</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115155Z" creationid="Evandro" creationdate="20160310T115155Z">
-        <seg>&amp;Buscar</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T183813Z" creationid="Evandro" creationdate="20160310T115155Z">
+        <seg>Bu&amp;scar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,8 +1574,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T163738Z" creationid="Evandro" creationdate="20160310T153058Z">
-        <seg>&amp;Mostrar sugestões relevantes automaticamente</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185559Z" creationid="Evandro" creationdate="20160310T153058Z">
+        <seg>Mostrar &amp;sugestões relevantes automaticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,8 +1590,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T191106Z" creationid="Sheila" creationdate="20170625T191106Z">
-        <seg>&amp;Mostrar sugestões relevantes automaticamente</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185618Z" creationid="Sheila" creationdate="20170625T191106Z">
+        <seg>Mo&amp;strar sugestões relevantes automaticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -1599,8 +1599,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Skip</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115410Z" creationid="Evandro" creationdate="20160310T115410Z">
-        <seg>&amp;Pular</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T183958Z" creationid="Evandro" creationdate="20160310T115410Z">
+        <seg>P&amp;ular</seg>
       </tuv>
     </tu>
     <tu>
@@ -1651,8 +1651,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T133054Z" creationid="Evandro" creationdate="20160310T122523Z">
-        <seg>&amp;Estatísticas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185328Z" creationid="Evandro" creationdate="20160310T122523Z">
+        <seg>E&amp;statísticas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1702,8 +1702,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Tools</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T133045Z" creationid="Evandro" creationdate="20160310T122443Z">
-        <seg>&amp;Ferramentas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185300Z" creationid="Evandro" creationdate="20160310T122443Z">
+        <seg>Ferramen&amp;tas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1907,9 +1907,9 @@ for which you have or can give appropriate copyright permission.</seg>
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115939Z" creationid="Evandro" creationdate="20160310T115939Z">
-        <seg>(Para obter a lista dos formatos compatíveis, no Manual do Usuário veja 'Arquivos para traduzir'&gt; 'Formatos de arquivo'.) 
-Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a pasta source.... na janela Arquivos do Projeto ou acesse o menu Projeto e selecione os arquivos fonte que quiser copiar.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184556Z" creationid="Evandro" creationdate="20160310T115939Z">
+        <seg>(Para obter a lista dos formatos compatíveis, veja no manual do usuário 'Arquivos para traduzir' &gt; 'Formatos de arquivo'.) 
+Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a pasta source.... na janela Arquivos do projeto ou acesse o menu Projeto e selecione os arquivos de origem que quiser copiar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,8 +2542,8 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115638Z" creationid="Evandro" creationdate="20160310T115638Z">
-        <seg>1) Reduza o número de arquivos fonte e divida-os em grupos para tradução;</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184414Z" creationid="Evandro" creationdate="20160310T115638Z">
+        <seg>1) Reduza o número de arquivos de origem e divida-os em grupos para tradução;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,9 +2642,9 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115659Z" creationid="Evandro" creationdate="20160310T115659Z">
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184434Z" creationid="Evandro" creationdate="20160310T115659Z">
         <seg>2) Aumente a quantidade de memória disponível para o OmegaT, especificando  "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" na linha de comando ou no script inicial do OmegaT;
-A configuraçao atual é {0}MB;</seg>
+A configuração atual é {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7563,8 +7563,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115309Z" creationid="Evandro" creationdate="20160310T115309Z">
-        <seg>Adicionar</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T183934Z" creationid="Evandro" creationdate="20160310T115309Z">
+        <seg>A&amp;dicionar</seg>
       </tuv>
     </tu>
     <tu>
@@ -9255,8 +9255,8 @@ paragraph of section 11).</seg>
       <tuv lang="EN">
         <seg>Arrays must not be null</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T165511Z" creationid="Evandro" creationdate="20160311T183231Z">
-        <seg>Matrizes não devem ser nulas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T191401Z" creationid="Evandro" creationdate="20160311T183231Z">
+        <seg>Matrizes não podem ser nulas</seg>
       </tuv>
     </tu>
     <tu>
@@ -9829,8 +9829,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T181742Z" creationid="Evandro" creationdate="20160311T181742Z">
-        <seg>O garçon grita:&lt;p&gt;Sua página não foi encontrada, rapaz&lt;p&gt;Peça outra bebida.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190735Z" creationid="Evandro" creationdate="20160311T181742Z">
+        <seg>O garçom grita:&lt;p&gt;Sua página não foi encontrada, rapaz&lt;p&gt;Peça outra bebida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10426,8 +10426,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T161340Z" creationid="Evandro" creationdate="20160310T121257Z">
-        <seg>Documento de destino a&amp;tual</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184823Z" creationid="Evandro" creationdate="20160310T121257Z">
+        <seg>Do&amp;cumento de destino atual</seg>
       </tuv>
     </tu>
     <tu>
@@ -10508,8 +10508,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T165059Z" creationid="Evandro" creationdate="20160311T182303Z">
-        <seg>Impossível acessar pasta de glossários!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T191100Z" creationid="Evandro" creationdate="20160311T182303Z">
+        <seg>Não é possível acessar pasta de glossários!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10517,8 +10517,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T182310Z" creationid="Evandro" creationdate="20160311T182310Z">
-        <seg>Impossível criar pasta para arquivos traduzidos:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T191156Z" creationid="Evandro" creationdate="20160311T182310Z">
+        <seg>Não é possível criar a pasta para arquivos traduzidos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10767,8 +10767,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T162546Z" creationid="Sheila" creationdate="20170905T162546Z">
-        <seg>Verificar &amp;problemas...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185307Z" creationid="Sheila" creationdate="20170905T162546Z">
+        <seg>Ver&amp;ificar problemas...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10815,8 +10815,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T162804Z" creationid="Sheila" creationdate="20170905T162804Z">
-        <seg>Verificar problemas no &amp;documento atual</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185322Z" creationid="Sheila" creationdate="20170905T162804Z">
+        <seg>Verificar problemas no do&amp;cumento atual</seg>
       </tuv>
     </tu>
     <tu>
@@ -12061,8 +12061,8 @@ the conditions stated below.</seg>
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T161139Z" creationid="Evandro" creationdate="20160310T120534Z">
-        <seg>Cop&amp;iar arquivos para a pasta fonte...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184708Z" creationid="Evandro" creationdate="20160310T120534Z">
+        <seg>Cop&amp;iar arquivos para a pasta de origem...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12112,8 +12112,8 @@ the conditions stated below.</seg>
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T192514Z" creationid="karol" creationdate="20160308T201846Z">
-        <seg>Copiar arquivos para a pasta fonte...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184718Z" creationid="karol" creationdate="20160308T201846Z">
+        <seg>Copiar arquivos para a pasta de origem...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13070,8 +13070,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Cursor lock off</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T144447Z" creationid="Evandro" creationdate="20160311T180402Z">
-        <seg>Bloqueio de cursor desativado</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190401Z" creationid="Evandro" creationdate="20160311T180402Z">
+        <seg>Bloqueio de cursor desabilitado</seg>
       </tuv>
     </tu>
     <tu>
@@ -13079,8 +13079,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Cursor lock on</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T180357Z" creationid="Evandro" creationdate="20160311T180357Z">
-        <seg>Cursor lock on</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190354Z" creationid="Evandro" creationdate="20160311T180357Z">
+        <seg>Bloqueio de cursor habilitado</seg>
       </tuv>
     </tu>
     <tu>
@@ -14328,8 +14328,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T161157Z" creationid="Evandro" creationdate="20160310T120433Z">
-        <seg>Baixar projeto de &amp;equipe...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184630Z" creationid="Evandro" creationdate="20160310T120433Z">
+        <seg>Baixar proje&amp;to de equipe...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14609,8 +14609,8 @@ project_save.tmx não foi atualizada no servidor, e o SVN entrou em estado inst�
       <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T165516Z" creationid="Evandro" creationdate="20160311T183247Z">
-        <seg>H&amp;abilitar segmentação em nível de sentença</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T191413Z" creationid="Evandro" creationdate="20160311T183247Z">
+        <seg>Habilitar segme&amp;ntação em nível de sentença</seg>
       </tuv>
     </tu>
     <tu>
@@ -15026,8 +15026,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Enable &amp;TransTips</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T163056Z" creationid="Evandro" creationdate="20160310T153024Z">
-        <seg>Habilitar &amp;dicas de tradução</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185520Z" creationid="Evandro" creationdate="20160310T153024Z">
+        <seg>Habilitar dicas de &amp;tradução</seg>
       </tuv>
     </tu>
     <tu>
@@ -15451,8 +15451,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Error saving segmentation rules configuration:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105508Z" creationid="Evandro" creationdate="20160312T105508Z">
-        <seg>Erro ao gravar a configuração das regras de segmentação:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190123Z" creationid="Evandro" creationdate="20160312T105508Z">
+        <seg>Erro ao salvar a configuração das regras de segmentação:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15653,8 +15653,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Exact &amp;match</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T163405Z" creationid="Sheila" creationdate="20170905T163100Z">
-        <seg>&amp;Correspondência exata</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185533Z" creationid="Sheila" creationdate="20170905T163100Z">
+        <seg>Co&amp;rrespondência exata</seg>
       </tuv>
     </tu>
     <tu>
@@ -16124,8 +16124,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T182108Z" creationid="Evandro" creationdate="20160311T182108Z">
-        <seg>Erro fatal encontrado - gravando o projeto com a extensão de backup '.recover'.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190035Z" creationid="Evandro" creationdate="20160311T182108Z">
+        <seg>Erro fatal encontrado - salvando o projeto com a extensão de backup '.recover'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18240,8 +18240,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T104721Z" creationid="Evandro" creationdate="20160312T104721Z">
-        <seg>Aqui você pode definir os tipos de arquivos fonte que o filtro processará, adaptar os nomes dos arquivos traduzidos e selecionar a codificação que ele usará para carregar o arquivo e gravar sua tradução correspondente.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190106Z" creationid="Evandro" creationdate="20160312T104721Z">
+        <seg>Aqui você pode definir os tipos de arquivos de origem que o filtro processará, adaptar os nomes dos arquivos traduzidos e selecionar a codificação que ele usará para carregar o arquivo e salvar sua tradução correspondente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20658,8 +20658,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T180043Z" creationid="Evandro" creationdate="20160310T153415Z">
-        <seg>Para que as mudanças tenham efeito o OmegaT precisa fechar e depois abrir o projeto.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185742Z" creationid="Evandro" creationdate="20160310T153415Z">
+        <seg>Para que as mudanças tenham efeito o OmegaT precisa fechar e depois reabrir o projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21455,8 +21455,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115810Z" creationid="Evandro" creationdate="20160310T115810Z">
-        <seg>Como instalar e executar o OmegaT", no Manual do Usuário.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184453Z" creationid="Evandro" creationdate="20160310T115810Z">
+        <seg>Como instalar e executar o OmegaT", no manual do usuário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22756,8 +22756,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T164418Z" creationid="Evandro" creationdate="20160311T180016Z">
-        <seg>R&amp;egistro...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185729Z" creationid="Evandro" creationdate="20160311T180016Z">
+        <seg>Registr&amp;o...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23651,8 +23651,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T162843Z" creationid="Evandro" creationdate="20160310T123023Z">
-        <seg>Tradução au&amp;tomática</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185436Z" creationid="Evandro" creationdate="20160310T123023Z">
+        <seg>Tra&amp;dução automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -24009,8 +24009,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T162837Z" creationid="Evandro" creationdate="20160310T122758Z">
-        <seg>Marcar segmentos &amp;não traduzidos</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185416Z" creationid="Evandro" creationdate="20160310T122758Z">
+        <seg>Marcar segmentos não trad&amp;uzidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -24757,8 +24757,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T181931Z" creationid="Evandro" creationdate="20160311T181931Z">
-        <seg>Lamentação e tristeza&lt;p&gt;404 não se encontra mais entre nós&lt;p&gt;Está perdida no paraíso</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190912Z" creationid="Evandro" creationdate="20160311T181931Z">
+        <seg>Lamentação e tristeza&lt;p&gt;404 não está mais entre nós&lt;p&gt;Perdeu-se no paraíso</seg>
       </tuv>
     </tu>
     <tu>
@@ -24766,8 +24766,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Down</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T164542Z" creationid="Evandro" creationdate="20160311T181210Z">
-        <seg>Mover para &amp;baixo</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190619Z" creationid="Evandro" creationdate="20160311T181210Z">
+        <seg>Mover para bai&amp;xo</seg>
       </tuv>
     </tu>
     <tu>
@@ -24784,8 +24784,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="hilge" changedate="20160403T230252Z" creationid="Evandro" creationdate="20160311T181225Z">
-        <seg>Mover para &amp;o último</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190625Z" creationid="Evandro" creationdate="20160311T181225Z">
+        <seg>Mover para o ú&amp;ltimo</seg>
       </tuv>
     </tu>
     <tu>
@@ -24793,8 +24793,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T164537Z" creationid="Evandro" creationdate="20160311T181157Z">
-        <seg>Mover Para &amp;cima</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190610Z" creationid="Evandro" creationdate="20160311T181157Z">
+        <seg>Mover para ci&amp;ma</seg>
       </tuv>
     </tu>
     <tu>
@@ -25225,8 +25225,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Next &amp;Untranslated Segment</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T162343Z" creationid="Evandro" creationdate="20160310T122213Z">
-        <seg>Próximo segmento &amp;não traduzido</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185130Z" creationid="Evandro" creationdate="20160310T122213Z">
+        <seg>Próximo segmento não tradu&amp;zido</seg>
       </tuv>
     </tu>
     <tu>
@@ -25267,8 +25267,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T162515Z" creationid="Evandro" creationdate="20160310T122435Z">
-        <seg>Próximo segmento &amp;único</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185255Z" creationid="Evandro" creationdate="20160310T122435Z">
+        <seg>&amp;Próximo segmento único</seg>
       </tuv>
     </tu>
     <tu>
@@ -26982,8 +26982,8 @@ http://omegat.org/reviews</note>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115527Z" creationid="Evandro" creationdate="20160310T115527Z">
-        <seg>Não há memória suficiente para OmegaT; ele será encerrado quando você clicar em OK.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184028Z" creationid="Evandro" creationdate="20160310T115527Z">
+        <seg>Não há memória suficiente para o OmegaT; ele será encerrado quando você clicar em OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28606,8 +28606,8 @@ em seguida, confirme tudo.</seg>
 return the information below to the software manufacturer with
 a description of how this error was produced.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T182135Z" creationid="Evandro" creationdate="20160311T182135Z">
-        <seg>Consulte a documentação sobre suas opções de recuperação e envie a informação abaixo ao fabricante do software com uma descrição de como este erro aconteceu.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T191000Z" creationid="Evandro" creationdate="20160311T182135Z">
+        <seg>Consulte a documentação sobre suas opções de recuperação e envie a informação abaixo ao fabricante do programa com uma descrição de como este erro aconteceu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28653,8 +28653,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T180225Z" creationid="Evandro" creationdate="20160311T180225Z">
-        <seg>Por favor corrija os problemas com as tags antes de selecionar Criar Documentos Traduzidos..</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185830Z" creationid="Evandro" creationdate="20160311T180225Z">
+        <seg>Corrija os problemas com as tags antes de selecionar Criar documentos traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29421,16 +29421,16 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="EN">
         <seg>Project Statistics</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T182508Z" creationid="Evandro" creationdate="20160311T182508Z">
-        <seg>Estatística do Projeto</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T191229Z" creationid="Evandro" creationdate="20160311T182508Z">
+        <seg>Estatísticas do projeto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Project autosaved on {0}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105039Z" creationid="Evandro" creationdate="20160312T105039Z">
-        <seg>Projeto gravado automaticamente em {0}</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190004Z" creationid="Evandro" creationdate="20160312T105039Z">
+        <seg>Projeto salvo automaticamente em {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -29608,8 +29608,8 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="EN">
         <seg>Project saved</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T180353Z" creationid="Evandro" creationdate="20160311T180353Z">
-        <seg>Projeto gravado</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185922Z" creationid="Evandro" creationdate="20160311T180353Z">
+        <seg>Projeto salvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -29868,8 +29868,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T132610Z" creationid="Evandro" creationdate="20160310T115229Z">
-        <seg>Re&amp;mover</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T183925Z" creationid="Evandro" creationdate="20160310T115229Z">
+        <seg>R&amp;emover</seg>
       </tuv>
     </tu>
     <tu>
@@ -29877,8 +29877,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>R&amp;eplace with Match or Selection</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T161414Z" creationid="Evandro" creationdate="20160310T121457Z">
-        <seg>&amp;Substituir por correspondência ou seleção</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184907Z" creationid="Evandro" creationdate="20160310T121457Z">
+        <seg>Substituir por corr&amp;espondência ou seleção</seg>
       </tuv>
     </tu>
     <tu>
@@ -30628,8 +30628,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T163002Z" creationid="Sheila" creationdate="20170905T163002Z">
-        <seg>&amp;Substituir termos do glossário ao inserir texto de origem</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185510Z" creationid="Sheila" creationdate="20170905T163002Z">
+        <seg>Substituir termos do &amp;glossário ao inserir texto de origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -30714,8 +30714,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T161421Z" creationid="Evandro" creationdate="20160310T121506Z">
-        <seg>Substituir por tradução &amp;automática</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184918Z" creationid="Evandro" creationdate="20160310T121506Z">
+        <seg>Substituir por tradução auto&amp;mática</seg>
       </tuv>
     </tu>
     <tu>
@@ -31655,8 +31655,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T180344Z" creationid="Evandro" creationdate="20160311T180344Z">
-        <seg>Gravando o projeto...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185918Z" creationid="Evandro" creationdate="20160311T180344Z">
+        <seg>Salvando o projeto...</seg>
       </tuv>
     </tu>
     <tu>
@@ -31756,8 +31756,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170524T214354Z" creationid="Evandro" creationdate="20160310T122615Z">
-        <seg>&amp;Scripts...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185402Z" creationid="Evandro" creationdate="20160310T122615Z">
+        <seg>Scri&amp;pts...</seg>
       </tuv>
     </tu>
     <tu>
@@ -32018,8 +32018,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>See "Chapter 3.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115706Z" creationid="Evandro" creationdate="20160310T115706Z">
-        <seg>Veja o "Capítulo 3".</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184444Z" creationid="Evandro" creationdate="20160310T115706Z">
+        <seg>Veja o "Capítulo 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32115,8 +32115,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T160224Z" creationid="Evandro" creationdate="20160310T114923Z">
-        <seg>Consulte Ajuda &gt; Manual do usuário para maiores informações.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T183713Z" creationid="Evandro" creationdate="20160310T114923Z">
+        <seg>Consulte Ajuda &gt; Manual do usuário para obter mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32484,8 +32484,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T161513Z" creationid="Evandro" creationdate="20160310T121950Z">
-        <seg>Selecionar &amp;próxima correspondência</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185001Z" creationid="Evandro" creationdate="20160310T121950Z">
+        <seg>Selecio&amp;nar próxima correspondência</seg>
       </tuv>
     </tu>
     <tu>
@@ -32493,8 +32493,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Select &amp;Previous Match</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T161517Z" creationid="Evandro" creationdate="20160310T122002Z">
-        <seg>Selecionar correspondência &amp;anterior</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185021Z" creationid="Evandro" creationdate="20160310T122002Z">
+        <seg>Se&amp;lecionar correspondência anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -32519,8 +32519,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T161509Z" creationid="Evandro" creationdate="20160310T121936Z">
-        <seg>Selecionar co&amp;rrespondência</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T184953Z" creationid="Evandro" creationdate="20160310T121936Z">
+        <seg>Selecionar &amp;correspondência</seg>
       </tuv>
     </tu>
     <tu>
@@ -33767,8 +33767,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T162508Z" creationid="Evandro" creationdate="20160310T122417Z">
-        <seg>Fonte da &amp;correspondência selecionada</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185224Z" creationid="Evandro" creationdate="20160310T122417Z">
+        <seg>Orige&amp;m da correspondência selecionada</seg>
       </tuv>
     </tu>
     <tu>
@@ -33841,8 +33841,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T180451Z" creationid="Evandro" creationdate="20160311T180451Z">
-        <seg>Extensão do texto fonte/tradução (caracteres)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190430Z" creationid="Evandro" creationdate="20160311T180451Z">
+        <seg>Extensão do texto de origem/tradução (caracteres)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35114,8 +35114,8 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171104T155051Z" creationid="Sheila" creationdate="20171104T155051Z">
-        <seg>Arquivos de de destino confirmados</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185852Z" creationid="Sheila" creationdate="20171104T155051Z">
+        <seg>Arquivos de destino confirmados</seg>
       </tuv>
     </tu>
     <tu>
@@ -38923,8 +38923,8 @@ not accept this License.</seg>
       <tuv lang="EN">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T181820Z" creationid="Evandro" creationdate="20160311T181820Z">
-        <seg>Três coisas são certas:&lt;p&gt;morte, impostos e página não encontrada.&lt;p&gt;Você, vítima de uma delas.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190816Z" creationid="Evandro" creationdate="20160311T181820Z">
+        <seg>Três coisas que são certas:&lt;p&gt;morte, impostos e página não encontrada.&lt;p&gt;Você, vítima de uma delas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41115,8 +41115,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Translated document created</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T182229Z" creationid="Evandro" creationdate="20160311T182229Z">
-        <seg>Documentos traduzidos criados</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T191030Z" creationid="Evandro" creationdate="20160311T182229Z">
+        <seg>Documento traduzido criado</seg>
       </tuv>
     </tu>
     <tu>
@@ -41592,8 +41592,8 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       <tuv lang="EN">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T182235Z" creationid="Evandro" creationdate="20160311T182235Z">
-        <seg>Impossível criar novo arquivo TMX!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T191049Z" creationid="Evandro" creationdate="20160311T182235Z">
+        <seg>Não é possível criar um novo arquivo TMX!</seg>
       </tuv>
     </tu>
     <tu>
@@ -42145,16 +42145,16 @@ na linha {1}, coluna {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T163426Z" creationid="Sheila" creationdate="20170905T163426Z">
-        <seg>&amp;Usar correspondências parciais para termos do dicionário</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185551Z" creationid="Sheila" creationdate="20170905T163426Z">
+        <seg>Usar correspondências &amp;parciais para termos do dicionário</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T213443Z" creationid="Sheila" creationdate="20170904T213443Z">
-        <seg>Usar &amp;lematização para termos do glossário</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185459Z" creationid="Sheila" creationdate="20170904T213443Z">
+        <seg>U&amp;sar lematização para termos do glossário</seg>
       </tuv>
     </tu>
     <tu>
@@ -42250,8 +42250,8 @@ na linha {1}, coluna {2}.</seg>
       <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T162932Z" creationid="Sheila" creationdate="20170905T162932Z">
-        <seg>&amp;Usar termos que aparecem isolados no texto de origem</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185453Z" creationid="Sheila" creationdate="20170905T162932Z">
+        <seg>Usar termos que &amp;aparecem isolados no texto de origem</seg>
       </tuv>
     </tu>
     <tu>
