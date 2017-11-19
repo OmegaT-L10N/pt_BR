@@ -598,6 +598,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003328Z" creationid="Sheila" creationdate="20171119T003328Z">
+        <seg>Buscar traduções &amp;automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Back</seg>
@@ -629,6 +637,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184022Z" creationid="Evandro" creationdate="20160311T183957Z">
         <seg>&amp;Procurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003308Z" creationid="Sheila" creationdate="20171119T003308Z">
+        <seg>&amp;Procurar on-line</seg>
       </tuv>
     </tu>
     <tu>
@@ -1041,8 +1057,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184710Z" creationid="Evandro" creationdate="20160311T184710Z">
-        <seg>Busca por Palavra-&amp;chave</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003134Z" creationid="Evandro" creationdate="20160311T184710Z">
+        <seg>Busca por palavra-&amp;chave</seg>
       </tuv>
     </tu>
     <tu>
@@ -1402,6 +1418,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003559Z" creationid="Sheila" creationdate="20171119T003559Z">
+        <seg>&amp;Redefinir senha mestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T121310Z" creationid="Sheila" creationdate="20170909T121310Z">
@@ -1492,8 +1516,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Search for Selection</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160313T104037Z" creationid="Evandro" creationdate="20160311T185905Z">
-        <seg>&amp;Busca por Seleção</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003042Z" creationid="Evandro" creationdate="20160311T185905Z">
+        <seg>&amp;Busca por seleção</seg>
       </tuv>
     </tu>
     <tu>
@@ -1689,6 +1713,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T165618Z" creationid="Evandro" creationdate="20160311T183604Z">
         <seg>Idioma dos arquivos &amp;traduzidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003220Z" creationid="Sheila" creationdate="20171119T003220Z">
+        <seg>&amp;Desfazer alterações</seg>
       </tuv>
     </tu>
     <tu>
@@ -3179,6 +3211,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001842Z" creationid="Sheila" creationdate="20171119T001842Z">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172018Z" creationid="karol" creationdate="20160308T172018Z">
@@ -4137,6 +4177,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T204739Z" creationid="Sheila" creationdate="20170912T204739Z">
         <seg>&lt;html&gt;URL do repositório:&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001841Z" creationid="Sheila" creationdate="20171119T001841Z">
+        <seg>&lt;html&gt;Termo: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossários:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7382,6 +7430,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A restart is required in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003251Z" creationid="Sheila" creationdate="20171119T003251Z">
+        <seg>É preciso reinicializar para aplicar essas alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002353Z" creationid="karol" creationdate="20160309T002353Z">
@@ -7542,6 +7598,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182337Z" creationid="karol" creationdate="20160308T182337Z">
         <seg>Chaves de API podem ser solicitadas usando o &lt;u0&gt;formulário de requisição de chave de API&lt;/u0&gt; e visualizadas na página &lt;u1&gt;Minhas chaves&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003813Z" creationid="Sheila" creationdate="20171119T003813Z">
+        <seg>Somente ASCII</seg>
       </tuv>
     </tu>
     <tu>
@@ -8323,6 +8387,14 @@ restrictions" within the meaning of section 10.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003618Z" creationid="Sheila" creationdate="20171119T003618Z">
+        <seg>Todas as preferências protegidas pela senha mestra serão redefinidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All rights granted under this License are granted for the term of
 copyright on the Program, and are irrevocable provided the stated
 conditions are met.</seg>
@@ -9060,6 +9132,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003418Z" creationid="Sheila" creationdate="20171119T003407Z">
+        <seg>Aparência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181301Z" creationid="karol" creationdate="20160308T181301Z">
@@ -9129,6 +9209,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114321Z" creationid="Evandro" creationdate="20160312T114321Z">
         <seg>Tem certeza que deseja restaurar todas as cores?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003609Z" creationid="Sheila" creationdate="20171119T003609Z">
+        <seg>Tem certeza de que deseja redefinir a senha mestra?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9920,6 +10008,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171209Z" creationid="karol" creationdate="20160308T171209Z">
         <seg>Bósnio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003828Z" creationid="Sheila" creationdate="20171119T003828Z">
+        <seg>Ambos</seg>
       </tuv>
     </tu>
     <tu>
@@ -11541,6 +11637,14 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;figure</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003320Z" creationid="Sheila" creationdate="20171119T003320Z">
+        <seg>Con&amp;figurar</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6
 </note>
       <tuv lang="EN">
@@ -11573,6 +11677,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111142Z" creationid="Evandro" creationdate="20160312T111142Z">
         <seg>Confirmar desinstalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002525Z" creationid="Sheila" creationdate="20171119T002525Z">
+        <seg>Confirmar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13485,6 +13597,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001715Z" creationid="Sheila" creationdate="20171119T001704Z">
+        <seg>Desabilitar regra “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Disclaimer of Warranty.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201535Z" creationid="karol" creationdate="20160308T201535Z">
@@ -14009,6 +14129,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171118T101316Z" creationid="Sheila" creationdate="20171118T101316Z">
         <seg>Não pergunte o que verificar primeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002027Z" creationid="Sheila" creationdate="20171119T002027Z">
+        <seg>Não pergunte antes de verificar os problemas</seg>
       </tuv>
     </tu>
     <tu>
@@ -14538,6 +14666,30 @@ propagate that work, subject to this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002921Z" creationid="Sheila" creationdate="20171119T002921Z">
+        <seg>Editar comando da busca externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002901Z" creationid="Sheila" creationdate="20171119T002901Z">
+        <seg>Editar item da busca externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002913Z" creationid="Sheila" creationdate="20171119T002913Z">
+        <seg>Editar URL da busca externa</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Edit Filter</seg>
@@ -14979,6 +15131,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003539Z" creationid="Sheila" creationdate="20171119T002501Z">
+        <seg>Digte a sua senha mestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter your name here and it will be attached to all segments translated by you.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T213507Z" creationid="karol" creationdate="20160308T213507Z">
@@ -15239,6 +15399,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010537Z" creationid="karol" creationdate="20160309T010537Z">
         <seg>Erros encontrados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003802Z" creationid="Sheila" creationdate="20171119T003802Z">
+        <seg>Escape</seg>
       </tuv>
     </tu>
     <tu>
@@ -15615,6 +15783,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T165703Z" creationid="Evandro" creationdate="20160311T183901Z">
         <seg>Comando de pós-processamento externo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002827Z" creationid="Sheila" creationdate="20171119T002827Z">
+        <seg>Busca externa</seg>
       </tuv>
     </tu>
     <tu>
@@ -17205,6 +17381,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003409Z" creationid="Sheila" creationdate="20171119T003406Z">
+        <seg>Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generalities</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001332Z" creationid="karol" creationdate="20160309T001332Z">
@@ -17513,6 +17697,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170815T191305Z" creationid="karol" creationdate="20160308T201756Z">
         <seg>Acessar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Preferences &gt; External Search to enable.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002823Z" creationid="Sheila" creationdate="20171119T002823Z">
+        <seg>Ir para Preferências &gt; Busca externa para habilitar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18236,6 +18428,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I Understand; Do It Anyway</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002649Z" creationid="Sheila" creationdate="20171119T002649Z">
+        <seg>Eu entendo; quero fazer isso mesmo assim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002415Z" creationid="karol" creationdate="20160309T002415Z">
@@ -18742,6 +18942,14 @@ excuse you from the conditions of this License.</seg>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T160507Z" creationid="Sheila" creationdate="20170905T160507Z">
         <seg>Se invocado em uma árvore ativa do git ou checkout do svn, os resultados
 		serão incluídos/adicionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002004Z" creationid="Sheila" creationdate="20171119T001925Z">
+        <seg>Se a verificação de problemas está lenta, tente desabilitar algumas das verificações opcionais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21859,6 +22067,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T004343Z" creationid="Sheila" creationdate="20171119T004343Z">
+        <seg>O item não tem URLs nem comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003902Z" creationid="Sheila" creationdate="20171119T003902Z">
+        <seg>O nome do item está vazio ou ausente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114249Z" creationid="Evandro" creationdate="20160312T114249Z">
@@ -23752,6 +23976,22 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003530Z" creationid="Sheila" creationdate="20171119T002036Z">
+        <seg>Senha mestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003551Z" creationid="Sheila" creationdate="20171119T003551Z">
+        <seg>Senha mestra:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Match Statistics</seg>
@@ -25030,6 +25270,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003821Z" creationid="Sheila" creationdate="20171119T003821Z">
+        <seg>Somente não-ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-GUI mode options:
 	--quiet
 		Reduce output to command line stdout.</seg>
@@ -25102,6 +25350,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003807Z" creationid="Sheila" creationdate="20171119T003807Z">
+        <seg>Nenhum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Normal</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220734Z" creationid="Sheila" creationdate="20171114T220734Z">
@@ -25162,6 +25418,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171258Z" creationid="karol" creationdate="20160308T171258Z">
         <seg>Norueguês Nynorsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003716Z" creationid="Sheila" creationdate="20171119T003705Z">
+        <seg>Não definido</seg>
       </tuv>
     </tu>
     <tu>
@@ -26148,6 +26412,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003544Z" creationid="Sheila" creationdate="20171119T002624Z">
+        <seg>O OmegaT pode gerar e armazenar uma senha mestra, para que você não precise digitá-la cada vez, mas isto é muito menos seguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT compatibility</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071158Z" creationid="CALDAS" creationdate="20170918T071158Z">
@@ -26176,6 +26448,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002138Z" creationid="karol" creationdate="20160309T002138Z">
         <seg>O OmegaT exibirá uma lista de todos os segmentos contendo as palavras especificadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003510Z" creationid="Sheila" creationdate="20171119T003510Z">
+        <seg>O OmegaT criptografa senhas confidenciais e chaves de API com uma senha mestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28147,8 +28427,8 @@ em seguida, confirme tudo.</seg>
       <tuv lang="EN">
         <seg>Please close search window.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185819Z" creationid="Evandro" creationdate="20160311T185819Z">
-        <seg>Por favor feche a janela de busca.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003049Z" creationid="Evandro" creationdate="20160311T185819Z">
+        <seg>Feche a janela de busca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28271,6 +28551,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105902Z" creationid="Evandro" creationdate="20160312T105847Z">
         <seg>Digite seu nome/ID.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002542Z" creationid="Sheila" creationdate="20171119T002542Z">
+        <seg>Digite a sua senha novamente para confirmação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28408,6 +28696,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003259Z" creationid="Sheila" creationdate="20171119T003259Z">
+        <seg>Plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171114T220735Z" creationid="Sheila" creationdate="20171114T220735Z">
@@ -28484,6 +28780,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T112700Z" creationid="Sheila" creationdate="20170913T112700Z">
         <seg>As credenciais predefinidas não foram passadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002657Z" creationid="Sheila" creationdate="20171119T002657Z">
+        <seg>Preferências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002700Z" creationid="Sheila" creationdate="20171119T002700Z">
+        <seg>Preferências - {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28582,6 +28894,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002352Z" creationid="karol" creationdate="20160309T002352Z">
         <seg>Pressione o botão &lt;e0&gt;Filtrar&lt;/e0&gt; na parte inferior para restringir as entradas exibidas no painel Editor às que correspondem à busca atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003740Z" creationid="Sheila" creationdate="20171119T003740Z">
+        <seg>Pressione o atalho de teclado que você deseja atribuir e, em seguida, clique em Ok.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28895,6 +29215,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002844Z" creationid="Sheila" creationdate="20171119T002844Z">
+        <seg>Busca externa específica do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Project Specific File Filters</seg>
@@ -28935,6 +29263,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111030Z" creationid="Evandro" creationdate="20160312T111030Z">
         <seg>Projeto fechado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003840Z" creationid="Sheila" creationdate="20171119T003840Z">
+        <seg>Os comandos do projeto estão desativados por motivos de segurança.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29172,6 +29508,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201347Z" creationid="karol" creationdate="20160308T201347Z">
         <seg>Proteção dos direitos legais de usuários contra medidas anticircunvenção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provider</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003404Z" creationid="Sheila" creationdate="20171119T003404Z">
+        <seg>Provedor</seg>
       </tuv>
     </tu>
     <tu>
@@ -30410,6 +30754,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003604Z" creationid="Sheila" creationdate="20171119T003604Z">
+        <seg>Redefinir senha mestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resolve Conflicts</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102623Z" creationid="Sheila" creationdate="20170912T102623Z">
@@ -30430,6 +30782,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110838Z" creationid="Evandro" creationdate="20160312T110838Z">
         <seg>Restaurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore &amp;Defaults</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003234Z" creationid="Sheila" creationdate="20171119T003234Z">
+        <seg>Restaurar &amp;padrões</seg>
       </tuv>
     </tu>
     <tu>
@@ -31275,6 +31635,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search ({0})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002753Z" creationid="Sheila" creationdate="20171119T002753Z">
+        <seg>Buscar ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214407Z" creationid="karol" creationdate="20160308T214407Z">
@@ -31336,8 +31704,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Search for:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184633Z" creationid="Evandro" creationdate="20160311T184633Z">
-        <seg>Buscar por:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003144Z" creationid="Evandro" creationdate="20160311T184633Z">
+        <seg>Buscar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31393,8 +31761,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160313T104015Z" creationid="Evandro" creationdate="20160311T185811Z">
-        <seg>Sequência de busca terminou inesperadamente!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003119Z" creationid="Evandro" creationdate="20160311T185811Z">
+        <seg>A sequência de busca terminou inesperadamente!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31427,6 +31795,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113229Z" creationid="Evandro" creationdate="20160312T113229Z">
         <seg>Segundos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003432Z" creationid="Sheila" creationdate="20171119T003432Z">
+        <seg>Armazenamento seguro</seg>
       </tuv>
     </tu>
     <tu>
@@ -31931,6 +32307,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001900Z" creationid="Sheila" creationdate="20171119T001900Z">
+        <seg>Selecione os tipos de problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
@@ -32074,10 +32458,26 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a Category</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003207Z" creationid="Sheila" creationdate="20171119T003207Z">
+        <seg>Selecionar uma categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a Script File</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102543Z" creationid="Sheila" creationdate="20170912T102543Z">
         <seg>Selecionar um arquivo de script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001922Z" creationid="Sheila" creationdate="20171119T001908Z">
+        <seg>Selecione os tipos de problemas para verificar</seg>
       </tuv>
     </tu>
     <tu>
@@ -32259,10 +32659,42 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003649Z" creationid="Sheila" creationdate="20171119T003649Z">
+        <seg>Definida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003642Z" creationid="Sheila" creationdate="20171119T003642Z">
+        <seg>Definida &amp; armazenada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set My Own Password</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002632Z" creationid="Sheila" creationdate="20171119T002632Z">
+        <seg>Definir minha própria senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set Scripts Folder...</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104008Z" creationid="Sheila" creationdate="20170912T104008Z">
         <seg>Definir pasta de scripts...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003534Z" creationid="Sheila" creationdate="20171119T002234Z">
+        <seg>Defina uma senha mestra para proteger seus dados confidenciais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32408,6 +32840,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113552Z" creationid="Evandro" creationdate="20160312T113552Z">
         <seg>Atalhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003713Z" creationid="Sheila" creationdate="20171119T003713Z">
+        <seg>Atalho:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32673,6 +33113,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T164452Z" creationid="Sheila" creationdate="20170905T164452Z">
         <seg>Tamanho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002559Z" creationid="Sheila" creationdate="20171119T002559Z">
+        <seg>Pular</seg>
       </tuv>
     </tu>
     <tu>
@@ -34629,6 +35077,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001724Z" creationid="Sheila" creationdate="20171119T001706Z">
+        <seg>Problemas de terminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms in the current segment which &lt;a3&gt;OmegaT&lt;/a3&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181950Z" creationid="karol" creationdate="20160308T181950Z">
@@ -34692,8 +35148,8 @@ O escopo de uma substituição de texto inclui os segmentos destino do projeto, 
       <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185321Z" creationid="Evandro" creationdate="20160311T185321Z">
-        <seg>Busca de Texto</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003127Z" creationid="Evandro" creationdate="20160311T185321Z">
+        <seg>Busca de texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -35377,6 +35833,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002942Z" creationid="Sheila" creationdate="20171119T002942Z">
+        <seg>O URL deve incluir "{target}", que será substituído pelo texto de busca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172636Z" creationid="karol" creationdate="20160308T172636Z">
@@ -35617,6 +36081,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003000Z" creationid="Sheila" creationdate="20171119T003000Z">
+        <seg>O comando deve incluir "{target}", que será substituído pelo texto de busca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command to launch &lt;a3&gt;OmegaT&lt;/a3&gt; with assignment of 1024 MB (1 gigabyte) of memory is therefore:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182323Z" creationid="karol" creationdate="20160308T182323Z">
@@ -35751,6 +36223,14 @@ instead.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110940Z" creationid="Evandro" creationdate="20160312T110940Z">
         <seg>Em vez disso, a pasta atual será usada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The current project must be reloaded in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003257Z" creationid="Sheila" creationdate="20171119T003257Z">
+        <seg>O projeto atual deve ser recarregado para aplicar essas alterações</seg>
       </tuv>
     </tu>
     <tu>
@@ -36754,6 +37234,30 @@ content, constitutes a covered work.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201342Z" creationid="karol" creationdate="20160308T201342Z">
         <seg>O resultado produzido ao executar um trabalho coberto é coberto por esta licença apenas se a produção, dado o seu conteúdo, constituir um trabalho coberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002532Z" creationid="Sheila" creationdate="20171119T002532Z">
+        <seg>A senha não pode estar vazia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002520Z" creationid="Sheila" creationdate="20171119T002520Z">
+        <seg>A senha digitada não está correta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The passwords don't match.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002546Z" creationid="Sheila" creationdate="20171119T002546Z">
+        <seg>As senhas não são iguais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38005,6 +38509,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003231Z" creationid="karol" creationdate="20160309T003231Z">
         <seg>Há essencialmente duas formas de fazer isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are many plugins available for OmegaT online.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003315Z" creationid="Sheila" creationdate="20171119T003315Z">
+        <seg>Existem muitos plugins disponíveis para o OmegaT on-line.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41189,6 +41701,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Untranslated segments &amp;only</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003355Z" creationid="Sheila" creationdate="20171119T003355Z">
+        <seg>Apenas segment&amp;os não traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments text</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114020Z" creationid="Evandro" creationdate="20160312T114020Z">
@@ -44292,6 +44812,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T002449Z" creationid="Sheila" creationdate="20171119T002449Z">
+        <seg>Você deverá digitar esta senha conforme solicitado toda vez que iniciar o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You will then be able to launch OmegaT by executing this file from the command line</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181319Z" creationid="karol" creationdate="20160308T181319Z">
@@ -44443,6 +44971,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105952Z" creationid="Evandro" creationdate="20160312T105952Z">
         <seg>[parcial]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001828Z" creationid="Sheila" creationdate="20171119T001828Z">
+        <seg>[{0}] “{1}” na origem; esperado um de {2} no destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001801Z" creationid="Sheila" creationdate="20171119T001801Z">
+        <seg>[{0}] “{1}” na origem; esperado “{2}” no destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -51175,6 +51719,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001841Z" creationid="Sheila" creationdate="20171119T001841Z">
+        <seg>{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}/{1}</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113720Z" creationid="Evandro" creationdate="20160312T113720Z">
@@ -51201,6 +51753,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001842Z" creationid="Sheila" creationdate="20171119T001842Z">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>}</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T190737Z" creationid="Sheila" creationdate="20170625T190737Z">
@@ -51221,6 +51781,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20171115T114739Z" creationid="CALDAS" creationdate="20171115T114739Z">
         <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001830Z" creationid="Sheila" creationdate="20171119T001830Z">
+        <seg>“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001831Z" creationid="Sheila" creationdate="20171119T001831Z">
+        <seg>“{0}” ({1})</seg>
       </tuv>
     </tu>
     <tu>
