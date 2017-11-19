@@ -2103,8 +2103,8 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185857Z" creationid="Evandro" creationdate="20160311T185857Z">
-        <seg>+{0} more</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T211554Z" creationid="Evandro" creationdate="20160311T185857Z">
+        <seg>+{0} outras</seg>
       </tuv>
     </tu>
     <tu>
@@ -7588,8 +7588,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>ANTLR (ANTLR 3 License)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170733Z" creationid="Sheila" creationdate="20170905T170733Z">
-        <seg>ANTLR (ANTLR 3 License)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212850Z" creationid="Sheila" creationdate="20170905T170733Z">
+        <seg>ANTLR (Licença ANTLR 3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9110,8 +9110,8 @@ paragraph of section 11).</seg>
       <tuv lang="EN">
         <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170743Z" creationid="Sheila" creationdate="20170905T170743Z">
-        <seg>Apache Commons (Apache License 2.0)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212931Z" creationid="Sheila" creationdate="20170905T170743Z">
+        <seg>Apache Commons (Licença Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10534,8 +10534,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Cannot load specified XML file!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185939Z" creationid="Evandro" creationdate="20160311T185939Z">
-        <seg>Impossível carregar o arquivo XML especificado!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T211634Z" creationid="Evandro" creationdate="20160311T185939Z">
+        <seg>Não é possível carregar o arquivo XML especificado!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14054,16 +14054,16 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105208Z" creationid="Evandro" creationdate="20160312T105208Z">
-        <seg>Não traduzir o atributo de conteúdo das meta-tags com os seguintes pares de atributo key-value (separados por vírgulas):</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T213248Z" creationid="Evandro" creationdate="20160312T105208Z">
+        <seg>Não traduzir o atributo de conteúdo das meta-tags com os seguintes pares de atributo chave-valor (separados por vírgulas):</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105212Z" creationid="Evandro" creationdate="20160312T105212Z">
-        <seg>Não traduzir o conteúdo das tags com os seguintes pares de atributo key-value (separados por vírgulas):</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T213257Z" creationid="Evandro" creationdate="20160312T105212Z">
+        <seg>Não traduzir o conteúdo das tags com os seguintes pares de atributo chave-valor (separados por vírgulas):</seg>
       </tuv>
     </tu>
     <tu>
@@ -16241,8 +16241,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>File Format</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102209Z" creationid="Evandro" creationdate="20160312T102209Z">
-        <seg>Formato do Arquivo</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T211959Z" creationid="Evandro" creationdate="20160312T102209Z">
+        <seg>Formato do arquivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -17935,8 +17935,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>Groovy (Apache Licence 2.0)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170746Z" creationid="Sheila" creationdate="20170905T170746Z">
-        <seg>Groovy (Apache Licence 2.0)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T213001Z" creationid="Sheila" creationdate="20170905T170746Z">
+        <seg>Groovy (Licença Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18647,8 +18647,8 @@ SUCH DAMAGES.</seg>
       <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185945Z" creationid="Evandro" creationdate="20160311T185945Z">
-        <seg>Exceção de Entrada/Saída encontrada:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T211642Z" creationid="Evandro" creationdate="20160311T185945Z">
+        <seg>Exceção de entrada/saída encontrada:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18793,8 +18793,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105133Z" creationid="Evandro" creationdate="20160312T105133Z">
-        <seg>Se um arquivo HTML possui a declaração de codificação, ela será usada independentemente do valor a ser definido nesta caixa.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T213227Z" creationid="Evandro" creationdate="20160312T105133Z">
+        <seg>Se um arquivo HTML tem a declaração de codificação, ela será usada independentemente do valor a ser definido nesta caixa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22326,8 +22326,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103225Z" creationid="Evandro" creationdate="20160312T103206Z">
-        <seg>Opções de Filtro dos Pacotes de Recursos Java</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212154Z" creationid="Evandro" creationdate="20160312T103206Z">
+        <seg>Opções de filtro dos pacotes de recursos Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -22383,8 +22383,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Java(TM) Resource Bundles</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103109Z" creationid="Evandro" creationdate="20160312T103109Z">
-        <seg>Pacotes de Recursos Java(TM)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212143Z" creationid="Evandro" creationdate="20160312T103109Z">
+        <seg>Pacotes de recursos Java(TM)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22431,8 +22431,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Jmyspell (LGPL License)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170731Z" creationid="Sheila" creationdate="20170905T170731Z">
-        <seg>Jmyspell (LGPL License)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212835Z" creationid="Sheila" creationdate="20170905T170731Z">
+        <seg>Jmyspell (Licença LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22619,8 +22619,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Key=Value Text</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103442Z" creationid="Evandro" creationdate="20160312T103442Z">
-        <seg>Chave=Valor em texto</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212304Z" creationid="Evandro" creationdate="20160312T103442Z">
+        <seg>Textos Chave=Valor</seg>
       </tuv>
     </tu>
     <tu>
@@ -22848,8 +22848,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170744Z" creationid="Sheila" creationdate="20170905T170744Z">
-        <seg>LanguageTool (LGPL License and others)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212944Z" creationid="Sheila" creationdate="20170905T170744Z">
+        <seg>LanguageTool (Licença LGPL e outras)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26761,8 +26761,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T104234Z" creationid="Evandro" creationdate="20160312T104234Z">
-        <seg>O OmegaT é uma ferramenta de tradução assistida por computador, ou seja CAT (Computer Assisted Translation), gratuita e de código aberto, compatível com diversas plataformas; oferece correspondências parciais, memória de tradução, busca de palavras-chaves, glossários e reutilização de tradução em atualização de projetos traduzidos.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212607Z" creationid="Evandro" creationdate="20160312T104234Z">
+        <seg>O OmegaT é uma ferramenta de tradução assistida por computador, ou seja, uma CAT (Computer Assisted Translation) tool, gratuita e de código aberto, compatível com diversas plataformas; oferece correspondências parciais, memória de tradução, busca de palavras-chaves, glossários e reutilização de tradução na atualização de projetos traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26867,8 +26867,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T005441Z" creationid="karol" creationdate="20160309T005441Z">
-        <seg>OmegaT originou-se do trabalho de Keith Godfrey.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212659Z" creationid="karol" creationdate="20160309T005441Z">
+        <seg>O OmegaT foi criado originalmente por Keith Godfrey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27186,8 +27186,8 @@ http://omegat.org/reviews</note>
       <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T101750Z" creationid="Evandro" creationdate="20160312T101750Z">
-        <seg>OmegaT tentará segmentar o arquivo TMX novamente...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T211952Z" creationid="Evandro" creationdate="20160312T101750Z">
+        <seg>O OmegaT tentará segmentar o arquivo TMX novamente...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27484,8 +27484,8 @@ http://omegat.org/reviews</note>
       <tuv lang="EN">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105217Z" creationid="Evandro" creationdate="20160312T105217Z">
-        <seg>Somente se o arquivo  (X)HTML tiver uma declaração de &amp;codificação</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T213312Z" creationid="Evandro" creationdate="20160312T105217Z">
+        <seg>Somente se o arquivo  (X)HTML tiver uma declaração d&amp;e codificação</seg>
       </tuv>
     </tu>
     <tu>
@@ -28170,8 +28170,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="EN">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T134752Z" creationid="Sheila" creationdate="20170905T134752Z">
-        <seg>PDFBox (Apache License 2.0)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212950Z" creationid="Sheila" creationdate="20170905T134752Z">
+        <seg>PDFBox (Licença Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28187,8 +28187,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="EN">
         <seg>PO Filter Options</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102447Z" creationid="Evandro" creationdate="20160312T102447Z">
-        <seg>Opções de Filtro PO</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212027Z" creationid="Evandro" creationdate="20160312T102447Z">
+        <seg>Opções de filtro PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -29969,8 +29969,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Reading of TMX file complete</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T190129Z" creationid="Evandro" creationdate="20160311T190129Z">
-        <seg>Concluída leitura do arquivo TMX </seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T211807Z" creationid="Evandro" creationdate="20160311T190129Z">
+        <seg>A leitura do arquivo TMX foi concluída</seg>
       </tuv>
     </tu>
     <tu>
@@ -31320,8 +31320,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>S&amp;lide Comments</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103949Z" creationid="Evandro" creationdate="20160312T103949Z">
-        <seg>Comentários do &amp;Slide</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212501Z" creationid="Evandro" creationdate="20160312T103949Z">
+        <seg>Comentários em &amp;slides</seg>
       </tuv>
     </tu>
     <tu>
@@ -31354,8 +31354,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>SQLJet (GPL License)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170734Z" creationid="Sheila" creationdate="20170905T170734Z">
-        <seg>SQLJet (GPL License)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212857Z" creationid="Sheila" creationdate="20170905T170734Z">
+        <seg>SQLJet (Licença GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31402,8 +31402,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>SVNKit (TMate License)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170732Z" creationid="Sheila" creationdate="20170905T170732Z">
-        <seg>SVNKit (TMate License)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212842Z" creationid="Sheila" creationdate="20170905T170732Z">
+        <seg>SVNKit (Licença TMate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32374,8 +32374,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102929Z" creationid="Evandro" creationdate="20160312T102929Z">
-        <seg>Segmentar texto fonte em parágrafos em:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212126Z" creationid="Evandro" creationdate="20160312T102929Z">
+        <seg>Segmentar texto de origem em parágrafos em:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33352,8 +33352,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105158Z" creationid="Evandro" creationdate="20160312T105158Z">
-        <seg>Pular texto que corresponde à expressão regular:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T213230Z" creationid="Evandro" creationdate="20160312T105158Z">
+        <seg>Pular texto que corresponda à expressão regular:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33630,8 +33630,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source File Encoding</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102319Z" creationid="Evandro" creationdate="20160312T102319Z">
-        <seg>Codificação do Arquivo Fonte</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212014Z" creationid="Evandro" creationdate="20160312T102319Z">
+        <seg>Codificação do arquivo de origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -33648,8 +33648,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102356Z" creationid="Evandro" creationdate="20160312T102253Z">
-        <seg>Tipo do Arquivo Fonte</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212008Z" creationid="Evandro" creationdate="20160312T102253Z">
+        <seg>Tipo do arquivo de origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -34458,8 +34458,8 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>SuperTMXMerge (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170746Z" creationid="Sheila" creationdate="20170905T170746Z">
-        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212956Z" creationid="Sheila" creationdate="20170905T170746Z">
+        <seg>SuperTMXMerge (Licença Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35352,8 +35352,8 @@ this License.</seg>
       <tuv lang="EN">
         <seg>Text Filter Options</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102923Z" creationid="Evandro" creationdate="20160312T102923Z">
-        <seg>Opções de Filtro de Texto</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212117Z" creationid="Evandro" creationdate="20160312T102923Z">
+        <seg>Opções de filtro de texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -35847,8 +35847,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103301Z" creationid="Evandro" creationdate="20160312T103301Z">
-        <seg>O filtro dos Pacotes de Recursos do Java lançou uma exceçã]o:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212211Z" creationid="Evandro" creationdate="20160312T103301Z">
+        <seg>O filtro dos pacotes de recursos do Java lançou uma exceçã]o:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41071,8 +41071,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Translated File Encoding</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102333Z" creationid="Evandro" creationdate="20160312T102333Z">
-        <seg>Codificação do Arquivo Traduzido</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212018Z" creationid="Evandro" creationdate="20160312T102333Z">
+        <seg>Codificação do arquivo traduzido</seg>
       </tuv>
     </tu>
     <tu>
@@ -41134,8 +41134,8 @@ these rights or asking you to surrender the rights.</seg>
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102151Z" creationid="Evandro" creationdate="20160312T102151Z">
-        <seg>O caminho do arquivo traduzido não pode ser idêntico ao do arquivo fonte:
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T211956Z" creationid="Evandro" creationdate="20160312T102151Z">
+        <seg>O caminho do arquivo traduzido não pode ser idêntico ao do arquivo de origem:
 {0}</seg>
       </tuv>
     </tu>
@@ -41616,8 +41616,8 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       <tuv lang="EN">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185921Z" creationid="Evandro" creationdate="20160311T185921Z">
-        <seg>Impossível inicializar leitura do arquivo XML!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T211615Z" creationid="Evandro" creationdate="20160311T185921Z">
+        <seg>Impossível inicializar a leitura do arquivo XML!</seg>
       </tuv>
     </tu>
     <tu>
@@ -42748,8 +42748,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>VLDocking Framework (LGPL License)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170731Z" creationid="Sheila" creationdate="20170905T170731Z">
-        <seg>VLDocking Framework (LGPL License)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212823Z" creationid="Sheila" creationdate="20170905T170731Z">
+        <seg>VLDocking Framework (Licença LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44200,8 +44200,8 @@ Tanto a busca exata como a por palavra-chave podem usar os caracteres curinga * 
       <tuv lang="EN">
         <seg>XLIFF Filter Options</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103610Z" creationid="Evandro" creationdate="20160312T103555Z">
-        <seg>Opções de Filtro XLIFF</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212344Z" creationid="Evandro" creationdate="20160312T103555Z">
+        <seg>Opções de filtro XLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -48437,8 +48437,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T134747Z" creationid="Sheila" creationdate="20170905T134747Z">
-        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212911Z" creationid="Sheila" creationdate="20170905T134747Z">
+        <seg>jsch-agent-proxy (Licença jsch-agent-proxy)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48951,8 +48951,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>mALIGNa (MIT License)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170749Z" creationid="Sheila" creationdate="20170905T170749Z">
-        <seg>mALIGNa (MIT License)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T213013Z" creationid="Sheila" creationdate="20170905T170749Z">
+        <seg>mALIGNa (Licença MIT)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51282,16 +51282,16 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>trie4j (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T134759Z" creationid="Sheila" creationdate="20170905T134759Z">
-        <seg>trie4j (Apache License 2.0)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T213019Z" creationid="Sheila" creationdate="20170905T134759Z">
+        <seg>trie4j (Licença Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>trilead-ssh2 (Trilead SSH license)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170738Z" creationid="Sheila" creationdate="20170905T170738Z">
-        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212921Z" creationid="Sheila" creationdate="20170905T170738Z">
+        <seg>trilead-ssh2 (Licença Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51925,8 +51925,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>{0} +{1} more</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185858Z" creationid="Evandro" creationdate="20160311T185858Z">
-        <seg>{0} +{1} more</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T211602Z" creationid="Evandro" creationdate="20160311T185858Z">
+        <seg>{0} +{1} outras</seg>
       </tuv>
     </tu>
     <tu>
