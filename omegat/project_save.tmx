@@ -525,8 +525,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105958Z" creationid="Evandro" creationdate="20160312T105958Z">
-        <seg>&amp;Permitir que a tradução seja igual ao texto fonte</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T222832Z" creationid="Evandro" creationdate="20160312T105958Z">
+        <seg>&amp;Permitir que a tradução seja igual ao texto de origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,8 +726,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Cycle</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111321Z" creationid="Evandro" creationdate="20160312T111321Z">
-        <seg>&amp;Alternar</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T230814Z" creationid="Evandro" creationdate="20160312T111321Z">
+        <seg>Al&amp;ternar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1123,8 +1123,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Lower Case</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111301Z" creationid="Evandro" creationdate="20160312T111301Z">
-        <seg>&amp;Minúscula</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T230800Z" creationid="Evandro" creationdate="20160312T111301Z">
+        <seg>Minúscu&amp;la</seg>
       </tuv>
     </tu>
     <tu>
@@ -1240,8 +1240,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Open Script...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112328Z" creationid="Evandro" creationdate="20160312T112328Z">
-        <seg>&amp;Abrir Script...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T231055Z" creationid="Evandro" creationdate="20160312T112328Z">
+        <seg>&amp;Abrir script...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1779,8 +1779,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;View</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111325Z" creationid="Evandro" creationdate="20160312T111325Z">
-        <seg>&amp;Exibir</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T230817Z" creationid="Evandro" creationdate="20160312T111325Z">
+        <seg>E&amp;xibir</seg>
       </tuv>
     </tu>
     <tu>
@@ -13572,8 +13572,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Dictionary File Folder</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111131Z" creationid="Evandro" creationdate="20160312T111131Z">
-        <seg>Pasta de Arquivo de Dicionários:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T230641Z" creationid="Evandro" creationdate="20160312T111131Z">
+        <seg>Pasta de arquivo de dicionários:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13852,8 +13852,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110827Z" creationid="Evandro" creationdate="20160312T110827Z">
-        <seg>Exibe comentários no segmento ativo se existirem no arquivo fonte e o filtro de arquivo for compatível (p.ex. PO-filtro).</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T230636Z" creationid="Evandro" creationdate="20160312T110827Z">
+        <seg>Exibe comentários no segmento ativo se existirem no arquivo de origem e o filtro de arquivo for compatível (p.ex. PO-filtro).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13950,8 +13950,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110736Z" creationid="Evandro" creationdate="20160312T110736Z">
-        <seg>Exibe os termos do glossário que está nos arquivos da pasta /glossary/ se estiverem presentes no segmento fonte.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T230345Z" creationid="Evandro" creationdate="20160312T110736Z">
+        <seg>Exibe os termos do glossário que está nos arquivos da pasta /glossary/ se estiverem presentes no segmento de origem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15293,8 +15293,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110742Z" creationid="Evandro" creationdate="20160312T110742Z">
-        <seg>Termos do glossário editável estão em negrito.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T230358Z" creationid="Evandro" creationdate="20160312T110742Z">
+        <seg>Os termos do glossário editável estão em negrito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15891,8 +15891,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>External Post-processing Command</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113246Z" creationid="karol" creationdate="20160309T001620Z">
-        <seg>Comando de Pós-processamento Externo</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T231406Z" creationid="karol" creationdate="20160309T001620Z">
+        <seg>Comando de pós-processamento externo</seg>
       </tuv>
     </tu>
     <tu>
@@ -17975,8 +17975,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105445Z" creationid="Evandro" creationdate="20160312T105445Z">
-        <seg>Arquivo HHC muito grande!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T222628Z" creationid="Evandro" creationdate="20160312T105445Z">
+        <seg>O arquivo HHC é muito grande!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17991,8 +17991,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>HTML Help Compiler</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105443Z" creationid="Evandro" creationdate="20160312T105443Z">
-        <seg>Compilador de Ajuda HTML</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T222622Z" creationid="Evandro" creationdate="20160312T105443Z">
+        <seg>Compilador de ajuda HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -21200,8 +21200,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Initially load this many segments:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110138Z" creationid="Evandro" creationdate="20160312T110138Z">
-        <seg>Inicialmente carregue esta quantidade de segmentos:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T225953Z" creationid="Evandro" creationdate="20160312T110138Z">
+        <seg>Carregar esta quantidade de segmentos inicialmente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22806,8 +22806,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Language Name</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105518Z" creationid="Evandro" creationdate="20160312T105518Z">
-        <seg>Nome do Idioma</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T222643Z" creationid="Evandro" creationdate="20160312T105518Z">
+        <seg>Nome do idioma</seg>
       </tuv>
     </tu>
     <tu>
@@ -22815,8 +22815,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Language Pattern</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105532Z" creationid="Evandro" creationdate="20160312T105532Z">
-        <seg>Padrão do Idioma</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T222646Z" creationid="Evandro" creationdate="20160312T105532Z">
+        <seg>Padrão do idioma</seg>
       </tuv>
     </tu>
     <tu>
@@ -23373,8 +23373,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Loading Project</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112723Z" creationid="Evandro" creationdate="20160312T112723Z">
-        <seg>Carregando Projeto</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T231233Z" creationid="Evandro" creationdate="20160312T112723Z">
+        <seg>Carregando o projeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -24775,8 +24775,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Move &amp;First</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="hilge" changedate="20160403T230229Z" creationid="Evandro" creationdate="20160311T181142Z">
-        <seg>Mover para o &amp;primeiro</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T222757Z" creationid="Evandro" creationdate="20160311T181142Z">
+        <seg>Mover para o p&amp;rimeiro</seg>
       </tuv>
     </tu>
     <tu>
@@ -24793,8 +24793,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T190610Z" creationid="Evandro" creationdate="20160311T181157Z">
-        <seg>Mover para ci&amp;ma</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T222733Z" creationid="Evandro" creationdate="20160311T181157Z">
+        <seg>Mo&amp;ver para cima</seg>
       </tuv>
     </tu>
     <tu>
@@ -24819,8 +24819,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T171806Z" creationid="Evandro" creationdate="20160312T105741Z">
-        <seg>Mover para ci&amp;ma</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T222748Z" creationid="Evandro" creationdate="20160312T105741Z">
+        <seg>Mover &amp;para cima</seg>
       </tuv>
     </tu>
     <tu>
@@ -31337,8 +31337,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>S&amp;witch Case To</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111243Z" creationid="Evandro" creationdate="20160312T111243Z">
-        <seg>&amp;Alternar Caixa Para </seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T230737Z" creationid="Evandro" creationdate="20160312T111243Z">
+        <seg>&amp;Alternar letras para </seg>
       </tuv>
     </tu>
     <tu>
@@ -39301,8 +39301,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This command will be executed after Creating Translated Documents.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113301Z" creationid="Evandro" creationdate="20160312T113248Z">
-        <seg>O comando será executado após Criar Documentos Traduzidos.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T231427Z" creationid="Evandro" creationdate="20160312T113248Z">
+        <seg>Este comando será executado após a criação dos documentos traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41201,8 +41201,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="EN">
         <seg>Translating Project</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112639Z" creationid="Evandro" creationdate="20160312T112639Z">
-        <seg>Projeto de Tradução</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T231217Z" creationid="Evandro" creationdate="20160312T112639Z">
+        <seg>Traduzindo o projeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -43277,8 +43277,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="EN">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110312Z" creationid="Evandro" creationdate="20160312T110312Z">
-        <seg>Quando um arquivo único possuir mais segmentos que este, segmentos adicionais serão carregados sob demanda em conjunto com o rolamento da página.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T230119Z" creationid="Evandro" creationdate="20160312T110312Z">
+        <seg>Quando um arquivo único tiver mais segmentos que isso, segmentos adicionais serão carregados aos poucos, conforme a página seja rolada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44167,8 +44167,8 @@ Tanto a busca exata como a por palavra-chave podem usar os caracteres curinga * 
       <tuv lang="EN">
         <seg>XHTML Filter Options</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105502Z" creationid="Evandro" creationdate="20160312T105502Z">
-        <seg>Opções de Filtro XHTML</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T222636Z" creationid="Evandro" creationdate="20160312T105502Z">
+        <seg>Opções de filtro XHTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -45201,8 +45201,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>[Fuzzy]</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111831Z" creationid="Evandro" creationdate="20160312T111831Z">
-        <seg>[Fuzzy]</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T231031Z" creationid="Evandro" creationdate="20160312T111831Z">
+        <seg>[parcial]</seg>
       </tuv>
     </tu>
     <tu>
