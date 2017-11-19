@@ -24964,8 +24964,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042511Z" creationid="grego" creationdate="20171116T032727Z">
-        <seg>Ainda assim, as "últimas" versões do OmegaT costumam ser bem estáveis e são recomendadas para quaisquer usuários que já possuem experiência com o OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T024343Z" creationid="grego" creationdate="20171116T032727Z">
+        <seg>Ainda assim, as "últimas" versões do OmegaT costumam ser bem estáveis e são recomendadas para quaisquer usuários que já possuem experiência com a ferramenta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26985,8 +26985,8 @@ http://omegat.org/reviews</note>
       <tuv lang="EN">
         <seg>OmegaT will run on any system on which the JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T033253Z" creationid="grego" creationdate="20171116T033253Z">
-        <seg>O OmegaT irá rodar em qualquer sistema que possua o JRE (Java Runtime Environment) ou que possa ter ele instalado.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T024720Z" creationid="grego" creationdate="20171116T033253Z">
+        <seg>O OmegaT roda em qualquer sistema em que o JRE (Java Runtime Environment) possa ser ou já esteja instalado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34370,8 +34370,8 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>System requirements</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T033201Z" creationid="grego" creationdate="20171116T033201Z">
-        <seg>Requisitos do sistemas</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T024410Z" creationid="grego" creationdate="20171116T033201Z">
+        <seg>Requisitos do sistema</seg>
       </tuv>
     </tu>
     <tu>
