@@ -72,3 +72,4 @@ enable	habilitar
 disable	desabilitar
 sensitive	confidencial
 Master Password	Senha mestra
+scope	escopo
