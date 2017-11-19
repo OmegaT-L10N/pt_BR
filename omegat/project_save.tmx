@@ -7008,8 +7008,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T161400Z" creationid="grego" creationdate="20171109T000411Z">
-        <seg>&lt;s3&gt;A desvantagem&lt;/s3&gt;: atualmente, essa versão não pode ser utilizada com plugins, portanto, nem todas as funções estão disponíveis nela.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T023830Z" creationid="grego" creationdate="20171109T000411Z">
+        <seg>&lt;s3&gt;A desvantagem&lt;/s3&gt;: atualmente, essa versão não possui suporte a plugins, portanto, nem todas as funções estarão disponíveis nela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39737,8 +39737,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T162440Z" creationid="grego" creationdate="20171116T015450Z">
-        <seg>O JRE dessa versão funciona apenas em conjunto com o OmegaT e, por isso, não entra em conflito, substitui ou desinstala qualquer outra versão do JRE que o usuário tenha instalado em seu sistema. Portanto, esse é um procedimento seguro.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T024000Z" creationid="grego" creationdate="20171116T015450Z">
+        <seg>O JRE dessa versão funciona apenas em conjunto com o OmegaT e, por isso, não entra em conflito, substitui ou desinstala qualquer outra versão do JRE que o usuário tenha instalado em seu sistema. Portanto, esse procedimento é seguro.</seg>
       </tuv>
     </tu>
     <tu>
