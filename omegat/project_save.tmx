@@ -10847,16 +10847,16 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check for doubled words</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T010544Z" creationid="karol" creationdate="20160309T010544Z">
-        <seg>Verificar palavras duplicado</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T232521Z" creationid="karol" creationdate="20160309T010544Z">
+        <seg>Verificar palavras duplicadas</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check for equal source &amp; target</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T010546Z" creationid="karol" creationdate="20160309T010546Z">
-        <seg>Verificar textos destino e fonte iguais</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T232809Z" creationid="karol" creationdate="20160309T010546Z">
+        <seg>Verificar textos de origem e de destino iguais</seg>
       </tuv>
     </tu>
     <tu>
@@ -13439,8 +13439,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Detail View</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113718Z" creationid="Evandro" creationdate="20160312T113718Z">
-        <seg>Visualização em Detalhes</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T231517Z" creationid="Evandro" creationdate="20160312T113718Z">
+        <seg>Visualização em detalhes</seg>
       </tuv>
     </tu>
     <tu>
@@ -24470,8 +24470,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113607Z" creationid="Evandro" creationdate="20160312T113607Z">
-        <seg>Meu</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T231708Z" creationid="Evandro" creationdate="20160312T113607Z">
+        <seg>Minha</seg>
       </tuv>
     </tu>
     <tu>
@@ -26155,8 +26155,8 @@ otherwise be available to you under applicable patent law.</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has "{0}"</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170920T130245Z" creationid="Sheila" creationdate="20170920T130245Z">
-        <seg>Notify Me When a Segment Has "{0}"</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T231740Z" creationid="Sheila" creationdate="20170920T130245Z">
+        <seg>Avisar quando um segmento tiver "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -33699,8 +33699,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113755Z" creationid="Evandro" creationdate="20160312T113755Z">
-        <seg>Contagem de original</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T231542Z" creationid="Evandro" creationdate="20160312T113755Z">
+        <seg>Contagem de origem</seg>
       </tuv>
     </tu>
     <tu>
