@@ -9076,6 +9076,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171118T124337Z" creationid="Sheila" creationdate="20171118T124337Z">
+        <seg>Aplicar e &amp;corrigir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appropriate Legal Notices; however, if the Program has interactive</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201409Z" creationid="karol" creationdate="20160308T201409Z">
@@ -22474,6 +22482,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T223918Z" creationid="Sheila" creationdate="20170905T223918Z">
         <seg>Incompatibilidade de versão da API do LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001655Z" creationid="Sheila" creationdate="20171119T001655Z">
+        <seg>Problemas do LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -51119,6 +51135,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T112941Z" creationid="Sheila" creationdate="20170918T112941Z">
         <seg>{0} alterna a orientação entre LTR, RTL e dependente de idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171118T124326Z" creationid="Sheila" creationdate="20171118T124326Z">
+        <seg>{0} x{1}</seg>
       </tuv>
     </tu>
     <tu>
