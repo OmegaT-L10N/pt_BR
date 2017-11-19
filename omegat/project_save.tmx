@@ -28760,6 +28760,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T031436Z" creationid="grego" creationdate="20171119T031436Z">
+        <seg>Binários pré-construídos estão disponíveis como Nightly Builds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pre-defined themes can be set through a script.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T213443Z" creationid="karol" creationdate="20160308T213443Z">
