@@ -9474,8 +9474,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Aut&amp;hor:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184802Z" creationid="Evandro" creationdate="20160311T184802Z">
-        <seg>Aut&amp;or:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210612Z" creationid="Evandro" creationdate="20160311T184802Z">
+        <seg>Aut&amp;or(a):</seg>
       </tuv>
     </tu>
     <tu>
@@ -10392,8 +10392,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160313T103716Z" creationid="Evandro" creationdate="20160311T184812Z">
-        <seg>&amp;Diferenciar entre maiúsculas e minúsculas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210709Z" creationid="Evandro" creationdate="20160311T184812Z">
+        <seg>Diferenciar entre m&amp;aiúsculas e minúsculas</seg>
       </tuv>
     </tu>
     <tu>
@@ -10631,16 +10631,16 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184812Z" creationid="Evandro" creationdate="20160311T184812Z">
-        <seg>Modificação &amp;antes de:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210655Z" creationid="Evandro" creationdate="20160311T184812Z">
+        <seg>Alterado a&amp;ntes de:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Changed after:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184807Z" creationid="Evandro" creationdate="20160311T184807Z">
-        <seg>Modificado após:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210633Z" creationid="Evandro" creationdate="20160311T184807Z">
+        <seg>Alterado depois de:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17415,8 +17415,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185112Z" creationid="Evandro" creationdate="20160311T185112Z">
-        <seg>Sem distinção entre a &amp;largura Total/Parcial dos caracteres</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210722Z" creationid="Evandro" creationdate="20160311T185112Z">
+        <seg>Sem distinção entre a &amp;largura total/parcial dos caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -18273,8 +18273,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>Hide Advanced &amp;Options</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184756Z" creationid="Evandro" creationdate="20160311T184756Z">
-        <seg>Esconder &amp;Opções Avançadas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210558Z" creationid="Evandro" creationdate="20160311T184756Z">
+        <seg>Esconder &amp;opções avançadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -22659,8 +22659,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185422Z" creationid="Evandro" creationdate="20160311T185422Z">
-        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T211310Z" creationid="Evandro" creationdate="20160311T185422Z">
+        <seg>Pesquisas por palavra-chave buscam todas as palavras separados por espaço, não importa a ordem em que estejam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23498,8 +23498,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185252Z" creationid="Evandro" creationdate="20160311T185252Z">
-        <seg>Pasta</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210819Z" creationid="Evandro" creationdate="20160311T185252Z">
+        <seg>Local</seg>
       </tuv>
     </tu>
     <tu>
@@ -26232,8 +26232,8 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="EN">
         <seg>Now</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184804Z" creationid="Evandro" creationdate="20160311T184804Z">
-        <seg>Now</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210619Z" creationid="Evandro" creationdate="20160311T184804Z">
+        <seg>Agora</seg>
       </tuv>
     </tu>
     <tu>
@@ -29632,8 +29632,8 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="EN">
         <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185411Z" creationid="Evandro" creationdate="20160311T185411Z">
-        <seg>As buscas no projeto são realizadas, por padrão, no texto fonte e no destino, TMs de referência, glossários, notas e comentários do projeto.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210918Z" creationid="Evandro" creationdate="20160311T185411Z">
+        <seg>As buscas no projeto são realizadas, por padrão, no texto de origem e de destino, TMs de referência, glossários, notas e comentários do projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32502,8 +32502,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Select Fol&amp;der</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185303Z" creationid="Evandro" creationdate="20160311T185303Z">
-        <seg>Selecionar Pas&amp;ta</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210825Z" creationid="Evandro" creationdate="20160311T185303Z">
+        <seg>Selecionar pas&amp;ta</seg>
       </tuv>
     </tu>
     <tu>
@@ -33143,8 +33143,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184743Z" creationid="Evandro" creationdate="20160311T184743Z">
-        <seg>Mostrar &amp;Opções Avançadas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210550Z" creationid="Evandro" creationdate="20160311T184743Z">
+        <seg>Mostrar &amp;opções avançadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -33740,8 +33740,8 @@ can do so.</seg>
       <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184509Z" creationid="Evandro" creationdate="20160311T184509Z">
-        <seg>A pasta indicada dos arquivos fonte não existe!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210444Z" creationid="Evandro" creationdate="20160311T184509Z">
+        <seg>A pasta indicada dos arquivos de origem não existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -35360,8 +35360,8 @@ this License.</seg>
       <tuv lang="EN">
         <seg>Text Replace</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185328Z" creationid="Evandro" creationdate="20160311T185328Z">
-        <seg>Substituição de Texto</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210836Z" creationid="Evandro" creationdate="20160311T185328Z">
+        <seg>Substituição de texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -35370,9 +35370,9 @@ this License.</seg>
         <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185533Z" creationid="Evandro" creationdate="20160311T185533Z">
-        <seg>Substituição de Texto:
-O escopo de uma substituição de texto inclui os segmentos destino do projeto, independente de que eles tenham conteúdo.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T211503Z" creationid="Evandro" creationdate="20160311T185533Z">
+        <seg>Substituição de texto:
+O escopo de uma substituição de texto inclui os segmentos destino do projeto, tenham eles conteúdo ou não.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38106,8 +38106,8 @@ Dúvida nesse "call-out" do segmento.</note>
       <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184409Z" creationid="Evandro" creationdate="20160311T184409Z">
-        <seg>O idioma inserido para o arquivo fonte não é válido!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210438Z" creationid="Evandro" creationdate="20160311T184409Z">
+        <seg>O idioma inserido para o arquivo de origem não é válido!</seg>
       </tuv>
     </tu>
     <tu>
@@ -38635,8 +38635,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>The writeable glossary file must be inside the glossary folder</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184539Z" creationid="Evandro" creationdate="20160311T184539Z">
-        <seg>O arquivo de glossário editável deve estar dentro da pasta glossário</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210502Z" creationid="Evandro" creationdate="20160311T184539Z">
+        <seg>O arquivo de glossário editável deve estar dentro da pasta glossário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41503,8 +41503,8 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185153Z" creationid="Evandro" creationdate="20160311T185153Z">
-        <seg>&amp;Não traduzidos</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210809Z" creationid="Evandro" creationdate="20160311T185153Z">
+        <seg>Não trad&amp;uzidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -43730,9 +43730,9 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160313T103844Z" creationid="Evandro" creationdate="20160311T185453Z">
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T211347Z" creationid="Evandro" creationdate="20160311T185453Z">
         <seg>Curingas:
-Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e ?.</seg>
+Tanto a busca exata como a por palavra-chave podem usar os caracteres curinga * e ?.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44014,8 +44014,8 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       <tuv lang="EN">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184531Z" creationid="Evandro" creationdate="20160311T184531Z">
-        <seg>A pasta inidicada de arquivo de glossário editável não existe!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210456Z" creationid="Evandro" creationdate="20160311T184531Z">
+        <seg>A pasta indicada de arquivo de glossário editável não existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -44313,8 +44313,8 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       <tuv lang="EN">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185340Z" creationid="Evandro" creationdate="20160311T185340Z">
-        <seg>Você irá modificar {0} segmentos.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T210845Z" creationid="Evandro" creationdate="20160311T185340Z">
+        <seg>Você modificará {0} segmentos.</seg>
       </tuv>
     </tu>
     <tu>
