@@ -9297,8 +9297,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042608Z" creationid="grego" creationdate="20171116T032447Z">
-        <seg>Como o nome sugere, a "Última Versão" do OmegaT é a versão mais recente.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T024258Z" creationid="grego" creationdate="20171116T032447Z">
+        <seg>Como o nome sugere, a "última versão" do OmegaT é a versão mais recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18398,8 +18398,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042446Z" creationid="grego" creationdate="20171116T032600Z">
-        <seg>Contudo, nessa versão o manual do usuário pode não estar atualizado (e, por isso, possivelmente confuso) e há a possibilidade de ocorrer pequenos erros.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T024327Z" creationid="grego" creationdate="20171116T032600Z">
+        <seg>Contudo, nessa versão, o manual do usuário pode não estar atualizado (e, por isso, será possivelmente confuso) e há a possibilidade de ocorrer pequenos erros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18922,8 +18922,8 @@ excuse you from the conditions of this License.</seg>
       <tuv lang="EN">
         <seg>If in doubt, select this option.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T170333Z" creationid="grego" creationdate="20171116T020253Z">
-        <seg>Em caso de dúvidas, escolha esta opção.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T024055Z" creationid="grego" creationdate="20171116T020253Z">
+        <seg>Em caso de dúvidas, escolha essa opção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22947,8 +22947,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Latest</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T042548Z" creationid="grego" creationdate="20171116T032320Z">
-        <seg>Última Versão</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T024244Z" creationid="grego" creationdate="20171116T032320Z">
+        <seg>Última versão</seg>
       </tuv>
     </tu>
     <tu>
@@ -35311,8 +35311,8 @@ implementation is available to the public in source code form.</seg>
       <tuv lang="EN">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T170119Z" creationid="grego" creationdate="20171116T020048Z">
-        <seg>Esta versão já vem com "pilhas inclusas", isto é, com o seu próprio Java Runtime Environment.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T024201Z" creationid="grego" creationdate="20171116T020048Z">
+        <seg>Esta é a versão que já vem com "pilhas inclusas", isto é, com o seu próprio Java Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39745,8 +39745,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171117T170326Z" creationid="grego" creationdate="20171116T020224Z">
-        <seg>Esta versão leva mais tempo para ser baixada e ocupa mais espaço em seu HD, porém não apresenta problemas para rodar.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171119T024046Z" creationid="grego" creationdate="20171116T020224Z">
+        <seg>Ela leva mais tempo para ser baixada e ocupa mais espaço em seu HD, porém não apresenta problemas para rodar.</seg>
       </tuv>
     </tu>
     <tu>
