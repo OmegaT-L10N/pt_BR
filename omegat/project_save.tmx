@@ -19796,6 +19796,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T175806Z" creationid="grego" creationdate="20171121T175806Z">
+        <seg>Caso seja um usuário novo de Linux, aconselhamos escolher uma versão com o JRE incluso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T165956Z" creationid="karol" creationdate="20160308T165956Z">
@@ -24777,6 +24785,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172741Z" creationid="karol" creationdate="20160308T172741Z">
         <seg>Mais detalhes no artigo &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; de Joel Spolsky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T181407Z" creationid="grego" creationdate="20171121T181407Z">
+        <seg>Usuários mais experientes podem preferir instalar o Oracle (antigo Sun) JRE em nível de sistema.</seg>
       </tuv>
     </tu>
     <tu>
