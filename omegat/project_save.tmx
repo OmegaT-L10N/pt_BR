@@ -6990,6 +6990,14 @@ A configuração atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T175713Z" creationid="grego" creationdate="20171121T175713Z">
+        <seg>&lt;s0&gt;Usuários de Linux&lt;/s0&gt;: a maioria das versões do Linux  já possuem o Java Runtime Environment, mas algumas implementações em código aberto não funcionem corretamente com o OmegaT (embora isso possa não ser aparente de imediato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171121T170803Z" creationid="grego" creationdate="20171121T170552Z">
