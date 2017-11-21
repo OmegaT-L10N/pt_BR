@@ -19813,6 +19813,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T170548Z" creationid="grego" creationdate="20171121T170548Z">
+        <seg>Caso não tenha certeza se seu computador já possui uma versão adequada do, select a version with JRE (or the Default version).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110622Z" creationid="Evandro" creationdate="20160312T110622Z">
@@ -22109,6 +22117,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004034Z" creationid="karol" creationdate="20160309T004034Z">
         <seg>É o segmento que é exibido em duas partes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T170359Z" creationid="grego" creationdate="20171121T170359Z">
+        <seg>Portanto, é sempre seguro instalar a versão do OmegaT com JRE.</seg>
       </tuv>
     </tu>
     <tu>
