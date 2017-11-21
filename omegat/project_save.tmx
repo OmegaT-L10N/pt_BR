@@ -20065,6 +20065,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T170322Z" creationid="grego" creationdate="20171121T170322Z">
+        <seg>Caso instale a versão do OmegaT com o JRE incluso, mesmo que já tenha instalado o JRE em seu computador, essa versão será instalada separadamente e não entrará em conflito com a outra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you later change filters, only the project filters will be updated, while the user filters stay unchanged.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T100208Z" creationid="karol" creationdate="20160308T173114Z">
