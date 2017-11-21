@@ -26780,6 +26780,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T183822Z" creationid="grego" creationdate="20171121T183822Z">
+        <seg>O OmegaT para Mac OS X está disponível em versões assinada e não assinada. Ambas possuem a mesma funcionalidade, mas a versão assinada é a mais escolhida pelos usuários, já que é reconhecida pelo sistema como uma versão publicada por uma desenvolvedora conhecida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003226Z" creationid="karol" creationdate="20160309T003226Z">
