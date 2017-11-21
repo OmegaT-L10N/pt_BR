@@ -36385,6 +36385,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T193551Z" creationid="grego" creationdate="20171121T193551Z">
+        <seg>O certificado é assinado pela &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, uma companhia francesa registrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The changes are displayed.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T220659Z" creationid="Sheila" creationdate="20170904T220659Z">
@@ -37690,6 +37698,14 @@ content, constitutes a covered work.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182230Z" creationid="karol" creationdate="20160308T182230Z">
         <seg>As permissões que você dá para esta versão (que podem ser mencionadas como um "acesso irrestrito ao computador") são idênticas às permissões dadas para a versão local, por exemplo, elas permitem o acesso ao disco rígido do computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T193844Z" creationid="grego" creationdate="20171121T193844Z">
+        <seg>As permissões concedidas para esta versão (que podem ser descritas como "acesso irrestrito ao computador") não são diferentes das permissões concedidas à versão local, como conceder acesso ao HD de seu computador.</seg>
       </tuv>
     </tu>
     <tu>
