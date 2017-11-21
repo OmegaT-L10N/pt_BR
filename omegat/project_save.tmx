@@ -17067,6 +17067,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For most users, these are not of interest.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T165041Z" creationid="grego" creationdate="20171121T165041Z">
+        <seg>Para a maioria dos usuários, essas versões não são interessantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For pre-defined options, remove the # before a parameter to enable it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182203Z" creationid="karol" creationdate="20160308T182203Z">
@@ -18504,6 +18512,14 @@ later version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20171014T044321Z" creationid="CALDAS" creationdate="20170916T032206Z">
         <seg>No entanto, já que não somos um projeto comercial, não temos orçamento para delegar serviço de traduções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T165226Z" creationid="grego" creationdate="20171121T165226Z">
+        <seg>Porém, alguns usuários podem encontrar restrições (impostas pelo sistema operacional ou pela versão do plugin Java deles) que pode fazer com que prefiram uma versão mais antiga..</seg>
       </tuv>
     </tu>
     <tu>
@@ -23213,6 +23229,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171121T164344Z" creationid="grego" creationdate="20171121T164344Z">
         <seg>Versão legacy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T165017Z" creationid="grego" creationdate="20171121T165017Z">
+        <seg>As versões legacy são versões mais antigas que estão obsoletas.</seg>
       </tuv>
     </tu>
     <tu>
