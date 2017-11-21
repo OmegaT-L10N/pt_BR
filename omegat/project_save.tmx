@@ -20768,6 +20768,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T194006Z" creationid="grego" creationdate="20171121T194006Z">
+        <seg>Para instalar a versão Web start, a versão 1.3 ou superior do Java precisa estar instalada em seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171121T165531Z" creationid="grego" creationdate="20171121T165531Z">
@@ -29337,6 +29345,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T093034Z" creationid="CALDAS" creationdate="20170914T093034Z">
         <seg>Priorview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T194130Z" creationid="grego" creationdate="20171121T194130Z">
+        <seg>Informação de privacidade: o Java Web Start do OmegaT não salva nenhuma de suas informações nos servidores do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
