@@ -20712,6 +20712,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T165531Z" creationid="grego" creationdate="20171121T165531Z">
+        <seg>O OmegaT precisa do Java Runtime Environment (JRE) instalado em seu computador para rodar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt; &lt;g4&gt;Properties...&lt;/g4&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002358Z" creationid="karol" creationdate="20160309T002358Z">
@@ -43910,6 +43918,14 @@ Tanto a busca exata como a por palavra-chave podem usar os caracteres curinga * 
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182126Z" creationid="karol" creationdate="20160308T182126Z">
         <seg>Com esse método, é possível baixar a versão "Windows without JRE", considerando que a nova instalação utilizará o JRE existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With/without JRE</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T165432Z" creationid="grego" creationdate="20171121T165432Z">
+        <seg>Com ou sem JRE incluso</seg>
       </tuv>
     </tu>
     <tu>
