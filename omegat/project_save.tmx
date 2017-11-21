@@ -36233,6 +36233,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T192159Z" creationid="grego" creationdate="20171121T192159Z">
+        <seg>A versão Web Start version oferece formas alternativas de instalar o OmegaT em seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The above method somewhat impractical way of launching a program routinely.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T230556Z" creationid="karol" creationdate="20160308T182250Z">
