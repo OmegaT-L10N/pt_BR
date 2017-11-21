@@ -39267,6 +39267,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They can be found in the folders of the corresponding compiled versions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T200927Z" creationid="grego" creationdate="20171121T200927Z">
+        <seg>Esses pacotes podem ser encontrados nas pastas das versões compiladas correspondentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They can share common material, like project translation memory and its glossary</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172604Z" creationid="karol" creationdate="20160308T172604Z">
