@@ -14565,6 +14565,14 @@ project_save.tmx não foi atualizada no servidor, e o SVN entrou em estado inst�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T193407Z" creationid="grego" creationdate="20171121T193407Z">
+        <seg>Durante a instalação, dependendo de seu sistema operacional, pode receber diversos avisos de segurança.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182230Z" creationid="karol" creationdate="20160308T182230Z">
@@ -44046,6 +44054,14 @@ Tanto a busca exata como a por palavra-chave podem usar os caracteres curinga * 
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182126Z" creationid="karol" creationdate="20160308T182126Z">
         <seg>Com esse método, é possível baixar a versão "Windows without JRE", considerando que a nova instalação utilizará o JRE existente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T192301Z" creationid="grego" creationdate="20171121T192301Z">
+        <seg>Com essa versão, as atualizações futuras serão instaladas automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
