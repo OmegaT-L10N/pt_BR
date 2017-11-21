@@ -58,8 +58,8 @@ works, such as semiconductor masks.</seg>
       <tuv lang="EN">
         <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171109T152522Z" creationid="CALDAS" creationdate="20170918T071157Z">
-        <seg>Os documentos de "Instruções" neste site contêm informações sobre determinados procedimentos e recursos do OmegaT para usuários avançados que não são cobertos pelo manual.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T162314Z" creationid="CALDAS" creationdate="20170918T071157Z">
+        <seg>Os documentos de "instruções" neste site contêm informações sobre determinados procedimentos e recursos do OmegaT para usuários avançados que não são cobertos pelo manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21816,8 +21816,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071138Z" creationid="CALDAS" creationdate="20170918T071138Z">
-        <seg>Ele pode ser encontrado na pasta "docs", na pasta de instalação do OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T162109Z" creationid="CALDAS" creationdate="20170918T071138Z">
+        <seg>Ele pode ser encontrado na pasta "docs", que fica na pasta de instalação do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43844,8 +43844,8 @@ Tanto a busca exata como a por palavra-chave podem usar os caracteres curinga * 
       <tuv lang="EN">
         <seg>With links to more detailed HOWTOs.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071159Z" creationid="CALDAS" creationdate="20170918T071159Z">
-        <seg>Com links para INSTRUÇÕES mais detalhadas.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T162353Z" creationid="CALDAS" creationdate="20170918T071159Z">
+        <seg>Links para INSTRUÇÕES mais detalhadas inclusos.</seg>
       </tuv>
     </tu>
     <tu>
