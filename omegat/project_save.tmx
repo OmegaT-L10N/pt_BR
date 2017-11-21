@@ -24799,8 +24799,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171121T181407Z" creationid="grego" creationdate="20171121T181407Z">
-        <seg>Usuários mais experientes podem preferir instalar o Oracle (antigo Sun) JRE em nível de sistema.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T182524Z" creationid="grego" creationdate="20171121T181407Z">
+        <seg>Usuários mais experientes podem preferir instalar o JRE da Oracle (antiga Sun) em nível de sistema.</seg>
       </tuv>
     </tu>
     <tu>
