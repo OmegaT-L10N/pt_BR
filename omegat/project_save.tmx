@@ -23728,6 +23728,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T181938Z" creationid="grego" creationdate="20171121T181938Z">
+        <seg>O Mac OS X possui um recurso chamado Gatekeeper, que aumenta a segurança do sistema e dificulta a execução de programas não assinados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181423Z" creationid="karol" creationdate="20160308T181423Z">
@@ -33305,6 +33313,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170810T161650Z" creationid="karol" creationdate="20160308T172633Z">
         <seg>Registre-se no site primeiro ou, se for a sua primeira vez no site, registre-se nele e guarde o seu nome do usuário e senha para projetos futuros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T181433Z" creationid="grego" creationdate="20171121T181433Z">
+        <seg>Programas assinados/não assinados</seg>
       </tuv>
     </tu>
     <tu>
