@@ -33881,6 +33881,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T200837Z" creationid="grego" creationdate="20171121T200837Z">
+        <seg>Os pacotes de código-fonte não são solicitados por usuários e são direcionados somente aos desenvolvedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T231542Z" creationid="Evandro" creationdate="20160312T113755Z">
