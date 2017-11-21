@@ -21886,6 +21886,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be obtained using the subversion command:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T200050Z" creationid="grego" creationdate="20171121T200050Z">
+        <seg>Ela também pode ser obtida ao usar o comando de subversão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181423Z" creationid="karol" creationdate="20160308T181423Z">
