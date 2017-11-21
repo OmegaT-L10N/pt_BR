@@ -35750,6 +35750,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The /trunk (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T194423Z" creationid="grego" creationdate="20171121T194423Z">
+        <seg>A versão /trunk (alpha) representa o último estado em desenvolvimento da ferramenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The 3 other options are described in the specific page concerning &lt;l0&gt;TaaS&lt;/l0&gt; (Terminology as a Service).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T214240Z" creationid="karol" creationdate="20160308T212947Z">
@@ -36317,6 +36325,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182235Z" creationid="karol" creationdate="20160308T182235Z">
         <seg>O aplicativo é executado somente em seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The application runs on your machine.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T194156Z" creationid="grego" creationdate="20171121T194156Z">
+        <seg>O aplicativo é rodado na sua máquina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45360,6 +45376,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182236Z" creationid="karol" creationdate="20160308T182236Z">
         <seg>Seus documentos e memórias de tradução permanecem no seu computador, e o projeto&lt;a2&gt;OmegaT&lt;/a2&gt; não terá acesso ao seu trabalho ou informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T194311Z" creationid="grego" creationdate="20171121T194311Z">
+        <seg>Os documentos e memórias de tradução permanecem em seu computador, e o projeto OmegaT não tem nenhuma acesso ao seu trabalho ou às suas informações.</seg>
       </tuv>
     </tu>
     <tu>
