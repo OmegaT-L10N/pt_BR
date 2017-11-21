@@ -22110,6 +22110,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T195121Z" creationid="grego" creationdate="20171121T195121Z">
+        <seg>Essa versão é recomendada apenas para desenvolvedores e analistas de teste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is safest
 to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
