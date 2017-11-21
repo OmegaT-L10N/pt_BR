@@ -38969,6 +38969,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T183852Z" creationid="grego" creationdate="20171121T183852Z">
+        <seg>Pode haver um atraso na publicação de versões assinadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003809Z" creationid="karol" creationdate="20160309T003809Z">
@@ -42694,6 +42702,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T000343Z" creationid="CALDAS" creationdate="20170912T000343Z">
         <seg>Os usuários são livres para baixar e usar o programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T184159Z" creationid="grego" creationdate="20171121T184159Z">
+        <seg>Por isso, usuários com pressa podem preferir utilizar a versão não assinada. Caso tenha dificuldades ao iniciar o aplicativo, veja &lt;a0&gt;como abrir o aplicativo de uma desenvolvedora não identificada.&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
