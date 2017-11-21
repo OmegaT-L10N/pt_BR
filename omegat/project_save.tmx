@@ -28636,6 +28636,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Periodic builds are available on CloudBees.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T200447Z" creationid="grego" creationdate="20171121T200447Z">
+        <seg>Builds são disponibilizadas periodicamente no CloudBees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Persian</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171312Z" creationid="karol" creationdate="20160308T171312Z">
@@ -46347,6 +46355,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001000Z" creationid="Evandro" creationdate="20160310T001000Z">
         <seg>bs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>built on DEV@cloud</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T200511Z" creationid="grego" creationdate="20171121T200511Z">
+        <seg>feito no OmegaTDEV@cloud</seg>
       </tuv>
     </tu>
     <tu>
