@@ -23209,6 +23209,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Legacy versions</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T164344Z" creationid="grego" creationdate="20171121T164344Z">
+        <seg>Versão legacy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Legal notices</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171538Z" creationid="karol" creationdate="20160308T171538Z">
@@ -35495,8 +35503,8 @@ work thus licensed is called the contributor's "contributor version".</seg>
       <tuv lang="EN">
         <seg>The "/trunk" version is a cutting-edge, "alpha" version, still in development.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171119T031507Z" creationid="grego" creationdate="20171119T030555Z">
-        <seg>A "/trunk" é uma versão "alpha" de ponta que ainda se encontra em desenvolvimento.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T164259Z" creationid="grego" creationdate="20171119T030555Z">
+        <seg>A "/trunk" é uma versão "alpha" de última geração que ainda se encontra em desenvolvimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44723,6 +44731,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170530T215853Z" creationid="karol" creationdate="20160308T171906Z">
         <seg>Você pode ativar as macros selecionadas no menu principal ou também usando as opções no menu &lt;g0&gt;Ferramentas &lt;/g0&gt;ou pressionando&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (F# = teclas F1 a F12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T164927Z" creationid="grego" creationdate="20171121T164927Z">
+        <seg>É possível encontrar &lt;a0&gt;versões mais antigas e ultrapassadas&lt;/a0&gt; do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
