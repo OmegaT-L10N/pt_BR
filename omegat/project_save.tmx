@@ -6990,6 +6990,14 @@ A configuração atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T170803Z" creationid="grego" creationdate="20171121T170552Z">
+        <seg> &lt;s0&gt;Usuários de Mac OS X&lt;/s0&gt;: o JRE já vem instalado no Mac OS X por padrão, portanto, não há versões para Mac OS X com o JRE incluso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024833Z" creationid="mroch" creationdate="20170915T024833Z">
@@ -19815,8 +19823,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171121T170548Z" creationid="grego" creationdate="20171121T170548Z">
-        <seg>Caso não tenha certeza se seu computador já possui uma versão adequada do, select a version with JRE (or the Default version).</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T170621Z" creationid="grego" creationdate="20171121T170548Z">
+        <seg>Caso não tenha certeza se seu computador já possui uma versão adequada do JRE, escolha uma versão com JRE incluso (ou a versão padrão).</seg>
       </tuv>
     </tu>
     <tu>
