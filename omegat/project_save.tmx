@@ -8682,8 +8682,8 @@ organization, or merging organizations.</seg>
       <tuv lang="EN">
         <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T084013Z" creationid="CALDAS" creationdate="20170918T071135Z">
-        <seg>Um guia de início rápido, que traz orientações sobre os principais procedimentos e funções do OmegaT, é exibido na interface do usuário do OmegaT por padrão.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T162008Z" creationid="CALDAS" creationdate="20170918T071135Z">
+        <seg>Um guia de início rápido, que traz orientações sobre os principais procedimentos e recursos do OmegaT, é exibido na interface de usuário do OmegaT por padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44411,8 +44411,8 @@ for enforcing compliance by third parties with this License.</seg>
       <tuv lang="EN">
         <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071136Z" creationid="CALDAS" creationdate="20170918T071136Z">
-        <seg>Também é possível abrir o manual do usuário fornecido com o OmegaT sem iniciar o programa.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T162049Z" creationid="CALDAS" creationdate="20170918T071136Z">
+        <seg>É também possível abrir o manual do usuário fornecido com o OmegaT sem iniciar o programa.</seg>
       </tuv>
     </tu>
     <tu>
