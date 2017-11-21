@@ -19740,6 +19740,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T165632Z" creationid="grego" creationdate="20171121T165632Z">
+        <seg>Caso tenha certeza de que uma versão adequada do JRE já esteja instalada em seu computador, pode baixar uma versão do OmegaT sem o JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171117T152510Z" creationid="grego" creationdate="20171108T233511Z">
@@ -21007,6 +21015,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003725Z" creationid="karol" creationdate="20160309T003725Z">
         <seg>Neste caso, um procedimento muito útil seria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T165929Z" creationid="grego" creationdate="20171121T165929Z">
+        <seg>Se esse for o caso, não escolha a versão "padrão": escolha uma versão diferente (a "última versão" ou a "versão estável", por exemplo) e então escolha uma versão que tenha a opção "Java não incluso" marcada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36663,6 +36679,14 @@ instead.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T210126Z" creationid="Sheila" creationdate="20170904T210120Z">
         <seg>Os documentos são abertos no aplicativo escolhido pelo sistema operacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T165717Z" creationid="grego" creationdate="20171121T165717Z">
+        <seg>Ela leva menos tempo para ser baixada e ocupa menos espaço em seu HD.</seg>
       </tuv>
     </tu>
     <tu>
