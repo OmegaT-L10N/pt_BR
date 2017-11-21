@@ -8090,8 +8090,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Advanced feature HowTos</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T015515Z" creationid="CALDAS" creationdate="20170916T015515Z">
-        <seg>Instruções avançadas de recursos</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T163124Z" creationid="CALDAS" creationdate="20170916T015515Z">
+        <seg>Instruções de recursos avançados</seg>
       </tuv>
     </tu>
     <tu>
@@ -29264,8 +29264,8 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="EN">
         <seg>Procedure for configuring Microsoft Translator.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T020616Z" creationid="grego" creationdate="20171108T012932Z">
-        <seg>Como configurar o Microsoft Translator.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T162536Z" creationid="grego" creationdate="20171108T012932Z">
+        <seg>Descreve como configurar o Microsoft Translator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32974,8 +32974,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Setting up a preview function for use with OmegaT.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T015651Z" creationid="grego" creationdate="20171108T015603Z">
-        <seg>Como configurar a função de visualização para usá-la com o OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T162655Z" creationid="grego" creationdate="20171108T015603Z">
+        <seg>Descreve como configurar a função de visualização para utilização com o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42604,8 +42604,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using OmegaT in conjunction with Google Translate.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012726Z" creationid="grego" creationdate="20171108T012726Z">
-        <seg>Como usar o OmegaT em conjunto com o Google Translate.</seg>
+      <tuv lang="PT-BR" changeid="grego" changedate="20171121T162528Z" creationid="grego" creationdate="20171108T012726Z">
+        <seg>Descreve como usar o OmegaT em conjunto com o Google Translate.</seg>
       </tuv>
     </tu>
     <tu>
