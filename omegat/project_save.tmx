@@ -34009,6 +34009,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T112104Z" creationid="CALDAS" creationdate="20171125T112104Z">
+        <seg>Código fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source code packages are not required by users and are intended for developers only.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171121T200837Z" creationid="grego" creationdate="20171121T200837Z">
