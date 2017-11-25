@@ -18638,8 +18638,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Howto - Adding a preview function to OmegaT</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T130801Z" creationid="CALDAS" creationdate="20171125T130801Z">
-        <seg>Instruções - Adicionado uma função  a preview function to OmegaT</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T130843Z" creationid="CALDAS" creationdate="20171125T130801Z">
+        <seg>Instruções - Adicionado uma função de visualização ao OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -18672,6 +18672,14 @@ later version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T110216Z" creationid="CALDAS" creationdate="20171125T110216Z">
         <seg>Instruções - A compatibilidade do OmegaT com o Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - The "Priorview" preview utility</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T130857Z" creationid="CALDAS" creationdate="20171125T130857Z">
+        <seg>Instruções - A "Priorview" preview utility</seg>
       </tuv>
     </tu>
     <tu>
