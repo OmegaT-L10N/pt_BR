@@ -18668,6 +18668,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T112312Z" creationid="CALDAS" creationdate="20171125T112312Z">
+        <seg>Instruções - Using Google Translate in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hungarian</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171229Z" creationid="karol" creationdate="20160308T171229Z">
