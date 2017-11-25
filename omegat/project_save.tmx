@@ -18660,6 +18660,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T125638Z" creationid="CALDAS" creationdate="20171125T125638Z">
+        <seg>Instruções - Traduzindo arquivos PDF com Iceni Infix e OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Howto - Translating Word 2007 files in OmegaT</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T110518Z" creationid="CALDAS" creationdate="20171125T110037Z">
@@ -27189,6 +27197,15 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004103Z" creationid="karol" creationdate="20160309T004103Z">
         <seg>A correspondência do OmegaT, incluindo números, tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Segui a estrutura dos outros segmentos similares a este, por isso coloquei "Instruções" antes da frase.</note>
+      <tuv lang="EN">
+        <seg>OmegaT on Linux HowTo</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T130415Z" creationid="CALDAS" creationdate="20171125T130415Z">
+        <seg>Instruções - OmegaT no Linux e</seg>
       </tuv>
     </tu>
     <tu>
