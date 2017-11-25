@@ -18676,10 +18676,18 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Howto - Spellchecking</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T132150Z" creationid="CALDAS" creationdate="20171125T132150Z">
+        <seg>Instruções - Verificação ortográfica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Howto - The "Priorview" preview utility</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T130857Z" creationid="CALDAS" creationdate="20171125T130857Z">
-        <seg>Instruções - A "Priorview" preview utility</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T131940Z" creationid="CALDAS" creationdate="20171125T130857Z">
+        <seg>Instruções - O utilitário de visualização "Priorview"</seg>
       </tuv>
     </tu>
     <tu>
@@ -30011,6 +30019,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171108T221240Z" creationid="grego" creationdate="20171108T221240Z">
         <seg>Propagação e correspondência única ou múltipla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Propagation and one-to-many matching HowTo</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T131955Z" creationid="CALDAS" creationdate="20171125T131955Z">
+        <seg>Instruções - Propagação e correspondência única ou múltipla</seg>
       </tuv>
     </tu>
     <tu>
