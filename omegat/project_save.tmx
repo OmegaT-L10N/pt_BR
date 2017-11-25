@@ -26579,8 +26579,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT - The Free Translation Memory Tool</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171006T030555Z" creationid="CALDAS" creationdate="20171006T030555Z">
-        <seg>OmegaT - &lt;s0&gt; A ferramenta de memória de tradução livre&lt;/s0&gt;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T100917Z" creationid="CALDAS" creationdate="20171006T030555Z">
+        <seg>OmegaT - A ferramenta de memória de tradução livre</seg>
       </tuv>
     </tu>
     <tu>
@@ -26923,6 +26923,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212607Z" creationid="Evandro" creationdate="20160312T104234Z">
         <seg>O OmegaT é uma ferramenta de tradução assistida por computador, ou seja, uma CAT (Computer Assisted Translation) tool, gratuita e de código aberto, compatível com diversas plataformas; oferece correspondências parciais, memória de tradução, busca de palavras-chaves, glossários e reutilização de tradução na atualização de projetos traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T101211Z" creationid="CALDAS" creationdate="20171125T100930Z">
+        <seg>O OmegaT é uma ferramenta de memória de tradução livre escrita em linguagem Java.</seg>
       </tuv>
     </tu>
     <tu>
