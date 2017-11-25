@@ -76,3 +76,4 @@ scope	escopo
 save	salvar	como verbo, "salvar", como substantivo, "gravação"
 saving	gravação	como verbo, "salvar", como substantivo, "gravação"
 Trados uncleaned RTF	RFT bilíngue com tags do Trados
+Utilities	Utilitários
