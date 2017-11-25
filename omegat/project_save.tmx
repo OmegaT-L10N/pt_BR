@@ -11909,6 +11909,14 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T102450Z" creationid="CALDAS" creationdate="20171125T102450Z">
+        <seg>Contato e suporte</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Depois dos dois pontos há uma quebra de linha, por isso deixei "para" capitalizado.
 Vide: http://omegat.org/howtos/localizing_omegat.html</note>
       <tuv lang="EN">
@@ -18491,6 +18499,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171108T014038Z" creationid="grego" creationdate="20171108T014038Z">
         <seg>Como traduzir arquivos XLIFF do Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T104927Z" creationid="CALDAS" creationdate="20171125T104927Z">
+        <seg>Instruções</seg>
       </tuv>
     </tu>
     <tu>
@@ -28712,6 +28728,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T000956Z" creationid="Evandro" creationdate="20160310T000956Z">
         <seg>PgUp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T102459Z" creationid="CALDAS" creationdate="20171125T102459Z">
+        <seg>Filosofia</seg>
       </tuv>
     </tu>
     <tu>
