@@ -26663,6 +26663,14 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OS X Signed</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T132958Z" creationid="CALDAS" creationdate="20171125T132958Z">
+        <seg>OS X Signed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Occitan</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171300Z" creationid="karol" creationdate="20160308T171300Z">
@@ -43671,6 +43679,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T193952Z" creationid="karol" creationdate="20160308T193952Z">
         <seg>Nós, da Fundação para o Software Livre, usamos o Licença Pública Geral (GNU) para a maioria do nosso software; ela também se aplica a qualquer outro trabalho lançado desta maneira pelos seus autores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Web Start</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T132448Z" creationid="CALDAS" creationdate="20171125T132448Z">
+        <seg>Web Start</seg>
       </tuv>
     </tu>
     <tu>
