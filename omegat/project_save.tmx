@@ -28424,6 +28424,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T101815Z" creationid="CALDAS" creationdate="20171125T101815Z">
+        <seg>Página Não Encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
