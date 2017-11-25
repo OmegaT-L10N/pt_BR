@@ -11710,6 +11710,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T110153Z" creationid="CALDAS" creationdate="20171125T110153Z">
+        <seg>Compatibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatibility HowTos</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071158Z" creationid="CALDAS" creationdate="20170918T071158Z">
@@ -18632,6 +18640,30 @@ later version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T110025Z" creationid="CALDAS" creationdate="20171125T110025Z">
         <seg>Instruções - Compilando o OmegaT a partir do código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T110040Z" creationid="CALDAS" creationdate="20171125T110040Z">
+        <seg>Instruções - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T110216Z" creationid="CALDAS" creationdate="20171125T110216Z">
+        <seg>Instruções - A compatibilidade do OmegaT com o Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T110037Z" creationid="CALDAS" creationdate="20171125T110037Z">
+        <seg>Instruções - Translating Word 2007 files in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -31360,6 +31392,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T015436Z" creationid="CALDAS" creationdate="20170912T114102Z">
         <seg>Análise sobre o OmegaT, 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T110146Z" creationid="CALDAS" creationdate="20171125T110146Z">
+        <seg>Análises</seg>
       </tuv>
     </tu>
     <tu>
