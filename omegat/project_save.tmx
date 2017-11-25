@@ -18636,10 +18636,26 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T130801Z" creationid="CALDAS" creationdate="20171125T130801Z">
+        <seg>Instruções - Adicionado uma função  a preview function to OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Howto - Compiling OmegaT from the source code</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T110025Z" creationid="CALDAS" creationdate="20171125T110025Z">
         <seg>Instruções - Compilando o OmegaT a partir do código-fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T130512Z" creationid="CALDAS" creationdate="20171125T130512Z">
+        <seg>Instruções - Criar um novo filtro de arquivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -18656,6 +18672,14 @@ later version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T110216Z" creationid="CALDAS" creationdate="20171125T110216Z">
         <seg>Instruções - A compatibilidade do OmegaT com o Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating OmegaT into your language</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T130442Z" creationid="CALDAS" creationdate="20171125T130442Z">
+        <seg>Instruções - Traduzindo o OmegaT para o seu idioma</seg>
       </tuv>
     </tu>
     <tu>
@@ -18680,6 +18704,14 @@ later version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T112356Z" creationid="CALDAS" creationdate="20171125T112312Z">
         <seg>Instruções - Utilizando o Google Translate no OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T130458Z" creationid="CALDAS" creationdate="20171125T130458Z">
+        <seg>Instruções - Utilizando o Microsoft Translator no OmegaT</seg>
       </tuv>
     </tu>
     <tu>
