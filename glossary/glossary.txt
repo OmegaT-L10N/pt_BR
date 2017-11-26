@@ -74,7 +74,7 @@ sensitive	confidencial
 Master Password	Senha mestra
 scope	escopo
 save	salvar	como verbo, "salvar", como substantivo, "gravação"
-saving	gravação	como verbo, "salvar", como substantivo, "gravação"
 Trados uncleaned RTF	RFT bilíngue com tags do Trados
 Utilities	Utilitários
 one-to-many matching	correspondência única ou múltipla
+saving	gravação	como verbo, "salvar", como substantivo, "gravação"uncleaned files
