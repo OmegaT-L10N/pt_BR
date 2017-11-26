@@ -9972,6 +9972,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Besides the web page into which users can simply paste text for translation, Google Translate also provides an interface (API) which can be used by CAT tools to access the service.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171126T212429Z" creationid="Sheila" creationdate="20171126T212429Z">
+        <seg>Besides the web page into which users can simply paste text for translation, Google Translate also provides an interface (API) which can be used by CAT tools to access the service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114107Z" creationid="Evandro" creationdate="20160312T114107Z">
@@ -39662,6 +39670,46 @@ servidor.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112149Z" creationid="Evandro" creationdate="20160312T112149Z">
         <seg>Esta chave de API foi bloqueada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171126T212418Z" creationid="Sheila" creationdate="20171126T212418Z">
+        <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171126T212427Z" creationid="Sheila" creationdate="20171126T212427Z">
+        <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo describes how to use OmegaT in conjunction with Atril's Déjà Vu CAT tool.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171126T212419Z" creationid="Sheila" creationdate="20171126T212419Z">
+        <seg>This HowTo describes how to use OmegaT in conjunction with Atril's Déjà Vu CAT tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo explains how to produce an "uncleaned RTF" file from an OmegaT project.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171126T212429Z" creationid="Sheila" creationdate="20171126T212429Z">
+        <seg>This HowTo explains how to produce an "uncleaned RTF" file from an OmegaT project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo provides tips on translating MS Office 2007 and later (Office Open XML, .docx) files in OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171126T212428Z" creationid="Sheila" creationdate="20171126T212428Z">
+        <seg>This HowTo provides tips on translating MS Office 2007 and later (Office Open XML, .docx) files in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
