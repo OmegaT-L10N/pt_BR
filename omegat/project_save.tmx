@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_0_10213" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1702,8 +1702,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Tools</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T185300Z" creationid="Evandro" creationdate="20160310T122443Z">
-        <seg>Ferramen&amp;tas</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T135803Z" creationid="Evandro" creationdate="20160310T122443Z">
+        <seg>&amp;Ferramentas</seg>
       </tuv>
     </tu>
     <tu>
@@ -39702,6 +39702,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171126T212429Z" creationid="Sheila" creationdate="20171126T212429Z">
         <seg>This HowTo explains how to produce an "uncleaned RTF" file from an OmegaT project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo provides information on using OmegaT and Iceni Infix to translate PDF files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T135740Z" creationid="Sheila" creationdate="20171204T135740Z">
+        <seg>This HowTo provides information on using OmegaT and Iceni Infix to translate PDF files.</seg>
       </tuv>
     </tu>
     <tu>
