@@ -10151,8 +10151,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T232520Z" creationid="mroch" creationdate="20170912T232520Z">
-        <seg>Erros, solicitações de novas funcionalidades e documentação de problemas são tratados pelo Sourceforge através dos sistemas de rastreamento abaixo:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T220119Z" creationid="mroch" creationdate="20170912T232520Z">
+        <seg>Erros, solicitações de novos recursos e problemas de documentação são tratados pelo Sourceforge através dos sistemas de rastreamento abaixo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14239,8 +14239,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Documentation manager</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222445Z" creationid="mroch" creationdate="20170912T222445Z">
-        <seg>Gerente de Documentação</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T215832Z" creationid="mroch" creationdate="20170912T222445Z">
+        <seg>Gerente de documentação</seg>
       </tuv>
     </tu>
     <tu>
@@ -21799,8 +21799,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Integration manager</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222418Z" creationid="mroch" creationdate="20170912T222418Z">
-        <seg>Gerente de Integração</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T215821Z" creationid="mroch" creationdate="20170912T222418Z">
+        <seg>Gerente de integração</seg>
       </tuv>
     </tu>
     <tu>
@@ -22016,8 +22016,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Issues/bugs tracking system</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T232649Z" creationid="mroch" creationdate="20170912T232649Z">
-        <seg>Sistema de rastreamento de Problemas/Erros</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T220131Z" creationid="mroch" creationdate="20170912T232649Z">
+        <seg>Sistema de rastreamento de problemas/erros</seg>
       </tuv>
     </tu>
     <tu>
@@ -22565,8 +22565,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222038Z" creationid="mroch" creationdate="20170912T222038Z">
-        <seg>Seu objetivo é desenvolver, distrubuir e dar suporte ao uso do OmegaT, um programa de gerenciamento de memória de tradução.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T215802Z" creationid="mroch" creationdate="20170912T222038Z">
+        <seg>Seu objetivo é desenvolver, distribuir e dar suporte ao uso do OmegaT, um programa de código aberto (open source) de gerenciamento de memória de tradução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23459,8 +23459,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Lead developer</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222409Z" creationid="mroch" creationdate="20170912T222409Z">
-        <seg>Desenvolvedor chefe</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T215816Z" creationid="mroch" creationdate="20170912T222409Z">
+        <seg>Desenvolvedor principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -26904,8 +26904,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T225559Z" creationid="mroch" creationdate="20170912T225559Z">
-        <seg>OmegaT também possui as seguintes listas de discussão e rastreadores, que estão hospedados no Sourceforge</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T215930Z" creationid="mroch" creationdate="20170912T225559Z">
+        <seg>OmegaT também tem as seguintes listas de discussão e rastreadores, que estão hospedados no Sourceforge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27048,8 +27048,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170913T004536Z" creationid="mroch" creationdate="20170912T224051Z">
-        <seg>O OmegaT possui um grupo de usuários atuante, solidário e multilíngue, que pode ser acessado &lt;a0&gt;Neste link&lt;/a0&gt;, e nós incentivamos muito participação de novos usuários.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T215909Z" creationid="mroch" creationdate="20170912T224051Z">
+        <seg>O OmegaT tem um grupo de usuários atuante, solidário e multilíngue, que pode ser acessado &lt;a0&gt;neste link&lt;/a0&gt;, e nós incentivamos muito participação de novos usuários.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29045,16 +29045,16 @@ para determinar a origem do erro e tente novamente.</seg>
       <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T234044Z" creationid="mroch" creationdate="20170912T233634Z">
-        <seg>Entre em contato com o &lt;a0&gt;gerente de projetos do OmegaT&lt;/a0&gt; caso o assunto não se encaixe nas categorias acima.&lt;br1/&gt;</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T220149Z" creationid="mroch" creationdate="20170912T233634Z">
+        <seg>Entre em contato com o &lt;a0&gt;gerente de projeto do OmegaT&lt;/a0&gt; caso o assunto não se encaixe nas categorias acima.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Please contact the &lt;a2&gt;webmaster&lt;/a2&gt; for any point regarding specifically the website.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T234245Z" creationid="mroch" creationdate="20170912T233641Z">
-        <seg>Entre em contato com o &lt;a2&gt;webmaster&lt;/a2&gt; quando o assunto estiver relacionado especificadamente ao site do projeto.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T220202Z" creationid="mroch" creationdate="20170912T233641Z">
+        <seg>Entre em contato com o &lt;a2&gt;webmaster&lt;/a2&gt; quando o assunto estiver relacionado especificamente ao site do projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30002,8 +30002,8 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="EN">
         <seg>Project manager</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222252Z" creationid="mroch" creationdate="20170912T222252Z">
-        <seg>Gerente de Projetos</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T215808Z" creationid="mroch" creationdate="20170912T222252Z">
+        <seg>Gerente de projeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -33738,8 +33738,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170913T004220Z" creationid="mroch" creationdate="20170912T223632Z">
-        <seg>Desde sua criação, o projeto recebeu o apoio de dezenas de outros colaboradores e, devido ao grande número, não conseguimos listar todos aqui, mas agradecemos muito a ajuda de cada um deles.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T215854Z" creationid="mroch" creationdate="20170912T223632Z">
+        <seg>Desde a sua criação, o projeto recebeu o apoio de dezenas de outros colaboradores e, devido ao grande número, não conseguimos listar todos aqui, mas agradecemos muito a ajuda de cada um deles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36418,8 +36418,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The OmegaT developers' list.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T225730Z" creationid="mroch" creationdate="20170912T225730Z">
-        <seg>Lista de discussão dos desenvolvedores OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T215938Z" creationid="mroch" creationdate="20170912T225730Z">
+        <seg>Lista de discussão dos desenvolvedores do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40340,16 +40340,16 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T230155Z" creationid="mroch" creationdate="20170912T230155Z">
-        <seg>Esta lista tem como objetivo discutir tecnicamente funcionalidades e o desenvolvimento, é destinada a desenvolvedores do OmegaT e outras partes interessadas.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T220028Z" creationid="mroch" creationdate="20170912T230155Z">
+        <seg>Esta lista é para discussões mais técnicas sobre recursos e desenvolvimento e é destinada a desenvolvedores do OmegaT e outros interessados.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This mailing list is for localizers of OmegaT.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T231936Z" creationid="mroch" creationdate="20170912T231936Z">
-        <seg>Esta lista de discussão é voltada ao traodutores que trabalham na localização do OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T220046Z" creationid="mroch" creationdate="20170912T231936Z">
+        <seg>Esta lista de discussão é voltada aos tradutores que trabalham na localização do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40833,8 +40833,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171119T031622Z" creationid="CALDAS" creationdate="20170916T024731Z">
-        <seg>Para abrir o manual a partir do OmegaT, selecione Ajuda &gt; Manual do usuário, ou pressione F1.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T221515Z" creationid="CALDAS" creationdate="20170916T024731Z">
+        <seg>Para abrir o manual a partir do OmegaT, selecione Ajuda &gt; Manual do usuário ou pressione F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43078,8 +43078,8 @@ na linha {1}, coluna {2}.</seg>
       <tuv lang="EN">
         <seg>User manuals</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170916T023902Z" creationid="mroch" creationdate="20170912T234300Z">
-        <seg>Manual do Usuário</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T220206Z" creationid="mroch" creationdate="20170912T234300Z">
+        <seg>Manual do usuário</seg>
       </tuv>
     </tu>
     <tu>
@@ -43767,24 +43767,24 @@ any other work released this way by its authors.</seg>
       <tuv lang="EN">
         <seg>Website content authors</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T221514Z" creationid="Sheila" creationdate="20170911T222854Z">
-        <seg>Autores do conteúdo do Site</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T215716Z" creationid="Sheila" creationdate="20170911T222854Z">
+        <seg>Autores do conteúdo do site</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Website design</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T221540Z" creationid="mroch" creationdate="20170912T221540Z">
-        <seg>Design do Site</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T215721Z" creationid="mroch" creationdate="20170912T221540Z">
+        <seg>Design do site</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Website manager</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170912T222432Z" creationid="mroch" creationdate="20170912T222432Z">
-        <seg>Gerente do Site</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T215826Z" creationid="mroch" creationdate="20170912T222432Z">
+        <seg>Gerente do site</seg>
       </tuv>
     </tu>
     <tu>
