@@ -13439,8 +13439,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071159Z" creationid="CALDAS" creationdate="20170918T071159Z">
-        <seg>Descreve a compatibilidade com arquivos do Microsoft Office 2007, especialmente Word 2007.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171205T140819Z" creationid="CALDAS" creationdate="20170918T071159Z">
+        <seg>Descreve a compatibilidade com arquivos do Microsoft Office 2007, especialmente do Word 2007.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42291,8 +42291,8 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       <tuv lang="EN">
         <seg>Uncleaned RTF</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T012040Z" creationid="grego" creationdate="20171108T012040Z">
-        <seg>Arquivo RTF unclean</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171205T140836Z" creationid="grego" creationdate="20171108T012040Z">
+        <seg>Arquivo RTF bilíngue</seg>
       </tuv>
     </tu>
     <tu>
