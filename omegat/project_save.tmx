@@ -994,6 +994,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171206T184703Z" creationid="Sheila" creationdate="20171206T184703Z">
+        <seg>&amp;Ignorar termos com grandes diferenças de escrita (por ex., TUA e tua)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
@@ -17791,6 +17799,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Glossary Matches</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171206T184724Z" creationid="Sheila" creationdate="20171206T184724Z">
+        <seg>Correspondências do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Glossary auto-completer options</seg>
@@ -20333,6 +20349,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214418Z" creationid="karol" creationdate="20160308T214418Z">
         <seg>Se não utilizar as configurações padrão, serão necessários os arquivos de configurações correspondentes (&lt;l0&gt;filters.conf&lt;/l0&gt; e &lt;l1&gt;segmentation.conf&lt;/l1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171206T184750Z" creationid="Sheila" creationdate="20171206T184750Z">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24380,6 +24404,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172337Z" creationid="karol" creationdate="20160308T172337Z">
         <seg>Marcar caracteres de controle de algoritmo bidirecional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171206T184714Z" creationid="Sheila" creationdate="20171206T184714Z">
+        <seg>Marcar correspondências do glossário</seg>
       </tuv>
     </tu>
     <tu>
