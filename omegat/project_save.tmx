@@ -20353,14 +20353,6 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171206T184750Z" creationid="Sheila" creationdate="20171206T184750Z">
-        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>If you need to see tags in OmegaT but do not need to retain most of the formatting in the translated document you are free not to include tags in the translation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181933Z" creationid="karol" creationdate="20160308T181933Z">
