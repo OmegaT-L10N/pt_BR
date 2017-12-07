@@ -9010,8 +9010,8 @@ work under this License, and how to view a copy of this License.</seg>
 occurring solely as a consequence of using peer-to-peer transmission
 to receive a copy likewise does not require acceptance.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T201504Z" creationid="karol" creationdate="20160308T201504Z">
-        <seg>A propagação auxilar de um trabalho coberto que ocorre somente como consequência da utilização de transmissão de par a par para receber uma cópia de mesmo modo não exige aceitação.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171207T143042Z" creationid="karol" creationdate="20160308T201504Z">
+        <seg>A propagação auxilar de um trabalho coberto que ocorre somente como consequência do uso de transmissão de par a par para receber uma cópia de mesmo modo não exige aceitação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13479,16 +13479,16 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T015226Z" creationid="grego" creationdate="20171108T012151Z">
-        <seg>Descreve a utilização do OmegaT em conjunto com o Iceni Infix para traduzir arquivos no formato PDF.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171207T142923Z" creationid="grego" creationdate="20171108T012151Z">
+        <seg>Descreve o uso do OmegaT em conjunto com o Iceni Infix para traduzir arquivos no formato PDF.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T015204Z" creationid="grego" creationdate="20171108T011952Z">
-        <seg>Descreve a utilização do OmegaT em conjunto com os arquivos bilíngues em formato RTF do Trados (arquivos"unclean").</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171207T142851Z" creationid="grego" creationdate="20171108T011952Z">
+        <seg>Descreve o uso do OmegaT em conjunto com os arquivos bilíngues em formato RTF do Trados (arquivos"unclean").</seg>
       </tuv>
     </tu>
     <tu>
@@ -27155,16 +27155,16 @@ might be different; for a GUI interface, you would use an "about box".</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171115T120326Z" creationid="CALDAS" creationdate="20171115T120326Z">
-        <seg>O OmegaT é uma ferramenta de tradução assistida por computador, ou seja CAT (Computer Assisted Translation), gratuita e de código aberto, compatível com diversas plataformas; oferece correspondências parciais, memória de tradução, busca de palavras-chaves, glossários e reutilização de tradução em atualização de projetos traduzidos.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171207T143140Z" creationid="CALDAS" creationdate="20171115T120326Z">
+        <seg>O OmegaT é uma ferramenta de tradução assistida por computador, ou seja CAT (Computer Assisted Translation), gratuita e de código aberto, compatível com diversas plataformas; oferece correspondências parciais, memória de tradução, busca de palavra-chave, glossários e reutilização de tradução em atualização de projetos traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212607Z" creationid="Evandro" creationdate="20160312T104234Z">
-        <seg>O OmegaT é uma ferramenta de tradução assistida por computador, ou seja, uma CAT (Computer Assisted Translation) tool, gratuita e de código aberto, compatível com diversas plataformas; oferece correspondências parciais, memória de tradução, busca de palavras-chaves, glossários e reutilização de tradução na atualização de projetos traduzidos.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171207T143001Z" creationid="Evandro" creationdate="20160312T104234Z">
+        <seg>O OmegaT é uma ferramenta de tradução assistida por computador, ou seja, uma CAT (Computer Assisted Translation) tool, gratuita e de código aberto, compatível com diversas plataformas; oferece correspondências parciais, memória de tradução, busca de palavras-chave, glossários e reutilização de tradução na atualização de projetos traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29723,8 +29723,8 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="EN">
         <seg>Procedure for using OmegaT to localize Magento.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T014254Z" creationid="grego" creationdate="20171108T014015Z">
-        <seg>Procedimento de utilização do OmegaT para a localização do Magento.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171207T142941Z" creationid="grego" creationdate="20171108T014015Z">
+        <seg>Procedimento de uso do OmegaT para a localização do Magento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29739,8 +29739,8 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="EN">
         <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171108T014237Z" creationid="grego" creationdate="20171108T013904Z">
-        <seg>Procedimento de utilização do OmegaT para a localização do NetBeans IDE.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171207T142937Z" creationid="grego" creationdate="20171108T013904Z">
+        <seg>Procedimento de uso do OmegaT para a localização do NetBeans IDE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33449,8 +33449,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Setting up a preview function for use with OmegaT.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171121T162655Z" creationid="grego" creationdate="20171108T015603Z">
-        <seg>Descreve como configurar a função de visualização para utilização com o OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171207T142929Z" creationid="grego" creationdate="20171108T015603Z">
+        <seg>Descreve como configurar a função de visualização para uso com o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40428,8 +40428,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T182250Z" creationid="karol" creationdate="20160308T182250Z">
-        <seg>Este método tem uma vantagem especial de ser adequado para depuração de bugs: se um erro ocorre durante a utilização do programa, a janela do terminal mostra uma mensagem de erro que pode conter informações úteis sobre a causa do problema.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171207T143033Z" creationid="karol" creationdate="20160308T182250Z">
+        <seg>Este método tem uma vantagem especial de ser adequado para depuração de bugs: se um erro ocorre durante o uso do programa, a janela do terminal mostra uma mensagem de erro que pode conter informações úteis sobre a causa do problema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40839,8 +40839,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To avoid reusing the project and thus possibly polluting future cases, delete the project folder or archive it away from your workplace.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T003804Z" creationid="karol" creationdate="20160309T003804Z">
-        <seg>Para evitar a reutilização do projeto e possivelmente poluir casos futuros, exclua a pasta do projeto ou arquive longe de seu local de trabalho.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171207T143105Z" creationid="karol" creationdate="20160309T003804Z">
+        <seg>Para evitar a reutilização do projeto e possivelmente poluir casos futuros, exclua a pasta do projeto ou arquive-a longe de seu local de trabalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43247,8 +43247,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using TMX with alternative language pairs</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T003808Z" creationid="karol" creationdate="20160309T003808Z">
-        <seg>Utilização da TMX com pares de idiomas alternativos</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171207T143123Z" creationid="karol" creationdate="20160309T003808Z">
+        <seg>Uso da TMX com pares de idiomas alternativos</seg>
       </tuv>
     </tu>
     <tu>
@@ -45428,8 +45428,8 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T171411Z" creationid="karol" creationdate="20160308T171411Z">
-        <seg>Pode-se pensar no LanguageTool como um programa para detectar erros que um verificador ortográfico simples não identificaria, p. ex., utilização incorreta de palavras como lá/lã, não/no etc.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171207T143022Z" creationid="karol" creationdate="20160308T171411Z">
+        <seg>Pode-se pensar no LanguageTool como um programa para detectar erros que um verificador ortográfico simples não identificaria, p. ex., o uso incorreto de palavras como lá/lã, não/no etc.</seg>
       </tuv>
     </tu>
     <tu>
