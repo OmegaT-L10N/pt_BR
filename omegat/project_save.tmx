@@ -24258,6 +24258,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171209T091247Z" creationid="CALDAS" creationdate="20171209T091247Z">
+        <seg>Manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T125654Z" creationid="Sheila" creationdate="20170909T125654Z">
@@ -27342,8 +27350,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT on Linux HowTo</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T130415Z" creationid="CALDAS" creationdate="20171125T130415Z">
-        <seg>Instruções - OmegaT no Linux e</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171209T091241Z" creationid="CALDAS" creationdate="20171125T130415Z">
+        <seg>Instruções - OmegaT no Linux</seg>
       </tuv>
     </tu>
     <tu>
