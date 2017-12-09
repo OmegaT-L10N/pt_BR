@@ -26705,20 +26705,22 @@ combined work, and to convey the resulting work.</seg>
       <note>Minha pesquisa resultou em:
 MS Term base "unsigned driver = driver não assinado -&gt;	A driver that is not supported and that is not certified to work with a particular version of (OS).
 
-Possibilidades:
-OS X Compatível
-OS X Autorizado
-OS X com suporte
+A TM da Apples fornece as seguinte possibilidades
+
+Signed:
+Assinado
+Atribuído
+Nã
 </note>
       <tuv lang="EN">
         <seg>OS X Signed</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171125T132958Z" creationid="CALDAS" creationdate="20171125T132958Z">
-        <seg>OS X Signed</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171209T111706Z" creationid="CALDAS" creationdate="20171125T132958Z">
+        <seg>OS X Assinado</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Não estou certo ainda sobre o significado do termo "Unsigned".</note>
+      <note>Por favor, verifique as anotações do seguimento anterior.</note>
       <tuv lang="EN">
         <seg>OS X Unsigned</seg>
       </tuv>
