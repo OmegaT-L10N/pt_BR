@@ -22757,6 +22757,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Join the &lt;a0&gt;OmegaT user group&lt;/a0&gt; (also known as "OmT").</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171210T045306Z" creationid="CALDAS" creationdate="20171210T045306Z">
+        <seg>Junte-se ao &lt;a0&gt;grupo de usuários do OmegaT&lt;/a0&gt; (também conhecido como "OmT").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Joining is not necessary, but will provide you with access to additional services, such as files, questionnaires, and the opportunity to take part in OmegaT-related discussions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181310Z" creationid="karol" creationdate="20160308T181310Z">
