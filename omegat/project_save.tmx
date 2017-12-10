@@ -14652,6 +14652,15 @@ project_save.tmx não foi atualizada no servidor, e o SVN entrou em estado inst�
       </tuv>
     </tu>
     <tu>
+      <note>"remetentes de spam" ou "spammers" mesmo?</note>
+      <tuv lang="EN">
+        <seg>During the subscription process, you will have to send a short message to the group moderators: this is to enable them to distinguish genuine users from spammers.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171210T051629Z" creationid="CALDAS" creationdate="20171210T051629Z">
+        <seg>Durante o processo de inscrição, você terá que enviar uma breve mensagem para os moderadores do grupo. Dessa forma, eles podem distinguir usuários genuínos de remetentes de spam.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>During this process it is only the structure of the source file that is used to produce segments.</seg>
       </tuv>
