@@ -2083,8 +2083,8 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="EN">
         <seg>* The user interface (menus etc.)&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T115304Z" creationid="CALDAS" creationdate="20171016T115243Z">
-        <seg>* A interface de usuário (menus etc).&lt;br0/&gt;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171212T140117Z" creationid="CALDAS" creationdate="20171016T115243Z">
+        <seg>* Interface de usuário (menus etc).&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9469,8 +9469,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>At the time of writing, the material to be translated comprises:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T115240Z" creationid="CALDAS" creationdate="20171013T114407Z">
-        <seg>No momento em que esta página foi escrita, o material a ser traduzido era composto pela:</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171212T135147Z" creationid="CALDAS" creationdate="20171013T114407Z">
+        <seg>No momento em que esta página foi escrita, o material a ser traduzido era composto de:</seg>
       </tuv>
     </tu>
     <tu>
