@@ -8201,6 +8201,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After joining, visit the &lt;a0&gt;OmegaT Localization Plan&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171210T051712Z" creationid="CALDAS" creationdate="20171210T051712Z">
+        <seg>Após ser aceito, visite o &lt;a0&gt;Plano de Localização do OmegaT &lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After nesting:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181853Z" creationid="karol" creationdate="20160308T181853Z">
