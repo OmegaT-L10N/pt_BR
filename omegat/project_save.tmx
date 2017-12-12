@@ -185,11 +185,7 @@ License.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>É necessário essa adição?
-
-formas ocultas
-formas não expressas
-desinência **</note>
+      <note>&lt;query&gt; FYI Adicionei "e suas desinências".</note>
       <tuv lang="EN">
         <seg>"We" refers below to the OmegaT project team.</seg>
       </tuv>
@@ -14660,7 +14656,7 @@ project_save.tmx não foi atualizada no servidor, e o SVN entrou em estado inst�
       </tuv>
     </tu>
     <tu>
-      <note>"remetentes de spam" ou "spammers" mesmo?</note>
+      <note>&lt;query&gt; "remetentes de spam" ou "spammers" mesmo?</note>
       <tuv lang="EN">
         <seg>During the subscription process, you will have to send a short message to the group moderators: this is to enable them to distinguish genuine users from spammers.</seg>
       </tuv>
@@ -39034,7 +39030,6 @@ combination as such.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Talvez: O material </note>
       <tuv lang="EN">
         <seg>The translation work</seg>
       </tuv>
