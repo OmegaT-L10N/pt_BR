@@ -2043,32 +2043,32 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="EN">
         <seg>* The Beginner's Tutorial&lt;br4/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T115743Z" creationid="CALDAS" creationdate="20171016T115633Z">
-        <seg>* O Tutorial do Iniciante&lt;br4/&gt;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171212T140137Z" creationid="CALDAS" creationdate="20171016T115633Z">
+        <seg>* Tutorial do Iniciante&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>* The Instant Start guide (a short introduction to using OmegaT)&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T122434Z" creationid="CALDAS" creationdate="20171016T115454Z">
-        <seg>* O guia de Início Rápido (breve introdução de como usar o OmegaT)&lt;br2/&gt;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171212T140129Z" creationid="CALDAS" creationdate="20171016T115454Z">
+        <seg>* Guia de Início Rápido (breve introdução de como usar o OmegaT)&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>* The OmegaT web pages (probably where you are reading this)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T122456Z" creationid="CALDAS" creationdate="20171016T115746Z">
-        <seg>* As páginas do site do OmegaT (provavelmente, onde você está lendo agora)</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171212T140140Z" creationid="CALDAS" creationdate="20171016T115746Z">
+        <seg>* Páginas do site do OmegaT (provavelmente, onde você está lendo agora)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>* The readme file (a document that contains general information about OmegaT)&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T115631Z" creationid="CALDAS" creationdate="20171016T115511Z">
-        <seg>* O arquivo leiame (documento que contém informações gerais sobre o OmegaT)&lt;br3/&gt;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171212T140135Z" creationid="CALDAS" creationdate="20171016T115511Z">
+        <seg>* Arquivo leiame (documento que contém informações gerais sobre o OmegaT)&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2091,8 +2091,8 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="EN">
         <seg>* The user manual (very comprehensive)&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T122406Z" creationid="CALDAS" creationdate="20171016T115305Z">
-        <seg>* O manual do usuário (bastante abrangente)&lt;br1/&gt;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171212T140126Z" creationid="CALDAS" creationdate="20171016T115305Z">
+        <seg>* Manual do usuário (bastante abrangente)&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40546,6 +40546,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182104Z" creationid="karol" creationdate="20160308T182104Z">
         <seg>Este pacote vem com o Oracle's Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This plan shows what translation/localization work has already been done on OmegaT, and what work is currently in progress.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171214T041907Z" creationid="CALDAS" creationdate="20171214T041907Z">
+        <seg>Esse plano mostra </seg>
       </tuv>
     </tu>
     <tu>
