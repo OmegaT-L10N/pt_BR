@@ -19112,6 +19112,14 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a suitable piece of the work for your language has not yet been started, you can make an entry in the plan to indicate that you have assumed responsibility for it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171218T135258Z" creationid="CALDAS" creationdate="20171218T135258Z">
+        <seg>Se uma parte do trabalho para o seu idioma ainda não tiver sido iniciada, você pode criar uma entrada no plano para indicar que já assumiu a responsabilidade por ela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a user interface in this language is available, &lt;a3&gt;OmegaT&lt;/a3&gt; uses it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182302Z" creationid="karol" creationdate="20160308T182302Z">
