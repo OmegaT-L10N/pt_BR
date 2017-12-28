@@ -6996,8 +6996,8 @@ A configuração atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171121T175713Z" creationid="grego" creationdate="20171121T175713Z">
-        <seg>&lt;s0&gt;Usuários de Linux&lt;/s0&gt;: a maioria das versões do Linux  já possuem o Java Runtime Environment, mas algumas implementações em código aberto não funcionem corretamente com o OmegaT (embora isso possa não ser aparente de imediato).</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134417Z" creationid="grego" creationdate="20171121T175713Z">
+        <seg>&lt;s0&gt;Usuários de Linux&lt;/s0&gt;: a maioria das versões do Linux já tem o Java Runtime Environment, mas algumas implementações em código aberto não funcionam corretamente com o OmegaT (embora isso possa não ser aparente de imediato).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13564,8 +13564,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Developer Version</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T044015Z" creationid="grego" creationdate="20171116T044015Z">
-        <seg>Versão para desenvolvidores</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134156Z" creationid="grego" creationdate="20171116T044015Z">
+        <seg>Versão para desenvolvedores</seg>
       </tuv>
     </tu>
     <tu>
@@ -14643,8 +14643,8 @@ project_save.tmx não foi atualizada no servidor, e o SVN entrou em estado inst�
       <tuv lang="EN">
         <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171121T193407Z" creationid="grego" creationdate="20171121T193407Z">
-        <seg>Durante a instalação, dependendo de seu sistema operacional, pode receber diversos avisos de segurança.&lt;br0/&gt;</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134522Z" creationid="grego" creationdate="20171121T193407Z">
+        <seg>Durante a instalação, dependendo de seu sistema operacional, você pode receber diversos avisos de segurança.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18643,8 +18643,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171121T165226Z" creationid="grego" creationdate="20171121T165226Z">
-        <seg>Porém, alguns usuários podem encontrar restrições (impostas pelo sistema operacional ou pela versão do plugin Java deles) que pode fazer com que prefiram uma versão mais antiga..</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134337Z" creationid="grego" creationdate="20171121T165226Z">
+        <seg>Porém, alguns usuários podem encontrar restrições (impostas pelo sistema operacional ou pela versão do plugin Java deles) que pode fazer com que prefiram uma versão mais antiga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19919,8 +19919,8 @@ Public License instead of this License.</seg>
       <tuv lang="EN">
         <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171116T033028Z" creationid="grego" creationdate="20171116T033028Z">
-        <seg>Caso essa versão não esteja disponível, poderá tentar o &lt;a0&gt;download da versão não-assinada&lt;/a0&gt;.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T133840Z" creationid="grego" creationdate="20171116T033028Z">
+        <seg>Caso essa versão não esteja disponível, você pode tentar fazer o &lt;a0&gt;download da versão não assinada&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22109,8 +22109,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>It can also be obtained using the subversion command:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171121T200203Z" creationid="grego" creationdate="20171121T200050Z">
-        <seg>Ela também pode ser obtida ao usar o comando para obter subversões:</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134651Z" creationid="grego" creationdate="20171121T200050Z">
+        <seg>Ela também pode ser obtida ao usar o comando subversion:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25718,6 +25718,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nightly Builds</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134229Z" creationid="Sheila" creationdate="20171228T134229Z">
+        <seg>Nightly Builds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171116T215359Z" creationid="Sheila" creationdate="20171116T215359Z">
@@ -27101,8 +27109,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171121T183822Z" creationid="grego" creationdate="20171121T183822Z">
-        <seg>O OmegaT para Mac OS X está disponível em versões assinada e não assinada. Ambas possuem a mesma funcionalidade, mas a versão assinada é a mais escolhida pelos usuários, já que é reconhecida pelo sistema como uma versão publicada por uma desenvolvedora conhecida.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134442Z" creationid="grego" creationdate="20171121T183822Z">
+        <seg>O OmegaT para Mac OS X está disponível em versões assinada e não assinada. Ambas têm a mesma funcionalidade, mas a versão assinada é a mais escolhida pelos usuários, já que é reconhecida pelo sistema como uma versão publicada por uma desenvolvedora conhecida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36066,8 +36074,8 @@ control those activities.</seg>
       <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T171127Z" creationid="karol" creationdate="20160308T171127Z">
-        <seg>A tecla “Shift” não exibe nenhum comportamento especial: quando ela é pressionada, todas as teclas movem o cursor da maneira habitual, exceto no caso da combinação  &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere uma quebra de linha no texto.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T135052Z" creationid="karol" creationdate="20160308T171127Z">
+        <seg>A tecla “Shift” não exibe nenhum comportamento especial: quando ela é pressionada, todas as teclas movem o cursor da maneira habitual, exceto no caso da combinação &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere uma quebra de linha no texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36439,8 +36447,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171119T030107Z" creationid="grego" creationdate="20171116T043539Z">
-        <seg>Além disso, apesar de a "última versão" ser bem estável e utilizável, pode apresentar alguns erros.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134020Z" creationid="grego" creationdate="20171116T043539Z">
+        <seg>Apesar de a "última versão" ser bem estável e usável, pode apresentar alguns erros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36659,8 +36667,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171121T192159Z" creationid="grego" creationdate="20171121T192159Z">
-        <seg>A versão Web Start version oferece formas alternativas de instalar o OmegaT em seu computador.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134511Z" creationid="grego" creationdate="20171121T192159Z">
+        <seg>A versão Web Start oferece formas alternativas de instalar o OmegaT em seu computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36723,8 +36731,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The application runs on your machine.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171121T194156Z" creationid="grego" creationdate="20171121T194156Z">
-        <seg>O aplicativo é rodado na sua máquina.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134603Z" creationid="grego" creationdate="20171121T194156Z">
+        <seg>O aplicativo é executado na sua máquina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36811,8 +36819,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171121T193551Z" creationid="grego" creationdate="20171121T193551Z">
-        <seg>O certificado é assinado pela &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, uma companhia francesa registrada.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134548Z" creationid="grego" creationdate="20171121T193551Z">
+        <seg>O certificado é assinado pela &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, uma empresa francesa registrada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41269,8 +41277,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171119T025647Z" creationid="grego" creationdate="20171116T035638Z">
-        <seg>Para obter o OpenOffice.org ou o LibreOffice, siga o link em nosso botão de "programas third-party" que fica à esquerda.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T133935Z" creationid="grego" creationdate="20171116T035638Z">
+        <seg>Para obter o OpenOffice.org ou o LibreOffice, siga o link em nosso botão de "Software de terceiros" que fica à esquerda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42045,6 +42053,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T122526Z" creationid="CALDAS" creationdate="20171014T045348Z">
         <seg>Os tradutores são livres para se engajarem no trabalho de localização tanto quanto desejarem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trunk</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134215Z" creationid="Sheila" creationdate="20171228T134215Z">
+        <seg>Trunk</seg>
       </tuv>
     </tu>
     <tu>
@@ -44603,8 +44619,8 @@ Tanto a busca exata como a por palavra-chave podem usar os caracteres curinga * 
       <tuv lang="EN">
         <seg>With/without JRE</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171121T165432Z" creationid="grego" creationdate="20171121T165432Z">
-        <seg>Com ou sem JRE incluso</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134342Z" creationid="grego" creationdate="20171121T165432Z">
+        <seg>Com ou sem JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -45869,8 +45885,8 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       <tuv lang="EN">
         <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="grego" changedate="20171121T194311Z" creationid="grego" creationdate="20171121T194311Z">
-        <seg>Os documentos e memórias de tradução permanecem em seu computador, e o projeto OmegaT não tem nenhuma acesso ao seu trabalho ou às suas informações.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171228T134630Z" creationid="grego" creationdate="20171121T194311Z">
+        <seg>Os documentos e memórias de tradução permanecem em seu computador, e o OmegaT não tem nenhum acesso ao seu trabalho ou às suas informações.</seg>
       </tuv>
     </tu>
     <tu>
