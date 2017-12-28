@@ -39750,14 +39750,6 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171126T212418Z" creationid="Sheila" creationdate="20171126T212418Z">
-        <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171126T212427Z" creationid="Sheila" creationdate="20171126T212427Z">
