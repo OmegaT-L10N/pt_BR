@@ -1928,8 +1928,8 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="EN">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025115Z" creationid="mroch" creationdate="20170915T025115Z">
-        <seg>(O nome disso é "tradução automática" e terá que procurar em outro lugar.)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144519Z" creationid="mroch" creationdate="20170915T025115Z">
+        <seg>(O nome disso é "tradução automática" e você terá que procurar informações a respeito em outro lugar.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2133,6 +2133,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172027Z" creationid="karol" creationdate="20160308T172027Z">
         <seg>, pode-se encontrar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144312Z" creationid="Sheila" creationdate="20171230T144312Z">
+        <seg>- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2904,8 +2912,8 @@ A configuração atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155616Z" creationid="mroch" creationdate="20170919T155616Z">
-        <seg>&lt;a0&gt;Criar documentação&lt;/a0&gt;é parte importante do processo.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145458Z" creationid="mroch" creationdate="20170919T155616Z">
+        <seg>&lt;a0&gt;Criar documentação&lt;/a0&gt;é uma parte importante do processo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7020,8 +7028,8 @@ A configuração atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T030035Z" creationid="mroch" creationdate="20170915T030035Z">
-        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; está disponível em diferentes versões para se adequar a uma variedade de requisitos de seus usuários.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144739Z" creationid="mroch" creationdate="20170915T030035Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; está disponível em diferentes versões para atender aos requisitos de seus usuários diversos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7550,8 +7558,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160435Z" creationid="mroch" creationdate="20170918T160435Z">
-        <seg>Ele possui muitos recursos, interface limpa e organizada e, o mais importante, está constantemente sendo aprimorado e possui código aberto!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145213Z" creationid="mroch" creationdate="20170918T160435Z">
+        <seg>Ele tem muitos recursos, uma interface limpa e organizada e, o mais importante, seu desenvolvimento em código aberto é aprimorado constantemente!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8644,8 +8652,8 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T152728Z" creationid="mroch" creationdate="20170918T152728Z">
-        <seg>Mas, se você já sabe qual versão deseja utilizar, clique link para ter uma visão geral das difernetes versões do OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144808Z" creationid="mroch" creationdate="20170918T152728Z">
+        <seg>Mas, se você já sabe qual versão deseja utilizar, clique no botão para ter uma visão geral das diferentes versões do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8676,8 +8684,8 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T154815Z" creationid="mroch" creationdate="20170918T162100Z">
-        <seg>Embora muitos usuários saibam disso, a maioria deles não ajuda o porque não sabe programar.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145406Z" creationid="mroch" creationdate="20170918T162100Z">
+        <seg>Embora muitos usuários saibam disso, a maioria deles não ajuda porque não sabe programar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9030,8 +9038,8 @@ to receive a copy likewise does not require acceptance.</seg>
       <tuv lang="EN">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T160923Z" creationid="mroch" creationdate="20170919T160923Z">
-        <seg>E quando eles acharem erros ou deficiências na documentação, devem nos informar.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T153035Z" creationid="mroch" creationdate="20170919T160923Z">
+        <seg>Assim eles podem nos informar quando acharem erros no programa ou deficiências na documentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9798,6 +9806,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Background and principles</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144318Z" creationid="Sheila" creationdate="20171230T144318Z">
+        <seg>Background and principles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backspace*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170438Z" creationid="karol" creationdate="20160308T170438Z">
@@ -9970,8 +9986,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155305Z" creationid="mroch" creationdate="20170919T155305Z">
-        <seg>Abaixo temos uma lista de áreas para as quais outros voluntários seriam mais do que bem-vindos!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145449Z" creationid="mroch" creationdate="20170919T155305Z">
+        <seg>Veja abaixo uma lista de áreas para as quais outros voluntários são mais do que bem-vindos!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12030,8 +12046,8 @@ Vide: http://omegat.org/howtos/localizing_omegat.html</note>
       <tuv lang="EN">
         <seg>Continuing Professional Development is the current buzzword!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161644Z" creationid="mroch" creationdate="20170919T161644Z">
-        <seg>Desenvolvimento profissional contínuo é o que há!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T153506Z" creationid="mroch" creationdate="20170919T161644Z">
+        <seg>Isso é que é desenvolvimento profissional contínuo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -16813,8 +16829,8 @@ actually uses, or expects or is expected to use, the product.</seg>
       <tuv lang="EN">
         <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T161629Z" creationid="mroch" creationdate="20170918T161629Z">
-        <seg>Para os defensores dos programas de código aberto, essa liberdade é ainda mais importante do que não pagar para utilizá-lo.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145351Z" creationid="mroch" creationdate="20170918T161629Z">
+        <seg>Para os defensores dos programas de código aberto, essa liberdade é ainda mais importante do que não pagar para usá-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18220,8 +18236,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>Have you considered writing some user documentation yourself?</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155837Z" creationid="mroch" creationdate="20170919T155837Z">
-        <seg>Você mesmo, já pensou em escrever alguma documentação?</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T152806Z" creationid="mroch" creationdate="20170919T155837Z">
+        <seg>Você já pensou em escrever documentação?</seg>
       </tuv>
     </tu>
     <tu>
@@ -18844,8 +18860,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T155945Z" creationid="mroch" creationdate="20170918T155945Z">
-        <seg>Eu uso o OmegaT como tradutor profissional há mais de 10 anos, e tiro proveito da sua usabilidade e de seu fórum extremamente útil desde quando foi lançado.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145125Z" creationid="mroch" creationdate="20170918T155945Z">
+        <seg>Eu uso o OmegaT como tradutor profissional há mais de 10 anos, e aproveito sua facilidade de uso e o fórum extremamente útil desde quando foi lançado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19467,8 +19483,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If not, why not write an article on using OmegaT?</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161014Z" creationid="mroch" creationdate="20170919T161014Z">
-        <seg>Caso contrário, por que não escrever um artigo sobre o uso do OmegaT?</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T153055Z" creationid="mroch" creationdate="20170919T161014Z">
+        <seg>Ou mesmo um artigo sobre o uso do OmegaT?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19987,8 +20003,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161556Z" creationid="mroch" creationdate="20170919T161556Z">
-        <seg>Se você já está um tanto quanto familiarizado com os computadores em geral e escolher uma linguagem de script direta como Javascript ou Tcl/Tk, você pode aprender o suficiente para poder escrever scripts simples e úteis em apenas algumas semanas.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T153451Z" creationid="mroch" creationdate="20170919T161556Z">
+        <seg>Se já tiver familiaridade com computadores em geral e escolher uma linguagem de script direta como Javascript ou Tcl/Tk, você pode aprender o suficiente para poder escrever scripts simples e úteis em apenas algumas semanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20116,8 +20132,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you can program in another language, you can write code to support the core application.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161351Z" creationid="mroch" creationdate="20170919T161351Z">
-        <seg>Se você programa em outra linguagem, você pode nos ajudar escrevendo código que possa ser utilizado pela aplicação principal.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T153238Z" creationid="mroch" creationdate="20170919T161351Z">
+        <seg>Se programa em outra linguagem, você pode nos ajudar escrevendo código que possa ser usado pela aplicação principal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20296,8 +20312,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN">
         <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161124Z" creationid="mroch" creationdate="20170919T161124Z">
-        <seg>Se você achou o OmegaT útil e gostaria de nos agradecer fazendo uma &lt;a0&gt;doação&lt;/a0&gt; através da nossa conta no Paypal.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T153143Z" creationid="mroch" creationdate="20170919T161124Z">
+        <seg>Se você achou o OmegaT útil e gostaria de nos agradecer, uma das formas de fazer isso é por meio de uma &lt;a0&gt;doação&lt;/a0&gt; em nossa conta do PayPal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20537,8 +20553,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN">
         <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161216Z" creationid="mroch" creationdate="20170919T161216Z">
-        <seg>Se você é um programador e conhece Java, verifique a documentação do &lt;a0&gt;Código fonte&lt;/a0&gt; em /docs_devel para ter mais informações sobre como começar.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T153205Z" creationid="mroch" creationdate="20170919T161216Z">
+        <seg>Se você é um programador e conhece Java, verifique a documentação do &lt;a0&gt;código fonte&lt;/a0&gt; em /docs_devel para ter mais informações sobre como começar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21868,8 +21884,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Interface to Google Translate</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025833Z" creationid="mroch" creationdate="20170915T025833Z">
-        <seg>Possui interface com o Google Translate</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144643Z" creationid="mroch" creationdate="20170915T025833Z">
+        <seg>Tem interface com o Google Translate</seg>
       </tuv>
     </tu>
     <tu>
@@ -22237,8 +22253,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>It is a tool intended for professional translators.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024856Z" creationid="mroch" creationdate="20170915T024856Z">
-        <seg>É um software destinado a tradutores profissionais.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144447Z" creationid="mroch" creationdate="20170915T024856Z">
+        <seg>É um programa destinado a tradutores profissionais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22538,8 +22554,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>It's a real eye-opener!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155925Z" creationid="mroch" creationdate="20170919T155925Z">
-        <seg>É uma experiência realmente reveladora!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T152813Z" creationid="mroch" creationdate="20170919T155925Z">
+        <seg>É uma experiência muito reveladora!</seg>
       </tuv>
     </tu>
     <tu>
@@ -24321,8 +24337,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155742Z" creationid="mroch" creationdate="20170919T155727Z">
-        <seg>Muitos de vocês, que estão lendo isso, traduzirão muita documentação para usuários.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T152740Z" creationid="mroch" creationdate="20170919T155727Z">
+        <seg>Muitos dos que estão lendo isso, já devem ter traduzido documentação para usuários.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24611,8 +24627,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Match propagation</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025233Z" creationid="mroch" creationdate="20170915T025233Z">
-        <seg>Propagação de Correspondências</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144529Z" creationid="mroch" creationdate="20170915T025233Z">
+        <seg>Propagação de correspondências</seg>
       </tuv>
     </tu>
     <tu>
@@ -24875,8 +24891,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="EN">
         <seg>Microsoft Word, Excel, Power</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171114T100309Z" creationid="CALDAS" creationdate="20171114T100309Z">
-        <seg>Microsoft Word, Excel, Power</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144909Z" creationid="CALDAS" creationdate="20171114T100309Z">
+        <seg>MS Word, Excel, Power Point</seg>
       </tuv>
     </tu>
     <tu>
@@ -26898,8 +26914,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170915T024013Z" creationid="CALDAS" creationdate="20170915T023804Z">
-        <seg>OmegaT - &lt;s0&gt; A ferramenta de memória de tradução livre&lt;/s0&gt;</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144435Z" creationid="CALDAS" creationdate="20170915T023804Z">
+        <seg>OmegaT - &lt;s0&gt; A ferramenta de memória de tradução gratuita&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27139,6 +27155,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has an inline spelling checker.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144319Z" creationid="Sheila" creationdate="20171230T144319Z">
+        <seg>OmegaT has an inline spelling checker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171119T024825Z" creationid="grego" creationdate="20171116T033651Z">
@@ -27272,8 +27296,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="EN">
         <seg>OmegaT is free software.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160604Z" creationid="mroch" creationdate="20170918T160604Z">
-        <seg>OmegaT é um software livre.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145256Z" creationid="mroch" creationdate="20170918T160604Z">
+        <seg>O OmegaT é um software livre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27304,8 +27328,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="EN">
         <seg>OmegaT is open-source software.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160851Z" creationid="mroch" creationdate="20170918T160851Z">
-        <seg>O OmegaT é um programa com código aberto.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145312Z" creationid="mroch" creationdate="20170918T160851Z">
+        <seg>O OmegaT é um programa de código aberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27346,16 +27370,16 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT is written in Java.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161133Z" creationid="mroch" creationdate="20170919T161133Z">
-        <seg>OmegaT é escrito em Java.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T153148Z" creationid="mroch" creationdate="20170919T161133Z">
+        <seg>O OmegaT é escrito em Java.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160543Z" creationid="mroch" creationdate="20170918T160543Z">
-        <seg>OmegaT não é apenas um produto, é um projeto emocionante, e você pode fazer parte disso!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145233Z" creationid="mroch" creationdate="20170918T160543Z">
+        <seg>O OmegaT não é apenas um produto, é um projeto emocionante, e você pode fazer parte disso!</seg>
       </tuv>
     </tu>
     <tu>
@@ -27915,8 +27939,8 @@ http://omegat.org/reviews</note>
       <tuv lang="EN">
         <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T160610Z" creationid="mroch" creationdate="20170919T160610Z">
-        <seg>Uma das coisas mais úteis que os usuários OmegaT podem fazer é ... usar o OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T152857Z" creationid="mroch" creationdate="20170919T160610Z">
+        <seg>Uma das coisas mais úteis que os usuários do OmegaT podem fazer é ... usar o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29824,8 +29848,8 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="EN">
         <seg>Professional features</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025204Z" creationid="mroch" creationdate="20170915T025204Z">
-        <seg>Funcionalidades profissionais</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144524Z" creationid="mroch" creationdate="20170915T025204Z">
+        <seg>Recursos profissionais</seg>
       </tuv>
     </tu>
     <tu>
@@ -29848,8 +29872,8 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="EN">
         <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155205Z" creationid="mroch" creationdate="20170919T155108Z">
-        <seg>O programador desempenha, sem sombra de dúvida, a função mais importante do projeto, pois sem programação não teríamos nenhum programa.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145430Z" creationid="mroch" creationdate="20170919T155108Z">
+        <seg>O programador desempenha, sem sombra de dúvida, uma função importante no projeto, pois sem programação não teríamos nenhum programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31726,8 +31750,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Robert Corner, Institut Laue-Langevin, France</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160502Z" creationid="mroch" creationdate="20170918T160502Z">
-        <seg>Robert Corner, Instituto Laue-Langevin, France</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145220Z" creationid="mroch" creationdate="20170918T160502Z">
+        <seg>Robert Corner, Instituto Laue-Langevin, França</seg>
       </tuv>
     </tu>
     <tu>
@@ -32774,8 +32798,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>See the &lt;a0&gt;Localizing OmegaT HowTo&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T160554Z" creationid="mroch" creationdate="20170919T160554Z">
-        <seg>Acesse &lt;a0&gt;Instruções sobre como Localizar o OmegaT&lt;/a0&gt; para ter mais detalhes sobre o a localização/tradução do programa.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T152850Z" creationid="mroch" creationdate="20170919T160554Z">
+        <seg>Acesse &lt;a0&gt;Instruções sobre como localizar o OmegaT&lt;/a0&gt; para saber mais sobre a localização/tradução do programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33825,6 +33849,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T215854Z" creationid="mroch" creationdate="20170912T223632Z">
         <seg>Desde a sua criação, o projeto recebeu o apoio de dezenas de outros colaboradores e, devido ao grande número, não conseguimos listar todos aqui, mas agradecemos muito a ajuda de cada um deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144320Z" creationid="Sheila" creationdate="20171230T144320Z">
+        <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35026,8 +35058,8 @@ address new problems or concerns.</seg>
       <tuv lang="EN">
         <seg>Support for right-to-left languages</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025631Z" creationid="mroch" creationdate="20170915T025631Z">
-        <seg>Suporte para idiomas escritos da direita para a esquerda</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144632Z" creationid="mroch" creationdate="20170915T025631Z">
+        <seg>Compatibilidade com idiomas escritos da direita para a esquerda</seg>
       </tuv>
     </tu>
     <tu>
@@ -36013,8 +36045,8 @@ O escopo de uma substituição de texto inclui os segmentos destino do projeto, 
       <tuv lang="EN">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170918T161340Z" creationid="mroch" creationdate="20170918T161340Z">
-        <seg>Isso significa que se você quiser muito, você pode até modificar OmegaT para se ele adeque às suas nececidades.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145340Z" creationid="mroch" creationdate="20170918T161340Z">
+        <seg>Isso significa que, se você quiser, pode até modificar o OmegaT para se adequar às suas necessidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38128,8 +38160,8 @@ content, constitutes a covered work.</seg>
       <tuv lang="EN">
         <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171115T113742Z" creationid="CALDAS" creationdate="20171115T113742Z">
-        <seg>O acompanhante perfeito para tradutores que procuram eficiência e não querem adicionar complexidade ao processo. Recursos como glossários, auto-completar e tradução automática trazem produtividade para o meu trabalho como tradutor literário</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145014Z" creationid="CALDAS" creationdate="20171115T113742Z">
+        <seg>A companhia perfeita para tradutores que buscam eficiência sem aumentar a complexidade do processo. Recursos como glossários, autocompletar e tradução automática trazem produtividade para o meu trabalho como tradutor literário</seg>
       </tuv>
     </tu>
     <tu>
@@ -39014,6 +39046,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144320Z" creationid="Sheila" creationdate="20171230T144320Z">
+        <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The top match is 100%, because all words match.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004058Z" creationid="karol" creationdate="20160309T004058Z">
@@ -39758,6 +39798,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144239Z" creationid="Sheila" creationdate="20171230T144239Z">
+        <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171126T212427Z" creationid="Sheila" creationdate="20171126T212427Z">
@@ -39774,6 +39822,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo explains how to create a new file filter for use with OmegaT by describing the creation of a rudimentary file filter for the TMX format.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144314Z" creationid="Sheila" creationdate="20171230T144314Z">
+        <seg>This HowTo explains how to create a new file filter for use with OmegaT by describing the creation of a rudimentary file filter for the TMX format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HowTo explains how to produce an "uncleaned RTF" file from an OmegaT project.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171126T212429Z" creationid="Sheila" creationdate="20171126T212429Z">
@@ -39786,6 +39842,14 @@ servidor.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171204T135740Z" creationid="Sheila" creationdate="20171204T135740Z">
         <seg>This HowTo provides information on using OmegaT and Iceni Infix to translate PDF files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo provides information on using OmegaT on Linux.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144251Z" creationid="Sheila" creationdate="20171230T144251Z">
+        <seg>This HowTo provides information on using OmegaT on Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42439,8 +42503,8 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       <tuv lang="EN">
         <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025605Z" creationid="mroch" creationdate="20170915T025605Z">
-        <seg>Suporte Unicode (UTF-8): pode ser usado com alfabetos não-latinos</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144622Z" creationid="mroch" creationdate="20170915T025605Z">
+        <seg>Compatibilidade Unicode (UTF-8): pode ser usado com alfabetos não-latinos</seg>
       </tuv>
     </tu>
     <tu>
@@ -43891,8 +43955,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="EN">
         <seg>Well, have you considered learning?</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161456Z" creationid="mroch" creationdate="20170919T161456Z">
-        <seg>Bem, você já pensou em aprender?</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T153411Z" creationid="mroch" creationdate="20170919T161456Z">
+        <seg>Bom, talvez você possa aprender, o que acha?</seg>
       </tuv>
     </tu>
     <tu>
