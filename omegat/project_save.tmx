@@ -5856,6 +5856,7 @@ A configuração atual é {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Revision: CALDAS</note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt; &lt;s2&gt;Searching&lt;/s2&gt;</seg>
       </tuv>
@@ -33646,8 +33647,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T001633Z" creationid="karol" creationdate="20160309T001633Z">
-        <seg>Caso você precise de mais informações específicas, consulte o &lt;u0&gt; Documentação Java Regex&lt;/u0&gt;.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180105T131436Z" creationid="karol" creationdate="20160309T001633Z">
+        <seg>Caso você precise de mais informações específicas, consulte a &lt;u0&gt; Documentação Java Regex&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40004,8 +40005,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T001634Z" creationid="karol" creationdate="20160309T001634Z">
-        <seg>Este capítulo é orientado para usuários avançados que desejam definir suas próprias variantes de regras de segmentação, ou planejar itens de chave de busca mais complexos.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180105T131942Z" creationid="karol" creationdate="20160309T001634Z">
+        <seg>Este capítulo é destinado para usuários avançados que desejam definir suas próprias variantes de regras de segmentação ou elaborar buscas mais complexas de termos fundamentais.</seg>
       </tuv>
     </tu>
     <tu>
