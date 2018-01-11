@@ -40005,11 +40005,12 @@ permission to run the unmodified Program.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Para mim soa um tanto literal traduzir como "elaborar buscas mais complexas e potentes/poderosas de termos-chave (ou termos fundamentais)".</note>
       <tuv lang="EN">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180105T131942Z" creationid="karol" creationdate="20160309T001634Z">
-        <seg>Este capítulo é destinado para usuários avançados que desejam definir suas próprias variantes de regras de segmentação ou elaborar buscas mais complexas de termos fundamentais.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180111T132204Z" creationid="karol" creationdate="20160309T001634Z">
+        <seg>Este capítulo é destinado para usuários avançados que desejam definir suas próprias variantes de regras de segmentação ou elaborar buscas mais complexas de termos-chave.</seg>
       </tuv>
     </tu>
     <tu>
