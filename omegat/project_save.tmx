@@ -33644,11 +33644,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
     </tu>
     <tu>
+      <note>Opções: 
+Anteriormente "Documentação Java Regex", alterado para
+"Documentação sobre Java Regex".</note>
       <tuv lang="EN">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180105T131436Z" creationid="karol" creationdate="20160309T001633Z">
-        <seg>Caso você precise de mais informações específicas, consulte a &lt;u0&gt; Documentação Java Regex&lt;/u0&gt;.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180111T131351Z" creationid="karol" creationdate="20160309T001633Z">
+        <seg>Caso você precise de mais informações específicas, consulte a &lt;u0&gt; Documentação sobre Java Regex&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38395,8 +38398,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T001632Z" creationid="karol" creationdate="20160309T001632Z">
-        <seg>As expressões regulares (conhecidas como regex) usadas em buscas e regras de segmentação são aquelas suportadas pelo Java.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180111T131128Z" creationid="karol" creationdate="20160309T001632Z">
+        <seg>As expressões regulares (conhecidas como regex), usadas em buscas e regras de segmentação, são aquelas suportadas pelo Java.</seg>
       </tuv>
     </tu>
     <tu>
