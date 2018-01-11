@@ -40387,8 +40387,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T001711Z" creationid="karol" creationdate="20160309T001711Z">
-        <seg>Isso é necessário se você quiser inserir quaisquer metacaracteres  !$()*+.&amp;lt;&amp;gt;?[ \\ ]^{|}  para casar como eles próprios.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180111T152637Z" creationid="karol" creationdate="20160309T001711Z">
+        <seg>Isso é necessário se você quiser inserir quaisquer metacaracteres !$()*+.&amp;lt;&amp;gt;?[ \\ ]^{|} para corresponder como eles mesmos.</seg>
       </tuv>
     </tu>
     <tu>
