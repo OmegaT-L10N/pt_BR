@@ -37307,8 +37307,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The escape character ('\u001B')</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T001656Z" creationid="karol" creationdate="20160309T001656Z">
-        <seg>O caractere escape ('\u001B')</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180111T151748Z" creationid="karol" creationdate="20160309T001656Z">
+        <seg>O caractere de escape ('\u001B')</seg>
       </tuv>
     </tu>
     <tu>
