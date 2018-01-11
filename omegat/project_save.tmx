@@ -37074,8 +37074,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The control character corresponding to x</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T001657Z" creationid="karol" creationdate="20160309T001657Z">
-        <seg>O caractere de controle corresponde ao x</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180111T151956Z" creationid="karol" creationdate="20160309T001657Z">
+        <seg>O caractere de controle corresponde a x</seg>
       </tuv>
     </tu>
     <tu>
