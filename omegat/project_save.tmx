@@ -15208,8 +15208,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180111T135237Z" creationid="karol" creationdate="20160309T001637Z">
-        <seg>Permite correspondências que ignoram maiúsculas e minúsculas (por predefinição, o padrão faz a distinção entre maiúsculas e minúsculas).</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180111T135521Z" creationid="karol" creationdate="20160309T001637Z">
+        <seg>Permite correspondências que ignoram maiúsculas e minúsculas (por padrão, a configuração faz distinção entre maiúsculas e minúsculas).</seg>
       </tuv>
     </tu>
     <tu>
