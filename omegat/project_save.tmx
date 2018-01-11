@@ -36850,11 +36850,15 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>https://books.google.co.id/books?id=zWNyDgAAQBAJ&amp;pg=PA247&amp;lpg=PA247&amp;dq=o+que+%C3%A9+%27%5Cu000D%27&amp;source=bl&amp;ots=IzvgC7K6gI&amp;sig=iyE6pMqxjyyST1-25DIEPgM9JK4&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi427rUl9DYAhULto8KHfMGDaMQ6AEILTAB#v=onepage&amp;q=o%20que%20%C3%A9%20'%5Cu000D'&amp;f=false
+
+https://www.microsoft.com/en-us/language/Search?&amp;searchTerm=pattern&amp;langID=Portuguese%20(Brazil)&amp;Source=true&amp;productid=All%20Products
+</note>
       <tuv lang="EN">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T001648Z" creationid="karol" creationdate="20160309T001648Z">
-        <seg>O caractere de retornar ao início da linha ('\u000D')</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180111T150853Z" creationid="karol" creationdate="20160309T001648Z">
+        <seg>O caractere de retorno de carro ('\u000D')</seg>
       </tuv>
     </tu>
     <tu>
