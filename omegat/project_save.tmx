@@ -33644,9 +33644,6 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
     </tu>
     <tu>
-      <note>Opções: 
-Anteriormente "Documentação Java Regex", alterado para
-"Documentação sobre Java Regex".</note>
       <tuv lang="EN">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
@@ -40357,8 +40354,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This is much the same as the above example.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T002012Z" creationid="karol" creationdate="20160309T002012Z">
-        <seg>O mesmo vale para o exemplo acima..</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180111T144607Z" creationid="karol" creationdate="20160309T002012Z">
+        <seg>O mesmo vale para o exemplo acima.</seg>
       </tuv>
     </tu>
     <tu>
