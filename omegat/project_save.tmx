@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_0_10213" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -239,6 +239,28 @@ License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T121121Z" creationid="Sheila" creationdate="20170905T121121Z">
         <seg># MyMemory email</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T002355Z" creationid="Sheila" creationdate="20180115T002355Z">
+        <seg># Configuração de execução do OmegaT.exe
+# Para usar um parâmetro, remova o símbolo '#' antes de '-'
+# Memória 
+-Xmx1024M 
+# Idioma 
+-Duser.language=FR
+# País 
+-Duser.country=CA</seg>
       </tuv>
     </tu>
     <tu>
@@ -3696,6 +3718,14 @@ A configuração atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T002051Z" creationid="Sheila" creationdate="20180115T002051Z">
+        <seg>&lt;e0&gt;Nota:&lt;/e0&gt; as informações acima se aplicam somente a arquivos PDF com uma camada de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171841Z" creationid="karol" creationdate="20160308T171841Z">
@@ -7103,6 +7133,22 @@ A configuração atual é {0}MB;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182024Z" creationid="karol" creationdate="20160308T182024Z">
         <seg>&lt;u0&gt;A coleção de terminologia da Microsoft&lt;/u0&gt; &lt;i1/&gt; pode ser baixada em quase 100 idiomas e serve como base para um glossário de TI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>===============</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T002430Z" creationid="Sheila" creationdate="20180115T002430Z">
+        <seg>===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T002428Z" creationid="Sheila" creationdate="20180115T002428Z">
+        <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
     </tu>
     <tu>
@@ -20279,6 +20325,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T002213Z" creationid="Sheila" creationdate="20180115T002213Z">
+        <seg>Se você tiver um arquivo PDF feito de páginas digitalizadas (às vezes, esses arquivos são conhecidos como PDFs 'mortos'), é preciso usar um programa de OCR (reconhecimento óptico de caracteres) para reconhecer o texto e convertê-lo em um formato que possa ser usado pelo OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171116T040545Z" creationid="grego" creationdate="20171116T040151Z">
@@ -20395,6 +20449,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214418Z" creationid="karol" creationdate="20160308T214418Z">
         <seg>Se não utilizar as configurações padrão, serão necessários os arquivos de configurações correspondentes (&lt;l0&gt;filters.conf&lt;/l0&gt; e &lt;l1&gt;segmentation.conf&lt;/l1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T001858Z" creationid="Sheila" creationdate="20180115T001850Z">
+        <seg>Se precisar reproduzir a formatação do texto (ou outras coisas, como desenhos) na sua tradução, há três maneiras de tentar fazê-lo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20679,6 +20741,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171118T101342Z" creationid="Sheila" creationdate="20171118T101342Z">
         <seg>Ignorar: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T002035Z" creationid="Sheila" creationdate="20180115T002035Z">
+        <seg>Importar o arquivo de origem para o &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, salvá-lo como um arquivo ODG, traduzir, exportar para PDF, conforme necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25152,6 +25222,22 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T001658Z" creationid="Sheila" creationdate="20180115T001658Z">
+        <seg>Moses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T001716Z" creationid="Sheila" creationdate="20180115T001716Z">
+        <seg>URL do servidor do Moses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most functions are also available via keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201704Z" creationid="karol" creationdate="20160308T201704Z">
@@ -26753,6 +26839,14 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170918T155226Z" creationid="mroch" creationdate="20170918T155226Z">
         <seg>Os ODFAuthors e os tradutores italianos do LibreOffice têm orgulho de usar uma ferramenta tão boa em o seu árduo trabalho na Comunidade LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T001741Z" creationid="Sheila" creationdate="20180115T001741Z">
+        <seg>OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -32649,6 +32743,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T002009Z" creationid="Sheila" creationdate="20180115T002009Z">
+        <seg>Veja as &lt;u0&gt;Instruções - Traduzindo arquivos PDF com Iceni Infix e OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181201Z" creationid="karol" creationdate="20160308T181201Z">
@@ -33408,6 +33510,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113608Z" creationid="Evandro" creationdate="20160312T113608Z">
         <seg>Servidor (atualizado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T001759Z" creationid="Sheila" creationdate="20180115T001759Z">
+        <seg>O servidor não compreende o método "traduzir"</seg>
       </tuv>
     </tu>
     <tu>
@@ -35935,6 +36045,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T001738Z" creationid="Sheila" creationdate="20180115T001738Z">
+        <seg>Testando...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102907Z" creationid="Evandro" creationdate="20160312T102907Z">
@@ -36515,6 +36633,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005253Z" creationid="karol" creationdate="20160309T005253Z">
         <seg>As estatísticas de correspondência são separadas por tabulações e você pode usar &lt;g0&gt;Ctrl+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, Ctrl+C &lt;i3/&gt;&lt;/g2&gt;, &lt;g4&gt;Ctrl+V &lt;i5/&gt;&lt;/g4&gt; para copiá-las ou colá-las, por exemplo, em uma planilha ou em seu aplicativo de contabilidade de custos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T001728Z" creationid="Sheila" creationdate="20180115T001728Z">
+        <seg>A URL do servidor do Moses não foi definida</seg>
       </tuv>
     </tu>
     <tu>
@@ -42922,6 +43048,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T001939Z" creationid="Sheila" creationdate="20180115T001853Z">
+        <seg>Usar o filtro padrão do &lt;a0&gt;OmegaT&lt;/a0&gt; (entrada de PDF), traduzir, criar um arquivo de destino (será um arquivo de texto sem formatação), adicionar a formatação e itens relevantes manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; to open and &lt;k2&gt;Esc&lt;/k2&gt; to close it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004526Z" creationid="karol" creationdate="20160309T004526Z">
@@ -43023,6 +43157,14 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182206Z" creationid="karol" creationdate="20160308T182206Z">
         <seg>Use o arquivo &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; localizado em &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; para iniciar o &lt;a4&gt;OmegaT&lt;/a4&gt; a partir da linha de comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the Iceni Infix filter.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T001955Z" creationid="Sheila" creationdate="20180115T001955Z">
+        <seg>Usar o filtro Iceni Infix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48724,10 +48866,42 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T002411Z" creationid="Sheila" creationdate="20180115T002411Z">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T134539Z" creationid="Sheila" creationdate="20170905T134539Z">
         <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T002407Z" creationid="Sheila" creationdate="20180115T002407Z">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T001941Z" creationid="Sheila" creationdate="20180115T001941Z">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T002403Z" creationid="Sheila" creationdate="20180115T002403Z">
+        <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
       </tuv>
     </tu>
     <tu>
@@ -48792,6 +48966,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T230917Z" creationid="Sheila" creationdate="20170903T230917Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180115T002013Z" creationid="Sheila" creationdate="20180115T002013Z">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
     </tu>
     <tu>
