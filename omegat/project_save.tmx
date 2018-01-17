@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_0_10213" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40513,8 +40513,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180111T152637Z" creationid="karol" creationdate="20160309T001711Z">
-        <seg>Isso é necessário se você quiser inserir quaisquer metacaracteres !$()*+.&amp;lt;&amp;gt;?[ \\ ]^{|} para corresponder como eles mesmos.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180111T154924Z" creationid="karol" creationdate="20160309T001711Z">
+        <seg>Isso é necessário se você quiser inserir quaisquer metacaracteres !$()*+.&amp;lt;&amp;gt;?[ \\ ]^{|} para corresponder com eles mesmos.</seg>
       </tuv>
     </tu>
     <tu>
