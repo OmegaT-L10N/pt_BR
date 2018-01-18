@@ -48601,11 +48601,12 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</note>
       <tuv lang="EN">
         <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T013606Z" creationid="Sheila" creationdate="20170905T013606Z">
-        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180118T081116Z" creationid="Sheila" creationdate="20170905T013606Z">
+        <seg> http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
       </tuv>
     </tu>
     <tu>
