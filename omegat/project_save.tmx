@@ -39866,11 +39866,13 @@ not accept this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>O termo "hits" poderia ser traduzido como "resultados" ou "ocorrências", o que acha?
+</note>
       <tuv lang="EN">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T001852Z" creationid="karol" creationdate="20160309T001852Z">
-        <seg>Em geral, elas seguem muito o mesmo padrão (para um exemplo do testador de expressões regulares veja abaixo): a expressão regular (mostrada no topo) analisa o texto de pesquisa (caixa de texto no meio), e gera os hits, mostrados na caixa de resultados.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180119T065000Z" creationid="karol" creationdate="20160309T001852Z">
+        <seg>Em geral, elas seguem muito o mesmo padrão (para um exemplo do testador de expressões regulares veja abaixo): a expressão regular (mostrada no topo) analisa o texto de pesquisa (caixa de texto no meio) e gera as ocorrências do termo buscado, mostrados na caixa de resultados.</seg>
       </tuv>
     </tu>
     <tu>
