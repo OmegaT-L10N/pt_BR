@@ -32758,11 +32758,12 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
     </tu>
     <tu>
+      <note>http://weitz.de/regex-coach/</note>
       <tuv lang="EN">
         <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T001856Z" creationid="karol" creationdate="20160309T001856Z">
-        <seg>Veja &lt;u0&gt;The Regex Coach&lt;/u0&gt; para as versões Windows, Linux, FreeBSD de ferramenta autônoma.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180119T090059Z" creationid="karol" creationdate="20160309T001856Z">
+        <seg>Veja &lt;u0&gt;The Regex Coach&lt;/u0&gt; para as versões do Windows, Linux e FreeBSD de ferramenta autônoma.</seg>
       </tuv>
     </tu>
     <tu>
