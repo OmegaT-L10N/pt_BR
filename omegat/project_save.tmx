@@ -30808,8 +30808,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Regex Tester</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T001854Z" creationid="karol" creationdate="20160309T001854Z">
-        <seg>Testador das Regex</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180119T065123Z" creationid="karol" creationdate="20160309T001854Z">
+        <seg>Testador de Regex</seg>
       </tuv>
     </tu>
     <tu>
