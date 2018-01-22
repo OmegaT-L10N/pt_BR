@@ -29077,8 +29077,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="EN">
         <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T002056Z" creationid="karol" creationdate="20160309T002056Z">
-        <seg>Ponto final, seguido por um caractere maiúsculo - possivelmente um espaço está faltando entre o ponto final e o início de uma nova sentença?</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T154538Z" creationid="karol" creationdate="20160309T002056Z">
+        <seg>Ponto final, seguido por um caractere maiúsculo. Possivelmente está faltando um espaço entre o ponto final e o início de uma nova sentença.</seg>
       </tuv>
     </tu>
     <tu>
