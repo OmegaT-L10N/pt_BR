@@ -40868,6 +40868,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T161339Z" creationid="CALDAS" creationdate="20180122T161339Z">
+        <seg>Esse script deve ser executado na versão 3.6 ou mais recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170425Z" creationid="karol" creationdate="20160308T170425Z">
@@ -45330,6 +45338,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201508Z" creationid="karol" creationdate="20160308T201508Z">
         <seg>Você não é responsável pela conformidade de terceiros a esta Licença.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are running OmegaT version {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T161140Z" creationid="CALDAS" creationdate="20180122T161140Z">
+        <seg>Você está executando o OmegaT na versão {0}.</seg>
       </tuv>
     </tu>
     <tu>
