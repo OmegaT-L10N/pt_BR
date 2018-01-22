@@ -29061,8 +29061,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="EN">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T160758Z" creationid="karol" creationdate="20160309T160758Z">
-        <seg>Executa o comando cleanup do SVN no projeto atual ou qualquer outro repositório SVN local</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T160445Z" creationid="karol" creationdate="20160309T160758Z">
+        <seg>Executa a limpeza do SVN no projeto atual ou qualquer outro repositório SVN local</seg>
       </tuv>
     </tu>
     <tu>
@@ -32057,7 +32057,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>SVN - Cleanup (recursive)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T160042Z" creationid="CALDAS" creationdate="20180122T160012Z">
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T160151Z" creationid="CALDAS" creationdate="20180122T160012Z">
         <seg>SVN - Cleanup (recursivo)</seg>
       </tuv>
     </tu>
@@ -53048,6 +53048,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113720Z" creationid="Evandro" creationdate="20160312T113720Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T160348Z" creationid="CALDAS" creationdate="20180122T160348Z">
+        <seg>{0}:	limpeza concluída!!</seg>
       </tuv>
     </tu>
     <tu>
