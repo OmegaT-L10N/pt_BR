@@ -20560,8 +20560,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T010534Z" creationid="karol" creationdate="20160309T010534Z">
-        <seg>Se quise usar no OmegaT o mesmo idioma utilizado na instalação, selecione a caixa abaixo.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T155704Z" creationid="karol" creationdate="20160309T010534Z">
+        <seg>Se quiser usar o mesmo idioma utilizado na instalação no OmegaT, marque a caixa abaixo.</seg>
       </tuv>
     </tu>
     <tu>
