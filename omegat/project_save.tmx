@@ -11258,8 +11258,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Choose SVN repository to perform cleanup</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T160759Z" creationid="karol" creationdate="20160309T160759Z">
-        <seg>Selecione o repositório SVN para executar o comando cleanup</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T160511Z" creationid="karol" creationdate="20160309T160759Z">
+        <seg>Selecione o repositório SVN para executar a limpeza</seg>
       </tuv>
     </tu>
     <tu>
@@ -32054,6 +32054,7 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Em alguns segmentos entendi que o termo "cleanup" pode ser traduzido.</note>
       <tuv lang="EN">
         <seg>SVN - Cleanup (recursive)</seg>
       </tuv>
@@ -52972,6 +52973,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113627Z" creationid="Evandro" creationdate="20160312T113627Z">
         <seg>{0} conflitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T160743Z" creationid="CALDAS" creationdate="20180122T160743Z">
+        <seg>{0} não é uma cópia funcional local, ignorando.</seg>
       </tuv>
     </tu>
     <tu>
