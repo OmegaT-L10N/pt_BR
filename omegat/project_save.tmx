@@ -32055,6 +32055,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T160042Z" creationid="CALDAS" creationdate="20180122T160012Z">
+        <seg>SVN - Cleanup (recursivo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVNKit (TMate License)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T212842Z" creationid="Sheila" creationdate="20170905T170732Z">
