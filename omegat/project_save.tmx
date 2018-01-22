@@ -23923,6 +23923,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T161046Z" creationid="CALDAS" creationdate="20180122T161046Z">
+        <seg>Cópias funcionais locais limpadas: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Localization</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155928Z" creationid="mroch" creationdate="20170919T155928Z">
@@ -38687,6 +38695,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T160856Z" creationid="CALDAS" creationdate="20180122T160856Z">
+        <seg>O script será fechado agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002142Z" creationid="karol" creationdate="20160309T002142Z">
@@ -39559,6 +39575,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003315Z" creationid="Sheila" creationdate="20171119T003315Z">
         <seg>Existem muitos plugins disponíveis para o OmegaT on-line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T160818Z" creationid="CALDAS" creationdate="20180122T160818Z">
+        <seg>Não existem cópias funcionais locais em {0}.</seg>
       </tuv>
     </tu>
     <tu>
