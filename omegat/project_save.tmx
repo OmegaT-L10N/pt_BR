@@ -13898,6 +13898,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180301T212734Z" creationid="Sheila" creationdate="20180301T212734Z">
+        <seg>Exibir o segmento de origem &amp;ativo em negrito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;tags</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T172033Z" creationid="Sheila" creationdate="20170905T172033Z">
@@ -15527,6 +15535,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110623Z" creationid="Evandro" creationdate="20160312T110623Z">
         <seg>Erro na decodificação do nome de usuário e senha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180301T212625Z" creationid="Sheila" creationdate="20180301T212625Z">
+        <seg>Erro durante a substituição da expressão regular:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18133,6 +18149,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T213001Z" creationid="Sheila" creationdate="20170905T170746Z">
         <seg>Groovy (Licença Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180301T212701Z" creationid="Sheila" creationdate="20180301T212701Z">
+        <seg>O grupo {0} não existe na expressão de busca</seg>
       </tuv>
     </tu>
     <tu>
@@ -43051,6 +43075,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180301T211426Z" creationid="Sheila" creationdate="20180301T211426Z">
+        <seg>Use $n para se referir ao -ésimo grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T163417Z" creationid="Sheila" creationdate="20170905T163417Z">
@@ -44437,6 +44469,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185719Z" creationid="Evandro" creationdate="20160311T185719Z">
         <seg>Ao usar expressões regulares, a string de substituição não dá suporte às referências para grupos definidos na string de busca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180301T211349Z" creationid="Sheila" creationdate="20180301T211349Z">
+        <seg>Ao usar expressões regulares, a string de substituição dá suporte às referências para grupos definidos na string de busca.</seg>
       </tuv>
     </tu>
     <tu>
