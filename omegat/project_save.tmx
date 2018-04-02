@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10312M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13364,6 +13364,22 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T205922Z" creationid="Sheila" creationdate="20170904T205922Z">
         <seg>Data da correspondência quando ela foi atualizada por último</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kos Ivantsov" changedate="20180402T101225Z" creationid="Kos Ivantsov" creationdate="20180402T101225Z">
+        <seg>DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kos Ivantsov" changedate="20180402T101309Z" creationid="Kos Ivantsov" creationdate="20180402T101309Z">
+        <seg>Chave do DeepL API não disponível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32397,6 +32413,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171321Z" creationid="karol" creationdate="20160308T171321Z">
         <seg>Gaélico escocês, Gaélico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kos Ivantsov" changedate="20180402T101222Z" creationid="Kos Ivantsov" creationdate="20180402T101222Z">
+        <seg>Scribus</seg>
       </tuv>
     </tu>
     <tu>
