@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -47401,8 +47401,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>comma or a period, followed by spaces and yet another comma or period</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T153153Z" creationid="karol" creationdate="20160309T002045Z">
-        <seg>vírgula ou ponto final, seguido de espaços e novamente vírgula ou ponto final</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180409T050521Z" creationid="karol" creationdate="20160309T002045Z">
+        <seg>vírgula ou ponto final, seguido de espaços e, novamente, vírgula ou ponto final</seg>
       </tuv>
     </tu>
     <tu>
