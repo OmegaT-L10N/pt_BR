@@ -5886,7 +5886,6 @@ A configuração atual é {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Revision: CALDAS</note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt; &lt;s2&gt;Searching&lt;/s2&gt;</seg>
       </tuv>
@@ -29135,8 +29134,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="EN">
         <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180122T154538Z" creationid="karol" creationdate="20160309T002056Z">
-        <seg>Ponto final, seguido por um caractere maiúsculo. Possivelmente está faltando um espaço entre o ponto final e o início de uma nova sentença.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180409T055211Z" creationid="karol" creationdate="20160309T002056Z">
+        <seg>Ponto final, seguido por um caractere maiúsculo. Possivelmente, está faltando um espaço entre o ponto final e o início de uma nova sentença.</seg>
       </tuv>
     </tu>
     <tu>
