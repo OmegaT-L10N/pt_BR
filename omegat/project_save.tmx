@@ -34038,11 +34038,13 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
     </tu>
     <tu>
+      <note>Vou traduzir esse aquivo.
+Fabio M Caldas </note>
       <tuv lang="EN">
         <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T144320Z" creationid="Sheila" creationdate="20171230T144320Z">
-        <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180420T143952Z" creationid="Sheila" creationdate="20171230T144320Z">
+        <seg>O OmegaT tem uma função de exportação de texto desde a versão 2.0.1.</seg>
       </tuv>
     </tu>
     <tu>
