@@ -40038,6 +40038,14 @@ servidor.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HOWTO describes the function and possible uses for it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180420T144110Z" creationid="CALDAS" creationdate="20180420T144110Z">
+        <seg>Estas Instruções descrevem a função e seus possíveis usos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171126T212427Z" creationid="Sheila" creationdate="20171126T212427Z">
