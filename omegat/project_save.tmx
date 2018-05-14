@@ -20905,6 +20905,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, the package &lt;a0&gt;te-scripts.zip&lt;/a0&gt; contains some very simple tcl/tk scripts which are intended to illustrate use of the function.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180514T140907Z" creationid="CALDAS" creationdate="20180514T140907Z">
+        <seg>Além disso, o pacote &lt;a0&gt;te-scripts.zip&lt;/a0&gt; contém alguns scripts para tcl/tk muito simples que servem para ilustrar o uso da função.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, two menu entries allow opening directly the current source and target documents and the writable glossary.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T210111Z" creationid="Sheila" creationdate="20170904T210111Z">
