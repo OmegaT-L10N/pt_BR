@@ -30481,6 +30481,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Purpose</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180515T023340Z" creationid="CALDAS" creationdate="20180515T023340Z">
+        <seg>Finalidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Push failed.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112939Z" creationid="Evandro" creationdate="20160312T112939Z">
