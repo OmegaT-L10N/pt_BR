@@ -30481,7 +30481,8 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <note>&lt;query&gt;
-Conforme TM do Mozilla, mas vi traduzido como "Propósito" também</note>
+Conforme TM do Mozilla, mas vi traduzido como "Propósito" e "Objetivo" também (Karol).
+</note>
       <tuv lang="EN">
         <seg>Purpose</seg>
       </tuv>
@@ -39233,6 +39234,14 @@ combination as such.</seg>
         <seg>The text export function exports data from within the current &lt;a0&gt;OmegaT&lt;/a0&gt; project to plain text files.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172845Z" creationid="karol" creationdate="20160308T172845Z">
+        <seg>A função de exportação de texto envia dados de dentro do projeto atual do &lt;a0&gt;OmegaT&lt;/a0&gt; para arquivos de texto simples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text export function exports data from within the current OmegaT project to plain-text files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180515T120009Z" creationid="CALDAS" creationdate="20180515T120009Z">
         <seg>A função de exportação de texto envia dados de dentro do projeto atual do &lt;a0&gt;OmegaT&lt;/a0&gt; para arquivos de texto simples.</seg>
       </tuv>
     </tu>
