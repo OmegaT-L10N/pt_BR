@@ -9473,6 +9473,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At present, the data exported are:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180515T121739Z" creationid="CALDAS" creationdate="20180515T121739Z">
+        <seg>Neste momento, os dados exportados são:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182114Z" creationid="karol" creationdate="20160308T182114Z">
@@ -39241,8 +39249,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>The text export function exports data from within the current OmegaT project to plain-text files.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180515T120009Z" creationid="CALDAS" creationdate="20180515T120009Z">
-        <seg>A função de exportação de texto envia dados de dentro do projeto atual do &lt;a0&gt;OmegaT&lt;/a0&gt; para arquivos de texto simples.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180515T120035Z" creationid="CALDAS" creationdate="20180515T120009Z">
+        <seg>A função de exportação de texto envia dados de dentro do projeto atual do OmegaT para arquivos de texto simples.</seg>
       </tuv>
     </tu>
     <tu>
