@@ -27462,6 +27462,16 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180516T180532Z" creationid="Sheila" creationdate="20180516T180532Z">
+        <seg>O OmegaT está disponível nos termos da Licença Pública Geral (GNU) como publicado pela Fundação para o Software Livre; a versão 3 da Licença, ou (se preferir) qualquer versão posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171230T145256Z" creationid="mroch" creationdate="20170918T160604Z">
