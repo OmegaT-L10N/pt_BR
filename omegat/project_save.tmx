@@ -699,6 +699,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180516T180756Z" creationid="Sheila" creationdate="20180516T180756Z">
+        <seg>&amp;Limpar menu</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Close</seg>
@@ -12344,6 +12352,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180516T180853Z" creationid="Sheila" creationdate="20180516T180853Z">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk e outros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171212Z" creationid="karol" creationdate="20160308T171212Z">
@@ -23767,8 +23783,8 @@ permissions.</seg>
         <seg>Licensing information
 =====================</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20180309T092137Z" creationid="Sheila" creationdate="20180309T092137Z">
-        <seg>Licensing information
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180516T180552Z" creationid="Sheila" creationdate="20180309T092137Z">
+        <seg>Informações de licença
 =====================</seg>
       </tuv>
     </tu>
@@ -25727,6 +25743,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180516T180907Z" creationid="Sheila" creationdate="20180516T180907Z">
+        <seg>Tradução automática neural</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171119T024343Z" creationid="grego" creationdate="20171116T032727Z">
@@ -27678,6 +27702,15 @@ http://omegat.org/reviews</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180516T180948Z" creationid="Sheila" creationdate="20180516T180948Z">
+        <seg>O OmegaT precisa do Java Runtime Environment (JRE) versão 1.8 ou superior instalado em seu computador para rodar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170036Z" creationid="karol" creationdate="20160308T170036Z">
@@ -27730,6 +27763,14 @@ http://omegat.org/reviews</note>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T101236Z" creationid="CALDAS" creationdate="20170914T101236Z">
         <seg>Curso de treinamento do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180516T180644Z" creationid="Sheila" creationdate="20180516T180644Z">
+        <seg>O OmegaT usa uma série de bibliotecas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29702,6 +29743,16 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182342Z" creationid="karol" creationdate="20160308T182342Z">
         <seg>Pré-requisitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180516T180721Z" creationid="Sheila" creationdate="20180516T180721Z">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -37729,6 +37780,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180516T180843Z" creationid="Sheila" creationdate="20180516T180843Z">
+        <seg>As opções a seguir não se aplicam se a opção "Compatibilidade com o OmegaT 2.6" estiver selecionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following recipee is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003755Z" creationid="karol" creationdate="20160309T003755Z">
@@ -38010,6 +38069,15 @@ xx ou yyy é o código do idioma e YY é o código do país (opcional).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003315Z" creationid="karol" creationdate="20160309T003315Z">
         <seg>O arquivo level2 inclui as tags específicas do &lt;a0&gt;OmegaT&lt;/a0&gt; nas tags TMX corretas, assim o arquivo pode ser usado com suas informações de formatação em uma ferramenta de tradução que aceita memórias TMX nível 2, ou no próprio &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The license of each library is mentionned
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180516T180709Z" creationid="Sheila" creationdate="20180516T180709Z">
+        <seg>A licença de cada biblioteca é mencionada em /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45405,8 +45473,8 @@ Tanto a busca exata como a por palavra-chave podem usar os caracteres curinga * 
       <tuv lang="EN">
         <seg>Yandex Translate - No API Key Specified</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112143Z" creationid="Evandro" creationdate="20160312T112102Z">
-        <seg>Yandex Translate - Nenhuma chave da API foi Especificada</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180516T180920Z" creationid="Evandro" creationdate="20160312T112102Z">
+        <seg>Yandex Translate - Nenhuma chave de API foi especificada</seg>
       </tuv>
     </tu>
     <tu>
@@ -45742,6 +45810,16 @@ your programs, too.</seg>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T181123Z" creationid="Evandro" creationdate="20160311T181123Z">
         <seg>Você pode encontrar Informações estatísticas detalhadas no arquivo:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180516T180630Z" creationid="Sheila" creationdate="20180516T180630Z">
+        <seg>Você pode encontrar o texto da licença no arquivo:
+/docs/OmegaT-license.txt.</seg>
       </tuv>
     </tu>
     <tu>
