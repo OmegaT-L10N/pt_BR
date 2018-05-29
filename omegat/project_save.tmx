@@ -2175,6 +2175,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- The content of the segment source text, when the segment is opened&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180529T024416Z" creationid="CALDAS" creationdate="20180529T024416Z">
+        <seg>O conteúdo do texto do segmento fonte quando o segmento é aberto;&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172724Z" creationid="karol" creationdate="20160308T172724Z">
