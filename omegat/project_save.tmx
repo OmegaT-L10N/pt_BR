@@ -2175,6 +2175,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Highlighted text in the target text, when the relevant shortcut is pressed</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180531T132933Z" creationid="CALDAS" creationdate="20180531T132933Z">
+        <seg>- Texto destacado no texto de destino, quando o atalho relevante é executado;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- The content of the segment source text, when the segment is opened&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20180531T132733Z" creationid="CALDAS" creationdate="20180529T024416Z">
