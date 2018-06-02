@@ -30108,6 +30108,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Programmers and scripters can use the files containing this text in order to add further functions to OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180602T124537Z" creationid="CALDAS" creationdate="20180602T124537Z">
+        <seg>Os programadores e criadores de scripts podem usar os arquivos contendo este texto para adicionar mais funções ao OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Programming (Java)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161127Z" creationid="mroch" creationdate="20170919T161127Z">
