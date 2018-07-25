@@ -28646,10 +28646,11 @@ installed on your system.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T145800Z" creationid="Sheila" creationdate="20170903T210312Z">
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180725T145014Z" creationid="Sheila" creationdate="20170903T210312Z">
         <seg>Opções:
 	Nenhuma: Inicie a interface gráfica do usuário
-	Somente o caminho do projeto: Inicia a interface gráfica do usuário e carrega o projeto de equipe		especificado
+	Somente o caminho do projeto: Inicia a interface gráfica do usuário e carrega 
+	o projeto de equipe especificado
 		Ferramenta de projeto de equipe.</seg>
       </tuv>
     </tu>
