@@ -2284,9 +2284,10 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T143304Z" creationid="Sheila" creationdate="20170905T143304Z">
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180727T114751Z" creationid="Sheila" creationdate="20170905T143304Z">
         <seg>--config-file=&lt;path&gt;
-		Um arquivo Java .properties a partir do qual as configurações padrão são carregadas.</seg>
+		Um arquivo Java .properties a partir do qual as configurações
+		padrão são carregadas.</seg>
       </tuv>
     </tu>
     <tu>
