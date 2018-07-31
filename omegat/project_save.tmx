@@ -36102,6 +36102,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tcl/tk must be installed, if it is not already.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T084229Z" creationid="CALDAS" creationdate="20180731T084229Z">
+        <seg>O Tcl/Tk deve ser instalado, caso ainda não tenho sido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tcl/tk utility providing a formatted layout preview of translated files.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T093639Z" creationid="CALDAS" creationdate="20170914T093639Z">
@@ -37737,6 +37745,14 @@ Também não existe essa informação no manuals -&gt; User Manual (F1 from with
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172849Z" creationid="karol" creationdate="20160308T172849Z">
         <seg>Os arquivos são arquivos de texto simples não formatados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files are unformatted plain-text files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T083951Z" creationid="CALDAS" creationdate="20180731T083951Z">
+        <seg>Os arquivos são arquivos de texto sem formatação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43911,6 +43927,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214416Z" creationid="karol" creationdate="20160308T214416Z">
         <seg>Usando o modo console, pode-se gerar uma interface localizada como uma parte do processo de construção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the sample scripts</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T084040Z" creationid="CALDAS" creationdate="20180731T084040Z">
+        <seg>Usando os scripts de amostra</seg>
       </tuv>
     </tu>
     <tu>
