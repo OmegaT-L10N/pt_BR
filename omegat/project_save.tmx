@@ -26069,6 +26069,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T090003Z" creationid="CALDAS" creationdate="20180731T090003Z">
+        <seg>Nenhum projeto foi carregado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112546Z" creationid="Evandro" creationdate="20160312T112546Z">
@@ -30287,6 +30295,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T090108Z" creationid="CALDAS" creationdate="20180731T090108Z">
+        <seg>O projeto não contém arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111035Z" creationid="Evandro" creationdate="20160312T111035Z">
@@ -31344,6 +31360,14 @@ Conforme TM da Mozilla, mas vi traduzido como "Propósito" e "Objetivo" também 
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T104652Z" creationid="Evandro" creationdate="20160312T104652Z">
         <seg>Retirar padrão?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T085900Z" creationid="CALDAS" creationdate="20180731T085900Z">
+        <seg>Remova tags de documentos DOCX</seg>
       </tuv>
     </tu>
     <tu>
@@ -35976,6 +36000,17 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181814Z" creationid="karol" creationdate="20160308T181814Z">
         <seg>As tags reproduzidas no segmento traduzido estarão presentes no documento traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Vou traduzir esse aquivo.
+
+Fabio M Caldas</note>
+      <tuv lang="EN">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T085754Z" creationid="CALDAS" creationdate="20180731T085754Z">
+        <seg>Tagwipe</seg>
       </tuv>
     </tu>
     <tu>
