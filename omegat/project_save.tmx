@@ -28615,14 +28615,14 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>&lt;query&gt; Qual é a terminologia adequada par "Editing behaviour"?
+      <note>&lt;query&gt; Qual é a terminologia adequada para "Editing behaviour"?
 
-A grande questão aqui, na verdade, é que essa opção "Editing behaviour" não existe.</note>
+A questão aqui, na verdade, é que essa opção "Editing behaviour" não existe. Conversei com o Kos e ele falou que pode ser "Options -&gt; Editor", o que a versão em italiano confirma.</note>
       <tuv lang="EN">
         <seg>Options &gt; Editing behaviour</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T044316Z" creationid="CALDAS" creationdate="20180731T044316Z">
-        <seg>Opções &gt; Comportamento de modificação</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T083430Z" creationid="CALDAS" creationdate="20180731T044316Z">
+        <seg>Opções &gt; Editor...</seg>
       </tuv>
     </tu>
     <tu>
@@ -43925,8 +43925,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using the text export function</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T042233Z" creationid="CALDAS" creationdate="20180731T042233Z">
-        <seg>Usando o recurso de exportação de texto.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T083305Z" creationid="CALDAS" creationdate="20180731T042233Z">
+        <seg>Usando o recurso de exportação de texto</seg>
       </tuv>
     </tu>
     <tu>
