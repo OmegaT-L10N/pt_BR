@@ -37348,8 +37348,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T172849Z" creationid="karol" creationdate="20160308T172849Z">
-        <seg>O conteúdo dos arquivos é sobrescrito também quando um novo segmento é aberto (source.txt e target.txt) ou quando uma nova seleção é exportada (selection.txt).</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T083859Z" creationid="karol" creationdate="20160308T172849Z">
+        <seg>O conteúdo dos arquivos é sobrescrito quando um novo segmento é aberto (source.txt e target.txt) ou quando uma nova seleção é exportada (selection.txt).</seg>
       </tuv>
     </tu>
     <tu>
