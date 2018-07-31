@@ -17424,6 +17424,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the text export function to be used, you must first enable it within OmegaT itself:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T042536Z" creationid="CALDAS" creationdate="20180731T042536Z">
+        <seg>Para que o recurso de exportação de texto seja usado, você deve primeiro ativá-lo a partir do próprio OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the user interface, user manual, Instant Start guide and/or the readme file, please contact the &lt;a1&gt;OmegaT Localization Co-ordinator&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20171016T123607Z" creationid="CALDAS" creationdate="20171016T123607Z">
@@ -43882,6 +43890,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172707Z" creationid="karol" creationdate="20160308T172707Z">
         <seg>Uso do projeto de equipe no OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the text export function</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T042233Z" creationid="CALDAS" creationdate="20180731T042233Z">
+        <seg>Usando o recurso de exportação de texto.</seg>
       </tuv>
     </tu>
     <tu>
