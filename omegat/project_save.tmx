@@ -28615,6 +28615,17 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;query&gt; Qual é a terminologia adequada par "Editing behaviour"?
+
+</note>
+      <tuv lang="EN">
+        <seg>Options &gt; Editing behaviour</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T044316Z" creationid="CALDAS" creationdate="20180731T044316Z">
+        <seg>Opções &gt; Comportamento de modificação</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Options Menu</seg>
       </tuv>
