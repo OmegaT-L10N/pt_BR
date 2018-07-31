@@ -8469,6 +8469,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T090921Z" creationid="CALDAS" creationdate="20180731T090921Z">
+        <seg>Todos os arquivos DOCX no projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182406Z" creationid="karol" creationdate="20160308T182406Z">
@@ -9909,6 +9917,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T090842Z" creationid="CALDAS" creationdate="20180731T090842Z">
+        <seg>Backup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181233Z" creationid="karol" creationdate="20160308T181233Z">
@@ -10010,6 +10026,23 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170523T195648Z" creationid="karol" creationdate="20160309T001338Z">
         <seg>Lembre-se de que modificar os idiomas pode inutilizar as memórias de tradução usadas, pois elas podem não corresponder aos novos idiomas definidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;status:draft&gt;</note>
+      <tuv lang="EN">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T090826Z" creationid="CALDAS" creationdate="20180731T090826Z">
+        <seg>Aperfeiçoar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T090913Z" creationid="CALDAS" creationdate="20180731T090913Z">
+        <seg>DOCX resultante do aperfeiçoamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -12193,6 +12226,14 @@ Vide: http://omegat.org/howtos/localizing_omegat.html</note>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T051237Z" creationid="CALDAS" creationdate="20170912T030834Z">
         <seg>podem existir funções ou soluções alternativas convenientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T090829Z" creationid="CALDAS" creationdate="20180731T090829Z">
+        <seg>Converter</seg>
       </tuv>
     </tu>
     <tu>
@@ -23820,6 +23861,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170351Z" creationid="karol" creationdate="20160308T170351Z">
         <seg>Avisos legais e agradecimentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T090654Z" creationid="CALDAS" creationdate="20180731T090654Z">
+        <seg>Nível</seg>
       </tuv>
     </tu>
     <tu>
