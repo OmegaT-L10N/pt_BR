@@ -51900,6 +51900,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>selection.txt - contains the text highlighted by the user, when Ctrl-Shift-C is pressed or Edit &gt; Export Selection is selected</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T083233Z" creationid="CALDAS" creationdate="20180731T083233Z">
+        <seg>selection.txt - contém o texto destacado pelo usuário quando Ctrl-Shift-C é pressionada ou Editar &gt; Seleção de Exportação está selecionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sentenceCaseMenuItem</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T193022Z" creationid="Sheila" creationdate="20170625T193022Z">
@@ -52062,8 +52070,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>source.txt - contains the source text of the segment&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T082840Z" creationid="CALDAS" creationdate="20180731T082840Z">
-        <seg>source.txt- contém o texto de origem do segmento&lt;br0/&gt;</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T082857Z" creationid="CALDAS" creationdate="20180731T082840Z">
+        <seg>source.txt - contém o texto de origem do segmento&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -52248,6 +52256,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T190733Z" creationid="Sheila" creationdate="20170625T190733Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target.txt - contains the target text of the segment&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T082854Z" creationid="CALDAS" creationdate="20180731T082854Z">
+        <seg>target.txt - contém o texto de destino do segmento&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
