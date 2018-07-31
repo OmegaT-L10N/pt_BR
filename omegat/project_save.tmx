@@ -36102,10 +36102,18 @@ LEGISLAÇÃO APLICÁVEL.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tcl/tk can be obtained from a number of sources; tcl.activestate.com is one popular source.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T085305Z" creationid="CALDAS" creationdate="20180731T084323Z">
+        <seg>O Tcl/Tk pode ser obtido a partir de várias fontes, sendo que o site tcl.activestate.com é uma fonte popular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tcl/tk must be installed, if it is not already.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T084229Z" creationid="CALDAS" creationdate="20180731T084229Z">
-        <seg>O Tcl/Tk deve ser instalado, caso ainda não tenho sido.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T084400Z" creationid="CALDAS" creationdate="20180731T084229Z">
+        <seg>A linguagem de programa Tcl/Tk deve ser instalada, caso ainda não tenho sido.</seg>
       </tuv>
     </tu>
     <tu>
