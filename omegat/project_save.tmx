@@ -28617,7 +28617,7 @@ installed on your system.</seg>
     <tu>
       <note>&lt;query&gt; Qual é a terminologia adequada par "Editing behaviour"?
 
-</note>
+A grande questão aqui, na verdade, é que essa opção "Editing behaviour" não existe.</note>
       <tuv lang="EN">
         <seg>Options &gt; Editing behaviour</seg>
       </tuv>
@@ -37714,11 +37714,13 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;query&gt;
+Também não existe essa informação no manuals -&gt; User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files)</note>
       <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder (for the location of the OmegaT user files folder on your operating system, see the User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files):</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T081559Z" creationid="CALDAS" creationdate="20180731T081559Z">
-        <seg>Os arquivos aparecem na subpasta /script, dentro da pasta de arquivos de usuário do OmegaT ─ consulte o Manual do Usuário (abra o OmegaT e clique em F1) &gt; Arquivos e diretórios &gt; Arquivos do Usuário)para saber o local da pasta de arquivos de usuário do OmegaT em seu sistema operacional:</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T081903Z" creationid="CALDAS" creationdate="20180731T081559Z">
+        <seg>Os arquivos aparecem na subpasta /script, dentro da pasta de arquivos de usuário do OmegaT ─ consulte o Manual do Usuário (abra o OmegaT e clique em F1) &gt; Arquivos e Diretórios &gt; Arquivos do Usuário para saber o local da pasta de arquivos de usuário do OmegaT em seu sistema operacional:</seg>
       </tuv>
     </tu>
     <tu>
