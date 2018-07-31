@@ -8471,8 +8471,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>All DOCX files in the project</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T090921Z" creationid="CALDAS" creationdate="20180731T090921Z">
-        <seg>Todos os arquivos DOCX no projeto</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T090930Z" creationid="CALDAS" creationdate="20180731T090921Z">
+        <seg>Todos arquivos DOCX no projeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -10029,7 +10029,9 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>&lt;status:draft&gt;</note>
+      <note>&lt;status:draft&gt;
+
+Alguma outra ideia? Em caso positivo, favor alterar no segmento 6516.</note>
       <tuv lang="EN">
         <seg>Beautify</seg>
       </tuv>
@@ -12718,6 +12720,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T091008Z" creationid="CALDAS" creationdate="20180731T091008Z">
+        <seg>Criar arquivos de backup do DOCX original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112708Z" creationid="Evandro" creationdate="20160312T112708Z">
@@ -13316,6 +13326,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T193137Z" creationid="Sheila" creationdate="20170625T193137Z">
         <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T090953Z" creationid="CALDAS" creationdate="20180731T090953Z">
+        <seg>Arquivo DOCX atual</seg>
       </tuv>
     </tu>
     <tu>
@@ -23873,10 +23891,90 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T091025Z" creationid="CALDAS" creationdate="20180731T091025Z">
+        <seg>Nível 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T091035Z" creationid="CALDAS" creationdate="20180731T091035Z">
+        <seg>Nível 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003731Z" creationid="karol" creationdate="20160309T003731Z">
         <seg>Os arquivos de tmx nível 2 serão importados e seu conteúdo textual pode ser visto no OmegaT, mas a qualidade das correspondências parciais será inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T091156Z" creationid="CALDAS" creationdate="20180731T091042Z">
+        <seg>Nível 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T091144Z" creationid="CALDAS" creationdate="20180731T091051Z">
+        <seg>Nível 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T091141Z" creationid="CALDAS" creationdate="20180731T091100Z">
+        <seg>Nível 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T091138Z" creationid="CALDAS" creationdate="20180731T091102Z">
+        <seg>Nível 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T091133Z" creationid="CALDAS" creationdate="20180731T091104Z">
+        <seg>Nível 6:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T091131Z" creationid="CALDAS" creationdate="20180731T091106Z">
+        <seg>Nível 7:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T091126Z" creationid="CALDAS" creationdate="20180731T091108Z">
+        <seg>Nível 8:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T091120Z" creationid="CALDAS" creationdate="20180731T091120Z">
+        <seg>Nível 9:</seg>
       </tuv>
     </tu>
     <tu>
