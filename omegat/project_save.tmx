@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27328,7 +27328,7 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <note>Segment added on version 3.6
-Parei na 8</note>
+Parei na 15</note>
       <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
