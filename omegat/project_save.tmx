@@ -37715,6 +37715,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The files appear in the /script subfolder in the OmegaT user files folder (for the location of the OmegaT user files folder on your operating system, see the User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files):</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T081559Z" creationid="CALDAS" creationdate="20180731T081559Z">
+        <seg>Os arquivos aparecem na subpasta /script, dentro da pasta de arquivos de usuário do OmegaT ─ consulte o Manual do Usuário (abra o OmegaT e clique em F1) &gt; Arquivos e diretórios &gt; Arquivos do Usuário)para saber o local da pasta de arquivos de usuário do OmegaT em seu sistema operacional:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172846Z" creationid="karol" creationdate="20160308T172846Z">
@@ -39698,6 +39706,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002101Z" creationid="karol" creationdate="20160309T002101Z">
         <seg>Clique então no botão &lt;e0&gt;Buscar&lt;/e0&gt; para exibir todas as ocorrências correspondentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then tick the "Export the segment to text files" box.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T044401Z" creationid="CALDAS" creationdate="20180731T044401Z">
+        <seg>Em seguida, marque a caixa "Exportar o segmento para arquivos de texto".</seg>
       </tuv>
     </tu>
     <tu>
