@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30586,7 +30586,7 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <note>&lt;query&gt;
-Conforme TM do Mozilla, mas vi traduzido como "Propósito" e "Objetivo" também (Karol).
+Conforme TM da Mozilla, mas vi traduzido como "Propósito" e "Objetivo" também (pela Karol).
 </note>
       <tuv lang="EN">
         <seg>Purpose</seg>
@@ -40123,6 +40123,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002122Z" creationid="karol" creationdate="20160309T002122Z">
         <seg>Eles têm o significado familiar aos usuários do Word:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They need no knowledge of Java; most if not all programming languages could be used instead, and useful functions achieved even with only relatively limited programming skill.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T041029Z" creationid="CALDAS" creationdate="20180731T041029Z">
+        <seg>Eles não precisam de conhecimento de programação em Java ─ a maioria, se não todas as linguagens de programação, poderiam ser usadas em vez disso, e funções úteis conseguiam mesmo com apenas uma habilidade de programação relativamente limitada.</seg>
       </tuv>
     </tu>
     <tu>
