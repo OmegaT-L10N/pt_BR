@@ -22127,6 +22127,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180801T224636Z" creationid="Sheila" creationdate="20180801T224636Z">
+        <seg>Permissões insuficientes para o diretório de projeto {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integral spelling checker</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025702Z" creationid="mroch" creationdate="20170915T025702Z">
