@@ -700,6 +700,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180801T121216Z" creationid="Sheila" creationdate="20180801T121216Z">
+        <seg>&amp;Verificar se há atualizações...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20180516T180756Z" creationid="Sheila" creationdate="20180516T180756Z">
@@ -12542,6 +12550,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170519T004219Z" creationid="karol" creationdate="20160308T171212Z">
         <seg>Corso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180801T224547Z" creationid="Sheila" creationdate="20180801T224547Z">
+        <seg>Não foi possível criar o diretório do projeto.em {0}</seg>
       </tuv>
     </tu>
     <tu>
