@@ -12861,7 +12861,6 @@ unpacking, reading or copying.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>&lt;status:needs-revision&gt;</note>
       <tuv lang="EN">
         <seg>Creating output file '{0}'</seg>
       </tuv>
@@ -25790,8 +25789,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Moving cleaned '{0}' to '{1}'</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T090641Z" creationid="CALDAS" creationdate="20180731T090641Z">
-        <seg>Movendo arquivo limpo '{0}' para '{1}'</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180803T025955Z" creationid="CALDAS" creationdate="20180731T090641Z">
+        <seg>Movendo arquivo limpo de '{0}' para '{1}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -25799,8 +25798,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Moving original '{0}' to '{1}'</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180731T090513Z" creationid="CALDAS" creationdate="20180731T090513Z">
-        <seg>Movendo original '{0}' para '{1}'</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20180803T025937Z" creationid="CALDAS" creationdate="20180731T090513Z">
+        <seg>Movendo original de '{0}' para '{1}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -28747,7 +28746,6 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>&lt;status:needs-revision&gt;</note>
       <tuv lang="EN">
         <seg>Opening input file '{0}'</seg>
       </tuv>
