@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -999,6 +999,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170815T191042Z" creationid="Evandro" creationdate="20160310T122133Z">
         <seg>&amp;Acessar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133302Z" creationid="Sheila" creationdate="20180816T133302Z">
+        <seg>&amp;Acessar downloads</seg>
       </tuv>
     </tu>
     <tu>
@@ -4248,6 +4256,14 @@ A configuração atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133323Z" creationid="Sheila" creationdate="20180816T133306Z">
+        <seg>&lt;html&gt;Versão atual: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T183929Z" creationid="Evandro" creationdate="20160311T183929Z">
@@ -4276,6 +4292,14 @@ A configuração atual é {0}MB;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T001841Z" creationid="Sheila" creationdate="20171119T001841Z">
         <seg>&lt;html&gt;Termo: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossários:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133342Z" creationid="Sheila" creationdate="20180816T133342Z">
+        <seg>&lt;html&gt;Canal de atualização: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9773,6 +9797,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133400Z" creationid="Sheila" creationdate="20180816T133400Z">
+        <seg>Verificar se há atualizações automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T095412Z" creationid="karol" creationdate="20160308T173040Z">
@@ -10696,8 +10728,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T191100Z" creationid="Evandro" creationdate="20160311T182303Z">
-        <seg>Não é possível acessar pasta de glossários!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133004Z" creationid="Evandro" creationdate="20160311T182303Z">
+        <seg>Não é possível acessar a pasta de glossários!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10969,6 +11001,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133248Z" creationid="Sheila" creationdate="20180816T133242Z">
+        <seg>Verificar &amp;automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110656Z" creationid="Evandro" creationdate="20160312T110656Z">
@@ -11013,6 +11053,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010543Z" creationid="karol" creationdate="20160309T010543Z">
         <seg>Verificar regras LanguageTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133407Z" creationid="Sheila" creationdate="20180816T133407Z">
+        <seg>Verificar agora</seg>
       </tuv>
     </tu>
     <tu>
@@ -19115,6 +19163,22 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133050Z" creationid="Sheila" creationdate="20180816T133050Z">
+        <seg>IBM Watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133128Z" creationid="Sheila" creationdate="20180816T133128Z">
+        <seg>O IBM Watson não está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182218Z" creationid="karol" creationdate="20160308T182218Z">
@@ -25381,6 +25445,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133115Z" creationid="Sheila" creationdate="20180816T133115Z">
+        <seg>Id de modelo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification Info</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170627T230645Z" creationid="karol" creationdate="20160308T212625Z">
@@ -27552,6 +27624,14 @@ Parei na 15</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133046Z" creationid="Sheila" creationdate="20180816T133046Z">
+        <seg>O OmegaT não tem permissões de leitura e gravação para esta pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171119T003510Z" creationid="Sheila" creationdate="20171119T003510Z">
@@ -28188,6 +28268,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="grego" changedate="20171117T170522Z" creationid="grego" creationdate="20171109T002845Z">
         <seg>O OmegaT roda em qualquer sistema Linux em que seja possível instalar uma versão adequada do Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133212Z" creationid="Sheila" creationdate="20180816T133157Z">
+        <seg>O OmegaT {0} agora está disponível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30278,8 +30366,8 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="EN">
         <seg>Problem encountered loading project file!</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T182254Z" creationid="Evandro" creationdate="20160311T182254Z">
-        <seg>Problema encontrado ao carregar arquivo do projeto!</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T132959Z" creationid="Evandro" creationdate="20160311T182254Z">
+        <seg>Problema encontrado ao carregar o arquivo do projeto!</seg>
       </tuv>
     </tu>
     <tu>
@@ -43521,6 +43609,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133310Z" creationid="Sheila" creationdate="20180816T133303Z">
+        <seg>Atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182033Z" creationid="karol" creationdate="20160308T182033Z">
@@ -44073,6 +44169,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110625Z" creationid="Evandro" creationdate="20160312T110625Z">
         <seg>Usuário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133105Z" creationid="Sheila" creationdate="20180816T133105Z">
+        <seg>Nome de usuário:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45914,6 +46018,14 @@ Tanto a busca exata como a por palavra-chave podem usar os caracteres curinga * 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133139Z" creationid="Sheila" creationdate="20180816T133139Z">
+        <seg>Você já tem a versão mais recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are also free to copy it and pass it on to other people.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170918T160825Z" creationid="mroch" creationdate="20170918T160737Z">
@@ -46440,6 +46552,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172643Z" creationid="karol" creationdate="20160308T172643Z">
         <seg>Primeiro crie uma pasta cliente vazia no seu disco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180816T133230Z" creationid="Sheila" creationdate="20180816T133201Z">
+        <seg>Atualmente você tem {1}.</seg>
       </tuv>
     </tu>
     <tu>
