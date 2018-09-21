@@ -895,8 +895,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20180921T140045Z" creationid="User" creationdate="20180921T140045Z">
-        <seg>&amp;Ignore termos com "caixas" diferentes (Ex: FOO ou foo)</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180921T143443Z" creationid="User" creationdate="20180921T140045Z">
+        <seg>&amp;Ignorar termos com letras maiúsculas e minúsculas muito diferentes (Ex: FOO ou foo)</seg>
       </tuv>
     </tu>
     <tu>
