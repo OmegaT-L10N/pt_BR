@@ -6,6 +6,18 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180921T123419Z" creationid="User" creationdate="20180921T123419Z">
+        <seg>--remote-project
+		Baixa um arquivo omegat.project da URL dada como &lt;project
+		path&gt; e carrega o projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
