@@ -11525,8 +11525,8 @@ the conditions stated below.</seg>
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20180921T135504Z" creationid="Evandro" creationdate="20160310T120534Z">
-        <seg>Cop&amp;iar arquivos para a pasta de origem...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T161139Z" creationid="Evandro" creationdate="20160310T120534Z">
+        <seg>Cop&amp;iar arquivos para a pasta fonte...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11576,8 +11576,8 @@ the conditions stated below.</seg>
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20180921T135524Z" creationid="karol" creationdate="20160308T201846Z">
-        <seg>Copiar arquivos para a pasta de origem...</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T192514Z" creationid="karol" creationdate="20160308T201846Z">
+        <seg>Copiar arquivos para a pasta fonte...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25159,7 +25159,7 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20180921T122446Z" creationid="User" creationdate="20180921T122446Z">
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180921T130654Z" creationid="Sheila" creationdate="20180921T130654Z">
         <seg>OmegaT</seg>
       </tuv>
     </tu>
@@ -39966,10 +39966,11 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20180921T122758Z" creationid="User" creationdate="20180921T122551Z">
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T134858Z" creationid="Evandro" creationdate="20160309T211616Z">
         <seg>Uso: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
     </tu>
@@ -49634,26 +49635,30 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>{0} {1}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20180921T122548Z" creationid="User" creationdate="20180921T122548Z">
+      <tuv lang="PT-BR" changeid="Evandro" changedate="20160309T211540Z" creationid="Evandro" creationdate="20160309T211540Z">
         <seg>{0} {1}</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>{0} {1}_{2}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20180921T122549Z" creationid="User" creationdate="20180921T122549Z">
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T224815Z" creationid="Evandro" creationdate="20160309T211544Z">
         <seg>{0} {1}_{2}</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Segment added on version 3.6
+</note>
       <tuv lang="EN">
         <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20180921T122548Z" creationid="User" creationdate="20180921T122548Z">
+      <tuv lang="PT-BR" changeid="Evandro" changedate="20160309T211536Z" creationid="Evandro" creationdate="20160309T211536Z">
         <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
     </tu>
