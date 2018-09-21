@@ -6,6 +6,16 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180921T130505Z" creationid="User" creationdate="20180921T130505Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Especifica um modo diferente do padrão (GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
