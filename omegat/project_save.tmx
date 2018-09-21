@@ -892,6 +892,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180921T140045Z" creationid="User" creationdate="20180921T140045Z">
+        <seg>&amp;Ignore termos com "caixas" diferentes (Ex: FOO ou foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
@@ -11517,8 +11525,8 @@ the conditions stated below.</seg>
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T161139Z" creationid="Evandro" creationdate="20160310T120534Z">
-        <seg>Cop&amp;iar arquivos para a pasta fonte...</seg>
+      <tuv lang="PT-BR" changeid="User" changedate="20180921T135504Z" creationid="Evandro" creationdate="20160310T120534Z">
+        <seg>Cop&amp;iar arquivos para a pasta de origem...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11568,8 +11576,8 @@ the conditions stated below.</seg>
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T192514Z" creationid="karol" creationdate="20160308T201846Z">
-        <seg>Copiar arquivos para a pasta fonte...</seg>
+      <tuv lang="PT-BR" changeid="User" changedate="20180921T135524Z" creationid="karol" creationdate="20160308T201846Z">
+        <seg>Copiar arquivos para a pasta de origem...</seg>
       </tuv>
     </tu>
     <tu>
