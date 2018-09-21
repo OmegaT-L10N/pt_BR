@@ -6,6 +6,16 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180921T123058Z" creationid="User" creationdate="20180921T123058Z">
+        <seg>-h, --help
+		Mostra informações de uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="User" changedate="20180921T122704Z" creationid="User" creationdate="20180921T122704Z">
@@ -39,8 +49,8 @@
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20180921T122551Z" creationid="User" creationdate="20180921T122551Z">
-        <seg>[parcial]Uso: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      <tuv lang="PT-BR" changeid="User" changedate="20180921T122758Z" creationid="User" creationdate="20180921T122551Z">
+        <seg>Uso: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
     </tu>
     <tu>
