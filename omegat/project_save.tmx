@@ -580,6 +580,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T191919Z" creationid="User" creationdate="20180923T191919Z">
+        <seg>&amp;Buscar por atualizações...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="User" changedate="20180921T135428Z" creationid="User" creationdate="20180921T135236Z">
