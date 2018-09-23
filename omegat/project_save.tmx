@@ -40032,6 +40032,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T193825Z" creationid="User" creationdate="20180923T193825Z">
+        <seg>Use $n para fazer referência ao enésimo grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T163417Z" creationid="Sheila" creationdate="20170905T163417Z">
