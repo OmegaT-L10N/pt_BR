@@ -41325,6 +41325,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T193247Z" creationid="User" creationdate="20180923T193247Z">
+        <seg>Ao usar expressões regulares, a string de substituição dá suporte às referências para grupos definidos na string de busca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When we speak of free software, we are referring to freedom, not
 price.</seg>
       </tuv>
