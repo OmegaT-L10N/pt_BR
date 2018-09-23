@@ -620,6 +620,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T200719Z" creationid="User" creationdate="20180923T200719Z">
+        <seg>&amp;Informação de Suporte da Cópia</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
@@ -11658,6 +11666,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201550Z" creationid="karol" creationdate="20160308T201550Z">
         <seg>Copyright (C) &lt;ano&gt;  &lt;nome do autor&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T195644Z" creationid="User" creationdate="20180923T195644Z">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk e outros</seg>
       </tuv>
     </tu>
     <tu>
@@ -30137,6 +30153,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T195505Z" creationid="User" creationdate="20180923T195505Z">
+        <seg>Scribus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112549Z" creationid="Evandro" creationdate="20160312T112549Z">
@@ -34969,6 +34993,14 @@ instead.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002015Z" creationid="karol" creationdate="20160309T002015Z">
         <seg>A seguinte lista inclui expressões que podem ser úteis na busca em memória de tradução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T195624Z" creationid="User" creationdate="20180923T195624Z">
+        <seg>As opções a seguir não se aplicam se "Compatibilidade com OmegaT 2.6" está assinalado</seg>
       </tuv>
     </tu>
     <tu>
