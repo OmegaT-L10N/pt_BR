@@ -11757,8 +11757,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20180923T192345Z" creationid="User" creationdate="20180923T192345Z">
-        <seg>Impossível criar diretório do projeto em{0}</seg>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T192551Z" creationid="User" creationdate="20180923T192345Z">
+        <seg>Impossível criar diretório do projeto em {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20538,6 +20538,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T192522Z" creationid="User" creationdate="20180923T192522Z">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integral spelling checker</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170915T025702Z" creationid="mroch" creationdate="20170915T025702Z">
@@ -25348,6 +25356,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002138Z" creationid="karol" creationdate="20160309T002138Z">
         <seg>O OmegaT exibirá uma lista de todos os segmentos contendo as palavras especificadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T192603Z" creationid="User" creationdate="20180923T192603Z">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
     </tu>
     <tu>
