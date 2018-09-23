@@ -17148,6 +17148,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T195439Z" creationid="User" creationdate="20180923T195439Z">
+        <seg>Grupo {0} não existe na search expression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Groups.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T210900Z" creationid="Sheila" creationdate="20170903T210900Z">
