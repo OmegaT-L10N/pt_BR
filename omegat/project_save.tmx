@@ -14669,6 +14669,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T194028Z" creationid="User" creationdate="20180923T194028Z">
+        <seg>Erro durante substituição regular de expressão:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
