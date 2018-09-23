@@ -15376,6 +15376,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T192046Z" creationid="User" creationdate="20180923T192046Z">
+        <seg>Falha ao atualizar as propriedades do projeto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Faroese</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171215Z" creationid="karol" creationdate="20160308T171215Z">
