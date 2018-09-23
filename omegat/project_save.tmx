@@ -11755,6 +11755,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20180923T192345Z" creationid="User" creationdate="20180923T192345Z">
+        <seg>Impossível criar diretório do projeto em{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111155Z" creationid="Evandro" creationdate="20160312T111155Z">
