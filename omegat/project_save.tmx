@@ -623,8 +623,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Copy Support Info</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20180923T200719Z" creationid="User" creationdate="20180923T200719Z">
-        <seg>&amp;Informação de Suporte da Cópia</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20180929T144918Z" creationid="User" creationdate="20180923T200719Z">
+        <seg>&amp;Copiar informações de compatibilidade</seg>
       </tuv>
     </tu>
     <tu>
