@@ -25188,6 +25188,14 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T141244Z" creationid="User" creationdate="20181004T141244Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ONline DIctionary LOokup TOol.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T092748Z" creationid="CALDAS" creationdate="20170914T092538Z">
@@ -31325,6 +31333,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T141348Z" creationid="User" creationdate="20181004T141348Z">
+        <seg>O servidor não entende o método de "tradução"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T130950Z" creationid="Sheila" creationdate="20170909T130950Z">
@@ -33655,10 +33671,26 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T141227Z" creationid="User" creationdate="20181004T141227Z">
+        <seg>Teste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Testing</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170919T160558Z" creationid="mroch" creationdate="20170919T160558Z">
         <seg>Testes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T141237Z" creationid="User" creationdate="20181004T141237Z">
+        <seg>Testando</seg>
       </tuv>
     </tu>
     <tu>
