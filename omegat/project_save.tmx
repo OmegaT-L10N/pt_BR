@@ -13468,6 +13468,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T141949Z" creationid="User" creationdate="20181004T141949Z">
+        <seg>Distância</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distribution and modifications</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T095316Z" creationid="karol" creationdate="20160308T171553Z">
@@ -16955,6 +16963,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T165549Z" creationid="Evandro" creationdate="20160311T183444Z">
         <seg>Pasta de glossários:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Matches</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T141859Z" creationid="User" creationdate="20181004T141859Z">
+        <seg>Correspondências do Glossário</seg>
       </tuv>
     </tu>
     <tu>
@@ -28984,8 +29000,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20181004T141649Z" creationid="User" creationdate="20181004T141649Z">
-        <seg>Erro de comunicação da rede de repositório remoto</seg>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T141836Z" creationid="User" creationdate="20181004T141649Z">
+        <seg>Erro de comunicação da rede de repositório remoto{0}</seg>
       </tuv>
     </tu>
     <tu>
