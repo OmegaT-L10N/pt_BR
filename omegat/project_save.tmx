@@ -1772,6 +1772,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T140410Z" creationid="User" creationdate="20181004T140410Z">
+        <seg>(Deixe a senha em branco se você está usando uma chave API)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T132648Z" creationid="CALDAS" creationdate="20170913T132648Z">
@@ -17828,6 +17836,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T140313Z" creationid="User" creationdate="20181004T140313Z">
+        <seg>IBM Watson não disponível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182218Z" creationid="karol" creationdate="20160308T182218Z">
@@ -23469,6 +23485,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181425Z" creationid="karol" creationdate="20160308T181425Z">
         <seg>Combinação de sequências de texto EPD (esquerda para direita) e DPE (direita para esquerda) nos segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T140230Z" creationid="User" creationdate="20181004T140230Z">
+        <seg>Model Id:</seg>
       </tuv>
     </tu>
     <tu>
