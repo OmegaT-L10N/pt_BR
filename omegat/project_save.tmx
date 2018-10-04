@@ -26539,6 +26539,14 @@ http://omegat.org/reviews</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T141418Z" creationid="User" creationdate="20181004T141418Z">
+        <seg>Abrindo projeto de equipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening the user manual in this way also enables you to follow external links, as the built-in help browser does not accept external Internet links.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005259Z" creationid="karol" creationdate="20160309T005259Z">
@@ -28970,6 +28978,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170211Z" creationid="Sheila" creationdate="20170905T170211Z">
         <seg>Repositórios remotos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T141649Z" creationid="User" creationdate="20181004T141649Z">
+        <seg>Erro de comunicação da rede de repositório remoto</seg>
       </tuv>
     </tu>
     <tu>
