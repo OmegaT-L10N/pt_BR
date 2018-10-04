@@ -12709,6 +12709,22 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T140019Z" creationid="User" creationdate="20181004T140019Z">
+        <seg>DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T140123Z" creationid="User" creationdate="20181004T140123Z">
+        <seg>Chave de DeepL não disponível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105631Z" creationid="Evandro" creationdate="20160312T105631Z">
@@ -17800,6 +17816,14 @@ later version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170918T155945Z" creationid="mroch" creationdate="20170918T155945Z">
         <seg>Eu uso o OmegaT como tradutor profissional há mais de 10 anos, e tiro proveito da sua usabilidade e de seu fórum extremamente útil desde quando foi lançado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T140022Z" creationid="User" creationdate="20181004T140022Z">
+        <seg>IBM Watson</seg>
       </tuv>
     </tu>
     <tu>
@@ -22957,6 +22981,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T135946Z" creationid="User" creationdate="20181004T135946Z">
+        <seg>Marcar correspondências do Glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Needs Review</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T160940Z" creationid="Sheila" creationdate="20171023T160940Z">
@@ -23595,6 +23627,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201501Z" creationid="karol" creationdate="20160308T201501Z">
         <seg>Além disso, a sua licença de um determinado portador de direitos autorais é restabelecida permanentemente se o portador de direitos autorais o notificar da violação por algum meio razoável, se esta for a primeira vez que recebeu o aviso da violação desta Licença (para qualquer trabalho) daquele portador de direitos autorais, e você cessar a violação antes de 30 dias depois de receber o aviso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T140017Z" creationid="User" creationdate="20181004T140017Z">
+        <seg>Moses</seg>
       </tuv>
     </tu>
     <tu>
@@ -40512,6 +40552,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110625Z" creationid="Evandro" creationdate="20160312T110625Z">
         <seg>Usuário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181004T140216Z" creationid="User" creationdate="20181004T140216Z">
+        <seg>Nome de usuário ou chave de API</seg>
       </tuv>
     </tu>
     <tu>
