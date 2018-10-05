@@ -967,6 +967,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023415Z" creationid="User" creationdate="20181005T023415Z">
+        <seg>&amp;Pular para segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
@@ -1255,6 +1263,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023437Z" creationid="User" creationdate="20181005T023437Z">
+        <seg>&amp;Atualizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184724Z" creationid="Evandro" creationdate="20160311T184724Z">
@@ -1457,6 +1473,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103550Z" creationid="Evandro" creationdate="20160312T103550Z">
         <seg>Nomes de pl&amp;anilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023426Z" creationid="User" creationdate="20181005T023426Z">
+        <seg>&amp;Mostrar todos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1963,6 +1987,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185857Z" creationid="Evandro" creationdate="20160311T185857Z">
         <seg>+{0} more</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024130Z" creationid="User" creationdate="20181005T024130Z">
+        <seg>,</seg>
       </tuv>
     </tu>
     <tu>
@@ -7702,6 +7734,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024202Z" creationid="User" creationdate="20181005T024202Z">
+        <seg>Adicionar ao dicionário: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113557Z" creationid="Evandro" creationdate="20160312T113557Z">
@@ -8108,6 +8148,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023828Z" creationid="User" creationdate="20181005T023828Z">
+        <seg>Todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182406Z" creationid="karol" creationdate="20160308T182406Z">
@@ -8478,6 +8526,14 @@ organization, or merging organizations.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171017T111731Z" creationid="Sheila" creationdate="20171017T111731Z">
         <seg>Ocorreu um erro ao carregar o os arquivos de origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T021925Z" creationid="User" creationdate="20181005T021925Z">
+        <seg>Ocorreu um erro ao salvar o TMX</seg>
       </tuv>
     </tu>
     <tu>
@@ -8890,6 +8946,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181212Z" creationid="karol" creationdate="20160308T181212Z">
         <seg>Arquivos do programa: eles estão incluídos no pacote que você baixou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024349Z" creationid="User" creationdate="20181005T024349Z">
+        <seg>Aplicar &amp;Corrigir</seg>
       </tuv>
     </tu>
     <tu>
@@ -10343,6 +10407,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023344Z" creationid="User" creationdate="20181005T023344Z">
+        <seg>Caractere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character Table</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221808Z" creationid="Sheila" creationdate="20170913T221808Z">
@@ -10731,6 +10803,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010543Z" creationid="karol" creationdate="20160309T010543Z">
         <seg>Verificar o projeto inteiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023854Z" creationid="User" creationdate="20181005T023854Z">
+        <seg>Verificar {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11444,6 +11524,22 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161623Z" creationid="Sheila" creationdate="20171023T161623Z">
         <seg>Continuar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023135Z" creationid="User" creationdate="20181005T023135Z">
+        <seg>Continuar mesmo assim?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T022149Z" creationid="User" creationdate="20181005T022149Z">
+        <seg>Continuar?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13189,6 +13285,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024550Z" creationid="User" creationdate="20181005T024550Z">
+        <seg>Desabilitar regra “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Disclaimer of Warranty.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201535Z" creationid="karol" creationdate="20160308T201535Z">
@@ -13589,14 +13693,6 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Do you want to overwrite it?</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20181004T142100Z" creationid="User" creationdate="20181004T142100Z">
-        <seg>Do you want to overwrite it?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114349Z" creationid="Evandro" creationdate="20160312T114349Z">
@@ -13705,6 +13801,22 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113801Z" creationid="Evandro" creationdate="20160312T113801Z">
         <seg>Domínios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023919Z" creationid="User" creationdate="20181005T023919Z">
+        <seg>Não perguntar o que verificar primeiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T025004Z" creationid="User" creationdate="20181005T025004Z">
+        <seg>Don't ask before checking issues</seg>
       </tuv>
     </tu>
     <tu>
@@ -14253,6 +14365,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T022322Z" creationid="User" creationdate="20181005T022322Z">
+        <seg>Editar padrão de destaque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Menu</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172120Z" creationid="karol" creationdate="20160308T172120Z">
@@ -14274,6 +14394,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T165519Z" creationid="Evandro" creationdate="20160311T183252Z">
         <seg>Editar projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T022229Z" creationid="User" creationdate="20181005T022229Z">
+        <seg>Editar texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -18329,6 +18457,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T025000Z" creationid="User" creationdate="20181005T025000Z">
+        <seg>Se a verificação de problemas estiver lenta, tente desabilitar algumas das verificações opcionais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172812Z" creationid="karol" creationdate="20160308T172812Z">
@@ -19544,6 +19680,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103825Z" creationid="Evandro" creationdate="20160312T103825Z">
         <seg>&amp;Ignorar atributos type e ctype ao criar atalhos para tags &lt;&amp;bpt&gt; e &lt;ept&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024218Z" creationid="User" creationdate="20181005T024218Z">
+        <seg>Ignorar: “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -20851,6 +20995,46 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023444Z" creationid="User" creationdate="20181005T023444Z">
+        <seg>Problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023653Z" creationid="User" creationdate="20181005T023653Z">
+        <seg>Problemas ({0} de {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023509Z" creationid="User" creationdate="20181005T023509Z">
+        <seg>Problemas ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023722Z" creationid="User" creationdate="20181005T023722Z">
+        <seg>Problemas por  {0} ({1} de {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023624Z" creationid="User" creationdate="20181005T023624Z">
+        <seg>Problemas por {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Issues/bugs tracking system</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170912T232649Z" creationid="mroch" creationdate="20170912T232649Z">
@@ -21903,6 +22087,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T223918Z" creationid="Sheila" creationdate="20170905T223918Z">
         <seg>Incompatibilidade de versão da API do LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024507Z" creationid="User" creationdate="20181005T024507Z">
+        <seg>Problemas do LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -24270,6 +24462,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023811Z" creationid="User" creationdate="20181005T023811Z">
+        <seg>Nenhum problema encontrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111038Z" creationid="Evandro" creationdate="20160312T111038Z">
@@ -24463,6 +24663,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001619Z" creationid="karol" creationdate="20160309T001619Z">
         <seg>A formatação não visível (p.ex., que não aparece como tags no editor OmegaT) é mantida nos documentos de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023255Z" creationid="User" creationdate="20181005T023255Z">
+        <seg>Normal</seg>
       </tuv>
     </tu>
     <tu>
@@ -30189,6 +30397,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T022912Z" creationid="User" creationdate="20181005T022912Z">
+        <seg>Salvar alterações nas configurações de filtro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T022720Z" creationid="User" creationdate="20181005T022720Z">
+        <seg>Salvar alterações nas regras de segmentação?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172102Z" creationid="karol" creationdate="20160308T172102Z">
@@ -31938,6 +32162,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023104Z" creationid="User" creationdate="20181005T023104Z">
+        <seg>Alguns alinhamentos ainda precisam de revisão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
 can do so.</seg>
@@ -32477,6 +32709,22 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024127Z" creationid="User" creationdate="20181005T024127Z">
+        <seg>Ortografia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024115Z" creationid="User" creationdate="20181005T024115Z">
+        <seg>Problemas de ortografia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spelling dictionaries</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T104930Z" creationid="CALDAS" creationdate="20170914T104743Z">
@@ -32497,6 +32745,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161531Z" creationid="Sheila" creationdate="20171023T154001Z">
         <seg>Separar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T022421Z" creationid="User" creationdate="20181005T022421Z">
+        <seg>Separar texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -33215,6 +33471,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024247Z" creationid="User" creationdate="20181005T024247Z">
+        <seg>Problemas de tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Processing</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T222716Z" creationid="Sheila" creationdate="20170905T222716Z">
@@ -33715,6 +33979,14 @@ this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101710Z" creationid="Sheila" creationdate="20170918T101710Z">
         <seg>Terminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024607Z" creationid="User" creationdate="20181005T024607Z">
+        <seg>Problemas de terminologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -38261,6 +38533,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T224951Z" creationid="karol" creationdate="20160308T182136Z">
         <seg>Isso criará uma pasta omegat/ na pasta de trabalho onde você encontrará todos os arquivos necessários para executar o &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T022138Z" creationid="User" creationdate="20181005T022138Z">
+        <seg>Isso vai eliminar todas as alterações que você fez até agora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49876,6 +50156,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T023834Z" creationid="User" creationdate="20181005T023834Z">
+        <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} +{1} more</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185858Z" creationid="Evandro" creationdate="20160311T185858Z">
@@ -49915,6 +50203,14 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024305Z" creationid="User" creationdate="20181005T024305Z">
+        <seg>{0} x{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>{0} {1}</seg>
@@ -49940,6 +50236,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160309T211536Z" creationid="Evandro" creationdate="20160309T211536Z">
         <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024647Z" creationid="User" creationdate="20181005T024647Z">
+        <seg>{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49976,6 +50280,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024653Z" creationid="User" creationdate="20181005T024653Z">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>}</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T190737Z" creationid="Sheila" creationdate="20170625T190737Z">
@@ -49988,6 +50300,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170915T024701Z" creationid="mroch" creationdate="20170915T024701Z">
         <seg>×</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024640Z" creationid="User" creationdate="20181005T024640Z">
+        <seg>“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="User" changedate="20181005T024642Z" creationid="User" creationdate="20181005T024642Z">
+        <seg>“{0}” ({1})</seg>
       </tuv>
     </tu>
     <tu>
