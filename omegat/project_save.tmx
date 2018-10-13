@@ -512,6 +512,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133132Z" creationid="CarolVignolis" creationdate="20181013T133132Z">
+        <seg>Buscar traduções &amp;automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&amp;Back</seg>
@@ -543,6 +551,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184022Z" creationid="Evandro" creationdate="20160311T183957Z">
         <seg>&amp;Procurar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T132822Z" creationid="CarolVignolis" creationdate="20181013T132822Z">
+        <seg>&amp;Procurar online</seg>
       </tuv>
     </tu>
     <tu>
@@ -1336,6 +1352,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T104034Z" creationid="Sheila" creationdate="20170912T104034Z">
         <seg>&amp;Substituir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133515Z" creationid="CarolVignolis" creationdate="20181013T133515Z">
+        <seg>&amp;Restaurar Senha Mestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -8221,6 +8245,14 @@ restrictions" within the meaning of section 10.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133811Z" creationid="CarolVignolis" creationdate="20181013T133811Z">
+        <seg>Todas as preferências protegidas pela senha mestra serão redefinidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All rights granted under this License are granted for the term of
 copyright on the Program, and are irrevocable provided the stated
 conditions are met.</seg>
@@ -8950,6 +8982,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133216Z" creationid="CarolVignolis" creationdate="20181013T133216Z">
+        <seg>Aparência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181301Z" creationid="karol" creationdate="20160308T181301Z">
@@ -9019,6 +9059,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114321Z" creationid="Evandro" creationdate="20160312T114321Z">
         <seg>Tem certeza que deseja restaurar todas as cores?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133642Z" creationid="CarolVignolis" creationdate="20181013T133642Z">
+        <seg>Você tem certeza que quer restaurar a senha mestra?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9770,6 +9818,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171209Z" creationid="karol" creationdate="20160308T171209Z">
         <seg>Bósnio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133925Z" creationid="CarolVignolis" creationdate="20181013T133925Z">
+        <seg>Ambos</seg>
       </tuv>
     </tu>
     <tu>
@@ -11356,6 +11412,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105344Z" creationid="Evandro" creationdate="20160312T105344Z">
         <seg>Compactar espaço em branco no documento traduzido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;figure</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133032Z" creationid="CarolVignolis" creationdate="20181013T133032Z">
+        <seg>Con&amp;figurar</seg>
       </tuv>
     </tu>
     <tu>
@@ -16964,6 +17028,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133202Z" creationid="CarolVignolis" creationdate="20181013T133202Z">
+        <seg>Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generalities</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001332Z" creationid="karol" creationdate="20160309T001332Z">
@@ -21528,6 +21600,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T134121Z" creationid="CarolVignolis" creationdate="20181013T134121Z">
+        <seg>O item não tem URLs nem comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T134104Z" creationid="CarolVignolis" creationdate="20181013T134104Z">
+        <seg>O nome do item está vazio ou faltando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114249Z" creationid="Evandro" creationdate="20160312T114249Z">
@@ -23373,6 +23461,14 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133434Z" creationid="CarolVignolis" creationdate="20181013T133434Z">
+        <seg>Senha mestra</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Match Statistics</seg>
@@ -24295,6 +24391,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T134138Z" creationid="CarolVignolis" creationdate="20181013T134138Z">
+        <seg>Nome {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nauru</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001010Z" creationid="Evandro" creationdate="20160310T001010Z">
@@ -24711,6 +24815,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001619Z" creationid="karol" creationdate="20160309T001619Z">
         <seg>A formatação não visível (p.ex., que não aparece como tags no editor OmegaT) é mantida nos documentos de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133912Z" creationid="CarolVignolis" creationdate="20181013T133912Z">
+        <seg>Nenhum</seg>
       </tuv>
     </tu>
     <tu>
@@ -25780,6 +25892,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="User" changedate="20180923T192603Z" creationid="User" creationdate="20180923T192603Z">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133430Z" creationid="CarolVignolis" creationdate="20181013T133430Z">
+        <seg>O OmegaT criptografa senhas e chaves de API com uma senha mestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -28429,6 +28549,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T134006Z" creationid="CarolVignolis" creationdate="20181013T134006Z">
+        <seg>Comandos de proojeto desabilitados por questão de segurança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project compiling end</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111033Z" creationid="Evandro" creationdate="20160312T111033Z">
@@ -29888,6 +30016,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T103304Z" creationid="Evandro" creationdate="20160312T114319Z">
         <seg>Restaurar &amp;todas as cores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133612Z" creationid="CarolVignolis" creationdate="20181013T133612Z">
+        <seg>Restaurar Senha Mestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -31906,6 +32042,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113552Z" creationid="Evandro" creationdate="20160312T113552Z">
         <seg>Atalhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133829Z" creationid="CarolVignolis" creationdate="20181013T133829Z">
+        <seg>Atalho:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35207,8 +35351,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The current project must be reloaded in order to apply these changes</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20181005T141609Z" creationid="User" creationdate="20181005T141609Z">
-        <seg>The current project must be reloaded in order to apply these changes</seg>
+      <tuv lang="PT-BR" changeid="Caroline Aguiar" changedate="20181013T132618Z" creationid="User" creationdate="20181005T141609Z">
+        <seg>O projeto atual deve ser recarregado para que as alterações sejam aplicadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37447,6 +37591,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003231Z" creationid="karol" creationdate="20160309T003231Z">
         <seg>Há essencialmente duas formas de fazer isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are many plugins available for OmegaT online.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133006Z" creationid="CarolVignolis" creationdate="20181013T133006Z">
+        <seg>Tem muitos plugins para OmegaT disponíveis on-line</seg>
       </tuv>
     </tu>
     <tu>
@@ -40135,6 +40287,30 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T134233Z" creationid="CarolVignolis" creationdate="20181013T134233Z">
+        <seg>URL não tem "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T134402Z" creationid="CarolVignolis" creationdate="20181013T134402Z">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T134314Z" creationid="CarolVignolis" creationdate="20181013T134314Z">
+        <seg>Destino da URL está faltando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL of online dictionaries:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111138Z" creationid="Evandro" creationdate="20160312T111138Z">
@@ -40555,6 +40731,14 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114019Z" creationid="Evandro" creationdate="20160312T114019Z">
         <seg>Segmentos não traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments &amp;only</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133151Z" creationid="CarolVignolis" creationdate="20181013T133151Z">
+        <seg>Apenas segmentos não trad&amp;uzidos</seg>
       </tuv>
     </tu>
     <tu>
