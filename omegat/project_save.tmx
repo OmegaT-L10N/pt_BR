@@ -26297,6 +26297,16 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T173051Z" creationid="CarolVignolis" creationdate="20181014T173051Z">
+        <seg>O OmegaT é uma ferramenta de tradução assistida por computador gratuita e de código aberto com correspondência parcial, memória de tradução, busca de palavras-chaves, glossários e reutilização de tradução em atualização de projetos traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T104234Z" creationid="Evandro" creationdate="20160312T104234Z">
