@@ -18796,6 +18796,14 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T202343Z" creationid="CarolVignolis" creationdate="20181014T202343Z">
+        <seg>Se um JRE apropriado já estiver instalado no seu sistema Windows, selecione "Sem JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a user interface in this language is available, &lt;a3&gt;OmegaT&lt;/a3&gt; uses it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182302Z" creationid="karol" creationdate="20160308T182302Z">
@@ -19097,6 +19105,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T215059Z" creationid="karol" creationdate="20160308T215059Z">
         <seg>Se não for especificado, o OmegaT reverte para os valores predeterminados (a pasta OmegaT na pasta local do usuário, ou se não estiver disponível: no diretório de trabalho atual).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T202443Z" creationid="CarolVignolis" creationdate="20181014T202443Z">
+        <seg>Se não, ou se você não tem certeza, selecione "com JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -32702,6 +32718,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T203241Z" creationid="karol" creationdate="20160308T203241Z">
         <seg>Selecione este item do menu, se a tradução atual não se aplicar e insira a tradução alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T202230Z" creationid="CarolVignolis" creationdate="20181014T202230Z">
+        <seg>Selecionar baixar o OmegaT com ou sem o Java Runtime Environment (JRE) incluída.</seg>
       </tuv>
     </tu>
     <tu>
