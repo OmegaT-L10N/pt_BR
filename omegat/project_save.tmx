@@ -40126,6 +40126,15 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script you must first install
+Kaptain.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T183837Z" creationid="CarolVignolis" creationdate="20181014T183837Z">
+        <seg>Para usar esse script você deve primeiro instalar o Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T161106Z" creationid="Sheila" creationdate="20171023T161037Z">
@@ -44014,6 +44023,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T212950Z" creationid="karol" creationdate="20160308T212950Z">
         <seg>Então você pode clicar na tradução preferencial para inseri-la no segmento fonte na posição atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T184217Z" creationid="CarolVignolis" creationdate="20181014T184217Z">
+        <seg>Você pode então executar o o script de inicialização do Kaptain com:</seg>
       </tuv>
     </tu>
     <tu>
