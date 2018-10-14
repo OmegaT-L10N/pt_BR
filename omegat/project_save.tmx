@@ -16476,8 +16476,8 @@ this License.</seg>
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain
 script provided (omegat.kaptn).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T183808Z" creationid="CarolVignolis" creationdate="20181014T183808Z">
-        <seg>Para uma maneira mais acessível de executar o OmegaT, você pode usar o Kaptain script fornecido (omegat.kaptn).</seg>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T184237Z" creationid="CarolVignolis" creationdate="20181014T183808Z">
+        <seg>Para uma maneira mais acessível de iniciar o OmegaT, você pode usar o Kaptain script fornecido (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35768,6 +35768,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command to launch OmegaT is:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T184325Z" creationid="CarolVignolis" creationdate="20181014T184325Z">
+        <seg>O comando para iniciar o OmegaT é:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The computer, running OmegaT, has Russian as the default language, and thus shows the characters in the Cyrillic alphabet and not in Kanji.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T215152Z" creationid="karol" creationdate="20160308T215152Z">
@@ -48837,6 +48845,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003309Z" creationid="karol" creationdate="20160309T003309Z">
         <seg>pasta OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.kaptn</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T184309Z" creationid="CarolVignolis" creationdate="20181014T184309Z">
+        <seg>omegat.kaptn</seg>
       </tuv>
     </tu>
     <tu>
