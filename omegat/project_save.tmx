@@ -37373,6 +37373,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T190917Z" creationid="CarolVignolis" creationdate="20181014T190917Z">
+        <seg>O script será encerrado agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002142Z" creationid="karol" creationdate="20160309T002142Z">
@@ -39404,6 +39412,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201405Z" creationid="karol" creationdate="20160308T201405Z">
         <seg>Este requisito modifica o requisito na seção 4 de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T191237Z" creationid="CarolVignolis" creationdate="20181014T191237Z">
+        <seg>Esse script destina-se a ser executado no OmegaT 3.6 e outros mais recentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43688,6 +43704,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201508Z" creationid="karol" creationdate="20160308T201508Z">
         <seg>Você não é responsável pela conformidade de terceiros a esta Licença.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are running OmegaT version {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T191036Z" creationid="CarolVignolis" creationdate="20181014T191036Z">
+        <seg>Você está executando o OmegaT versão {0}.</seg>
       </tuv>
     </tu>
     <tu>
