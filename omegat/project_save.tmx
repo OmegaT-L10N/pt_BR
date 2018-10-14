@@ -10125,6 +10125,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T195022Z" creationid="CarolVignolis" creationdate="20181014T195022Z">
+        <seg>Por Vladimir Zhdanov (em Russo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Václav Hejda (in Czech).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114027Z" creationid="CALDAS" creationdate="20170912T113600Z">
@@ -22516,6 +22524,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194929Z" creationid="CarolVignolis" creationdate="20181014T194929Z">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kurdish</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171243Z" creationid="karol" creationdate="20160308T171243Z">
@@ -23012,10 +23028,90 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194818Z" creationid="CarolVignolis" creationdate="20181014T194818Z">
+        <seg>Nível 0:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194823Z" creationid="CarolVignolis" creationdate="20181014T194823Z">
+        <seg>Nível 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003731Z" creationid="karol" creationdate="20160309T003731Z">
         <seg>Os arquivos de tmx nível 2 serão importados e seu conteúdo textual pode ser visto no OmegaT, mas a qualidade das correspondências parciais será inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194825Z" creationid="CarolVignolis" creationdate="20181014T194825Z">
+        <seg>Nível 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194827Z" creationid="CarolVignolis" creationdate="20181014T194827Z">
+        <seg>Nível 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194830Z" creationid="CarolVignolis" creationdate="20181014T194830Z">
+        <seg>Nível 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194832Z" creationid="CarolVignolis" creationdate="20181014T194832Z">
+        <seg>Nível 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194835Z" creationid="CarolVignolis" creationdate="20181014T194835Z">
+        <seg>Nível 6:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194837Z" creationid="CarolVignolis" creationdate="20181014T194837Z">
+        <seg>Nível 7:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194840Z" creationid="CarolVignolis" creationdate="20181014T194840Z">
+        <seg>Nível 8:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194845Z" creationid="CarolVignolis" creationdate="20181014T194845Z">
+        <seg>Nível 9:</seg>
       </tuv>
     </tu>
     <tu>
