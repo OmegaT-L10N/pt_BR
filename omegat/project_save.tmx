@@ -19640,6 +19640,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T172015Z" creationid="CarolVignolis" creationdate="20181014T172015Z">
+        <seg>Se você tem um arquivo PDF feito de páginas escaneadas (às vezes tais arquivos são chamados de PDFs "mortos"), você precisa usar um programa OCR (optical character recognition) para reconhecer o texto e convertê-lo a um formato que pode ser tratado pelo OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T094532Z" creationid="Sheila" creationdate="20170901T094532Z">
@@ -20030,8 +20038,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T171405Z" creationid="CarolVignolis" creationdate="20181014T171405Z">
-        <seg>Importe o arquivo fonte para &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, salve como um arquivo ODG, traduza e exporte para PDF como necessário</seg>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T171531Z" creationid="CarolVignolis" creationdate="20181014T171405Z">
+        <seg>Importe o arquivo fonte para &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, salve como um arquivo ODG, traduza e exporte para PDF como necessário.</seg>
       </tuv>
     </tu>
     <tu>
