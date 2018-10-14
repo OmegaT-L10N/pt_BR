@@ -20020,6 +20020,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T171405Z" creationid="CarolVignolis" creationdate="20181014T171405Z">
+        <seg>Importe o arquivo fonte para &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, salve como um arquivo ODG, traduza e exporte para PDF como necessário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T094046Z" creationid="CALDAS" creationdate="20170914T031403Z">
@@ -22682,6 +22690,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182116Z" creationid="karol" creationdate="20160308T182116Z">
         <seg>Depois que tiver aceitado o contrato de licença, o programa de instalação pergunta se você gostaria de criar uma pasta no menu  &lt;e0&gt;iniciar&lt;/e0&gt; , e se gostaria de criar um atalho na área de trabalho e na barra de inicialização rápida - você pode criar esses atalhos depois, arrastando o &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; para a área de trabalho ou para o menu iniciar, para assim criar um vínculo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T170949Z" creationid="CarolVignolis" creationdate="20181014T170949Z">
+        <seg>Última</seg>
       </tuv>
     </tu>
     <tu>
