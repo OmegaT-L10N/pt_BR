@@ -1841,6 +1841,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>(In Russian)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200357Z" creationid="CarolVignolis" creationdate="20181014T200357Z">
+        <seg>(Em Russo)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
@@ -23202,6 +23210,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103547Z" creationid="Evandro" creationdate="20160312T103547Z">
         <seg>Links (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200659Z" creationid="CarolVignolis" creationdate="20181014T200659Z">
+        <seg>Abaixo são fornecidos links para as várias versões do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50937,6 +50953,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003834Z" creationid="karol" creationdate="20160309T003834Z">
         <seg>a tradução igual ao texto fonte (padrão)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation industry</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200328Z" creationid="CarolVignolis" creationdate="20181014T200328Z">
+        <seg>industria da tradução</seg>
       </tuv>
     </tu>
     <tu>
