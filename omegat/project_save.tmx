@@ -26611,6 +26611,14 @@ http://omegat.org/reviews</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T173845Z" creationid="CarolVignolis" creationdate="20181014T173845Z">
+        <seg>O OmegaT usa várias bibliotecas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170019Z" creationid="karol" creationdate="20160308T170019Z">
