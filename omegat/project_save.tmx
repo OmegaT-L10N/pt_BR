@@ -36445,6 +36445,15 @@ modification has been made.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The install program can create shortcuts for you in the start menu, on the
+desktop and in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T182132Z" creationid="CarolVignolis" creationdate="20181014T182132Z">
+        <seg>O programa de instalação pode criar atalhos para você no menu iniciar, na área de trabalho e na barra de início rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182053Z" creationid="karol" creationdate="20160308T182053Z">
