@@ -41104,6 +41104,15 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T175753Z" creationid="CarolVignolis" creationdate="20181014T175753Z">
+        <seg>Descompacte o arquivo .zip do OmegaT para obter uma pasta que contém um arquivo de documentação e a ferramenta OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T224922Z" creationid="karol" creationdate="20160308T182135Z">
