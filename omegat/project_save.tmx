@@ -43696,6 +43696,16 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also manually drag the file
+OmegaT.exe to the start menu, the desktop or the quick launch area to link it
+from there.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T182542Z" creationid="CarolVignolis" creationdate="20181014T182542Z">
+        <seg>Você também arrastar o arquivo OmegaT.exe manualmente para o menu iniciar, para a área de trabalho ou para a barra de início rápido para criar um vínculo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T230104Z" creationid="karol" creationdate="20160308T182209Z">
