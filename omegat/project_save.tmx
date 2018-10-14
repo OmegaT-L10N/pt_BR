@@ -32205,6 +32205,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T170529Z" creationid="CarolVignolis" creationdate="20181014T170529Z">
+        <seg>Configurado &amp; Armazenado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set My Own Password</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T015203Z" creationid="CarolVignolis" creationdate="20181014T015203Z">
