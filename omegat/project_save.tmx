@@ -1833,6 +1833,14 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>(In Italian)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200156Z" creationid="CarolVignolis" creationdate="20181014T200156Z">
+        <seg>(Em Italiano)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
@@ -8832,6 +8840,14 @@ work under this License, and how to view a copy of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200018Z" creationid="CarolVignolis" creationdate="20181014T200018Z">
+        <seg>Um vídeo introdutório ao OmegaT em Inglês por John Moran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114348Z" creationid="Evandro" creationdate="20160312T114348Z">
@@ -9875,6 +9891,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103539Z" creationid="Evandro" creationdate="20160312T103539Z">
         <seg>&amp;Referências de marcadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200122Z" creationid="CarolVignolis" creationdate="20181014T200122Z">
+        <seg>Livros</seg>
       </tuv>
     </tu>
     <tu>
@@ -40669,6 +40693,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200208Z" creationid="CarolVignolis" creationdate="20181014T200208Z">
+        <seg>Treinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Training course</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T101200Z" creationid="CALDAS" creationdate="20170914T101200Z">
@@ -42570,6 +42602,30 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172615Z" creationid="karol" creationdate="20160308T172615Z">
         <seg>Alguns clientes muito populares do ambiente de Windows são &lt;u1&gt;TortoiseSVN&lt;/u1&gt; e &lt;u2&gt;TortoiseGit&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200023Z" creationid="CarolVignolis" creationdate="20181014T200023Z">
+        <seg>Vídeo 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200058Z" creationid="CarolVignolis" creationdate="20181014T200058Z">
+        <seg>Vídeo 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 3</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200113Z" creationid="CarolVignolis" creationdate="20181014T200113Z">
+        <seg>Vídeo 3</seg>
       </tuv>
     </tu>
     <tu>
