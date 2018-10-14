@@ -16473,6 +16473,15 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain
+script provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T183808Z" creationid="CarolVignolis" creationdate="20181014T183808Z">
+        <seg>Para uma maneira mais acessível de executar o OmegaT, você pode usar o Kaptain script fornecido (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a particular
 product received by a particular user, "normally used" refers to a
 typical or common use of that class of product, regardless of the status
@@ -45017,6 +45026,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and then:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T183407Z" creationid="CarolVignolis" creationdate="20181014T183407Z">
+        <seg>e então:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>any liability that these contractual assumptions directly impose on</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201454Z" creationid="karol" creationdate="20160308T201454Z">
@@ -48787,6 +48804,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001011Z" creationid="Evandro" creationdate="20160310T001011Z">
         <seg>om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T183422Z" creationid="CarolVignolis" creationdate="20181014T183422Z">
+        <seg>omegat</seg>
       </tuv>
     </tu>
     <tu>
