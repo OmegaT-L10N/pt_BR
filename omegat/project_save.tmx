@@ -26555,6 +26555,15 @@ http://omegat.org/reviews</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T175033Z" creationid="CarolVignolis" creationdate="20181014T175033Z">
+        <seg>O OmegaT requer o Java Runtime Environment (JRE) versão 1.8 ou maior para ser instalado em seu sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170036Z" creationid="karol" creationdate="20160308T170036Z">
