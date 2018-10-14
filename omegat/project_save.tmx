@@ -19966,6 +19966,15 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If, during installation, you have created a shortcut on the desktop, double-
+click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T181319Z" creationid="CarolVignolis" creationdate="20181014T181319Z">
+        <seg>Se, durante a instalação, você criou um atalho no desktop, dê duplo clique nesse atalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003252Z" creationid="karol" creationdate="20160309T003252Z">
