@@ -21833,6 +21833,15 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T181207Z" creationid="CarolVignolis" creationdate="20181014T181207Z">
+        <seg>Isso vai instalar o ambiente correto para seu computador e para a ferramenta em si na primeira vez que ela for rodada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It's a real eye-opener!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170919T155925Z" creationid="mroch" creationdate="20170919T155925Z">
