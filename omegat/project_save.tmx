@@ -8472,6 +8472,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alt+F2</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T183400Z" creationid="CarolVignolis" creationdate="20181014T183400Z">
+        <seg>Alt+F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternate locations for some of the folders can be chosen at project creation or during the translation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181218Z" creationid="karol" creationdate="20160308T181218Z">
