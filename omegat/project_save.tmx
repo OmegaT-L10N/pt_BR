@@ -3598,6 +3598,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T171520Z" creationid="CarolVignolis" creationdate="20181014T171520Z">
+        <seg>&lt;e0&gt;Nota: &lt;/e0&gt; a informação acima apenas se aplica a arquivos PDF com uma camada de texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171841Z" creationid="karol" creationdate="20160308T171841Z">
