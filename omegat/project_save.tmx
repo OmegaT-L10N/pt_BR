@@ -12434,6 +12434,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194217Z" creationid="CarolVignolis" creationdate="20181014T194217Z">
+        <seg>Criando arquivo de saída '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated RTL documents</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181436Z" creationid="karol" creationdate="20160308T181436Z">
@@ -24678,6 +24686,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194418Z" creationid="CarolVignolis" creationdate="20181014T194418Z">
+        <seg>Movendo o original  '{0}' para '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102839Z" creationid="Evandro" creationdate="20160312T102839Z">
@@ -27475,8 +27491,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Opening input file '{0}'</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194130Z" creationid="CarolVignolis" creationdate="20181014T194130Z">
-        <seg>Abrindo arquivo de entada '{0}'</seg>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194154Z" creationid="CarolVignolis" creationdate="20181014T194130Z">
+        <seg>Abrindo arquivo de entrada '{0}'</seg>
       </tuv>
     </tu>
     <tu>
