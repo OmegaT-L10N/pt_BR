@@ -25123,6 +25123,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T193739Z" creationid="CarolVignolis" creationdate="20181014T193739Z">
+        <seg>Nenhum projeto carregado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112546Z" creationid="Evandro" creationdate="20160312T112546Z">
@@ -29083,6 +29091,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T193806Z" creationid="CarolVignolis" creationdate="20181014T193806Z">
+        <seg>O projeto não contém nenhum arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111035Z" creationid="Evandro" creationdate="20160312T111035Z">
@@ -30121,6 +30137,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T104652Z" creationid="Evandro" creationdate="20160312T104652Z">
         <seg>Retirar padrão?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T193715Z" creationid="CarolVignolis" creationdate="20181014T193715Z">
+        <seg>Remover tags de documentos DOCX</seg>
       </tuv>
     </tu>
     <tu>
