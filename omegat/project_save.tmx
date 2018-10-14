@@ -1817,6 +1817,15 @@ for which you have or can give appropriate copyright permission.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T185604Z" creationid="CarolVignolis" creationdate="20181014T185604Z">
+        <seg>(Se você acredita que contribuiu significativamente para o Projeto OmegaT, mas não vê seu nome nas listas, sinta-se a vontade para nos contactar.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In English)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T083718Z" creationid="CALDAS" creationdate="20170918T083718Z">
@@ -17978,6 +17987,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T182001Z" creationid="Evandro" creationdate="20160311T182001Z">
         <seg>A ajuda que você procura&lt;p&gt;do seu caminho está fugindo&lt;p&gt;O inverno chegou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Henry Pijffers (release manager)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T185316Z" creationid="CarolVignolis" creationdate="20181014T185316Z">
+        <seg>Henry Pijffers (gerente de lançamento)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42378,6 +42395,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T224430Z" creationid="Sheila" creationdate="20170903T224430Z">
         <seg>Vito Smolej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T185341Z" creationid="CarolVignolis" creationdate="20181014T185341Z">
+        <seg>Vito Smolej (gerente de documentação)</seg>
       </tuv>
     </tu>
     <tu>
