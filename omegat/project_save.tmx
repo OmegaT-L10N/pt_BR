@@ -19656,6 +19656,15 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already Java installed on your system, one way to install OmegaT
+is to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T180634Z" creationid="CarolVignolis" creationdate="20181014T180634Z">
+        <seg>Se você já instalou o Java em seu sistema, uma forma de instalar o OmegaT é usar Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003250Z" creationid="karol" creationdate="20160309T003250Z">
