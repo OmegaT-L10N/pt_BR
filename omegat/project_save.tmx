@@ -24439,6 +24439,15 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the folder to an
+appropriate location such as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T175930Z" creationid="CarolVignolis" creationdate="20181014T175814Z">
+        <seg>Mover a pasta para um local apropriado tal como a pasta Ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves one segment back in history</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214356Z" creationid="karol" creationdate="20160308T214356Z">
@@ -28044,6 +28053,14 @@ everything.</seg>
         <seg>Coloque os arquivos de origem em ./source e o material
 suplementar em ./tm, ./glossary e ./dictionary, conforme seja necessário e,
 em seguida, confirme tudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T180110Z" creationid="CarolVignolis" creationdate="20181014T180110Z">
+        <seg>Coloque o arquivo em qualquer pasta apropriada e descompacte-o.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41107,8 +41124,8 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
 documentation file and the OmegaT application.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T175753Z" creationid="CarolVignolis" creationdate="20181014T175753Z">
-        <seg>Descompacte o arquivo .zip do OmegaT para obter uma pasta que contém um arquivo de documentação e a ferramenta OmegaT.</seg>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T175825Z" creationid="CarolVignolis" creationdate="20181014T175753Z">
+        <seg>Descompactar o arquivo .zip do OmegaT para obter uma pasta que contém um arquivo de documentação e a ferramenta OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
