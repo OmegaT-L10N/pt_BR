@@ -14833,8 +14833,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Enable project-specific commands</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T013223Z" creationid="CarolVignolis" creationdate="20181014T013223Z">
-        <seg>Permitir comandos específios do projeto</seg>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T170743Z" creationid="CarolVignolis" creationdate="20181014T013223Z">
+        <seg>Permitir comandos específicos do projeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -25139,6 +25139,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T170609Z" creationid="CarolVignolis" creationdate="20181014T170609Z">
+        <seg>Não configurado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185927Z" creationid="Evandro" creationdate="20160311T185927Z">
@@ -31189,6 +31197,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T170913Z" creationid="CarolVignolis" creationdate="20181014T170913Z">
+        <seg>Configurad&amp;o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002058Z" creationid="karol" creationdate="20160309T002058Z">
@@ -32201,6 +32217,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170909T130950Z" creationid="Sheila" creationdate="20170909T130950Z">
         <seg>Tipo de serviço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T170556Z" creationid="CarolVignolis" creationdate="20181014T170556Z">
+        <seg>Configurado</seg>
       </tuv>
     </tu>
     <tu>
