@@ -26625,6 +26625,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T195926Z" creationid="CarolVignolis" creationdate="20181014T195926Z">
+        <seg>Tutorial de introdução ao OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
