@@ -4136,6 +4136,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T202124Z" creationid="CarolVignolis" creationdate="20181014T202124Z">
+        <seg>&lt;i1&gt;O OmegaT pode ser instalado em qualquer sistema operacional capaz de rodar a versão 1.6 do Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182119Z" creationid="karol" creationdate="20160308T182119Z">
@@ -16908,24 +16916,24 @@ sale, or importing the Program or any portion of it.</seg>
       <tuv lang="EN">
         <seg>For installation on Linux.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201724Z" creationid="CarolVignolis" creationdate="20181014T201724Z">
-        <seg>Para instalação no Linux</seg>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201908Z" creationid="CarolVignolis" creationdate="20181014T201724Z">
+        <seg>Para instalação no Linux.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201704Z" creationid="CarolVignolis" creationdate="20181014T201704Z">
-        <seg>Para instalação em  Mac OS X</seg>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201917Z" creationid="CarolVignolis" creationdate="20181014T201704Z">
+        <seg>Para instalação em  Mac OS X.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>For installation on Windows System.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201613Z" creationid="CarolVignolis" creationdate="20181014T201613Z">
-        <seg>Para instalação em sistemas Windows</seg>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201927Z" creationid="CarolVignolis" creationdate="20181014T201613Z">
+        <seg>Para instalação em sistemas Windows.</seg>
       </tuv>
     </tu>
     <tu>
