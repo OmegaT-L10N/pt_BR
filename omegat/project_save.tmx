@@ -16906,6 +16906,38 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201724Z" creationid="CarolVignolis" creationdate="20181014T201724Z">
+        <seg>Para instalação no Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201704Z" creationid="CarolVignolis" creationdate="20181014T201704Z">
+        <seg>Para instalação em  Mac OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201613Z" creationid="CarolVignolis" creationdate="20181014T201613Z">
+        <seg>Para instalação em sistemas Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201857Z" creationid="CarolVignolis" creationdate="20181014T201857Z">
+        <seg>Para instalação em outros sistemas operacionais (como FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly (see the &lt;l4&gt;Editing behavior&lt;/l4&gt; chapter) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003322Z" creationid="karol" creationdate="20160309T003322Z">
@@ -23238,6 +23270,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201711Z" creationid="CarolVignolis" creationdate="20181014T201711Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux (Intel) Users</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182131Z" creationid="karol" creationdate="20160308T182131Z">
@@ -23544,6 +23584,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201553Z" creationid="karol" creationdate="20160308T201553Z">
         <seg>VALOR COMERCIAL ou APTIDÃO PARA UM DETERMINADO OBJETIVO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201629Z" creationid="CarolVignolis" creationdate="20181014T201629Z">
+        <seg>Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -43537,6 +43585,14 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T181731Z" creationid="Evandro" creationdate="20160311T181731Z">
         <seg>O vento balança os lírios&lt;p&gt;e as pétalas se espalham ao vento:&lt;p&gt;Sua página não foi encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201524Z" creationid="CarolVignolis" creationdate="20181014T201524Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
