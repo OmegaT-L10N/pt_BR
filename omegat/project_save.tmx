@@ -42312,6 +42312,15 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the
+trouble of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T175225Z" creationid="CarolVignolis" creationdate="20181014T175225Z">
+        <seg>Nós recomendamos usar os pacotes do OmegaT que incluem o JRE, para poupá-lo do trabalho de selecionar, obter e instalá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We, the Free Software Foundation, use the
 GNU General Public License for most of our software; it applies also to
 any other work released this way by its authors.</seg>
