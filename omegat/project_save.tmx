@@ -27014,6 +27014,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T195824Z" creationid="CarolVignolis" creationdate="20181014T195824Z">
+        <seg>Vídeos do OmegaT no canal do YouTube Qabiria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172728Z" creationid="karol" creationdate="20160308T172728Z">
@@ -28428,6 +28436,14 @@ em seguida, confirme tudo.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T040210Z" creationid="CALDAS" creationdate="20170914T040210Z">
         <seg>Independente de plataforma; requer tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T195547Z" creationid="CarolVignolis" creationdate="20181014T195547Z">
+        <seg>Playlist de vídeos OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -40649,6 +40665,14 @@ Kaptain.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T101200Z" creationid="CALDAS" creationdate="20170914T101200Z">
         <seg>Curso de treinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Training videos</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T195456Z" creationid="CarolVignolis" creationdate="20181014T195456Z">
+        <seg>Vídeos de treinamento</seg>
       </tuv>
     </tu>
     <tu>
