@@ -22134,6 +22134,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200919Z" creationid="CarolVignolis" creationdate="20181014T200919Z">
+        <seg>JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JSch (JSch License)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010007Z" creationid="karol" creationdate="20160309T010007Z">
@@ -27781,6 +27789,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214406Z" creationid="karol" creationdate="20160308T214406Z">
         <seg>Abre a janela Verificação de tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200913Z" creationid="CarolVignolis" creationdate="20181014T200913Z">
+        <seg>Sistema Operacional</seg>
       </tuv>
     </tu>
     <tu>
@@ -38345,6 +38361,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201352Z" creationid="CarolVignolis" creationdate="20181014T201352Z">
+        <seg>A versão para instalação pelo usuário, familiar para usuários anteriores do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181953Z" creationid="karol" creationdate="20160308T181953Z">
@@ -40717,6 +40741,14 @@ Kaptain.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200927Z" creationid="CarolVignolis" creationdate="20181014T200927Z">
+        <seg>Tradicional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Training</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200208Z" creationid="CarolVignolis" creationdate="20181014T200208Z">
@@ -42586,6 +42618,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114458Z" creationid="Evandro" creationdate="20160312T114458Z">
         <seg>Venda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T200836Z" creationid="CarolVignolis" creationdate="20181014T200836Z">
+        <seg>Versão</seg>
       </tuv>
     </tu>
     <tu>
