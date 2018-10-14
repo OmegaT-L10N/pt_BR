@@ -26449,6 +26449,15 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is then ready
+to be launched.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T180312Z" creationid="CarolVignolis" creationdate="20181014T180312Z">
+        <seg>O OmegaT está, então, pronto para ser inicializado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is written in Java.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170919T161133Z" creationid="mroch" creationdate="20170919T161133Z">
