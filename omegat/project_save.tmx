@@ -19500,6 +19500,15 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
+(Windows Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T182858Z" creationid="CarolVignolis" creationdate="20181014T182858Z">
+        <seg>Se você pode ver o arquivo OmegaT mas não o OmegaT.exe no seu gerenciador de arquivos (Windows Explorer), mude as configurações para que as extensões de arquivo sejam mostradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182346Z" creationid="karol" creationdate="20160308T182346Z">
