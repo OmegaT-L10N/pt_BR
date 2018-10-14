@@ -8237,6 +8237,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194643Z" creationid="CarolVignolis" creationdate="20181014T194643Z">
+        <seg>Todos os arquivos DOCX no projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182406Z" creationid="karol" creationdate="20160308T182406Z">
@@ -9657,6 +9665,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170438Z" creationid="karol" creationdate="20160308T170438Z">
         <seg>Backspace* (Tecla de retrocesso)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194558Z" creationid="CarolVignolis" creationdate="20181014T194558Z">
+        <seg>Backup</seg>
       </tuv>
     </tu>
     <tu>
@@ -11834,6 +11850,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194537Z" creationid="CarolVignolis" creationdate="20181014T194537Z">
+        <seg>Converter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T203543Z" creationid="Sheila" creationdate="20170912T203532Z">
@@ -12310,6 +12334,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172643Z" creationid="karol" creationdate="20160308T172643Z">
         <seg>Crie uma pasta vazia para guardar o seu projeto e clique com o botão direito nela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194801Z" creationid="CarolVignolis" creationdate="20181014T194801Z">
+        <seg>Criar arquivos backup do DOCX original</seg>
       </tuv>
     </tu>
     <tu>
@@ -12903,6 +12935,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170625T193137Z" creationid="Sheila" creationdate="20170625T193137Z">
         <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194658Z" creationid="CarolVignolis" creationdate="20181014T194658Z">
+        <seg>Arquivo DOCX atual</seg>
       </tuv>
     </tu>
     <tu>
@@ -22960,6 +23000,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170351Z" creationid="karol" creationdate="20160308T170351Z">
         <seg>Avisos legais e agradecimentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194520Z" creationid="CarolVignolis" creationdate="20181014T194520Z">
+        <seg>Nível</seg>
       </tuv>
     </tu>
     <tu>
