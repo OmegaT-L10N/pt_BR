@@ -6993,6 +6993,22 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>===============</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181113T103307Z" creationid="Sheila" creationdate="20181113T103307Z">
+        <seg>===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181113T103306Z" creationid="Sheila" creationdate="20181113T103306Z">
+        <seg>@AVISO_DE_TRADUÇÃO@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A
 "Major Component", in this context, means a major essential component
 (kernel, window system, and so on) of the specific operating system
@@ -21350,6 +21366,36 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181113T103455Z" creationid="Sheila" creationdate="20181113T103455Z">
+        <seg>Instalação do OmegaT (Linux)
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181113T103445Z" creationid="Sheila" creationdate="20181113T103445Z">
+        <seg>Instalação do OmegaT (Mac)
+=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181113T103435Z" creationid="Sheila" creationdate="20181113T103435Z">
+        <seg>Instalação do OmegaT (Windows)
+===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182058Z" creationid="karol" creationdate="20160308T182058Z">
@@ -23239,8 +23285,9 @@ permissions.</seg>
         <seg>Licensing information
 =====================</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T173145Z" creationid="CarolVignolis" creationdate="20181014T173145Z">
-        <seg>Informação de licenciamento</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181113T103322Z" creationid="CarolVignolis" creationdate="20181014T173145Z">
+        <seg>Informação de licenciamento
+=====================</seg>
       </tuv>
     </tu>
     <tu>
@@ -28980,6 +29027,16 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182342Z" creationid="karol" creationdate="20160308T182342Z">
         <seg>Pré-requisitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181113T103407Z" creationid="Sheila" creationdate="20181113T103407Z">
+        <seg>Pré-requisitos para a instalação do OmegaT
+===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -37012,6 +37069,16 @@ xx ou yyy é o código do idioma e YY é o código do país (opcional).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The license of each library is mentionned
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181113T103351Z" creationid="Sheila" creationdate="20181113T103351Z">
+        <seg>A licença de cada biblioteca é mencionada
+em /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The licenses for most software and other practical works are designed
 to take away your freedom to share and change the works.</seg>
       </tuv>
@@ -42141,8 +42208,8 @@ na linha {1}, coluna {2}.</seg>
       <tuv lang="EN">
         <seg>Use these Help texts to get started.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T215141Z" creationid="karol" creationdate="20160308T215141Z">
-        <seg>Utilize estes textos de Ajuda para iniciar.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181113T103216Z" creationid="karol" creationdate="20160308T215141Z">
+        <seg>Use estes textos de Ajuda para iniciar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44467,6 +44534,16 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181113T103335Z" creationid="Sheila" creationdate="20181113T103335Z">
+        <seg>Você pode encontrar o texto da licença em
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="mroch" changedate="20170912T223200Z" creationid="mroch" creationdate="20170912T220420Z">
@@ -44495,6 +44572,16 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172818Z" creationid="karol" creationdate="20160308T172818Z">
         <seg>Você pode fazer o programa inserir o texto fonte automaticamente no campo de edição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can however obtain a neater and more user-friendly installation by using
+the installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181113T103524Z" creationid="Sheila" creationdate="20181113T103524Z">
+        <seg>No entanto, você pode ter uma instalação mais fácil e mais amigável usando
+o script de instalação (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47722,6 +47809,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T121015Z" creationid="Sheila" creationdate="20170905T121015Z">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181113T103209Z" creationid="Sheila" creationdate="20181113T103209Z">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
       </tuv>
     </tu>
     <tu>
