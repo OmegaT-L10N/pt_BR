@@ -3200,8 +3200,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T182328Z" creationid="karol" creationdate="20160308T182328Z">
-        <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; Se você se inscreveu para os serviços do Google Translate, digite aqui sua chave privada do Google API.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181008T130857Z" creationid="karol" creationdate="20160308T182328Z">
+        <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; Se você se inscreveu para os serviços do Google Translate, digite aqui sua chave privada de API do Google.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3497,8 +3497,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;Google Translate API v2 requires billing information for all accounts before you can start using the service (see &lt;u1&gt;Pricing and Terms of Service&lt;/u1&gt; for more).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T201617Z" creationid="karol" creationdate="20160308T201617Z">
-        <seg>&lt;e0&gt;Importante: &lt;/e0&gt;O API do Google Translate v2 requer informações de cobrança para todas as contas antes que você possa começar a usar o serviço (veja &lt;u1&gt;Preços e termos de serviço&lt;/u1&gt; para saber mais).</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181008T130936Z" creationid="karol" creationdate="20160308T201617Z">
+        <seg>&lt;e0&gt;Importante: &lt;/e0&gt;A API do Google Translate v2 requer informações de cobrança para todas as contas antes que você possa começar a usar o serviço (veja &lt;u1&gt;Preços e termos de serviço&lt;/u1&gt; para saber mais).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7519,8 +7519,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T182337Z" creationid="karol" creationdate="20160308T182337Z">
-        <seg>Chaves de API podem ser solicitadas usando o &lt;u0&gt;formulário de requisição de chave de API&lt;/u0&gt; e visualizadas na página &lt;u1&gt;Minhas chaves&lt;/u1&gt;.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181008T130917Z" creationid="karol" creationdate="20160308T182337Z">
+        <seg>Chaves de API podem ser solicitadas usando o &lt;u0&gt;formulário de requisição de chave de API&lt;/u0&gt; e vistas na página &lt;u1&gt;Minhas chaves&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17784,8 +17784,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>Google Api key not available.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111955Z" creationid="Evandro" creationdate="20160312T111955Z">
-        <seg>Chave do Google API não disponível.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181008T130633Z" creationid="Evandro" creationdate="20160312T111955Z">
+        <seg>A chave de API do Google não está disponível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32099,8 +32099,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111959Z" creationid="Evandro" creationdate="20160312T111959Z">
-        <seg>Consulte o manual do OmegaT para instruções.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181008T123721Z" creationid="Evandro" creationdate="20160312T111959Z">
+        <seg>Consulte o manual do OmegaT para ler instruções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34687,8 +34687,8 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       <tuv lang="EN">
         <seg>TaaS API key not set.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T222325Z" creationid="Sheila" creationdate="20170913T222325Z">
-        <seg>A chave da API do TaaS não foi definida.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181008T130725Z" creationid="Sheila" creationdate="20170913T222325Z">
+        <seg>A chave de API do TaaS não foi definida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44108,8 +44108,8 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       <tuv lang="EN">
         <seg>Yandex Translate - No API Key Specified</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T112143Z" creationid="Evandro" creationdate="20160312T112102Z">
-        <seg>Yandex Translate - Nenhuma chave da API foi Especificada</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181008T130707Z" creationid="Evandro" creationdate="20160312T112102Z">
+        <seg>Yandex Translate - não foi especificada uma chave de API</seg>
       </tuv>
     </tu>
     <tu>
