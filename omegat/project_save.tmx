@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40696,10 +40696,10 @@ terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
 install.sh.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20181114T015456Z" creationid="Sheila" creationdate="20181114T015456Z">
-        <seg>To use this script, open a
-terminal window (console), change folder to the folder containing OmegaT.jar
-and the linux-install.sh script, and execute the script with ./linux-
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181120T165601Z" creationid="Sheila" creationdate="20181114T015456Z">
+        <seg>Para usar esse script, abra um
+janela de terminal (console), mude a pasta para a pasta que contém OmegaT. jar
+e o script linux-install.sh, e execute o script com ./linux-
 install.sh.</seg>
       </tuv>
     </tu>
