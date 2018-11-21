@@ -21386,6 +21386,16 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181120T165622Z" creationid="Sheila" creationdate="20181120T165613Z">
+        <seg>Instalação do OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
@@ -42530,6 +42540,16 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182226Z" creationid="karol" creationdate="20160308T182226Z">
         <seg>Usando o Java Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Java Web Start for installing OmegaT (all platforms)
+===========================================================</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181120T165710Z" creationid="Sheila" creationdate="20181120T165710Z">
+        <seg>Usando o Java Web Start para instalar o OmegaT (todas as plataformas)
+===========================================================</seg>
       </tuv>
     </tu>
     <tu>
