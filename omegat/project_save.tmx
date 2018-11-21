@@ -23092,6 +23092,16 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181121T231218Z" creationid="Sheila" creationdate="20181121T231218Z">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT in console mode</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T215022Z" creationid="karol" creationdate="20160308T215022Z">
@@ -24728,6 +24738,22 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181121T231325Z" creationid="Sheila" creationdate="20181121T231229Z">
+        <seg>PHP do Moodle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181121T231323Z" creationid="Sheila" creationdate="20181121T231254Z">
+        <seg>Opções de filtro do PHP do Moodle</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>More</seg>
@@ -25212,6 +25238,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001011Z" creationid="Evandro" creationdate="20160310T001011Z">
         <seg>Nepali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181121T231335Z" creationid="Sheila" creationdate="20181121T231335Z">
+        <seg>Tradução de máquina neural</seg>
       </tuv>
     </tu>
     <tu>
@@ -35892,6 +35926,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T005253Z" creationid="karol" creationdate="20160309T005253Z">
         <seg>As estatísticas de correspondência são separadas por tabulações e você pode usar &lt;g0&gt;Ctrl+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, Ctrl+C &lt;i3/&gt;&lt;/g2&gt;, &lt;g4&gt;Ctrl+V &lt;i5/&gt;&lt;/g4&gt; para copiá-las ou colá-las, por exemplo, em uma planilha ou em seu aplicativo de contabilidade de custos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181121T231317Z" creationid="Sheila" creationdate="20181121T231317Z">
+        <seg>O filtro PHP do Moodle lançou uma exceção:</seg>
       </tuv>
     </tu>
     <tu>
