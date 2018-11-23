@@ -4088,6 +4088,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181123T130430Z" creationid="Sheila" creationdate="20181123T130430Z">
+        <seg>&lt;html&gt;&lt;center&gt;Carregando...&lt;br&gt;&lt;br&gt;Dica: Ative/desative as verificações a qualquer momento no menu Opções.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T103343Z" creationid="Sheila" creationdate="20170918T103343Z">
@@ -17229,6 +17237,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181123T130346Z" creationid="Sheila" creationdate="20181123T130346Z">
+        <seg>Para frente-para trás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111833Z" creationid="Evandro" creationdate="20160312T111833Z">
@@ -18074,6 +18090,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T103912Z" creationid="Evandro" creationdate="20160312T103912Z">
         <seg>Cabeç&amp;alhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181123T130301Z" creationid="Sheila" creationdate="20181123T130246Z">
+        <seg>Em pilha</seg>
       </tuv>
     </tu>
     <tu>
@@ -24809,6 +24833,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181123T130150Z" creationid="Sheila" creationdate="20181123T130135Z">
+        <seg>URL do servidor Moses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most functions are also available via keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201704Z" creationid="karol" creationdate="20160308T201704Z">
@@ -28429,6 +28461,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181123T130319Z" creationid="Sheila" creationdate="20181123T130252Z">
+        <seg>Com análise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pashto, Pushto</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171313Z" creationid="karol" creationdate="20160308T171313Z">
@@ -28611,6 +28651,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T000956Z" creationid="Evandro" creationdate="20160310T000956Z">
         <seg>PgUp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181123T130228Z" creationid="Sheila" creationdate="20181123T130228Z">
+        <seg>Alinhamento distante: selecione a célula correspondente</seg>
       </tuv>
     </tu>
     <tu>
@@ -28959,6 +29007,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T015214Z" creationid="CarolVignolis" creationdate="20181014T015214Z">
         <seg>Plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181123T130348Z" creationid="Sheila" creationdate="20181123T130348Z">
+        <seg>Poisson</seg>
       </tuv>
     </tu>
     <tu>
@@ -31301,6 +31357,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171315Z" creationid="karol" creationdate="20160308T171315Z">
         <seg>Romanche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181123T130238Z" creationid="Sheila" creationdate="20181123T130238Z">
+        <seg>Linha</seg>
       </tuv>
     </tu>
     <tu>
@@ -35934,6 +35998,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20181121T231317Z" creationid="Sheila" creationdate="20181121T231317Z">
         <seg>O filtro PHP do Moodle lançou uma exceção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181123T130147Z" creationid="Sheila" creationdate="20181123T130147Z">
+        <seg>A URL do servidor Moses não está definida</seg>
       </tuv>
     </tu>
     <tu>
@@ -43022,6 +43094,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181123T130322Z" creationid="Sheila" creationdate="20181123T130322Z">
+        <seg>Viterbi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vito Smolej</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T224430Z" creationid="Sheila" creationdate="20170903T224430Z">
@@ -45291,6 +45371,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105952Z" creationid="Evandro" creationdate="20160312T105952Z">
         <seg>[parcial]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181123T130551Z" creationid="Sheila" creationdate="20181123T130448Z">
+        <seg>[{0}] “{1}” na origem; era esperado algo de {2} no destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20181123T130516Z" creationid="Sheila" creationdate="20181123T130446Z">
+        <seg>[{0}] “{1}” na origem; era esperado “{2}” no destino</seg>
       </tuv>
     </tu>
     <tu>
