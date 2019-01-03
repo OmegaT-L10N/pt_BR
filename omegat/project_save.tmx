@@ -41604,10 +41604,26 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL is missing URL string</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190102T182733Z" creationid="Sheila" creationdate="20190102T182733Z">
+        <seg>A URL não tem a string da URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL is missing encoding</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T020327Z" creationid="CarolVignolis" creationdate="20181014T020327Z">
         <seg>A codificação da URL está ausente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190102T182750Z" creationid="Sheila" creationdate="20190102T182750Z">
+        <seg>O alvo da URL está ausente</seg>
       </tuv>
     </tu>
     <tu>
