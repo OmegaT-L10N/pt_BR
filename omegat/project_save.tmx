@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10645M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -517,6 +517,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181013T133132Z" creationid="CarolVignolis" creationdate="20181013T133132Z">
         <seg>Buscar traduções &amp;automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T120330Z" creationid="CALDAS" creationdate="20190420T120330Z">
+        <seg>&amp;Pesquisar automaticamente o texto do segmento no dicionário</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1531,15 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T163738Z" creationid="Evandro" creationdate="20160310T153058Z">
         <seg>&amp;Mostrar sugestões relevantes automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T123046Z" creationid="CALDAS" creationdate="20190420T123046Z">
+        <seg>&amp;Mostrar no menu de contexto do Editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -4119,6 +4137,15 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T123148Z" creationid="CALDAS" creationdate="20190420T123138Z">
+        <seg>&lt;html&gt;Versão atual: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
@@ -4148,6 +4175,15 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20181126T134038Z" creationid="Sheila" creationdate="20181126T134038Z">
         <seg>&lt;html&gt;Termo: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossários:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T123331Z" creationid="CALDAS" creationdate="20190420T123150Z">
+        <seg>&lt;html&gt;Atualizar canal: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7597,6 +7633,15 @@ included in conveying the object code work.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T120845Z" creationid="CALDAS" creationdate="20190420T120845Z">
+        <seg>Aaron Madlon-Kay é o gerente de projeto do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
@@ -9008,6 +9053,15 @@ know their rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T215108Z" creationid="karol" creationdate="20160308T215108Z">
         <seg>Um outro parâmetro extra na linha de comando específico para o modo console: &lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Anthony Baldwin (localisation manager)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T125425Z" creationid="CALDAS" creationdate="20190420T125410Z">
+        <seg>Anthony Baldwin (gerente de localização)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11460,6 +11514,15 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T122357Z" creationid="CALDAS" creationdate="20190420T121626Z">
+        <seg>O comando está faltando a cadeia de comando</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Command is missing delimiter</seg>
       </tuv>
@@ -11473,6 +11536,15 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T020425Z" creationid="CarolVignolis" creationdate="20181014T020425Z">
         <seg>A codificação do comando está ausente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Command is missing target</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T122333Z" creationid="CALDAS" creationdate="20190420T121758Z">
+        <seg>O comando está sem destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -11856,6 +11928,15 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T122843Z" creationid="CALDAS" creationdate="20190420T122843Z">
+        <seg>Prioridade do menu de contexto:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Continue</seg>
       </tuv>
@@ -11925,6 +12006,26 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172744Z" creationid="karol" creationdate="20160308T172744Z">
         <seg>Contribuição para o Projeto &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T125406Z" creationid="CALDAS" creationdate="20190420T125406Z">
+        <seg>As contribuições ao código estão documentadas em /docs/contributors.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T125042Z" creationid="CALDAS" creationdate="20190420T125038Z">
+        <seg>Contribuidores
+============</seg>
       </tuv>
     </tu>
     <tu>
@@ -12147,6 +12248,15 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="User" changedate="20180923T195644Z" creationid="User" creationdate="20180923T195644Z">
         <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk e outros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T120759Z" creationid="CALDAS" creationdate="20190420T120759Z">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk e outros</seg>
       </tuv>
     </tu>
     <tu>
@@ -13043,6 +13153,17 @@ unpacking, reading or copying.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T125057Z" creationid="CALDAS" creationdate="20190420T125057Z">
+        <seg>Equipe atual:
+(por ordem alfabética)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Currently, &lt;a1&gt;OmegaT&lt;/a1&gt; supports the following plain text formats:</seg>
       </tuv>
@@ -13634,6 +13755,15 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T184806Z" creationid="CarolVignolis" creationdate="20181014T184806Z">
         <seg>Didier Briel (gerente de projeto do OmegaT, gerente de comunidade do Twitter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Didier Briel (project manager)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T125435Z" creationid="CALDAS" creationdate="20190420T125426Z">
+        <seg>Didier Briel (gerente de projetos)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15781,6 +15911,15 @@ propagate that work, subject to this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T121136Z" creationid="CALDAS" creationdate="20190420T121136Z">
+        <seg>Executando script {0} (evento {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
@@ -17332,6 +17471,15 @@ that there is no warranty for this free software.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T121412Z" creationid="CALDAS" creationdate="20190420T121412Z">
+        <seg>Da memória forçada </seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>From memory</seg>
       </tuv>
@@ -18799,6 +18947,16 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>If Java is installed at system level and is in the command path, the full path
+need not be entered.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T125032Z" creationid="CALDAS" creationdate="20190420T125032Z">
+        <seg>Se o Java estiver instalado a nível de sistema e estiver no caminho de comando, o caminho completo não precisará ser inserido.)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system</seg>
       </tuv>
@@ -20140,6 +20298,15 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T124809Z" creationid="CALDAS" creationdate="20190420T124809Z">
+        <seg>Se você usou o script linux-install.sh, você deve conseguir iniciar o OmegaT com:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
       </tuv>
@@ -20398,6 +20565,15 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172817Z" creationid="karol" creationdate="20160308T172817Z">
         <seg>Em &lt;m0&gt; &lt;g1&gt;Opções&lt;/g1&gt; &lt;g2&gt; Editar modo de trabalho...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;o OmegaT&lt;/a3&gt; oferece as seguintes alternativas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T122504Z" creationid="CALDAS" creationdate="20190420T122504Z">
+        <seg>No editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -22407,6 +22583,24 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Jean-Christophe Helary (Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T125216Z" creationid="CALDAS" creationdate="20190420T125158Z">
+        <seg>Jean-Christophe Helary (administrador da comunidade no Twitter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T125520Z" creationid="CALDAS" creationdate="20190420T125437Z">
+        <seg>Jean-Christophe Helary (proprietário do grupo de suporte e gerente de localização)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
@@ -22720,6 +22914,15 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171242Z" creationid="karol" creationdate="20160308T171242Z">
         <seg>Coreano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Kos Ivantsof (localisation manager)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T125227Z" creationid="CALDAS" creationdate="20190420T125217Z">
+        <seg>Kos Ivantsof (gerente de localização)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23131,6 +23334,28 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Linux)
+========================</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T124709Z" creationid="CALDAS" creationdate="20190420T124709Z">
+        <seg>Iniciando o OmegaT (Linux)
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T124719Z" creationid="CALDAS" creationdate="20190420T123407Z">
+        <seg>Iniciando o OmegaT (Mac)
+======================</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Launching OmegaT (Windows)
 ==========================</seg>
@@ -23138,6 +23363,16 @@ permissions.</seg>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20181121T231218Z" creationid="Sheila" creationdate="20181121T231218Z">
         <seg>Launching OmegaT (Windows)
 ==========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T124839Z" creationid="CALDAS" creationdate="20190420T124839Z">
+        <seg>Iniciando o OmegaT a partir da linha de comando (em qualquer sistema operacional)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23554,6 +23789,15 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113032Z" creationid="Evandro" creationdate="20160312T113032Z">
         <seg>Tradução local não sincronizada com o repositório remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T130819Z" creationid="CALDAS" creationdate="20190420T130819Z">
+        <seg>Cópias de trabalho locais limpas: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24073,11 +24317,29 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Marc Prior (project co-ordinator, webmaster)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T130115Z" creationid="CALDAS" creationdate="20190420T130104Z">
+        <seg>Marc Prior (coordenador de projeto, webmaster)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170412Z" creationid="karol" creationdate="20160308T170412Z">
         <seg>Marc Prior: a correção do meu primeiro esboço foi um ato do amor pelo OmegaT e a língua inglesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Marco Cevoli (Telegram community manager)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T125157Z" creationid="CALDAS" creationdate="20190420T125107Z">
+        <seg>Marco Cevoli (administrador da comunidade no Telegram)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24104,6 +24366,15 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221119Z" creationid="Evandro" creationdate="20160312T111542Z">
         <seg>Marcar espaços i&amp;nseparáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Mark &amp;Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T120112Z" creationid="CALDAS" creationdate="20190420T120112Z">
+        <seg>Marcar &amp;delimitações de parágrafo</seg>
       </tuv>
     </tu>
     <tu>
@@ -24445,6 +24716,15 @@ permissions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185739Z" creationid="Evandro" creationdate="20160311T185739Z">
         <seg>Número máximo de resultados encontrados ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Maxym Mykhalchuk (lead developper)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T130028Z" creationid="CALDAS" creationdate="20190420T125521Z">
+        <seg>Maxym Mykhalchuk (desenvolvedor chefe)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26599,6 +26879,15 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20171006T030555Z" creationid="CALDAS" creationdate="20171006T030555Z">
+        <seg>OmegaT - &lt;s0&gt; A ferramenta de memória de tradução livre&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT 3.5 - User's Guide</seg>
       </tuv>
@@ -28433,6 +28722,24 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T001012Z" creationid="Evandro" creationdate="20160310T001012Z">
         <seg>Panjabi, Punjabi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T121427Z" creationid="CALDAS" creationdate="20190420T121427Z">
+        <seg>Delimitação de parágrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T121028Z" creationid="CALDAS" creationdate="20190420T121028Z">
+        <seg>Formato de delimitação de parágrafo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31556,6 +31863,15 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T130154Z" creationid="CALDAS" creationdate="20190420T130130Z">
+        <seg>SVN - Cleanup (recursivo)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>SVNKit (TMate License)</seg>
       </tuv>
@@ -32004,6 +32320,15 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="User" changedate="20181005T141142Z" creationid="User" creationdate="20181005T141142Z">
         <seg>Buscar ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T120414Z" creationid="CALDAS" creationdate="20190420T120414Z">
+        <seg>Pesquisar dicionários</seg>
       </tuv>
     </tu>
     <tu>
@@ -33321,6 +33646,15 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T105539Z" creationid="CALDAS" creationdate="20170912T105514Z">
+        <seg>Mostrar versão em inglês</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Show Find Search Bar</seg>
       </tuv>
@@ -33519,6 +33853,15 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105158Z" creationid="Evandro" creationdate="20160312T105158Z">
         <seg>Pular texto que corresponde à expressão regular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T120521Z" creationid="CALDAS" creationdate="20190420T120521Z">
+        <seg>Ignorar o plugin carregado anteriormente da classe '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -34064,6 +34407,15 @@ can do so.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181352Z" creationid="karol" creationdate="20160308T181352Z">
         <seg>Para especificar um funcionamento específico do OmegaT, use filtros de arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T123024Z" creationid="CALDAS" creationdate="20190420T123024Z">
+        <seg>Especificar um mnemônico com "&amp;": "F&amp;oobar" para usar O</seg>
       </tuv>
     </tu>
     <tu>
@@ -36181,6 +36533,15 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T123114Z" creationid="CALDAS" creationdate="20190420T123114Z">
+        <seg>A URL deve incluir "{target}", que será substituída com o texto da pesquisa.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
       </tuv>
@@ -36410,6 +36771,15 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T212618Z" creationid="karol" creationdate="20160308T212618Z">
         <seg>As cores são exibidas contanto que a opção "Salvar estados auto-preenchidos" (em Opções/Modo de trabalho...) esteja marcada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T123132Z" creationid="CALDAS" creationdate="20190420T123132Z">
+        <seg>O comando deve incluir "{target}", que será substituído com o texto da pesquisa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38856,6 +39226,15 @@ combination as such.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T130805Z" creationid="CALDAS" creationdate="20190420T130805Z">
+        <seg>Não há cópias de trabalho locais em {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
@@ -40051,6 +40430,15 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170425Z" creationid="karol" creationdate="20160308T170425Z">
         <seg>Este texto curto descreve o comportamento das teclas no painel do editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>This site is also available in English!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T105535Z" creationid="CALDAS" creationdate="20170912T105535Z">
+        <seg>Este site também está disponível em inglês!</seg>
       </tuv>
     </tu>
     <tu>
@@ -42503,6 +42891,16 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Useful links
+============</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T130126Z" creationid="CALDAS" creationdate="20190420T130126Z">
+        <seg>Links úteis:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>User Group&lt;/u3&gt;.</seg>
       </tuv>
@@ -44570,6 +44968,17 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>You can also launch
+it from the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T124408Z" creationid="CALDAS" creationdate="20190420T124408Z">
+        <seg>Você também pode iniciar
+o OmegaT a partir do campo pesquisa Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You can also manually drag the file
 OmegaT.exe to the start menu, the desktop or the quick launch area to link it
@@ -45069,6 +45478,17 @@ apropriadamente publique em cada cópia um aviso de direitos autorais apropriado
 mantenha intactos todos os avisos que afirmam que esta Licença e quaisquer termos não-permissivos acrescentados de acordo com a seção 7 se aplicam ao código;
 mantenha intactos todos os avisos da ausência de qualquer garantia; e dê a todos
 recipientes uma cópia desta licença junto com o programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>You may drag the OmegaT application to your dock or to the tool bar of a
+Finder window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T124214Z" creationid="CALDAS" creationdate="20190420T124214Z">
+        <seg>Você pode arrastar o aplicativo OmegaT para o dock ou para a barra de ferramentas de uma
+janela do Finder para poder iniciá-lo em qualquer local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48093,6 +48513,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T230917Z" creationid="Sheila" creationdate="20170903T230917Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Kos Ivantsov" changedate="20190420T132746Z" creationid="Kos Ivantsov" creationdate="20190420T132746Z">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
     </tu>
     <tu>
@@ -52066,6 +52494,15 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T130753Z" creationid="CALDAS" creationdate="20190420T130753Z">
+        <seg>{0} não é uma cópia de trabalho local, ignorar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>{0} loaded.</seg>
       </tuv>
@@ -52139,6 +52576,15 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T113720Z" creationid="Evandro" creationdate="20160312T113720Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T130450Z" creationid="CALDAS" creationdate="20190420T130450Z">
+        <seg>{0}: limpeza concluída!!</seg>
       </tuv>
     </tu>
     <tu>
