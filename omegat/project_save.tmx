@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10645M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32648,8 +32648,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>See below for details.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20180921T130839Z" creationid="Evandro" creationdate="20160310T111310Z">
-        <seg>Veja detalhes abaixo.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190422T103437Z" creationid="Evandro" creationdate="20160310T111310Z">
+        <seg>Veja os detalhes abaixo.</seg>
       </tuv>
     </tu>
     <tu>
