@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31763,6 +31763,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190501T131434Z" creationid="CALDAS" creationdate="20190501T131434Z">
+        <seg>Executando o script Tagwipe no arquivo '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Running on Java {0} ({1}-bit)</seg>
@@ -35545,6 +35553,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181814Z" creationid="karol" creationdate="20160308T181814Z">
         <seg>As tags reproduzidas no segmento traduzido estarão presentes no documento traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190501T131241Z" creationid="CALDAS" creationdate="20190501T131241Z">
+        <seg>Tagwipe</seg>
       </tuv>
     </tu>
     <tu>
