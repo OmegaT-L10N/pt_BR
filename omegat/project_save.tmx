@@ -9908,6 +9908,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Acredito que há espaço suficiente.</note>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190501T133248Z" creationid="CALDAS" creationdate="20190501T133248Z">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Before</seg>
