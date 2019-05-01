@@ -9899,6 +9899,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Alguma ideia?</note>
+      <tuv lang="EN">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190501T132700Z" creationid="CALDAS" creationdate="20190501T132700Z">
+        <seg>Excelência</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Before</seg>
@@ -25374,6 +25383,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214349Z" creationid="karol" creationdate="20160308T214349Z">
         <seg>Movimentação de atalhos de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190501T131958Z" creationid="CALDAS" creationdate="20190501T131958Z">
+        <seg>Movendo arquivo limpo de '{0}' para '{1}'</seg>
       </tuv>
     </tu>
     <tu>
