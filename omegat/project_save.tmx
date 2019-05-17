@@ -9852,6 +9852,16 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190517T004836Z" creationid="Michael" creationdate="20190517T004836Z">
+        <seg>O garçon grita:&lt;p&gt;Sua página não foi encontrada, rapaz&lt;p&gt;Peça outra bebida.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
