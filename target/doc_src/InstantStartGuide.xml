@@ -66,7 +66,7 @@
 
     <itemizedlist>
       <listitem>
-        <para>Se um arquivo não carrega no painel do <guilabel>Editor</guilabel>, pode ser que o arquivo fonte esteja em um formato que não funcione no OmegaT. Consulte <link linkend="chapter.file.filters">Filtros de arquivos</link>, para ver uma lista dos formatos de arquivos com os quais o OmegaT trabalha.</para>
+        <para>Se um arquivo não carrega no painel do <guilabel>Editor</guilabel>, pode ser que o arquivo fonte esteja em um formato que não funcione no OmegaT. See <menuchoice><guimenuitem>Options</guimenuitem><guimenuitem>Preferences...</guimenuitem><guimenuitem>File Filters</guimenuitem></menuchoice> for a list of file formats that OmegaT can handle.</para>
       </listitem>
     </itemizedlist>
 
@@ -102,7 +102,7 @@
 
     <itemizedlist>
       <listitem>
-        <para>Para uma explicação mais completa, consulte <ulink url="http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf">OmegaT para iniciantes</ulink> no site do OmegaT. Se precisar de assistência com qualquer aspecto do OmegaT, fique à vontade para juntar-se ao <ulink url="http://tech.groups.yahoo.com/group/OmegaT/">grupo de usuários do OmegaT.</ulink></para>
+        <para>Para uma explicação mais completa, consulte <ulink url="https://omegat.org/files/OmegaT_for_Beginners.pdf">OmegaT para iniciantes</ulink> no site do OmegaT. Se precisar de assistência com qualquer aspecto do OmegaT, fique à vontade para juntar-se ao <ulink url="https://groups.yahoo.com/neo/groups/OmegaT/info">grupo de usuários do OmegaT.</ulink></para>
       </listitem>
     </itemizedlist>
   </section>

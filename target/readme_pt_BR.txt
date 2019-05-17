@@ -1,189 +1,179 @@
-@TRANSLATION_NOTICE@
+@AVISO_DE_TRADUÇÃO@
 
 
 O que é OmegaT?
 ===============
 
-OmegaT is a free and open source multiplatform Computer Assisted Translation
-tool with fuzzy matching, translation memory, keyword search, glossaries, and
-translation leveraging into updated projects.
+O OmegaT é uma ferramenta de tradução assistida por computador gratuita e de código aberto com correspondência parcial, memória de tradução, busca de palavras-chaves, glossários e reutilização de tradução em atualização de projetos traduzidos.
 
 
 
-Licensing information
+Informação de licenciamento
 =====================
 
-OmegaT is available under the terms of the GNU General Public License as
-published by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version. You can find the text of the license in
+O OmegaT está disponível nos termos da Licença Pública Geral (GNU) como publicado pela Fundação para o Software Livre, da versão 3 da Licença, ou (se preferir) qualquer versão posterior. Você pode encontrar o texto da licença em
 /docs/OmegaT-license.txt.
 
-OmegaT uses a number of librairies. The license of each library is mentionned
-in /lib/licenses/Licenses.txt.
+O OmegaT usa várias bibliotecas. A licença de cada biblioteca é mencionada
+em /lib/licenses/Licenses.txt.
 
 
 
-Prerequisites for installing OmegaT
+Pré-requisitos para a instalação do OmegaT
 ===================================
 
-OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
-installed on your system.
+O OmegaT requer o Java Runtime Environment (JRE) versão 1.8 ou maior para ser instalado em seu sistema.
 
-We recommend using OmegaT packages that include the JRE, to save you the
-trouble of selecting, obtaining and installing it.
+Nós recomendamos usar os pacotes do OmegaT que incluem o JRE, para poupá-lo do trabalho de selecionar, obter e instalá-lo.
 
 
 
-Installing OmegaT (Windows)
+Instalação do OmegaT (Windows)
 ===========================
 
-Launch the installation program.
+Inicializar o programa de instalação
 
 
 
-Installing OmegaT (Mac)
+Instalação do OmegaT (Mac)
 =======================
 
-Unpack the OmegaT .zip archive to obtain a folder that contains a
-documentation file and the OmegaT application. Move the folder to an
-appropriate location such as the Applications folder.
+Descompactar o arquivo .zip do OmegaT para obter uma pasta que contém um arquivo de documentação e a ferramenta OmegaT. Mover a pasta para um local apropriado tal como a pasta Ferramentas.
 
 
 
-Installing OmegaT (Linux)
+Instalação do OmegaT (Linux)
 =========================
 
-Place the archive in any suitable folder and unpack it. OmegaT is then ready
-to be launched.
+Coloque o arquivo em qualquer pasta apropriada e descompacte-o. O OmegaT está, então, pronto para ser inicializado.
 
-You can however obtain a neater and more user-friendly installation by using
-the installation script (linux-install.sh). To use this script, open a
-terminal window (console), change folder to the folder containing OmegaT.jar
-and the linux-install.sh script, and execute the script with ./linux-
+No entanto, você pode ter uma instalação mais fácil e mais amigável usando
+o script de instalação (linux-install.sh). Para usar esse script, abra um
+janela de terminal (console), mude a pasta para a pasta que contém OmegaT. jar
+e o script linux-install.sh, e execute o script com ./linux-
 install.sh.
 
 
 
-Installing OmegaT (Solaris, FreeBSD, ...)
+Instalação do OmegaT (Solaris, FreeBSD, ...)
 =========================================
 
-Place the archive in any suitable folder and unpack it. OmegaT is then ready
-to be launched.
+Coloque o arquivo em qualquer pasta apropriada e descompacte-o. O OmegaT está, então, pronto para ser inicializado.
 
 
 
-Using Java Web Start for installing OmegaT (all platforms)
+Usando o Java Web Start para instalar o OmegaT (todas as plataformas)
 ===========================================================
 
-If you have already Java installed on your system, one way to install OmegaT
-is to use Java Web Start.
+Se você já instalou o Java em seu sistema, uma forma de instalar o OmegaT é usar Java Web Start.
 
 Para isso, baixe e rode o seguinte arquivo:
 
    http://omegat.sourceforge.net/webstart/OmegaT.jnlp
 
-It will install the correct environment for your computer and the application
-itself on the first run. Para outras chamadas do programa não é preciso estar on-line.
+Isso vai instalar o ambiente correto para seu computador e para a ferramenta em si na primeira vez que ela for rodada. Para outras chamadas do programa não é preciso estar on-line.
 
 
 
 Launching OmegaT (Windows)
 ==========================
 
-If, during installation, you have created a shortcut on the desktop, double-
-click on that shortcut.
+Se, durante a instalação, você criou um atalho no desktop, dê duplo clique nesse atalho.
 
-The install program can create shortcuts for you in the start menu, on the
-desktop and in the quick launch area. You can also manually drag the file
-OmegaT.exe to the start menu, the desktop or the quick launch area to link it
-from there.
+O programa de instalação pode criar atalhos para você no menu iniciar, na área de trabalho e na barra de início rápido. Você também arrastar o arquivo OmegaT.exe manualmente para o menu iniciar, para a área de trabalho ou para a barra de início rápido para criar um vínculo.
 
-If you can see the file OmegaT but not OmegaT.exe in your File Manager
-(Windows Explorer), change the settings so that file extensions are displayed.
+Se você pode ver o arquivo OmegaT mas não o OmegaT.exe no seu gerenciador de arquivos (Windows Explorer), mude as configurações para que as extensões de arquivo sejam mostradas.
 
 
 
-Launching OmegaT (Mac)
+Iniciando o OmegaT (Mac)
 ======================
 
-Double-click on the OmegaT application.
+Duplo clique na ferramenta OmegaT.
 
-You may drag the OmegaT application to your dock or to the tool bar of a
-Finder window to be able to launch it from any location. You can also launch
-it from the Spotlight search field.
+Você pode arrastar o aplicativo OmegaT para o dock ou para a barra de ferramentas de uma
+janela do Finder para poder iniciá-lo em qualquer local. Você também pode iniciar
+o OmegaT a partir do campo pesquisa Spotlight.
 
 
 
-Launching OmegaT (Linux)
-========================
+Iniciando o OmegaT (Linux)
+=========================
 
-If you used linux-install.sh script, you should be able to launch OmegaT with:
+Se você usou o script linux-install.sh, você deve conseguir iniciar o OmegaT com:
 
   Alt+F2
 
-and then:
+e então:
 
   omegat
 
-For a more user-friendly way of launching OmegaT, you can use the Kaptain
-script provided (omegat.kaptn). To use this script you must first install
-Kaptain. You can then launch the Kaptain launch script with:
+Para uma maneira mais acessível de iniciar o OmegaT, você pode usar o Kaptain script fornecido (omegat.kaptn). Para usar esse script você deve primeiro instalar o Kaptain. Você pode então executar o o script de inicialização do Kaptain com:
 
   Alt+F2
 
-and then:
+e então:
 
   omegat.kaptn
 
 
 
-Launching OmegaT from the command line (all systems)
-====================================================
+Iniciando o OmegaT a partir da linha de comando (em qualquer sistema operacional)
 
-The command to launch OmegaT is:
+O comando para iniciar o OmegaT é:
 
 cd <pasta que contém o arquivo OmegaT.jar>
 
 <nome e caminho do arquivo executável java> -jar OmegaT.jar
 
 (O arquivo Java executável é o arquivo java no Linux e o java.exe no Windows.
-If Java is installed at system level and is in the command path, the full path
-need not be entered.)
+Se o Java estiver instalado a nível de sistema e estiver no caminho de comando, o caminho completo não precisará ser inserido.)
 
 
 
-Contributors
+Contribuidores
 ============
 
 OmegaT originou-se do trabalho de Keith Godfrey.
 
-Didier Briel é o gerente de projeto do OmegaT.
+Aaron Madlon-Kay é o gerente de projeto do OmegaT
+
+Equipe atual:
+(por ordem alfabética)
+
+  Vincent Bidaux (gerente de documentação)
+  Marco Cevoli (administrador da comunidade no Telegram)
+  Jean-Christophe Helary (administrador da comunidade no Twitter) 
+  Kos Ivantsof (gerente de localização)
+  Concepción Martin (gerente de comunidade do Facebook)
+  Briac Pilpré (webmaster)
+  Lucie Vecerova (gerente de comunidade do Facebook)
+
+As contribuições ao código estão documentadas em /docs/contributors.txt.
 
 Contribuidores anteriores:
 (ordem alfabética)
 
-Contributions to the code are documented in /docs/contributors.txt.
-
-Outras contribuições de
-  Vincent Bidaux (gerente de documentação)
+  Anthony Baldwin (gerente de localização)
+  Didier Briel (gerente de projetos)
   Alex Buloichik (desenvolvedor líder)
   Sabine Cretella
   Dmitri Gabinski
-  Jean-Christophe Helary (gerente de localização)
-  Aaron Madlon-Kay (gerente de integração)
+  Jean-Christophe Helary (proprietário do grupo de suporte e gerente de localização)
+  Maxym Mykhalchuk (desenvolvedor chefe)
   Samuel Murray
-  Marc Prior (webmaster)
+  Henry Pijffers (gerente de lançamento)
+  Marc Prior (coordenador de projeto, webmaster)
+  Vito Smolej (gerente de documentação)
   e muitos outros colaboradores prestativos
 
-(If you think you have significantly contributed to the OmegaT Project but you
-(don't see your name on the lists, feel free to contact us.)
+(Se você acredita que contribuiu significativamente para o Projeto OmegaT, mas não vê seu nome nas listas, sinta-se a vontade para nos contactar.)
 
 
 
-Useful links
-============
+Links úteis:
 
-The most current info about OmegaT can be found at:
+As informações mais atuais sobre o OmegaT podem ser encontradas em:
 
    http://www.omegat.org/
 

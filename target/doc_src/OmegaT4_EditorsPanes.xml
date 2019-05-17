@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<chapter id="panes">
+  <title>Panes</title>
+
+  <para>A janela principal é formada por diversos painéis, o menu principal e a barra de status. Você pode alterar a posição de qualquer painel, ou até mesmo desconectá-lo para uma janela separada, clicando e arrastando o painel pelo seu nome. Dependendo do status no painel, este pode exibir ícones diferentes no canto direito.</para>
+
+  <note>
+    <para>Se você não conseguir ver todos os painéis (abertos ou minimizados), pressione <guisubmenu> Opções &gt; Restaurar janela principal </guisubmenu> para restaurar seu estado, definido na instalação.</para>
+  </note>
+
+  <table>
+    <title>Painel de Widgets</title>
+
+    <tgroup cols="2">
+      <colspec align="left" colnum="1"/>
+
+      <tbody>
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Minimize.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Minimize.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>minimiza o painel, para que somente seu nome seja mostrado na parte inferior da janela</entry>
+        </row>
+
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Maximize.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Maximize.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>maximiza o painel</entry>
+        </row>
+
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Restore.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Restore.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>restaura o layout antes da etapa de maximização</entry>
+        </row>
+
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Undock.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Undock.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>desencaixa o painel da janela principal</entry>
+        </row>
+
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Dock.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Dock.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>recoloca o painel dentro da janela principal</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+
+  <para>Você pode sobrepor painéis se desejar. Quando isso é feito, os painéis exibem uma guia na parte superior. Para redimensionar os painéis, basta arrastar os separadores que ficam entre eles. Should you lose track of your changes to the user interface, you can use <guimenuitem> Options → Restore the main window</guimenuitem> any time to return to the original layout.</para>
+
+  <para>É possível arrastar e soltar arquivos em cada painel, que reagirá de acordo.<itemizedlist>
+      <listitem>
+        <para>Painel editor: se você soltar um arquivo de projeto do OmegaT (<filename>omegat.project</filename>) neste painel, o projeto correspondente será aberto, fechando qualquer outro projeto que esteja aberto. Se você soltar outros arquivos eles serão copiados para a pasta <filename>source</filename>. Isto também se aplica à janela  <link linkend="windows.projectfiles">Arquivos do projeto</link>.</para>
+      </listitem>
+
+      <listitem>
+        <para>Painel de correspondências parciais: arquivos <filename>.tmx</filename> serão copiados para a pasta <filename>tm</filename>.</para>
+      </listitem>
+
+      <listitem>
+        <para>Painel de glossário: se você soltar arquivos com extensões glossário conhecidas (<filename>. txt</filename>, <filename>.tab</filename>, etc.) eles serão copiados para a pasta <filename>glossary</filename>.</para>
+      </listitem>
+    </itemizedlist></para>
+
+  <section id="editor.pane">
+    <title>Editor</title>
+
+    <para>É onde você digita e edita sua tradução. O painel Editor exibe o texto do documento parcialmente traduzido: o texto já traduzido é exibido na tradução, enquanto o texto não traduzido é exibido no idioma original. O texto exibido é dividido em segmentos e você pode percorrer o documento e dar um duplo clique em qualquer segmento para abrir e editar. No caso acima, os segmentos já traduzidos são mostrados em amarelo.</para>
+
+    <para>Um dos segmentos acima é o segmento atual. É o segmento que é exibido em duas partes. The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is <literal>&lt;segment nnnn&gt;</literal> where nnnn is a number of the segment in the project. Use a parte superior como referência e substitua ou modique o conteúdo do campo de edição com seu tradutor.</para>
+
+    <para>Nota: o marcador de segmento exibe <literal>&lt;segment nnnn +yy outro(s)&gt; quando o segmento não é único. Nesse caso, yy é o número de outras ocorrências do segmento no projeto.</literal></para>
+
+    <para>Dependendo do comportamento de edição preferido, o campo de edição para o segmento não traduzido podem estar vazio, conter o texto fonte ou conter a tradução da cadeia mais semelhante àquela a ser traduzida. Ao passar para um outro segmento, a tradução é validada e salva. Se você quiser que a tradução seja igual à fonte, é só deixar o campo de edição vazio removendo todo o texto (selecione tudo com <keycap>Ctrl+A</keycap> e exclua com <keycap>Del</keycap>). OmegaT é capaz de armazenar traduções que são idênticas à fonte. Isto é útil para textos que contêm marcas registradas, nomes ou outros substantivos próprios, ou partes em um terceiro idioma que não necessitam de tradução. Veja <emphasis>Edição de tradução</emphasis> para obter mais detalhes.</para>
+
+    <para>Se você clicar com o botão direito no painel Editor, um menu pop-up aparece oferecendo<emphasis role="bold"> Cortar, Copiar, Colar</emphasis> (as mesmas funções que <keycombo> <keycap>Ctrl</keycap> <keycap>X</keycap> </keycombo>, <keycombo> <keycap>Ctrl</keycap> <keycap>C</keycap> </keycombo> e <keycombo> <keycap>Ctrl</keycap> <keycap>V</keycap> </keycombo>) e as funções <emphasis role="bold">Acessar segmento</emphasis> e <emphasis role="bold">Adicionar termo no glossário</emphasis>. Além disso, quando você clica com o botão direito do mouse em um segmento aberto, outras opções relativas a <emphasis role="bold">traduções alternativas</emphasis> são propostas, por exemplo, para saltar para outra instância de segmentos que não são únicos.</para>
+
+    <para>É possível arrastar texto de qualquer lugar na janela principal e soltá-lo dentro do segmento. Textos arrastados de fora do segmento de destino são copiados, enquanto que textos arrastados de dentro do próprio segmento são movidos.</para>
+
+    <para>Por padrão, não é possível selecionar palavras no segmento de origem usando o teclado ao invés do mouse. Pressionar a tecla <keycap>F2</keycap> permite mover o cursor para o segmento de origem (ou para qualquer lugar no editor) com as setas do teclado. Neste modo, a mensagem &quot;<guilabel>Bloqueio de cursor desativado</guilabel>&quot; é exibida na base do painel. Para voltar ao modo padrão &quot;<guilabel>Bloqueio de cursor ativado</guilabel>&quot;, pressione <keycap>F2</keycap> novamente.</para>
+  </section>
+
+  <section>
+    <title>Correspondências parciais</title>
+
+    <para>O visualizador de correspondências mostra os segmentos mais similares da memórias de tradução, tanto da memória de tradução interna do projeto criada em tempo real enquanto você traduz o seu projeto, e das memórias de tradução auxiliares importadas de seus trabalhos anteriores, ou recebidas de seu cliente ou agência de tradução.</para>
+
+    <para>Ao passar para o próximo segmento, a primeira correspondência parcial (a que tiver maior porcentagem de semelhança) é selecionada automaticamente. You may select a different match by pressing <guimenuitem>Ctrl+2, 3, 4, or 5</guimenuitem>. Of course, pressing <keycombo> <keycap>Ctrl</keycap> <keycap>5</keycap> </keycombo> will have no effect, if there is no match #5. To use the selected match in your translation, use <guimenuitem>Ctrl+R</guimenuitem> to replace the target field with the match or use <guimenuitem>Ctrl+I </guimenuitem> to insert it at the cursor position.</para>
+
+    <para>A percentagem de correspondência é aproximadamente equivalente a o número de palavras comuns nos segmentos correspondentes, dividindo-se o número de palavras do mais longo dos dois. A correspondência parcial selecionada é destacada em negrito, as palavras que estão faltando no segmento que você está traduzindo são de cor azul e palavras adjacentes às que faltam em verdes. No exemplo acima, o segmento fonte é <emphasis role="bold">Context menu command</emphasis>. A melhor correspondência é 100%, porque todas as palavras coincidem. Também são as próximas duas correspondências, e a correspondência #4 é semelhante, mas diferente. The line with the matching percentage also includes the name of the translation memory containing the match. Se não houver nome de arquivo exibido, a fonte é a memória de tradução interna do projeto. Orphan segments (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</para>
+  </section>
+
+  <section>
+    <title>Glossário</title>
+
+    <para>O painel Glossário permite que você acesse a sua própria coleção de expressões e terminologia especializada que construiu em seus arquivos glossário. Ele mostra a tradução dos termos encontrados no segmento atual. O segmento fonte no exemplo abaixo era “<emphasis>Context menu command</emphasis>”, como no exemplo acima para Correspondências Parciais, e os termos mostrados eram encontrados nos glossários disponíveis (coleção da equipe da Microsoft e glossário do grupo esloveno de usuários Linux).</para>
+
+    <para>Se você estiver com a opção Dicas de tradução ativada (<guimenuitem>Opções → Dicas de tradução</guimenuitem>), você pode clicar com o botão direito sobre a palavra destacada no segmento de origem para abrir um menu pop-up com a tradução sugerida, como aparece no seu glossário. Selecionando uma delas irá inseri-la na posição atual do cursor no segmento alvo. Você também pode destacar a sua alternativa preferida no painel glossário e inseri-la no alvo com o botão direito na seleção.</para>
+  </section>
+
+  <section>
+    <title>Dicionário</title>
+
+    <para>Dicionários são os equivalentes eletrônicos de dicionários impressos como Merriam Webster, Duden, Larousse, etc., que você pode ter em sua mesa. Veja mais sobre eles no capítulo sobre <link linkend="appendix.dictionaries">Dicionários</link></para>
+  </section>
+
+  <section>
+    <title>Tradução automática</title>
+
+    <para>O painel de tradução automática, quando aberto, contém as sugestões de ferramentas de tradução automática para o segmento atual. Pressione <keysym>Ctrl+M</keysym> para substituir a tradução do segmento atual com a tradução sugerida.</para>
+  </section>
+
+  <section>
+    <title>Traduções múltiplas</title>
+
+    <para>Um determinado segmento fonte pode exigir várias traduções diferentes, dependendo do contexto. Se a tradução atual do segmento não se encaixa, o usuário pode selecionar  <guisubmenu>Editar → Criar tradução alternativa</guisubmenu>. O texto alvo inserido depois será tratado como uma tradução alternativa do segmento fonte. Você pode definir uma das alternativas - por exemplo, a mais provável entre elas - como a tradução padrão, selecionando <guisubmenu>Editar → Usar como tradução padrão</guisubmenu></para>
+  </section>
+
+  <section>
+    <title>Notas</title>
+
+    <para>O tradutor pode adicionar notas para o segmento aberto, por exemplo, para voltar mais tarde para o segmento e refazer a tradução, verificar se as traduções alternativas estão corretas ou pedir aos colegas uma opinião. Você pode navegar através das notas usando  <guisubmenu>Acessar → Próxima observação</guisubmenu> e <guisubmenu>Acessar → Observação anterior</guisubmenu>.</para>
+  </section>
+
+  <section>
+    <title>Comentários</title>
+
+    <para>Alguns dos formatos de arquivo especializados para o trabalho de tradução, como o PO, permitem a inserção de comentários. Desta forma, o tradutor pode descobrir o contexto do segmento a ser traduzido. No exemplo abaixo, o autor do arquivo PO incluiu um aviso para o tradutor verificar o comprimento da tradução:</para>
+  </section>
+
+  <section>
+    <title>Barra de status</title>
+
+    <para>A barra de status na parte inferior da janela principal exibe mensagens relacionadas com o fluxo de trabalho. Esta barra dá o feedback ao usuário sobre as operações específicas que estão em andamento. Ela também mostra o número de correspondências parciais da memória e do glossário para o segmento atual.</para>
+
+    <para>Os contadores no canto inferior direito acompanham o andamento da tradução (números na coluna da esquerda referem-se a figura acima):</para>
+
+    <table>
+      <title>Janela Principal - contadores</title>
+
+      <tgroup cols="2">
+        <colspec align="left" colnum="1"/>
+
+        <tbody>
+          <row>
+            <entry>27/27</entry>
+
+            <entry>número de segmentos - total vs traduzidos para o arquivo atual</entry>
+          </row>
+
+          <row>
+            <entry>9319/16338</entry>
+
+            <entry>número de segmentos únicos - total vs traduzidos no projeto</entry>
+          </row>
+
+          <row>
+            <entry>31175</entry>
+
+            <entry>número total de segmentos (incluindo repetições) no projeto</entry>
+          </row>
+
+          <row>
+            <entry>103/114</entry>
+
+            <entry>número de caracteres fonte e alvo no segmento atual</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+
+    <para>De um ponto de vista prático, o par de números mais importante é o segundo: ele diz quanto você já traduziu até agora em relação ao total, ou o segundo número. O projeto no exemplo está evidentemente terminado, pois todos os segmentos únicos foram traduzidos.</para>
+  </section>
+</chapter>

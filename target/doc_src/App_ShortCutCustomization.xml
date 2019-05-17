@@ -4,11 +4,9 @@
   <title>Configuração de atalhos</title>
 
   <section id="ch04.shortcuts.customization">
-    <title><indexterm class="singular">
-        <primary>Configuração</primary> de <secondary>atalhos</secondary>
-      </indexterm>Configuração de atalhos</title>
+    <title>Configuração de atalhos</title>
 
-    <para>A maioria dos itens que aparecem no menu principal pode ter os atalhos alterados. Você pode modificar os atalhos já atribuídos e acrescentar novos atalhos colocando um arquivo de definições de atalhos na sua pasta de preferências do OmegaT (veja <link linkend="user.files">Local dos arquivos do usuário</link>).</para>
+    <para>A maioria dos itens que aparecem no menu principal pode ter os atalhos alterados. You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your <application>OmegaT</application> preferences folder (accessible by <menuchoice> <guimenuitem>Options</guimenuitem> <guimenuitem>Access Configuration Folder</guimenuitem> </menuchoice> menu).</para>
 
     <para>O arquivo de definições de atalhos deve ser nomeado <filename>MainMenuShortcuts.properties</filename> e deve conter no máximo uma definição de atalho por linha. Linhas vazias são aceitas e linhas de comentários devem começar com &quot;//&quot;. Tudo o que estiver depois do &quot;//&quot; será ignorado.</para>
 
@@ -670,11 +668,7 @@
     <table>
       <title>Menu Exibir</title>
 
-      <indexterm class="singular">
-        <primary>Configuração de atalhos</primary> <secondary>Menu Exibir</secondary>
-      </indexterm>
-
-      <tgroup cols="3" colsep="1">
+       <tgroup cols="3" colsep="1">
         <colspec align="left" colname="1" colnum="1"/>
 
         <colspec align="left" colname="2" colnum="2"/>

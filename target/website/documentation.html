@@ -12,7 +12,7 @@
     </tr>
     <tr>
       <td>
-        <a href="http://omegat.sourceforge.net/manual-standard/">Manual do usuário on-line em HTML</a>
+        <a href="https://omegat.sourceforge.io/manual-standard/">Manual do usuário on-line em HTML</a>
       </td>
       <td>O manual do usuário em HTML para a versão padrão do OmegaT.</td>
     </tr>
@@ -22,13 +22,13 @@
   <table class="table">
     <tr>
       <td>
-        <a href="{{ '/files/OmegaT_for_Beginners.odt' | prepend: site.baseurl_root }}">Tutorial para Iniciantes do OmegaT</a>
+        <a href="{{ '/files/guide/OmegaT_for_Beginners_' | append:site.lang | append:'.odt' | prepend: site.baseurl_root }}">Tutorial para Iniciantes do OmegaT</a>
       </td>
       <td>Por Susan Welsh (formato de documento aberto - ODF).</td>
     </tr>
     <tr>
       <td>
-        <a href="{{ '/files/OmegaT_for_Beginners.pdf' | prepend: site.baseurl_root }}">Tutorial para Iniciantes do OmegaT</a>
+        <a href="{{ '/files/guide/OmegaT_for_Beginners_' | append:site.lang | append:'.pdf' | prepend: site.baseurl_root }}">Tutorial para Iniciantes do OmegaT</a>
       </td>
       <td>Por Susan Welsh (formato PDF).</td>
     </tr>
@@ -36,139 +36,15 @@
       <td>
         <a href="https://blog.wtigga.com/omegat/">В помощь переводчику: 10 советов по OmegaT</a>
       </td>
-      <td>By Vladimir Zhdanov (in Russian).</td>
+      <td>Por Vladimir Zhdanov (em Russo).</td>
     </tr>
     <tr>
       <td>
-        <a href="https://www.sutori.com/story/omegat">Recursos do OmegaT: primeiros passos</a>
+        <a href="https://www.multitude.trd.br/omegat-2/">Recursos do OmegaT: primeiros passos</a>
       </td>
       <td>By Sheila Gomes (in Brasilian Portuguese).</td>
     </tr>
 
-  </table>
-  <h3 id="howto">INSTRUÇÕES</h3>
-  <p>Os documentos de "Instruções" neste site contém informações sobre determinados procedimentos e recursos do OmegaT para usuários avançados que não são cobertos pelo manual.</p>
-  <table class="table">
-    <tr>
-      <td/>
-      <td>
-        <strong>Instruções sobre compatibilidade</strong>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/compatibility.html">Compatibilidade do OmegaT</a>
-      </td>
-      <td>Descreve a compatibilidade do OmegaT em relação a outros programas. Com links para INSTRUÇÕES mais detalhadas.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/docx.html">Compatibilidade com docx.</a>
-      </td>
-      <td>Descreve a compatibilidade com arquivos do Microsoft Office 2007, especialmente Word 2007.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/compatibility_deja_vu.html">Compatibilidade com Déjà Vu</a>
-      </td>
-      <td>Descreve a compatibilidade do OmegaT com o Déjà Vu.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/export_uncleaned_rtf.html">Arquivo RTF unclean</a>
-      </td>
-      <td>Descreve a utilização do OmegaT em conjunto com os arquivos bilíngues em formato RTF do Trados (arquivos"unclean").</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/iceni_infix.html">Iceni Infix</a>
-      </td>
-      <td>Descreve a utilização do OmegaT em conjunto com o Iceni Infix para traduzir arquivos no formato PDF.</td>
-    </tr>
-    <tr>
-      <td/>
-      <td>
-        <strong>Instruções de recursos</strong>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/spelling.html">Verificação Ortográfica</a>
-      </td>
-      <td>Descreve o recurso do OmegaT de verificação ortográfica.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/prop12m.html">Propagação e correspondência única ou múltipla</a>
-      </td>
-      <td>Descreve os recursos do OmegaT de propagação e de correspondência única ou múltipla.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/google_translate.html">Google Translate</a>
-      </td>
-      <td>Como usar o OmegaT em conjunto com o Google Translate.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/ms_translator.html">MS Translator</a>
-      </td>
-      <td>Como configurar o Microsoft Translator.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/preview.html">Visualização</a>
-      </td>
-      <td>Como configurar a função de visualização para usá-la com o OmegaT.</td>
-    </tr>
-    <tr>
-      <td/>
-      <td>
-        <strong>Instruções avançadas de recursos</strong>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/tokenizer.html">Plugin de tokenizers do OmegaT</a>
-      </td>
-      <td>Adiciona reconhecimento de formas flexionadas às funções de glossário e correspondências parciais do OmegaT.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/text_export.html">Função de exportação de texto do OmegaT</a>
-      </td>
-      <td>Como usar a função do OmegaT de exportação de texto (interface de script).</td>
-    </tr>
-    <tr>
-      <td/>
-      <td>
-        <strong>Outras Instruções</strong>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/compiling_from_source.html">Como compilar o OmegaT a partir da fonte</a>
-      </td>
-      <td>Explica como compilar o OmegaT a partir do código-fonte.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/new_filter.html">Como criar um novo filtro de arquivo</a>
-      </td>
-      <td>Explica como criar um filtro para um novo formato de arquivo a ser traduzido pelo OmegaT.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/localizing_omegat.html">Localização do OmegaT</a>
-      </td>
-      <td>Procedimento administrativo e técnico de localização do OmegaT.</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="howtos/linux.html">Como usar o OmegaT no Linux</a>
-      </td>
-      <td>Destinado particularmente a novos usuários do Linux.</td>
-    </tr>
   </table>
   <h3>Documentação externa</h3>
   <p>Informação sobre procedimentos e recursos do OmegaT para usuários avançados que pode ser encontrada em outros websites.</p>
@@ -198,49 +74,49 @@
       <td>Um guia de como usar a Extração de Texto e Combinação de Texto do Rainbow em arquivos pré e pós-processados para traduzi-los no OmegaT. These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</td>
     </tr>
   </table>
-  <h3>Training videos</h3>
+  <h3>Vídeos de treinamento</h3>
   <table class="table">
     <tr>
       <td>
-        <a href="http://www.youtube.com/playlist?list=PLFED193FA64E53D60">Playlist of OmegaT videos</a>
+        <a href="http://www.youtube.com/playlist?list=PLFED193FA64E53D60">Playlist de vídeos OmegaT</a>
       </td>
-      <td>OmegaT videos on the Qabiria YouTube channel.</td>
+      <td>Vídeos do OmegaT no canal do YouTube Qabiria.</td>
     </tr>
     <tr>
       <td>
-        <a href="http://www.youtube.com/watch?v=iakqcUvRsEU">OmegaT introduction tutorial</a>
+        <a href="http://www.youtube.com/watch?v=iakqcUvRsEU">Tutorial de introdução ao OmegaT</a>
       </td>
-      <td>An introductory video to OmegaT in English by John Moran.</td>
+      <td>Um vídeo introdutório ao OmegaT em Inglês por John Moran.</td>
     </tr>
     <tr>
       <td>
-        <a href="http://www.youtube.com/watch?v=waW8nXGyUBU">Video 1</a>
-      </td>
-      <td>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="http://www.youtube.com/watch?v=9oRsBcRXflE">Video 2</a>
+        <a href="http://www.youtube.com/watch?v=waW8nXGyUBU">Vídeo 1</a>
       </td>
       <td>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</td>
     </tr>
     <tr>
       <td>
-        <a href="http://www.youtube.com/watch?v=8m2_R6L84PE">Video 3</a>
+        <a href="http://www.youtube.com/watch?v=9oRsBcRXflE">Vídeo 2</a>
+      </td>
+      <td>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="http://www.youtube.com/watch?v=8m2_R6L84PE">Vídeo 3</a>
       </td>
       <td>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</td>
     </tr>
   </table>
-  <h3>Books</h3>
+  <h3>Livros</h3>
   <table class="table">
     <tr>
       <td>
         <a href="http://www.ultimabooks.it/guida-completa-a-omegat-tecniche-trucchi-e-consigli-per-traduttori-e-project-manager">Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</a>
       </td>
-      <td>By Marco Cevoli and Sergio Alasia. (In Italian)</td>
+      <td>By Marco Cevoli and Sergio Alasia. (Em Italiano)</td>
     </tr>
   </table>
-  <h3>Training</h3>
+  <h3>Treinamento</h3>
   <table class="table">
     <tr>
       <td>
@@ -253,15 +129,15 @@
   <table class="table">
     <tr>
       <td>
-        <a href="http://www.velior.ru/tag/omegat/">Blog da empresa do Velior <br/>&amp;Na traduçãotranslation industry</a>
+        <a href="http://www.velior.ru/tag/omegat/">Blog da empresa do Velior <br/>&amp;Na traduçãoindustria da tradução</a>
       </td>
       <td>Blog pages on OmegaT. Inglês</td>
     </tr>
     <tr>
       <td>
-        <a href="http://www.velior.ru/blog/ru/tag/omegat/">Blog da empresa do Velior <br/>&amp;Na traduçãotranslation industry</a>
+        <a href="http://www.velior.ru/blog/ru/tag/omegat/">Blog da empresa do Velior <br/>&amp;Na traduçãoindustria da tradução</a>
       </td>
-      <td>Blog pages on OmegaT. (In Russian)</td>
+      <td>Blog pages on OmegaT. (Em Russo)</td>
     </tr>
   </table>
 </div>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<section id="howto.reusetm">
+  <title>Reuse Translation Memories</title>
+
+  <para>Inicialmente quando o projeto é criado, a TM principal do projeto, <filename>project_save.tmx</filename>, está vazia. Esta TM gradualmente se torna cheia durante a tradução. Para acelerar o processo, as traduções existentes podem ser reutilizadas. Se uma determinada frase já foi traduzida corretamente uma vez, não é necessário a retradução. As memórias de tradução também podem conter traduções de referência: um exemplo típico é a legislação multinacional da Comunidade Europeia.</para>
+
+  <para>Quando você cria os documentos traduzidos em um projeto <application>OmegaT</application>, a memória de tradução do projeto é gerada na forma de três arquivos na pasta raiz do seu projeto <application>OmegaT</application> (veja a descrição acima). Você pode considerar estes três arquivos tmx (<filename>-omegat.tmx</filename>, <filename>-level1.tmx</filename> e <filename>-level2.tmx</filename>) como uma &quot;memória de tradução exportada&quot;, p. ex., como uma exportação bilíngue do conteúdo do seu projeto atual.</para>
+
+  <para>Caso você queira reutilizar uma memória de tradução de um projeto anterior (por exemplo, por semelhança do novo projeto com o anterior, ou por usar terminologia já utilizada antes), você pode usar essas memórias de tradução como &quot;memórias de entrada de tradução&quot;, ou seja, para importar para o novo projeto. Neste caso, coloque as memórias de tradução que desejar usar na pasta <emphasis>/tm</emphasis> ou <emphasis>/tm</emphasis>/auto do seu novo projeto: no primeiro caso você obterá hits das memórias de tradução no visualizador de correspondências parciais, e no segundo, estas TMs serão usadas para pré-traduzir o texto fonte.</para>
+
+  <para>Está predefinido que a pasta /tm fica acima da pasta raiz do projeto (p. ex. ...<emphasis>/MyProject/tm</emphasis>), mas você pode escolher uma pasta diferente na caixa de propriedades do projeto. Isso é útil se você costuma usar as memórias de tradução produzidas anteriormente, por exemplo, porque se referem ao mesmo assunto ou são para o mesmo cliente. Neste caso, um procedimento muito útil seria:</para>
+
+  <itemizedlist>
+    <listitem>
+      <para>Criar uma pasta (uma pasta &quot;repositório&quot;) em um local conveniente no disco rígido para as memórias de tradução para um cliente ou assunto específico.</para>
+    </listitem>
+  </itemizedlist>
+
+  <itemizedlist>
+    <listitem>
+      <para>Sempre que terminar um projeto, copie uma das três memórias de tradução &quot;de exportação&quot; da pasta raiz do projeto para a pasta de repositório.</para>
+    </listitem>
+  </itemizedlist>
+
+  <itemizedlist>
+    <listitem>
+      <para>Quando iniciar um novo projeto sobre o mesmo assunto ou para o mesmo cliente, acesse a pasta de repositório em <guimenuitem>Projeto &gt; Propriedades &gt; Editar Projeto</guimenuitem> e selecione-a com a pasta de memória de tradução.</para>
+    </listitem>
+  </itemizedlist>
+
+  <para>Observe que todos os arquivos tmx no repositório /tm são analisados ​​quando o projeto é aberto, assim, colocar todas as diferentes TMs que tiver nesta pasta pode deixar o OmegaT lento. Você pode querer remover aquelas que não são mais necessárias após o uso de seu conteúdo para preencher o arquivo <filename>project-save.tmx</filename>.</para>
+
+  <section>
+    <title>Importação e exportação de memórias de tradução</title>
+
+    <para>O OmegaT suporta as versões importadas de tmx 1.1-1.4b (ambos de nível 1 e nível 2). Isto possibilita que as memórias de tradução produzidas por outras ferramentas possam ser lidas pelo OmegaT. No entanto, o OmegaT não suporta plenamente os arquivos tmx de nível 2 importados (pois armazenam a formatação, além da tradução). Os arquivos de tmx nível 2 serão importados e seu conteúdo textual pode ser visto no OmegaT, mas a qualidade das correspondências parciais será inferior.</para>
+
+    <para>O OmegaT segue procedimentos muito restritos ao carregar arquivos de memória de tradução (tmx). Se um erro for encontrado num arquivo, o OmegaT indicará a posição dentro do arquivo defeituoso em que está localizado o erro.</para>
+
+    <para>Algumas ferramentas são conhecidas por produzir arquivos tmx inválidos sob certas condições. Se você quiser usar esses arquivos como traduções de referência no OmegaT será necessário repará-los, ou o OmegaT irá reportar um erro e não conseguirá carregá-los. As correções são operações triviais e o OmegaT ajuda na resolução de problemas com a mensagem de erro relacionado. Se não puder corrigir você mesmo o problema, solicite ajuda ao grupo de usuários.</para>
+
+    <para>O OmegaT exporta a versão 1.4 de arquivos TMX (ambos de nível 1 e nível 2). A exportação nível 2 não obedece totalmente ao nível 2 padrão, mas é muito próxima e gerará correspondências corretas nas ferramentas de memória de tradução que suportam TMX de nível 2. Se você precisa apenas de informações textuais (e não de formatação), use o arquivo nível 1 gerado pelo OmegaT.</para>
+  </section>
+
+  <section>
+    <title>Criação de uma memória de tradução de documentos selecionados</title>
+
+    <para>No caso dos tradutores precisarem compartilhar suas bases TMX enquanto excluem algumas de suas partes ou incluem traduções de certos arquivos, compartilhar o arquivo <filename>ProjectName-omegat.tmx</filename> não é necessário. The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>Crie um projeto separado para outros projetos no par de idiomas desejado, com um nome apropriado - observe que as TMXs criadas incluirão esse nome.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Copie os documentos para os quais você precisa da memória de tradução para a pasta de origem do projeto.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Copie as memórias de tradução contendo as traduções dos documentos acima para a subpasta <filename>tm/auto</filename> do novo projeto.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Inicie o projeto. Verifique possíveis erros de tag com <keycap>Ctrl+T </keycap> e os segmentos não traduzidos com  <keycap>Ctrl+U</keycap>. Para verificar se tudo está como o esperado, pressione <keycap>Ctrl+D</keycap> para criar os documentos alvo e verificar seus conteúdos.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Quando você sair do projeto. the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder. Copie-os para um lugar seguro para futuras referências.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Para evitar a reutilização do projeto e possivelmente poluir casos futuros, exclua a pasta do projeto ou arquive longe de seu local de trabalho.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+
+  <section>
+    <title>Compartilhando memórias de tradução</title>
+
+    <para>Nos casos em que uma equipe de tradutores está envolvida, os tradutores preferem compartilhar memórias de tradução comuns em vez de distribuir suas versões locais.</para>
+
+    <para>O OmegaT tem interface para SVN e Git, dois softwares de equipe comum com versões e sistemas de controle de revisão (RCS), disponíveis sob uma licença open source. No caso das pastas de projetos completos do OmegaT - em outras palavras, as memórias de tradução envolvidas, bem como pastas de origem, configurações do projeto, etc. - elas são gerenciadas pelo RCS selecionado. Veja mais informações no Capítulo</para>
+  </section>
+
+  <section>
+    <title>Using TMX with alternative language</title>
+
+    <para>Pode haver casos onde você tenha feito um projeto com, por exemplo, fontes holandesas e uma tradução em, digamos, inglês. Então você precisa de uma tradução, por exemplo, em chinês, mas seu tradutor não entende holandês; no entanto, entende inglês perfeitamente. Neste caso, uma memória de tradução NL-EN pode servir como um intermediário para ajudar a gerar uma tradução de NL para ZH.</para>
+
+    <para>A solução, no nosso exemplo, é copiar a memória de tradução existente para a subpasta tm/tmx2source/ e renomeá-la ZH_CN.tmx para indicar o idioma destino da tmx. O tradutor verá traduções em inglês para os segmentos de origem em holandês e as usará para criar a tradução chinesa.</para>
+
+    <para><emphasis role="bold">Importante: </emphasis>o arquivo TMX de apoio deve ser renomeado XX_YY.tmx, onde XX_YY é o idioma de destino do arquivo tmx, por exemplo, ZH_CN.tmx no exemplo acima. O projeto e idiomas de origem da TMX devem ser obviamente idênticos - NL em nosso exemplo. Observe que é possível apenas uma TMX para um dado par de idiomas, por isso, se várias memórias de tradução forem envolvidas, você terá que juntá-las todas no XX_YY.tmx.</para>
+  </section>
+</section>
