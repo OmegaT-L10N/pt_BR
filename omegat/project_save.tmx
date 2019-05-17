@@ -24381,6 +24381,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190517T004058Z" creationid="Michael" creationdate="20190517T004058Z">
+        <seg>Marca &amp;Delimitações de parágrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Paragraph delimitations</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T120112Z" creationid="CALDAS" creationdate="20190420T120112Z">
