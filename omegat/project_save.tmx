@@ -13205,6 +13205,22 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190517T004208Z" creationid="Michael" creationdate="20190517T004208Z">
+        <seg>Cursor bloqueado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190517T004224Z" creationid="Michael" creationdate="20190517T004224Z">
+        <seg>Cursor desbloqueado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170918T101553Z" creationid="Sheila" creationdate="20170918T101553Z">
@@ -21423,6 +21439,14 @@ parts of the aggregate.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190517T004257Z" creationid="Michael" creationdate="20190517T004257Z">
+        <seg>Modo Inserir</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
@@ -28624,6 +28648,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181854Z" creationid="karol" creationdate="20160308T181854Z">
         <seg>A sobreposição é o resultado da manipulação incorreta de pares de tags e certamente resultará em problemas de formatação e o arquivo traduzido pode não abrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190517T004244Z" creationid="Michael" creationdate="20190517T004244Z">
+        <seg>Modo Sobrescrever</seg>
       </tuv>
     </tu>
     <tu>
@@ -44313,6 +44345,16 @@ Tanto a busca exata como a por palavra-chave suportam os caracteres curingas * e
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T212639Z" creationid="karol" creationdate="20160308T212639Z">
         <seg>Exibirá uma lista de segmentos com problemas de tags e possíveis inconsistências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190517T004621Z" creationid="Michael" creationdate="20190517T004621Z">
+        <seg>O vento balança os lírios&lt;p&gt;e as pétalas se espalham ao vento:&lt;p&gt;Sua página não foi encontrada</seg>
       </tuv>
     </tu>
     <tu>
