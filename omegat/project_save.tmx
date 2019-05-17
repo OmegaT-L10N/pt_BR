@@ -520,7 +520,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&amp;Automatically search segment text in dictionary</seg>
       </tuv>
@@ -1534,7 +1533,6 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&amp;Show in Editor context menu</seg>
       </tuv>
@@ -4137,7 +4135,6 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
@@ -4178,7 +4175,6 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
@@ -7633,7 +7629,6 @@ included in conveying the object code work.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
@@ -9056,7 +9051,6 @@ know their rights.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Anthony Baldwin (localisation manager)</seg>
       </tuv>
@@ -11541,7 +11535,6 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Command is missing command string</seg>
       </tuv>
@@ -11566,7 +11559,6 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Command is missing target</seg>
       </tuv>
@@ -11955,7 +11947,6 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Context Menu Priority:</seg>
       </tuv>
@@ -12036,7 +12027,6 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
@@ -12045,7 +12035,6 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Contributors
 ============</seg>
@@ -12278,7 +12267,6 @@ the conditions stated below.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
@@ -13180,7 +13168,6 @@ unpacking, reading or copying.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Current team:
 (alphabetical order)</seg>
@@ -13785,7 +13772,6 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Didier Briel (project manager)</seg>
       </tuv>
@@ -15896,6 +15882,18 @@ propagate that work, subject to this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190517T001542Z" creationid="Michael" creationdate="20190517T001542Z">
+        <seg>Página de ajuda excitante
+Teias de aranha te prendem
+404 página não encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
@@ -15938,7 +15936,6 @@ propagate that work, subject to this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Executing script {0} (event {1})</seg>
       </tuv>
@@ -17498,7 +17495,6 @@ that there is no warranty for this free software.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>From enforced memory</seg>
       </tuv>
@@ -18974,7 +18970,6 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>If Java is installed at system level and is in the command path, the full path
 need not be entered.)</seg>
@@ -20325,7 +20320,6 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
@@ -20595,7 +20589,6 @@ work and works based on it.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>In Editor</seg>
       </tuv>
@@ -22610,7 +22603,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Jean-Christophe Helary (Twitter community manager)</seg>
       </tuv>
@@ -22619,7 +22611,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
       </tuv>
@@ -22944,7 +22935,6 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Kos Ivantsof (localisation manager)</seg>
       </tuv>
@@ -23361,7 +23351,6 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Launching OmegaT (Linux)
 ========================</seg>
@@ -23372,7 +23361,6 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Launching OmegaT (Mac)
 ======================</seg>
@@ -23393,7 +23381,6 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Launching OmegaT from the command line (all systems)
 ====================================================</seg>
@@ -23819,7 +23806,6 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Local working copies cleaned up: {0}</seg>
       </tuv>
@@ -24344,7 +24330,6 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Marc Prior (project co-ordinator, webmaster)</seg>
       </tuv>
@@ -24361,7 +24346,6 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Marco Cevoli (Telegram community manager)</seg>
       </tuv>
@@ -24396,7 +24380,6 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Mark &amp;Paragraph delimitations</seg>
       </tuv>
@@ -24746,7 +24729,6 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Maxym Mykhalchuk (lead developper)</seg>
       </tuv>
@@ -26914,7 +26896,6 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>OmegaT - The Free Translation Memory Tool</seg>
       </tuv>
@@ -28760,7 +28741,6 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Paragraph delimitation</seg>
       </tuv>
@@ -28769,7 +28749,6 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Paragraph delimitation format:</seg>
       </tuv>
@@ -31906,7 +31885,6 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>SVN - Cleanup (recursive)</seg>
       </tuv>
@@ -32366,7 +32344,6 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Search Dictionaries</seg>
       </tuv>
@@ -33689,7 +33666,6 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Show English Version</seg>
       </tuv>
@@ -33899,7 +33875,6 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
@@ -34453,7 +34428,6 @@ can do so.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
@@ -36592,7 +36566,6 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
@@ -36833,7 +36806,6 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
@@ -39285,7 +39257,6 @@ combination as such.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>There are no local working copies in {0}.</seg>
       </tuv>
@@ -40492,7 +40463,6 @@ protecting users' freedom to change the software.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>This site is also available in English!</seg>
       </tuv>
@@ -42950,7 +42920,6 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Useful links
 ============</seg>
@@ -45027,7 +44996,6 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>You can also launch
 it from the Spotlight search field.</seg>
@@ -45540,7 +45508,6 @@ recipientes uma cópia desta licença junto com o programa.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>You may drag the OmegaT application to your dock or to the tool bar of a
 Finder window to be able to launch it from any location.</seg>
@@ -52553,7 +52520,6 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>{0} is not a local working copy, skipping.</seg>
       </tuv>
@@ -52638,7 +52604,6 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>{0}:	cleanup done!!</seg>
       </tuv>
