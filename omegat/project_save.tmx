@@ -15167,6 +15167,16 @@ propagate that work, subject to this License.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190525T235740Z" creationid="Michael" creationdate="20190525T235740Z">
+        <seg>Vazio da alma&lt;p&gt;Eterna escuridão dolorosa&lt;p&gt;Sua página de ajuda não foi encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
@@ -37556,6 +37566,16 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190525T235528Z" creationid="Michael" creationdate="20190525T235528Z">
+        <seg>A página de ajuda que você procura&lt;p&gt;está além da nossa percepção&lt;p&gt;Mas outras o aguardam</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
@@ -39481,6 +39501,16 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003316Z" creationid="karol" creationdate="20160309T003316Z">
         <seg>Estes arquivos são cópias do arquivo &lt;f0&gt;project_save.tmx&lt;/f0&gt;, ou seja, da memória de tradução principal do projeto, excluindo-se os segmentos órfãos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190525T235424Z" creationid="Michael" creationdate="20190525T235424Z">
+        <seg>Três coisas são certas:&lt;p&gt;a morte, impostos e página não encontrada.&lt;p&gt;Você, vítima de uma delas.</seg>
       </tuv>
     </tu>
     <tu>
