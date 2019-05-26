@@ -10988,6 +10988,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T001654Z" creationid="Michael" creationdate="20190526T001654Z">
+        <seg>Verifique com &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;as Propriedades&lt;/g6&gt; &lt;g7&gt;do projeto&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check in Options &gt; Machine Translate, that Google Translate V2 is checked.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T201700Z" creationid="karol" creationdate="20160308T201700Z">
@@ -32533,6 +32541,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170814T165512Z" creationid="Sheila" creationdate="20170814T165512Z">
         <seg>Procure a combinação de línguas necessária, por exemplo, nos &lt;u0&gt;&lt;i1/&gt;links de dicionários dados pela OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T001424Z" creationid="Michael" creationdate="20190526T001424Z">
+        <seg>Procure a combinação de línguas requerida, por exemplo, nos &lt;u0&gt;&lt;i1/&gt;links de dicionários dados pela OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
