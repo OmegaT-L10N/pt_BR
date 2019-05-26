@@ -3053,6 +3053,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T001938Z" creationid="Michael" creationdate="20190526T001938Z">
+        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; detecta automaticamente os arquivos de glossário nesta pasta quando o projeto é aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003845Z" creationid="karol" creationdate="20160309T003845Z">
@@ -41389,6 +41397,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172706Z" creationid="karol" creationdate="20160308T172706Z">
         <seg>Para atualizar os arquivos locais, clique com o botão direito na pasta local e escolha &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T001800Z" creationid="Michael" creationdate="20190526T001800Z">
+        <seg>Para usar um glossário existente, coloque-o na pasta&lt;i0/&gt; &lt;f1&gt;/glossary&lt;/f1&gt; após criar o projeto.</seg>
       </tuv>
     </tu>
     <tu>
