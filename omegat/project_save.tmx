@@ -20726,6 +20726,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T002602Z" creationid="Michael" creationdate="20190526T002602Z">
+        <seg>Além do formato de texto simples, o formato TBX &lt;i0/&gt; também é suportado como glossário somente leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, two menu entries allow opening directly the current source and target documents and the writable glossary.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T210111Z" creationid="Sheila" creationdate="20170904T210111Z">
@@ -35981,6 +35989,14 @@ this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="User" changedate="20181005T024607Z" creationid="User" creationdate="20181005T024607Z">
         <seg>Problemas de terminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T002042Z" creationid="Michael" creationdate="20190526T002042Z">
+        <seg>Os termos do segmento atual que o &lt;a3&gt;OmegaT&lt;/a3&gt; encontrar no(s) arquivo(s) de glossário são exibidos no painel Glossário:</seg>
       </tuv>
     </tu>
     <tu>
