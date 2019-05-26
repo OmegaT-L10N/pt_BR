@@ -7057,6 +7057,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T004308Z" creationid="Michael" creationdate="20190526T004308Z">
+        <seg>&lt;u0&gt;A coleção de terminologia da Microsoft&lt;/u0&gt; &lt;i1/&gt; pode ser baixada em quase 100 idiomas e serve como base para um glossário de TI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>===============</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20181113T103307Z" creationid="Sheila" creationdate="20181113T103307Z">
