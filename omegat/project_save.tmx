@@ -20702,6 +20702,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T020400Z" creationid="Michael" creationdate="20190526T020400Z">
+        <seg>In OmegaT, selecione &lt;g0&gt;Opções &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In PCW.GR (in Greek).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170912T114217Z" creationid="CALDAS" creationdate="20170912T114217Z">
