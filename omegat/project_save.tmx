@@ -25247,6 +25247,16 @@ your receipt of the notice.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T000552Z" creationid="Michael" creationdate="20190526T000552Z">
+        <seg>Luto e tristeza&lt;p&gt;404 não está conosco agora&lt;p&gt;Foi perdida para o paraíso</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
