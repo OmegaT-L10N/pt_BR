@@ -37853,6 +37853,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T002807Z" creationid="Michael" creationdate="20190526T002807Z">
+        <seg>A localização do arquivo &lt;f1&gt;.tbx&lt;/f1&gt; deve ser na pasta &lt;f2&gt;/glossary&lt;/f2&gt;, mas também pode ser em uma subpasta (p.e., &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of the &lt;f1&gt;.tbx&lt;/f1&gt; file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182015Z" creationid="karol" creationdate="20160308T182015Z">
