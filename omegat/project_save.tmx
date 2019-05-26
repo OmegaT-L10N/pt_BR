@@ -15469,6 +15469,16 @@ Your help page not found</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190525T235827Z" creationid="Michael" creationdate="20190525T235827Z">
+        <seg>Página efêmera&lt;p&gt;Eu sou a Tela Azul da Morte&lt;p&gt;Ninguém escuta seus gritos.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
@@ -30459,6 +30469,16 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T170441Z" creationid="karol" creationdate="20160308T170441Z">
         <seg>Alternância entre RTL-LTR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T000007Z" creationid="Michael" creationdate="20190526T000007Z">
+        <seg>Em vez de um som&lt;p&gt;Ou uma rude mensagem de erro,&lt;p&gt;Estas palavras: 'Página não encontrada'</seg>
       </tuv>
     </tu>
     <tu>
