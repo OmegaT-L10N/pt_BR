@@ -32463,6 +32463,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T001123Z" creationid="Michael" creationdate="20190526T001123Z">
+        <seg>Pesquisar marca encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214407Z" creationid="karol" creationdate="20160308T214407Z">
@@ -32476,6 +32484,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172133Z" creationid="karol" creationdate="20160308T172133Z">
         <seg>Buscar no projeto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T001233Z" creationid="Michael" creationdate="20190526T001233Z">
+        <seg>Pesquisar marca substituída</seg>
       </tuv>
     </tu>
     <tu>
