@@ -45279,6 +45279,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T005253Z" creationid="Michael" creationdate="20190526T005253Z">
+        <seg>Você pode modificar os atalhos já atribuídos e adicionar novos atalhos colocando um arquivo de definições de atalhos na sua pasta de preferências do &lt;a0&gt;OmegaT&lt;/a0&gt; (acessível no menu &lt;m1&gt;&lt;g2&gt;Opções&lt;/g2&gt;&lt;g3&gt; Acessar pasta de configuração&lt;/g3&gt;&lt;/m1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172000Z" creationid="karol" creationdate="20160308T172000Z">
