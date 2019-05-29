@@ -20704,8 +20704,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Michael" changedate="20190526T020400Z" creationid="Michael" creationdate="20190526T020400Z">
-        <seg>In OmegaT, selecione &lt;g0&gt;Opções &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190529T031030Z" creationid="Michael" creationdate="20190526T020400Z">
+        <seg>In OmegaT, selecione &lt;g0&gt;Opções &gt; Verificador ortográfico&lt;/g0&gt;, então clique &lt;g1&gt;Escolher &lt;/g1&gt; ao lado do campo Pasta do arquivo do Dicionário.</seg>
       </tuv>
     </tu>
     <tu>
