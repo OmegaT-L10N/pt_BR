@@ -17735,6 +17735,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General Preferences</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190529T031118Z" creationid="Michael" creationdate="20190529T031118Z">
+        <seg>Preferências Gerais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generalities</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001332Z" creationid="karol" creationdate="20160309T001332Z">
@@ -40042,6 +40050,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T100401Z" creationid="karol" creationdate="20160308T180946Z">
         <seg>Esta caixa de diálogo permite configurar os padrões de nome de arquivo fonte a serem processados pelo filtro, personalizar os nomes de arquivos traduzidos e selecionar quais codificações devem ser usadas para carregar o arquivo e salvar o seu correspondente traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190529T031414Z" creationid="Michael" creationdate="20190529T031414Z">
+        <seg>Essa caixa de diálogo pode ser acessada selecionando &lt;m0&gt; &lt;g1&gt;Opções&lt;/g1&gt; &lt;g2&gt;Preferências...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
