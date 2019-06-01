@@ -9661,6 +9661,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190601T024815Z" creationid="Michael" creationdate="20190601T024815Z">
+        <seg>Busca traduções automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T095412Z" creationid="karol" creationdate="20160308T173040Z">
