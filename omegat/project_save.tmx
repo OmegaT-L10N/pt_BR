@@ -22068,6 +22068,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190601T024234Z" creationid="Michael" creationdate="20190601T024234Z">
+        <seg>Permite difinir parâmetros para todos os projetos de tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T214824Z" creationid="Sheila" creationdate="20170904T214824Z">
