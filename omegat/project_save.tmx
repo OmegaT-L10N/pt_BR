@@ -42946,6 +42946,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190601T024308Z" creationid="Michael" creationdate="20190601T024308Z">
+        <seg>Teclar TAB para avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use Terms Appearing Separately in the Source Text</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170627T231045Z" creationid="Sheila" creationdate="20170627T231045Z">
