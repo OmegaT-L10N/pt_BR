@@ -33664,6 +33664,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190601T024452Z" creationid="Michael" creationdate="20190601T024452Z">
+        <seg>Atribui a chave de validação de segmento à tecla Tab ao invés do padrão Enter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting it to &lt;e1&gt;All segments&lt;/e1&gt; shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T212627Z" creationid="karol" creationdate="20160308T212627Z">
@@ -38355,6 +38363,14 @@ modification follow.</seg>
         <seg>The program will see confirmation before closing down.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T212857Z" creationid="karol" creationdate="20160308T212857Z">
+        <seg>Antes de encerrar, o programa sempre confirmará com o usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190601T024722Z" creationid="Michael" creationdate="20190601T024722Z">
         <seg>Antes de encerrar, o programa sempre confirmará com o usuário.</seg>
       </tuv>
     </tu>
