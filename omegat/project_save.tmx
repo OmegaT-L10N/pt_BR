@@ -43115,6 +43115,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190608T022000Z" creationid="Michael" creationdate="20190608T022000Z">
+        <seg>&amp;Usar termos que aparecem isolados no texto fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182206Z" creationid="karol" creationdate="20160308T182206Z">
@@ -44310,6 +44318,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003959Z" creationid="karol" creationdate="20160309T003959Z">
         <seg>Quando isso é feito, os painéis exibem uma guia na parte superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190608T022259Z" creationid="Michael" creationdate="20190608T022259Z">
+        <seg>Quando esta opção é marcada, o glossário exibirá duplas ou grupos de palavras (expressões)  mesmo se as palavras aparecerem separadamente no texto-fonte.</seg>
       </tuv>
     </tu>
     <tu>
