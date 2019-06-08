@@ -11142,8 +11142,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Michael" changedate="20190608T015839Z" creationid="Michael" creationdate="20190608T015839Z">
-        <seg>Marque essa opção para enviar somente segmentos não traduzidos aos serviços de t.ra</seg>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190608T020324Z" creationid="Michael" creationdate="20190608T015839Z">
+        <seg>Marque essa opção para enviar somente segmentos não traduzidos aos serviços de tradução automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -33402,6 +33402,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170912T102543Z" creationid="Sheila" creationdate="20170912T102543Z">
         <seg>Selecionar um arquivo de script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190608T020635Z" creationid="Michael" creationdate="20190608T020635Z">
+        <seg>Selecione um fornecedor da lista e, se necessário, clique &lt;g0&gt;Configurar&lt;/g0&gt;para inserir os detalhes de identificação providos pelo fornecedor.</seg>
       </tuv>
     </tu>
     <tu>
