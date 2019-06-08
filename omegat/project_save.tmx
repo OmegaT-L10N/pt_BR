@@ -16963,6 +16963,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190608T014426Z" creationid="Michael" creationdate="20190608T014426Z">
+        <seg>Por motivo de confidencialidade, você pode querer não enviar todos os segmentos para a ferramenta de tradução automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation tool.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T212005Z" creationid="Sheila" creationdate="20170904T212005Z">
@@ -20413,6 +20421,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214419Z" creationid="karol" creationdate="20160308T214419Z">
         <seg>Se iniciar o &lt;a1&gt;OmegaT&lt;/a1&gt; no modo console, serão usadas as mesmas definições que você configurou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190608T014856Z" creationid="Michael" creationdate="20190608T014856Z">
+        <seg>Ao desmarcar a opção &lt;e0&gt;Buscar traduções automaticamente&lt;/e0&gt;, as traduções automáticas serão obtidas apenas ao pressionar&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; (&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; no Mac OS X) no segmento atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42760,6 +42776,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190608T015010Z" creationid="Michael" creationdate="20190608T015010Z">
+        <seg>Apenas segmentos não traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments text</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T114020Z" creationid="Evandro" creationdate="20160312T114020Z">
@@ -45913,6 +45937,14 @@ or can get the source code.</seg>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T193956Z" creationid="karol" creationdate="20160308T193956Z">
         <seg>Você precisa garantir que eles também recebam
 ou possam ter acesso ao código fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190608T014947Z" creationid="Michael" creationdate="20190608T014947Z">
+        <seg>Você deve pressionar &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;M&lt;/k9&gt; &lt;/k7&gt; novamente para inserir sugestão.</seg>
       </tuv>
     </tu>
     <tu>
