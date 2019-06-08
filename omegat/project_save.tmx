@@ -38392,6 +38392,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190608T021330Z" creationid="Michael" creationdate="20190608T021330Z">
+        <seg>O processo para configurar o acesso aos serviços do Microsoft Translator e do Google Translate estão descritos&lt;u0&gt;aqui&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002408Z" creationid="karol" creationdate="20160309T002408Z">
