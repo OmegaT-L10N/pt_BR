@@ -48859,6 +48859,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190608T020814Z" creationid="Michael" creationdate="20190608T020814Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Serviços de Tradução Automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170814T165345Z" creationid="Sheila" creationdate="20170814T165345Z">
