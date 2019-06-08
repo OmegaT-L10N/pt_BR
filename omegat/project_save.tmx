@@ -11140,6 +11140,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190608T015839Z" creationid="Michael" creationdate="20190608T015839Z">
+        <seg>Marque essa opção para enviar somente segmentos não traduzidos aos serviços de t.ra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T211850Z" creationid="Sheila" creationdate="20170904T211850Z">
