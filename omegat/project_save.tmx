@@ -42504,6 +42504,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uncheck this option if the glossary displays too many false positives.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190616T223512Z" creationid="Michael" creationdate="20190616T223512Z">
+        <seg>Desmarque esta opção se o glossário exibir muitos falsos positivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T173029Z" creationid="karol" creationdate="20160308T173029Z">
