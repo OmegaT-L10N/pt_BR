@@ -43115,6 +43115,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190616T224729Z" creationid="Michael" creationdate="20190616T224729Z">
+        <seg>Usar stemização para termos do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T162932Z" creationid="Sheila" creationdate="20170905T162932Z">
