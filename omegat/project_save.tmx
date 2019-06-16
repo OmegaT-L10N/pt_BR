@@ -33502,6 +33502,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select this option if you want the glossary to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190616T224820Z" creationid="Michael" creationdate="20190616T224820Z">
+        <seg>Selecione esta opção se quiser que o glossário exiba palavras que tenham a mesma raiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T202230Z" creationid="CarolVignolis" creationdate="20181014T202230Z">
