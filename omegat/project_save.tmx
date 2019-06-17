@@ -31401,6 +31401,14 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Replace glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Michael" changedate="20190617T011947Z" creationid="Michael" creationdate="20190617T011947Z">
+        <seg>Substituir termos do glossário ao inserir texto de origem</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
