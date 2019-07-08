@@ -15727,6 +15727,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T130029Z" creationid="CALDAS" creationdate="20190708T130029Z">
+        <seg>Erro ao atualizar o repositório.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170911T222931Z" creationid="Sheila" creationdate="20170911T222931Z">
@@ -15756,6 +15764,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T111954Z" creationid="Evandro" creationdate="20160312T111954Z">
         <seg>Erro {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T130043Z" creationid="CALDAS" creationdate="20190708T130043Z">
+        <seg>Error: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -34174,6 +34190,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T120521Z" creationid="CALDAS" creationdate="20190420T120521Z">
         <seg>Ignorar o plugin carregado anteriormente da classe '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T130040Z" creationid="CALDAS" creationdate="20190708T130040Z">
+        <seg>Pular.</seg>
       </tuv>
     </tu>
     <tu>
