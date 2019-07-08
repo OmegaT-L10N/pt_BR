@@ -4762,8 +4762,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160308T181159Z" creationid="karol" creationdate="20160308T181159Z">
-        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– o código do local destino (em forma de  "xx_YY").</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133009Z" creationid="karol" creationdate="20160308T181159Z">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– o código do local destino (em forma de "xx_YY").</seg>
       </tuv>
     </tu>
     <tu>
@@ -9558,8 +9558,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T214357Z" creationid="karol" creationdate="20160308T213035Z">
-        <seg>O recurso Autocompletar é iniciado dentro do segmento de destino por meio do atalho  &lt;e0&gt;Ctrl+Space&lt;/e0&gt;.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133017Z" creationid="karol" creationdate="20160308T213035Z">
+        <seg>O recurso Autocompletar é iniciado dentro do segmento de destino por meio do atalho &lt;e0&gt;Ctrl+Space&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10950,8 +10950,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T003801Z" creationid="karol" creationdate="20160309T003801Z">
-        <seg>Verifique possíveis erros de tag com &lt;k0&gt;Ctrl+T &lt;/k0&gt; e os segmentos não traduzidos com  &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133023Z" creationid="karol" creationdate="20160309T003801Z">
+        <seg>Verifique possíveis erros de tag com &lt;k0&gt;Ctrl+T &lt;/k0&gt; e os segmentos não traduzidos com &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17245,8 +17245,8 @@ sale, or importing the Program or any portion of it.</seg>
       <tuv lang="EN">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T201917Z" creationid="CarolVignolis" creationdate="20181014T201704Z">
-        <seg>Para instalação em  Mac OS X.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133105Z" creationid="CarolVignolis" creationdate="20181014T201704Z">
+        <seg>Para instalação em Mac OS X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19229,8 +19229,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="EN">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Michael" changedate="20190617T012441Z" creationid="Michael" creationdate="20190617T012038Z">
-        <seg>Se esta opção e a opção &lt;l0&gt;&lt;g1&gt;Inserir  texto de origem&lt;/g1&gt;&lt;/l0&gt; estão selecionadas, todas as palavras com um termo de glossário correspondente serão traduzidas automaticamente quando o texto de origem for inserido.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133004Z" creationid="Michael" creationdate="20190617T012038Z">
+        <seg>Se esta opção e a opção &lt;l0&gt;&lt;g1&gt;Inserir texto de origem&lt;/g1&gt;&lt;/l0&gt; estão selecionadas, todas as palavras com um termo de glossário correspondente serão traduzidas automaticamente quando o texto de origem for inserido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19688,8 +19688,8 @@ to choose that version for the Program.</seg>
       <tuv lang="EN">
         <seg>If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T004132Z" creationid="karol" creationdate="20160309T004132Z">
-        <seg>Se a tradução atual do segmento não se encaixa, o usuário pode selecionar  &lt;g0&gt;Editar → Criar tradução alternativa&lt;/g0&gt;.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133035Z" creationid="karol" creationdate="20160309T004132Z">
+        <seg>Se a tradução atual do segmento não se encaixa, o usuário pode selecionar &lt;g0&gt;Editar → Criar tradução alternativa&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20434,8 +20434,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170508T102821Z" creationid="karol" creationdate="20160308T202825Z">
-        <seg>Ao selecionar uma sequência de texto (em qualquer tela) antes de apertar  &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, o texto será colado por padrão no campo &lt;g3&gt;Buscar&lt;/g3&gt;. </seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133027Z" creationid="karol" creationdate="20160308T202825Z">
+        <seg>Ao selecionar uma sequência de texto (em qualquer tela) antes de apertar &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, o texto será colado por padrão no campo &lt;g3&gt;Buscar&lt;/g3&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20856,8 +20856,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T002121Z" creationid="karol" creationdate="20160309T002121Z">
-        <seg>Tanto na busca exata como na busca de palavra-chave pode-se usar os curingas  '*' e '?'.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133054Z" creationid="karol" creationdate="20160309T002121Z">
+        <seg>Tanto na busca exata como na busca de palavra-chave pode-se usar os curingas '*' e '?'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25606,8 +25606,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Moving original '{0}' to '{1}'</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T194418Z" creationid="CarolVignolis" creationdate="20181014T194418Z">
-        <seg>Movendo o original  '{0}' para '{1}'</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133058Z" creationid="CarolVignolis" creationdate="20181014T194418Z">
+        <seg>Movendo o original '{0}' para '{1}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -31178,8 +31178,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Remove all text except tags, or all tags except text</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T123051Z" creationid="CALDAS" creationdate="20170914T123051Z">
-        <seg>Remover todo o texto com exceção das tags, ou todas as tags  com exceção do texto</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133128Z" creationid="CALDAS" creationdate="20170914T123051Z">
+        <seg>Remover todo o texto com exceção das tags, ou todas as tags com exceção do texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -33066,8 +33066,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T005217Z" creationid="karol" creationdate="20160309T005217Z">
-        <seg>Veja o capítulo &lt;e0&gt;Regras de segmentação&lt;/e0&gt;  para mais informações.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133049Z" creationid="karol" creationdate="20160309T005217Z">
+        <seg>Veja o capítulo &lt;e0&gt;Regras de segmentação&lt;/e0&gt; para mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38231,8 +38231,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="EN">
         <seg>The newline (line feed) character ('\u000A')</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T001644Z" creationid="karol" creationdate="20160309T001644Z">
-        <seg>O caractere de nova linha (alimentação de linha)  ('\u000A')</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T132942Z" creationid="karol" creationdate="20160309T001644Z">
+        <seg>O caractere de nova linha (alimentação de linha) ('\u000A')</seg>
       </tuv>
     </tu>
     <tu>
@@ -39059,8 +39059,8 @@ Dúvida nesse "call-out" do segmento.</note>
       <tuv lang="EN">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T003248Z" creationid="karol" creationdate="20160309T003248Z">
-        <seg>O verificador ortográfico utiliza o código de língua destino para determinar o idioma a ser usado: se a língua da tradução é o português brasileiro (pt_BR), a subpasta com os dicionários deve conter os dois arquivos chamados  &lt;e0&gt;pt_br.aff&lt;/e0&gt; e &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T132955Z" creationid="karol" creationdate="20160309T003248Z">
+        <seg>O verificador ortográfico utiliza o código de língua destino para determinar o idioma a ser usado: se a língua da tradução é o português brasileiro (pt_BR), a subpasta com os dicionários deve conter os dois arquivos chamados &lt;e0&gt;pt_br.aff&lt;/e0&gt; e &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40071,8 +40071,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T114452Z" creationid="Sheila" creationdate="20170904T114452Z">
-        <seg>Isto também se aplica à janela  &lt;l2&gt;Arquivos do projeto&lt;/l2&gt;.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133031Z" creationid="Sheila" creationdate="20170904T114452Z">
+        <seg>Isto também se aplica à janela &lt;l2&gt;Arquivos do projeto&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40515,8 +40515,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T001711Z" creationid="karol" creationdate="20160309T001711Z">
-        <seg>Isso é necessário se você quiser inserir quaisquer metacaracteres  !$()*+.&amp;lt;&amp;gt;?[ \\ ]^{|}  para casar como eles próprios.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T132948Z" creationid="karol" creationdate="20160309T001711Z">
+        <seg>Isso é necessário se você quiser inserir quaisquer metacaracteres !$()*+.&amp;lt;&amp;gt;?[ \\ ]^{|}  para casar como eles próprios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41919,8 +41919,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate segments.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="karol" changedate="20160309T002405Z" creationid="karol" creationdate="20160309T002405Z">
-        <seg>Os atributos de objeto traduzíveis em arquivos  XHTML ou HTML podem ser extraídos como segmentos separados.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133014Z" creationid="karol" creationdate="20160309T002405Z">
+        <seg>Os atributos de objeto traduzíveis em arquivos XHTML ou HTML podem ser extraídos como segmentos separados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44420,8 +44420,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="EN">
         <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Michael" changedate="20190608T022259Z" creationid="Michael" creationdate="20190608T022259Z">
-        <seg>Quando esta opção é marcada, o glossário exibirá duplas ou grupos de palavras (expressões)  mesmo se as palavras aparecerem separadamente no texto-fonte.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133000Z" creationid="Michael" creationdate="20190608T022259Z">
+        <seg>Quando esta opção é marcada, o glossário exibirá duplas ou grupos de palavras (expressões) mesmo se as palavras aparecerem separadamente no texto-fonte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45504,8 +45504,8 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>You can browse through notes using &lt;g0&gt;GoTo → Next Note&lt;/g0&gt; and &lt;g1&gt;GoTo → Previous Note&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170815T191300Z" creationid="karol" creationdate="20160309T004135Z">
-        <seg>Você pode navegar através das notas usando  &lt;g0&gt;Acessar → Próxima observação&lt;/g0&gt; e &lt;g1&gt;Acessar → Observação anterior&lt;/g1&gt;.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133040Z" creationid="karol" creationdate="20160309T004135Z">
+        <seg>Você pode navegar através das notas usando &lt;g0&gt;Acessar → Próxima observação&lt;/g0&gt; e &lt;g1&gt;Acessar → Observação anterior&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
