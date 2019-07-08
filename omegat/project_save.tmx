@@ -22110,8 +22110,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>Issues for {0} ({1} of {2})</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="User" changedate="20181005T023722Z" creationid="User" creationdate="20181005T023722Z">
-        <seg>Problemas por  {0} ({1} de {2})</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T132840Z" creationid="User" creationdate="20181005T023722Z">
+        <seg>Problemas por {0} ({1} de {2})</seg>
       </tuv>
     </tu>
     <tu>
@@ -28194,8 +28194,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T105217Z" creationid="Evandro" creationdate="20160312T105217Z">
-        <seg>Somente se o arquivo  (X)HTML tiver uma declaração de &amp;codificação</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T132825Z" creationid="Evandro" creationdate="20160312T105217Z">
+        <seg>Somente se o arquivo (X)HTML tiver uma declaração de &amp;codificação</seg>
       </tuv>
     </tu>
     <tu>
