@@ -42367,6 +42367,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T125929Z" creationid="CALDAS" creationdate="20190708T125929Z">
+        <seg>Destravado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T170218Z" creationid="Sheila" creationdate="20170905T170218Z">
