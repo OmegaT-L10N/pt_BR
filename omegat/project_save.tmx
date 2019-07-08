@@ -23145,6 +23145,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T125542Z" creationid="CALDAS" creationdate="20190708T125542Z">
+        <seg>Trancar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LEARNED:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T155356Z" creationid="karol" creationdate="20160309T155356Z">
