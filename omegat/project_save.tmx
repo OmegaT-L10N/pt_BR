@@ -18945,6 +18945,14 @@ SUCH DAMAGES.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T125636Z" creationid="CALDAS" creationdate="20190708T125636Z">
+        <seg>Inserir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T185945Z" creationid="Evandro" creationdate="20160311T185945Z">
@@ -23147,8 +23155,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>LCK</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T125542Z" creationid="CALDAS" creationdate="20190708T125542Z">
-        <seg>Trancar</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T125858Z" creationid="CALDAS" creationdate="20190708T125542Z">
+        <seg>Travado</seg>
       </tuv>
     </tu>
     <tu>
@@ -26982,6 +26990,14 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170914T092748Z" creationid="CALDAS" creationdate="20170914T092538Z">
         <seg>ONline DIctionary LOokup TOol (ferramenta de pesquisa em dicionário on-line).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T125652Z" creationid="CALDAS" creationdate="20190708T125652Z">
+        <seg>Sobrescrever</seg>
       </tuv>
     </tu>
     <tu>
