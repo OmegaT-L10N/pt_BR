@@ -2605,8 +2605,8 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160310T115659Z" creationid="Evandro" creationdate="20160310T115659Z">
-        <seg>2) Aumente a quantidade de memória disponível para o OmegaT, especificando  "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" na linha de comando ou no script inicial do OmegaT;
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T132755Z" creationid="Evandro" creationdate="20160310T115659Z">
+        <seg>2) Aumente a quantidade de memória disponível para o OmegaT, especificando "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" na linha de comando ou no script inicial do OmegaT;
 A configuraçao atual é {0}MB;</seg>
       </tuv>
     </tu>
@@ -16621,8 +16621,8 @@ Teias de aranha estão te bloqueando
       <tuv lang="EN">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T180754Z" creationid="Evandro" creationdate="20160311T180754Z">
-        <seg>Arquivo: % traduzidos únicos (segmentos únicos restantes) / projeto: %  traduzidos únicos (segmentos únicos restantes), número total de segmentos</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T132742Z" creationid="Evandro" creationdate="20160311T180754Z">
+        <seg>Arquivo: % traduzidos únicos (segmentos únicos restantes) / projeto: % traduzidos únicos (segmentos únicos restantes), número total de segmentos</seg>
       </tuv>
     </tu>
     <tu>
