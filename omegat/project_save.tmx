@@ -11311,8 +11311,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T123822Z" creationid="CALDAS" creationdate="20190709T123822Z">
-        <seg>Desmarque essa opção para desativar a pesquisa automática ─ por exemplo, se os dicionários forem muito longos.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T124609Z" creationid="CALDAS" creationdate="20190709T123822Z">
+        <seg>Desmarcar essa opção para desativar a pesquisa automática ─ por exemplo, se os dicionários forem muito longos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33626,6 +33626,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T203241Z" creationid="karol" creationdate="20160308T203241Z">
         <seg>Selecione este item do menu, se a tradução atual não se aplicar e insira a tradução alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T131153Z" creationid="CALDAS" creationdate="20190709T131153Z">
+        <seg>Selecionar esta opção se quiser que os dicionários exibam palavras que tenham a mesma raiz.</seg>
       </tuv>
     </tu>
     <tu>
