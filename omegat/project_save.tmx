@@ -43275,6 +43275,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T123833Z" creationid="CALDAS" creationdate="20190709T123833Z">
+        <seg>Usar correspondências parciais para termos do dicionário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use glossary</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T155401Z" creationid="karol" creationdate="20160309T155401Z">
