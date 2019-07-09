@@ -37165,6 +37165,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T122732Z" creationid="CALDAS" creationdate="20190709T122732Z">
+        <seg>As coleções são baixadas como glossários TBX e armazenadas na pasta atual do glossário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003303Z" creationid="karol" creationdate="20160309T003303Z">
@@ -40137,6 +40145,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004147Z" creationid="karol" creationdate="20160309T004147Z">
         <seg>Esta barra dá o feedback ao usuário sobre as operações específicas que estão em andamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T122507Z" creationid="CALDAS" creationdate="20190709T122507Z">
+        <seg>Este botão permite navegar e baixar as coleções que existem para os idiomas de origem e destino do projeto.</seg>
       </tuv>
     </tu>
     <tu>
