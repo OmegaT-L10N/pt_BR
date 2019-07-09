@@ -9671,8 +9671,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Automatically search segment text in dictionary</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T123402Z" creationid="CALDAS" creationdate="20190709T123402Z">
-        <seg>Pesquisar automaticamente o texto do segmento no dicionário</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T132701Z" creationid="CALDAS" creationdate="20190709T123402Z">
+        <seg>Pesquise automaticamente o texto do segmento no dicionário</seg>
       </tuv>
     </tu>
     <tu>
@@ -11311,8 +11311,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T124609Z" creationid="CALDAS" creationdate="20190709T123822Z">
-        <seg>Desmarcar essa opção para desativar a pesquisa automática ─ por exemplo, se os dicionários forem muito longos.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T132647Z" creationid="CALDAS" creationdate="20190709T123822Z">
+        <seg>Desmarque essa opção para desativar a pesquisa automática ─ por exemplo, se os dicionários forem muito longos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33632,8 +33632,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T131153Z" creationid="CALDAS" creationdate="20190709T131153Z">
-        <seg>Selecionar esta opção se quiser que os dicionários exibam palavras que tenham a mesma raiz.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T132556Z" creationid="CALDAS" creationdate="20190709T131153Z">
+        <seg>Selecione esta opção se quiser que os dicionários exibam palavras que tenham a mesma raiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43285,8 +43285,8 @@ na linha {1}, coluna {2}.</seg>
       <tuv lang="EN">
         <seg>Use fuzzy matching for dictionary entries</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T123833Z" creationid="CALDAS" creationdate="20190709T123833Z">
-        <seg>Usar correspondências parciais para termos do dicionário</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T132641Z" creationid="CALDAS" creationdate="20190709T123833Z">
+        <seg>Use correspondências parciais para termos do dicionário</seg>
       </tuv>
     </tu>
     <tu>
