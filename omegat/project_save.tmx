@@ -43379,6 +43379,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T131447Z" creationid="CALDAS" creationdate="20190709T131447Z">
+        <seg>Usar este recurso caso tenha desencaixado, movido ou ocultado um ou mais componentes e não consegue recuperá-los de outra forma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use this feature when you have undocked, moved, or hidden one or more components and you are unable to restore the desired arrangement.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T213856Z" creationid="karol" creationdate="20160308T213856Z">
