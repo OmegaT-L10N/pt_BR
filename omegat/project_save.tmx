@@ -37167,8 +37167,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T122732Z" creationid="CALDAS" creationdate="20190709T122732Z">
-        <seg>As coleções são baixadas como glossários TBX e armazenadas na pasta atual do glossário.</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T123255Z" creationid="CALDAS" creationdate="20190709T122732Z">
+        <seg>As coleções são baixadas como glossários TBX e armazenadas na pasta do glossário atual.</seg>
       </tuv>
     </tu>
     <tu>
