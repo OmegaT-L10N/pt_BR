@@ -11429,6 +11429,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T121001Z" creationid="CALDAS" creationdate="20190709T121001Z">
+        <seg>Clique neste botão para acessar o site do projeto do &lt;u0&gt;TaaS&lt;/u0&gt; e criar uma conta de usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170524T214528Z" creationid="karol" creationdate="20160308T171858Z">
@@ -35069,6 +35077,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T121100Z" creationid="CALDAS" creationdate="20190709T121100Z">
+        <seg>Guardar apenas para esta sessão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T205800Z" creationid="Sheila" creationdate="20170904T144543Z">
@@ -45799,6 +45815,14 @@ o script de instalação (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T121035Z" creationid="CALDAS" creationdate="20190709T121035Z">
+        <seg>Então, você pode criar uma chave de acesso na página &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T184217Z" creationid="CarolVignolis" creationdate="20181014T184217Z">
@@ -49039,6 +49063,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T230917Z" creationid="Sheila" creationdate="20170903T230917Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T121002Z" creationid="CALDAS" creationdate="20190709T121002Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T120752Z" creationid="CALDAS" creationdate="20190709T120752Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
