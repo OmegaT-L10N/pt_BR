@@ -9669,6 +9669,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T123402Z" creationid="CALDAS" creationdate="20190709T123402Z">
+        <seg>Pesquisar automaticamente o texto do segmento no dicionário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T095412Z" creationid="karol" creationdate="20160308T173040Z">
@@ -11297,6 +11305,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171023T160950Z" creationid="Sheila" creationdate="20171023T160950Z">
         <seg>Limpar marcação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T123822Z" creationid="CALDAS" creationdate="20190709T123822Z">
+        <seg>Desmarque essa opção para desativar a pesquisa automática ─ por exemplo, se os dicionários forem muito longos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19453,6 +19469,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003242Z" creationid="karol" creationdate="20160309T003242Z">
         <seg>Se necessário, edite os nomes dos arquivos de dicionário ou mude as configurações de idioma do seu projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T123347Z" creationid="CALDAS" creationdate="20190709T123347Z">
+        <seg>Se necessário, você pode selecionar um domínio específico para limitar o volume de dados enviados e recebidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33482,6 +33506,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T222247Z" creationid="Sheila" creationdate="20170913T222247Z">
         <seg>Se&amp;lecionar domínio de consulta de terminologia TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T123332Z" creationid="CALDAS" creationdate="20190709T123332Z">
+        <seg>Selecionar domínio de consulta de terminologia TaaS...</seg>
       </tuv>
     </tu>
     <tu>
