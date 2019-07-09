@@ -10156,6 +10156,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T121443Z" creationid="CALDAS" creationdate="20190709T121443Z">
+        <seg>Procurar coleções de TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171008T133447Z" creationid="Sheila" creationdate="20171008T133447Z">
@@ -19985,6 +19993,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172831Z" creationid="karol" creationdate="20160308T172831Z">
         <seg>Se esta opção estiver marcada, quando uma correspondência parcial for inserida, manualmente ou automaticamente, o OmegaT tentará converter os números nas correspondências parciais segundo o conteúdo fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T121130Z" creationid="CALDAS" creationdate="20190709T121130Z">
+        <seg>Se esta opção estiver selecionada, o OmegaT não se lembrará da chave de acesso em outras sessões.</seg>
       </tuv>
     </tu>
     <tu>
