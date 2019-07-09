@@ -19965,6 +19965,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T120746Z" creationid="CALDAS" creationdate="20190709T120746Z">
+        <seg>Se esta opção estiver marcada, o glossário exibirá apenas uma entrada, mesmo que tal palavra exista de várias maneiras (Ex: com e sem letras maiúsculas) no glossário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172831Z" creationid="karol" creationdate="20160308T172831Z">
@@ -20672,6 +20680,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T155402Z" creationid="karol" creationdate="20160309T155402Z">
         <seg>Ignorar maiúscula/minúscula do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T120610Z" creationid="CALDAS" creationdate="20190709T120610Z">
+        <seg>Ignorar termos com letras maiúsculas e minúsculas muito diferentes (Ex: FOO ou foo)</seg>
       </tuv>
     </tu>
     <tu>
