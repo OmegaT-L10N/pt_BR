@@ -10166,8 +10166,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Browse TaaS Collections...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T121443Z" creationid="CALDAS" creationdate="20190709T121443Z">
-        <seg>Procurar coleções de TaaS...</seg>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T132806Z" creationid="CALDAS" creationdate="20190709T121443Z">
+        <seg>Procurar coleções do TaaS...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33064,6 +33064,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See font settings in Miscellanea</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T132910Z" creationid="CALDAS" creationdate="20190709T132910Z">
+        <seg>Ver as configurações de fontes em Diversos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004131Z" creationid="karol" creationdate="20160309T004131Z">
@@ -33512,7 +33520,7 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Select TaaS Terminology Lookup Domain...</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T123332Z" creationid="CALDAS" creationdate="20190709T123332Z">
+      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T132823Z" creationid="CALDAS" creationdate="20190709T123332Z">
         <seg>Selecionar domínio de consulta de terminologia TaaS...</seg>
       </tuv>
     </tu>
