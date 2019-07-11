@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15761,8 +15761,8 @@ No one hears your screams</seg>
       <tuv lang="EN">
         <seg>Error updating repository.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T130029Z" creationid="CALDAS" creationdate="20190708T130029Z">
-        <seg>Erro ao atualizar o repositório.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190710T145957Z" creationid="Sheila" creationdate="20190710T145957Z">
+        <seg>Erro ao atualizar o repositório</seg>
       </tuv>
     </tu>
     <tu>
@@ -15802,8 +15802,8 @@ No one hears your screams</seg>
       <tuv lang="EN">
         <seg>Error: {0}</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T130043Z" creationid="CALDAS" creationdate="20190708T130043Z">
-        <seg>Error: {0}</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190710T150011Z" creationid="Sheila" creationdate="20190710T150011Z">
+        <seg>Erro: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18995,8 +18995,8 @@ SUCH DAMAGES.</seg>
       <tuv lang="EN">
         <seg>INS</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T125636Z" creationid="CALDAS" creationdate="20190708T125636Z">
-        <seg>Inserir</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190710T145941Z" creationid="Sheila" creationdate="20190710T145941Z">
+        <seg>INS</seg>
       </tuv>
     </tu>
     <tu>
@@ -20007,8 +20007,8 @@ Public License instead of this License.</seg>
       <tuv lang="EN">
         <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190709T120746Z" creationid="CALDAS" creationdate="20190709T120746Z">
-        <seg>Se esta opção estiver marcada, o glossário exibirá apenas uma entrada, mesmo que tal palavra exista de várias maneiras (Ex: com e sem letras maiúsculas) no glossário.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190711T012323Z" creationid="Sheila" creationdate="20190711T012323Z">
+        <seg>Se esta opção estiver marcada, o Glossário exibirá apenas uma entrada, mesmo que a mesma palavra exista em várias formas (por exemplo, com e sem letras maiúsculas) no Glossário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23235,8 +23235,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>LCK</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T125858Z" creationid="CALDAS" creationdate="20190708T125542Z">
-        <seg>Travado</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190710T145937Z" creationid="Sheila" creationdate="20190710T145937Z">
+        <seg>LCK</seg>
       </tuv>
     </tu>
     <tu>
@@ -27076,8 +27076,8 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="EN">
         <seg>OVR</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T125652Z" creationid="CALDAS" creationdate="20190708T125652Z">
-        <seg>Sobrescrever</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190710T145939Z" creationid="Sheila" creationdate="20190710T145939Z">
+        <seg>OVR</seg>
       </tuv>
     </tu>
     <tu>
@@ -34284,8 +34284,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="EN">
         <seg>Skipping.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T130040Z" creationid="CALDAS" creationdate="20190708T130040Z">
-        <seg>Pular.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190710T150008Z" creationid="Sheila" creationdate="20190710T150008Z">
+        <seg>Pulando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42505,8 +42505,8 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       <tuv lang="EN">
         <seg>UNL</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T125929Z" creationid="CALDAS" creationdate="20190708T125929Z">
-        <seg>Destravado</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190710T145938Z" creationid="Sheila" creationdate="20190710T145938Z">
+        <seg>UNL</seg>
       </tuv>
     </tu>
     <tu>
