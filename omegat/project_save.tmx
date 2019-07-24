@@ -7473,6 +7473,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190724T133834Z" creationid="Sheila" creationdate="20190724T133825Z">
+        <seg>Um script incluído no OmegaT chamado Mudar cores dos temas fornece um tema padrão "Escuro".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002353Z" creationid="karol" creationdate="20160309T002353Z">
@@ -20512,6 +20520,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190724T211656Z" creationid="Sheila" creationdate="20190724T211656Z">
+        <seg>Caso prefira não usar o OmegaT para traduzir um certo tipo de arquivo, você pode apagar o filtro correspondente desativando a caixa de seleção junto ao nome do filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T115054Z" creationid="Sheila" creationdate="20170904T115054Z">
@@ -29752,6 +29768,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pre-defined themes can be set using scripts.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190724T133745Z" creationid="Sheila" creationdate="20190724T133745Z">
+        <seg>Temas pré-definidos podem ser definidos com scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preamble</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T193949Z" creationid="karol" creationdate="20160308T193949Z">
@@ -37703,6 +37727,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190724T133927Z" creationid="Sheila" creationdate="20190724T133927Z">
+        <seg>Os filtros usados ​​pelo projeto atual são exibidos em negrito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first example below has 3 tag groups (a pair, a single, and then another pair), the second example has one group only (a pair).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181820Z" creationid="karol" creationdate="20160308T181820Z">
@@ -40366,6 +40398,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog lists the file filters available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190724T133906Z" creationid="Sheila" creationdate="20190724T133906Z">
+        <seg>Este diálogo lista os filtros de arquivo disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T224439Z" creationid="karol" creationdate="20160308T215145Z">
@@ -40910,6 +40950,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182104Z" creationid="karol" creationdate="20160308T182104Z">
         <seg>Este pacote vem com o Oracle's Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This page allows you to choose different colours for each part of the user interface.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190724T133722Z" creationid="Sheila" creationdate="20190724T133722Z">
+        <seg>Esta página permite a escolha de cores diferentes para cada parte da interface de usuário.</seg>
       </tuv>
     </tu>
     <tu>
