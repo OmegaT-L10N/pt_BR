@@ -773,8 +773,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20170913T221501Z" creationid="Sheila" creationdate="20170913T221501Z">
-        <seg>&amp;Enable glossary suggestions</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162403Z" creationid="Sheila" creationdate="20170913T221501Z">
+        <seg>&amp;Habilitar sugestões de glossário</seg>
       </tuv>
     </tu>
     <tu>
@@ -3792,6 +3792,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190829T004721Z" creationid="Sheila" creationdate="20190829T004721Z">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: the text matching the regular expression gets skipped.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T160820Z" creationid="karol" creationdate="20160308T173140Z">
@@ -3804,6 +3812,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002145Z" creationid="karol" creationdate="20160309T002145Z">
         <seg>&lt;e0&gt;Espaço corresponde a nbsp&lt;/e0&gt;: ao selecionar esta opção, um caractere de espaço inserido na busca pode corresponder tanto a um caractere normal de espaço como a um caractere de espaço rígido (\u00A).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T163051Z" creationid="Sheila" creationdate="20190828T163051Z">
+        <seg>&lt;e0&gt;Iniciar um novo parágrafo&lt;/e0&gt;: a tag &lt;br&gt; do HTML criará um novo parágrafo para fins de segmentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9410,6 +9426,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T163002Z" creationid="Sheila" creationdate="20190828T163002Z">
+        <seg>Como esse é o comportamento padrão de arquivos PO, já vem marcado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T045222Z" creationid="CALDAS" creationdate="20170912T105136Z">
@@ -14217,6 +14241,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110755Z" creationid="Evandro" creationdate="20160312T110755Z">
         <seg>Exibe os termos do dicionário que está nos arquivos da pasta /dictionary/ se estiverem presentes no segmento fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162329Z" creationid="Sheila" creationdate="20190828T162324Z">
+        <seg>Mostra os termos como "&lt;origem&gt; → &lt;destino&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19647,6 +19679,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162949Z" creationid="Sheila" creationdate="20190828T162949Z">
+        <seg>Se for ativado, quando um segmento em um arquivo PO (que pode ser um parágrafo inteiro) não é traduzido, a tradução ficará vazia no arquivo de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002359Z" creationid="karol" creationdate="20160309T002359Z">
@@ -19839,6 +19879,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T213031Z" creationid="Sheila" creationdate="20170904T213031Z">
         <seg>Se a opção estiver desativada, a entrada do glossário acima não será encontrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162820Z" creationid="Sheila" creationdate="20190828T162820Z">
+        <seg>Se a opção estiver marcada, o nome do arquivo fonte não será usado, e traduções alternativas afetarão todos os arquivos cujos itens de contexto (segmentos anteriores/posteriores, ou algum tipo de identificador, dependendo do formato do arquivo) sejam correspondentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20767,6 +20815,14 @@ work and works based on it.</seg>
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T173122Z" creationid="karol" creationdate="20160308T173122Z">
+        <seg>Ignorar contexto de arquivos ao identificar segmentos com traduções alternativas: por padrão, o OmegaT usa o nome do arquivo fonte como parte da identificação de uma tradução alternativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162752Z" creationid="Sheila" creationdate="20190828T162752Z">
         <seg>Ignorar contexto de arquivos ao identificar segmentos com traduções alternativas: por padrão, o OmegaT usa o nome do arquivo fonte como parte da identificação de uma tradução alternativa.</seg>
       </tuv>
     </tu>
@@ -27989,6 +28045,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162511Z" creationid="Sheila" creationdate="20190828T162511Z">
+        <seg>O OmegaT então omitirá os arquivos correspondentes ao carregar os projetos e irá apenas copiá-los na pasta de destino, sem nenhuma intervenção, quando criar os documentos traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will then report these segments as not translated.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172841Z" creationid="karol" creationdate="20160308T172841Z">
@@ -29858,6 +29922,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162659Z" creationid="Sheila" creationdate="20190828T162659Z">
+        <seg>Preservar espaços para todas as tags: marque esta opção se os documentos fonte contêm espaços importantes (para fins de layout) que não devem ser ignorados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -31340,6 +31412,14 @@ These words: 'Page not found'</seg>
         <seg>Remove leading and trailing tags: uncheck this option to display all the tags including the leading and trailing ones.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T173120Z" creationid="karol" creationdate="20160308T173120Z">
+        <seg>Remover tags à esquerda e à direita: desmarque esta opção para exibir todas as tags, inclusive as tags à esquerda e à direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162610Z" creationid="Sheila" creationdate="20190828T162610Z">
         <seg>Remover tags à esquerda e à direita: desmarque esta opção para exibir todas as tags, inclusive as tags à esquerda e à direita.</seg>
       </tuv>
     </tu>
@@ -33963,6 +34043,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
         <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T125937Z" creationid="karol" creationdate="20160308T173128Z">
+        <seg>Vários filtros (arquivos de texto, arquivos XHTML, arquivos HTML e XHTML, arquivos OpenDocument e arquivos Microsoft Open XML) podem ter uma ou várias opções específicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162851Z" creationid="Sheila" creationdate="20190828T162851Z">
         <seg>Vários filtros (arquivos de texto, arquivos XHTML, arquivos HTML e XHTML, arquivos OpenDocument e arquivos Microsoft Open XML) podem ter uma ou várias opções específicas.</seg>
       </tuv>
     </tu>
@@ -36970,6 +37058,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T163010Z" creationid="Sheila" creationdate="20190828T163010Z">
+        <seg>O cabeçalho PO será ignorado e mantido inalterado, se esta opção for marcada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Project Files Window displays the following information:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T004526Z" creationid="karol" creationdate="20160309T004526Z">
@@ -37490,6 +37586,14 @@ instead.</seg>
         <seg>The dialog allows to enable or disable the following options:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T173119Z" creationid="karol" creationdate="20160308T173119Z">
+        <seg>A caixa de diálogo permite habilitar ou desabilitar as seguintes opções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162556Z" creationid="Sheila" creationdate="20190828T162556Z">
         <seg>A caixa de diálogo permite habilitar ou desabilitar as seguintes opções:</seg>
       </tuv>
     </tu>
@@ -40906,6 +41010,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T163028Z" creationid="Sheila" creationdate="20190828T163028Z">
+        <seg>A opção permite que o OmegaT ignore a especificação no cabeçalho do arquivo PO e use o padrão para o idioma de destino selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option allows the tag validation in a batch mode.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182422Z" creationid="karol" creationdate="20160308T182422Z">
@@ -41471,6 +41583,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162549Z" creationid="Sheila" creationdate="20190828T162549Z">
+        <seg>Para editar os arquivos e a codificação que o filtro processará, selecione o filtro na lista e clique em &lt;e1&gt;Editar.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T104803Z" creationid="Evandro" creationdate="20160312T104803Z">
@@ -41642,6 +41762,14 @@ computer or modifying a private copy.</seg>
         <seg>To modify the options select the filter from the list and click on &lt;e0&gt;Options&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T125949Z" creationid="karol" creationdate="20160308T173129Z">
+        <seg>Para alterar as opções, selecione o filtro na lista e clique em &lt;e0&gt;Opções&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162858Z" creationid="Sheila" creationdate="20190828T162858Z">
         <seg>Para alterar as opções, selecione o filtro na lista e clique em &lt;e0&gt;Opções&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
@@ -44298,6 +44426,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T110718Z" creationid="Evandro" creationdate="20160312T110718Z">
         <seg>Alerta: Alterar a ordem da tag pode quebrar o documento traduzido!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162634Z" creationid="Sheila" creationdate="20190828T162634Z">
+        <seg>Atenção: nos formatos Microsoft Open XML (docx, xlsx, etc.), se todas as tags forem exibidas, NÃO escreva nenhum texto antes da primeira tag (é uma tag técnica que deve sempre iniciar o segmento).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49383,6 +49519,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181239Z" creationid="karol" creationdate="20160308T181239Z">
         <seg>se existente, contém regras de segmentação específicas do projeto, se isto tiver sido solicitado em &lt;g0&gt;Projeto &gt; Propriedades... &lt;/g0&gt;Veja o &lt;l1&gt;capítulo Propriedades&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162920Z" creationid="Sheila" creationdate="20190828T162920Z">
+        <seg>se as regras de segmentação por frases estiverem ativadas, o texto será segmentado de acordo com a opção selecionada.</seg>
       </tuv>
     </tu>
     <tu>
