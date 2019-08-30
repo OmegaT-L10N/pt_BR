@@ -3334,6 +3334,22 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T173953Z" creationid="Sheila" creationdate="20190830T173953Z">
+        <seg>&lt;e0&gt;Acrescentar ou regravar a declaração de codificação nos arquivos HTML e XHTML&lt;/e0&gt;: frequentemente os arquivos alvo devem ter um conjunto de caracteres de codificação diferente daquele no arquivo original (seja definido explicita ou implicitamente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T173925Z" creationid="Sheila" creationdate="20190830T173925Z">
+        <seg>&lt;e0&gt;Agregar tags&lt;/e0&gt;: se esta opção for selecionada, as tags sem texto traduzível entre elas serão agregadas em tags únicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T164241Z" creationid="karol" creationdate="20160308T173150Z">
@@ -3389,6 +3405,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174023Z" creationid="Sheila" creationdate="20190830T174023Z">
+        <seg>&lt;e0&gt;Compactar espaço em branco no documento traduzido&lt;/e0&gt;: vários espaços em branco seguidos serão convertidos em um único espaço no documento traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
@@ -3439,9 +3463,25 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T173811Z" creationid="Sheila" creationdate="20190830T173811Z">
+        <seg>&lt;e0&gt;Não traduzir o atributo de conteúdo das meta-tags...:&lt;/e0&gt; As seguintes meta-tags não serão traduzidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: a match in the list of key-value pairs will cause the content of tags to be ignored</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T163712Z" creationid="karol" creationdate="20160308T173143Z">
+        <seg>&lt;e0&gt;Não traduzir o conteúdo das tags com os seguintes pares chave-valor de atributos (separados por vírgulas)&lt;/e0&gt;: caso haja correspondência na lista de pares chave-valor o conteúdo das tags será ignorado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T173819Z" creationid="Sheila" creationdate="20190830T173819Z">
         <seg>&lt;e0&gt;Não traduzir o conteúdo das tags com os seguintes pares chave-valor de atributos (separados por vírgulas)&lt;/e0&gt;: caso haja correspondência na lista de pares chave-valor o conteúdo das tags será ignorado.</seg>
       </tuv>
     </tu>
@@ -3687,6 +3727,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T173936Z" creationid="Sheila" creationdate="20190830T173936Z">
+        <seg>&lt;e0&gt;Preservar espaços para todas as tags&lt;/e0&gt;: se esta opção for selecionada, o "espaço branco" (isto é, os espaços e novas linhas) será preservado, mesmo se não tiver sido estabelecido tecnicamente no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e., spaces and newlines) will be preserved, even if not set technically in the document</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T164349Z" creationid="karol" creationdate="20160308T173151Z">
@@ -3716,6 +3764,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T202855Z">
         <seg>&lt;e0&gt;Remover comentários HTML no documento traduzido&lt;/e0&gt;: todas as partes comentadas (entre &lt;!-- e --&gt;) não serão copiadas no documento traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174039Z" creationid="Sheila" creationdate="20190830T174039Z">
+        <seg>&lt;e0&gt;Remover comentários HTML no documento traduzido&lt;/e0&gt;: as partes comentadas (entre &lt;!-- e --&gt;) não serão copiadas no documento traduzido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3794,8 +3850,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20190829T004721Z" creationid="Sheila" creationdate="20190829T004721Z">
-        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T173752Z" creationid="Sheila" creationdate="20190829T004721Z">
+        <seg>&lt;e0&gt;Ignorar textos que corresponderem a uma expressão regular&lt;/e0&gt;: os textos que corresponderem a uma expressão regular serão ignorados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17155,6 +17211,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T173852Z" creationid="Sheila" creationdate="20190830T173852Z">
+        <seg>Por exemplo, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, Corresponding Source
 includes interface definition files associated with source files for
 the work, and the source code for shared libraries and dynamically
@@ -17188,6 +17252,14 @@ tal como por transmissão de dados interna ou fluxo de controle entre os subprog
         <seg>For example, by default, XHTML filters are used for processing files with the .xhtml extension.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T180953Z" creationid="karol" creationdate="20160308T180953Z">
+        <seg>Por exemplo, como padrão, os filtros XHTML são usados para processar arquivos com a extensão .xhtml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174157Z" creationid="Sheila" creationdate="20190830T174157Z">
         <seg>Por exemplo, como padrão, os filtros XHTML são usados para processar arquivos com a extensão .xhtml.</seg>
       </tuv>
     </tu>
@@ -17514,6 +17586,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T173145Z" creationid="karol" creationdate="20160308T173145Z">
         <seg>Para o exemplo acima, o campo conteria: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T173914Z" creationid="Sheila" creationdate="20190830T173914Z">
+        <seg>Para o exemplo acima, o campo conteria: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22591,6 +22671,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is shown in red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T173757Z" creationid="Sheila" creationdate="20190830T173757Z">
+        <seg>É exibido em vermelho no validador de tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is shown rendered red in the tag validator.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T173141Z" creationid="karol" creationdate="20160308T173141Z">
@@ -22603,6 +22691,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003235Z" creationid="karol" creationdate="20160309T003235Z">
         <seg>É mais simples, entretanto, procurar por dicionários on-line, usando o campo &lt;e0&gt;URL de dicionários on-line&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T173829Z" creationid="Sheila" creationdate="20190830T173829Z">
+        <seg>Às vezes é útil poder deixar algumas tags intraduzíveis de acordo com o valor dos atributos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34765,6 +34861,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174209Z" creationid="Sheila" creationdate="20190830T174209Z">
+        <seg>Codificação dos arquivos de origem e de destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source and target encoding fields use combo boxes with all supported encodings included.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181149Z" creationid="karol" creationdate="20160308T181149Z">
@@ -36196,6 +36300,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174249Z" creationid="Sheila" creationdate="20190830T174236Z">
+        <seg>Arquivos de destino também podem ser gravados sem nenhuma codificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20171104T155051Z" creationid="Sheila" creationdate="20171104T155051Z">
@@ -36505,6 +36617,14 @@ O escopo de uma substituição de texto inclui os segmentos destino do projeto, 
         <seg>Text in source segment that matches is shown in italic.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T173141Z" creationid="karol" creationdate="20160308T173141Z">
+        <seg>O texto no segmento fonte correspondente é exibido em itálico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text in source segments that matches is shown in italics.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T173802Z" creationid="Sheila" creationdate="20190830T173802Z">
         <seg>O texto no segmento fonte correspondente é exibido em itálico.</seg>
       </tuv>
     </tu>
@@ -37627,6 +37747,14 @@ instead.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T100720Z" creationid="karol" creationdate="20160308T172814Z">
         <seg>A caixa de diálogo em &lt;m0&gt; &lt;g1&gt;Opções&lt;/g1&gt; &lt;g2&gt;Editar modo de trabalho...&lt;/g2&gt; &lt;/m0&gt; permite ao usuário selecionar como o segmento atual no campo de edição deve ser inicializado e tratado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174150Z" creationid="Sheila" creationdate="20190830T174150Z">
+        <seg>A caixa de diálogo inclui um editor especial de padrões de nomes de arquivo de destino, no qual é possível personalizar os nomes dos arquivos de saída.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39239,6 +39367,14 @@ Dúvida nesse "call-out" do segmento.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174346Z" creationid="Sheila" creationdate="20190830T174346Z">
+        <seg>Os campos de codificação de origem e de destino usam menus suspensos com todas as codificações compatíveis incluídas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
@@ -40486,6 +40622,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174059Z" creationid="Sheila" creationdate="20190830T174059Z">
+        <seg>Esta caixa de diálogo permite configurar os padrões de nome de arquivo de origem a serem processados pelo filtro, personalizar os nomes de arquivos traduzidos e selecionar quais codificações devem ser usadas para carregar o arquivo e salvar o seu correspondente traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Michael" changedate="20190529T031414Z" creationid="Michael" creationdate="20190529T031414Z">
@@ -41357,6 +41501,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174119Z" creationid="Sheila" creationdate="20190830T174119Z">
+        <seg>Para acrescentar um novo padrão de filtro de arquivo, clique em &lt;e1&gt;Adicionar&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181243Z" creationid="karol" creationdate="20160308T181243Z">
@@ -41755,6 +41907,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T205200Z" creationid="karol" creationdate="20160308T180947Z">
         <seg>Para alterar um padrão de filtro de arquivo, altere os campos diretamente ou clique em &lt;e0&gt;Editar&lt;/e0&gt;. Para acrescentar um novo padrão de filtro de arquivo, clique em &lt;e1&gt;Adicionar&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174111Z" creationid="Sheila" creationdate="20190830T174111Z">
+        <seg>Para alterar um padrão de filtro de arquivo, altere os campos diretamente ou clique em &lt;e0&gt;Editar&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44016,6 +44176,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174013Z" creationid="Sheila" creationdate="20190830T174001Z">
+        <seg>Usar esta opção permite que o tradutor especifique se os arquivos de destino devem incluir a declaração de codificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using wild cards</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002121Z" creationid="karol" creationdate="20160309T002121Z">
@@ -45887,6 +46055,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174217Z" creationid="Sheila" creationdate="20190830T174217Z">
+        <seg>A codificação fonte pode ser modificada para cada tipo de arquivo fonte diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can check that yourself by selecting the item &lt;e0&gt;File Filters&lt;/e0&gt; in the menu &lt;e1&gt;Options&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001328Z" creationid="karol" creationdate="20160309T001328Z">
@@ -45931,6 +46107,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172839Z" creationid="karol" creationdate="20160308T172839Z">
         <seg>Você pode decidir não traduzir tais segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T173900Z" creationid="Sheila" creationdate="20190830T173900Z">
+        <seg>É possível definir pares chave-valor de tags a não serem traduzidas.</seg>
       </tuv>
     </tu>
     <tu>
