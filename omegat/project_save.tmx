@@ -3094,6 +3094,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174355Z" creationid="Sheila" creationdate="20190830T174355Z">
+        <seg>&lt;auto&gt; deixa a opção de codificação para o &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181149Z" creationid="karol" creationdate="20160308T181149Z">
@@ -20729,6 +20737,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174623Z" creationid="Sheila" creationdate="20190830T174623Z">
+        <seg>Se você quiser voltar à configuração padrão do filtro, clique em &lt;e1&gt;Padrões&lt;/e1&gt;. Também é possível modificar o nome diretamente no campo de padrão de nome de arquivo traduzido, na caixa de diálogo dos filtros de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172029Z" creationid="karol" creationdate="20160308T172029Z">
@@ -27663,6 +27679,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174408Z" creationid="Sheila" creationdate="20190830T174408Z">
+        <seg>O OmegaT identifica a codificação do arquivo fonte usando sua declaração de codificação, se houver (arquivos HTML, arquivos baseados em XML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT in the command line mode</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T182340Z" creationid="karol" creationdate="20160308T182340Z">
@@ -27766,6 +27790,14 @@ published by the Free Software Foundation, either version 3 of the License, or
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181150Z" creationid="karol" creationdate="20160308T181150Z">
+        <seg>O OmegaT está configurado para usar uma codificação obrigatória para alguns formatos de arquivo (propriedades Java, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174414Z" creationid="Sheila" creationdate="20190830T174414Z">
         <seg>O OmegaT está configurado para usar uma codificação obrigatória para alguns formatos de arquivo (propriedades Java, etc.)</seg>
       </tuv>
     </tu>
@@ -39563,6 +39595,14 @@ use, which is precisely where it is most unacceptable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174534Z" creationid="Sheila" creationdate="20190830T174534Z">
+        <seg>O padrão de nome de arquivo traduzido usa uma sintaxe especial, portanto se você quiser editar este campo, clique em &lt;e0&gt;Editar...&lt;/e0&gt; para acessar a caixa de diálogo 'Editar padrão'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The target filename pattern uses a special syntax, so if you wish to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the &lt;i1/&gt;Edit Pattern Dialog.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181154Z" creationid="karol" creationdate="20160308T181154Z">
@@ -42499,6 +42539,14 @@ install.sh.</seg>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160312T102151Z" creationid="Evandro" creationdate="20160312T102151Z">
         <seg>O caminho do arquivo traduzido não pode ser idêntico ao do arquivo fonte:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190830T174439Z" creationid="Sheila" creationdate="20190830T174439Z">
+        <seg>Nome de arquivo traduzido</seg>
       </tuv>
     </tu>
     <tu>
