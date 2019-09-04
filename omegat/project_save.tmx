@@ -10812,6 +10812,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190904T125920Z" creationid="Sheila" creationdate="20190904T125920Z">
+        <seg>Mude o nome do conjunto de regras e o padrão da língua para a língua em questão e seu código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Evandro" changedate="20160311T184812Z" creationid="Evandro" creationdate="20160311T184812Z">
@@ -19771,6 +19779,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190828T162949Z" creationid="Sheila" creationdate="20190828T162949Z">
         <seg>Se for ativado, quando um segmento em um arquivo PO (que pode ser um parágrafo inteiro) não é traduzido, a tradução ficará vazia no arquivo de destino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190904T125847Z" creationid="Sheila" creationdate="20190904T125724Z">
+        <seg>Se escolher segmentação por sentença, você pode definir as regras; basta selecionar  &lt;m4&gt;&lt;g5&gt;Opções&lt;/g5&gt;&lt;g6&gt;Segmentação...&lt;/g6&gt;&lt;/m4&gt; no menu principal.</seg>
       </tuv>
     </tu>
     <tu>
