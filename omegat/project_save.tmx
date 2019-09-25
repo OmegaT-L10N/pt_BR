@@ -20853,6 +20853,14 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190925T160231Z" creationid="Sheila" creationdate="20190925T160231Z">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e2&gt;Move Up&lt;/e2&gt; button.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002440Z" creationid="karol" creationdate="20160309T002440Z">
