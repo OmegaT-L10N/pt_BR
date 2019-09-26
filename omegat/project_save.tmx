@@ -42063,6 +42063,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T142154Z" creationid="Sheila" creationdate="20190926T142154Z">
+        <seg>Para que isto seja possível, selecione esta opção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170903T205200Z" creationid="karol" creationdate="20160308T180947Z">
@@ -45134,6 +45142,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170523T195400Z" creationid="karol" creationdate="20160308T181433Z">
         <seg>Quando o tradutor trabalhar com idiomas da DPE e EPD, para ler as tags do segmento fonte e digitá-las corretamente no segmento destino, será necessário alternar entre os modos EPD e DPE várias vezes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T142224Z" creationid="Sheila" creationdate="20190926T142224Z">
+        <seg>Ao traduzir arquivos relacionados a software você pode configurar as opções de validação de tags para verificar também variáveis de programação (%...).</seg>
       </tuv>
     </tu>
     <tu>
