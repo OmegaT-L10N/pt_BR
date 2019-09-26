@@ -8633,6 +8633,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T142128Z" creationid="Sheila" creationdate="20190926T142128Z">
+        <seg>Permitir que a tradução seja igual ao texto de origem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T210321Z" creationid="karol" creationdate="20160308T202012Z">
@@ -10500,6 +10508,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T141941Z" creationid="Sheila" creationdate="20190926T141941Z">
+        <seg>Por padrão, o OmegaT não executa os comandos especificados nas configurações específicas do projeto (o arquivo &lt;f0&gt;finder.xml&lt;/f0&gt; na pasta &lt;f1&gt;omegat&lt;/f1&gt;), porque eles podem ter um impacto crítico na segurança da máquina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T143033Z" creationid="Sheila" creationdate="20170904T143033Z">
@@ -11176,6 +11192,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T010546Z" creationid="karol" creationdate="20160309T010546Z">
         <seg>Verificar número de tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T141845Z" creationid="Sheila" creationdate="20190926T141845Z">
+        <seg>Marque ou desmarque as regras, dependendo de sua relevância para o tipo de texto que você está traduzindo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15483,6 +15507,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables you to change the order of the commands in the context menu (the right-click menu).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T142039Z" creationid="Sheila" creationdate="20190926T142039Z">
+        <seg>Permite alterar a ordem dos comandos no menu de contexto (menu aberto ao clicar com o botão direito do mouse).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Encoded text (*.UTF8)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181333Z" creationid="karol" creationdate="20160308T181333Z">
@@ -16350,8 +16382,8 @@ Teias de aranha estão te bloqueando
       <tuv lang="EN">
         <seg>External Search</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CarolVignolis" changedate="20181014T012813Z" creationid="CarolVignolis" creationdate="20181014T012813Z">
-        <seg>Busca Externa</seg>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T141906Z" creationid="CarolVignolis" creationdate="20181014T012813Z">
+        <seg>Busca externa</seg>
       </tuv>
     </tu>
     <tu>
@@ -21731,6 +21763,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T141434Z" creationid="Sheila" creationdate="20190926T141434Z">
+        <seg>Inclui correspondências de &amp;outros idiomas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170905T190830Z" creationid="Sheila" creationdate="20170905T190830Z">
@@ -21990,6 +22030,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172826Z" creationid="karol" creationdate="20160308T172826Z">
         <seg>Inserir a melhor correspondência parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the source text</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T142113Z" creationid="Sheila" creationdate="20190926T142113Z">
+        <seg>Inserir o texto de origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -27662,6 +27710,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T141718Z" creationid="Sheila" creationdate="20190926T141718Z">
+        <seg>O OmegaT tem um verificador ortográfico embutido baseado no &lt;l0&gt;verificador ortográfico&lt;/l0&gt; usado no Apache OpenOffice, LibreOffice, Firefox e Thunderbird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003226Z" creationid="karol" creationdate="20160309T003226Z">
@@ -28516,6 +28572,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181146Z" creationid="karol" creationdate="20160308T181146Z">
         <seg>Apenas uma quantidade limitada de formatos de arquivos requer codificação obrigatória.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only activate this option if you know what you are doing, and only for projects from trusted sources.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T141959Z" creationid="Sheila" creationdate="20190926T141959Z">
+        <seg>Ative esta opção apenas se souber o que está fazendo e apenas para projetos de fontes fidedignas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29496,6 +29560,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181932Z" creationid="karol" creationdate="20160308T181932Z">
         <seg>Preste atenção redobrada aos pares de tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T141447Z" creationid="Sheila" creationdate="20190926T141447Z">
+        <seg>Penalidade por correspondência em outros idiomas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33244,6 +33316,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T141510Z" creationid="Sheila" creationdate="20190926T141510Z">
+        <seg>Veja &lt;l2&gt;Expressões regulares&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181201Z" creationid="karol" creationdate="20160308T181201Z">
@@ -33914,6 +33994,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003701Z" creationid="karol" creationdate="20160309T003701Z">
         <seg>Selecione a memória de tradução de backup que mais provavelmente contém os dados que você está procurando - por exemplo, o mais recente, ou a última versão do dia anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T141740Z" creationid="Sheila" creationdate="20190926T141740Z">
+        <seg>Selecione o local do verificador de idioma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44192,6 +44280,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T141803Z" creationid="Sheila" creationdate="20190926T141803Z">
+        <seg>O uso de um verificador de idioma diferente do fornecido com o OmegaT na sua máquina local dá a opção de personalizar as regras de verificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002140Z" creationid="karol" creationdate="20160309T002140Z">
@@ -44364,6 +44460,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170927T222218Z" creationid="Sheila" creationdate="20170927T222218Z">
         <seg>Valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T142055Z" creationid="Sheila" creationdate="20190926T142055Z">
+        <seg>Valores em torno de 100 exibem comandos na parte superior e valores em torno de 900 exibem-nos na parte inferior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46794,6 +46898,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="User" changedate="20181005T140137Z" creationid="User" creationdate="20181005T140137Z">
         <seg>Você terá que digitar essa senha toda vez que iniciar o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will need to restart OmegaT for this change to take effect.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T142102Z" creationid="Sheila" creationdate="20190926T142102Z">
+        <seg>Você precisará reiniciar o OmegaT para que essa alteração tenha efeito.</seg>
       </tuv>
     </tu>
     <tu>
