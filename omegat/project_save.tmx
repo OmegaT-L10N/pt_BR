@@ -10548,6 +10548,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane are determined using stemming.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190927T121644Z" creationid="Sheila" creationdate="20190927T121644Z">
+        <seg>Por padrão, as correspondências mais próximas exibidas no painel de &lt;g0&gt;Correspondência parciais&lt;/g0&gt; são determinadas usando lematização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T181148Z" creationid="karol" creationdate="20160308T181148Z">
@@ -17330,6 +17338,14 @@ freedoms that you received.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T193955Z" creationid="karol" creationdate="20160308T193955Z">
         <seg>Por exemplo, se você distribuir cópias de tal programa, seja gratuitamente ou por uma taxa, deve transmitir aos recipientes as mesmas liberdades que recebeu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190927T121406Z" creationid="Sheila" creationdate="20190927T121406Z">
+        <seg>Por exemplo, se você digitar &lt;u0&gt;\d+&lt;/u0&gt; no campo &lt;g1&gt;Expressão regular para tags personalizadas&lt;/g1&gt;, todos os números serão considerados como tags, permitindo que você verifique se os números não foram alterados por engano durante a tradução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24258,6 +24274,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List of projects for which login details are stored in OmegaT.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190927T121504Z" creationid="Sheila" creationdate="20190927T121504Z">
+        <seg>Lista de projetos para os quais os detalhes de login são armazenados no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170913T043514Z" creationid="CALDAS" creationdate="20170912T034508Z">
@@ -27110,6 +27134,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T114832Z" creationid="Sheila" creationdate="20170904T114832Z">
         <seg>Nota: o marcador de segmento exibe &lt;l0&gt;&lt;segment nnnn +yy outro(s)&gt; quando o segmento não é único.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190927T121453Z" creationid="Sheila" creationdate="20190927T121453Z">
+        <seg>Nota: estas duas instruções podem ser combinadas escrevendo &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31600,6 +31632,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190927T121525Z" creationid="Sheila" creationdate="20190927T121525Z">
+        <seg>Remova um projeto desta lista se quiser que o OmegaT peça um login e uma senha sempre que você acessar o projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove all text except tags, or all tags except text</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20190708T133128Z" creationid="CALDAS" creationdate="20170914T123051Z">
@@ -34509,6 +34549,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170523T185455Z" creationid="karol" creationdate="20160308T172640Z">
         <seg>Assim como nos projetos do OmegaT, você precisará ter repositórios separados para pares de idiomas diferentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190927T121439Z" creationid="Sheila" creationdate="20190927T121439Z">
+        <seg>Da mesma forma, digite &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; para certificar-se de que as tags HTML (por exemplo) inseridas no texto de origem sejam preservadas sem modificação na tradução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46125,6 +46173,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20170918T071136Z" creationid="CALDAS" creationdate="20170918T071136Z">
         <seg>Também é possível abrir o manual do usuário fornecido com o OmegaT sem iniciar o programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190927T121323Z" creationid="Sheila" creationdate="20190927T121323Z">
+        <seg>Você também pode definir várias opções relacionadas à validação de tags e definir tags personalizadas.</seg>
       </tuv>
     </tu>
     <tu>
