@@ -8991,6 +8991,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190929T011834Z" creationid="Sheila" creationdate="20190929T011834Z">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example would be a software project, with GUI localized in a number of languages.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214416Z" creationid="karol" creationdate="20160308T214416Z">
@@ -35359,6 +35367,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T123024Z" creationid="CALDAS" creationdate="20190420T123024Z">
         <seg>Especificar um mnemônico com "&amp;": "F&amp;oobar" para usar O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify commands that are executed after the &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190928T200801Z" creationid="Sheila" creationdate="20190928T200801Z">
+        <seg>Especifique os comandos que são executados após o comando &lt;g0&gt;Criar documentos traduzidos&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
