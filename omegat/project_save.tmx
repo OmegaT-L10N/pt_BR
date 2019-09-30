@@ -8713,6 +8713,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190930T174040Z" creationid="Sheila" creationdate="20190930T174040Z">
+        <seg>Permitir também comandos externos por projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T003248Z" creationid="karol" creationdate="20160309T003248Z">
@@ -8987,6 +8995,14 @@ organization, or merging organizations.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T002133Z" creationid="karol" creationdate="20160309T002133Z">
         <seg>Uma busca exata procura por uma frase, isto é, se diversas palavras forem fornecidas, serão encontradas somente se ocorrerem exatamente na mesma sequência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190930T174022Z" creationid="Sheila" creationdate="20190930T174022Z">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10512,6 +10528,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20190926T141941Z" creationid="Sheila" creationdate="20190926T141941Z">
         <seg>Por padrão, o OmegaT não executa os comandos especificados nas configurações específicas do projeto (o arquivo &lt;f0&gt;finder.xml&lt;/f0&gt; na pasta &lt;f1&gt;omegat&lt;/f1&gt;), porque eles podem ter um impacto crítico na segurança da máquina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20190930T174135Z" creationid="Sheila" creationdate="20190930T174135Z">
+        <seg>Por padrão, o OmegaT não executa os comandos especificados nas configurações específicas do projeto (o arquivo &lt;f0&gt;omegat.project&lt;/f0&gt;), porque isso pode ter um impacto crítico sobre a segurança da máquina.</seg>
       </tuv>
     </tu>
     <tu>
