@@ -8991,14 +8991,6 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
-      </tuv>
-      <tuv lang="PT-BR" changeid="Sheila" changedate="20190929T011834Z" creationid="Sheila" creationdate="20190929T011834Z">
-        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>An example would be a software project, with GUI localized in a number of languages.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T214416Z" creationid="karol" creationdate="20160308T214416Z">
