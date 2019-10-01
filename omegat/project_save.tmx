@@ -15563,6 +15563,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20191001T182013Z" creationid="Sheila" creationdate="20191001T182013Z">
+        <seg>Permite notificações automáticas sobre atualizações do &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001637Z" creationid="karol" creationdate="20160309T001637Z">
@@ -18207,6 +18215,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gives access to the list of plugins available.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20191001T181912Z" creationid="Sheila" creationdate="20191001T181912Z">
+        <seg>Dá acesso à lista de plugins disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gives access to the project folders.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170904T210050Z" creationid="Sheila" creationdate="20170904T210050Z">
@@ -18842,6 +18858,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can redefine the master password used to protect login details and access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20191001T181838Z" creationid="Sheila" creationdate="20191001T181838Z">
+        <seg>Aqui você pode redefinir a senha mestra usada para proteger dados de login e chaves de acesso para serviços de tradução automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160309T001623Z" creationid="karol" creationdate="20160309T001623Z">
@@ -19432,6 +19456,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="CALDAS" changedate="20190420T125032Z" creationid="CALDAS" creationdate="20190420T125032Z">
         <seg>Se o Java estiver instalado a nível de sistema e estiver no caminho de comando, o caminho completo não precisará ser inserido.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20191001T181824Z" creationid="Sheila" creationdate="20191001T181824Z">
+        <seg>Se o OmegaT precisar usar um servidor proxy autenticado para acessar a internet, digite os detalhes fornecidos pelo administrador do proxy aqui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30128,6 +30160,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20191001T181941Z" creationid="Sheila" creationdate="20191001T181941Z">
+        <seg>Os plugins são instalados na pasta &lt;f0&gt;/plugins&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20181123T130348Z" creationid="Sheila" creationdate="20181123T130348Z">
@@ -30662,6 +30702,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T172103Z" creationid="karol" creationdate="20160308T172103Z">
         <seg>Menu Projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20191001T182027Z" creationid="Sheila" creationdate="20191001T182027Z">
+        <seg>Propriedades do projeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -33366,6 +33414,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
         <seg>Secure Store</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20181126T134140Z" creationid="Sheila" creationdate="20181126T134055Z">
+        <seg>Armazenamento seguro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure store</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20191001T181828Z" creationid="Sheila" creationdate="20191001T181828Z">
         <seg>Armazenamento seguro</seg>
       </tuv>
     </tu>
@@ -36560,6 +36616,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="karol" changedate="20160308T171331Z" creationid="karol" creationdate="20160308T171331Z">
         <seg>Tajique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take care to make a note of all these details before creating a new password, because they will all be deleted and will need to be re-entered.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20191001T181903Z" creationid="Sheila" creationdate="20191001T181903Z">
+        <seg>Tome cuidado para anotar todos esses detalhes antes de criar uma nova senha, porque todos eles serão apagados e terão que ser inseridos de novo.</seg>
       </tuv>
     </tu>
     <tu>
