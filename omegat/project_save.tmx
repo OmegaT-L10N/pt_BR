@@ -41014,6 +41014,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Sheila" changedate="20191002T111221Z" creationid="Sheila" creationdate="20191002T111221Z">
+        <seg>Este diálogo é acessível por meio da opção &lt;m0&gt; &lt;g1&gt;Projeto&lt;/g1&gt; &lt;g2&gt;Propriedades...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog lists available file filters, where the filters used by the current project are displayed in bold.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Sheila" changedate="20170901T100334Z" creationid="Sheila" creationdate="20170901T100334Z">
