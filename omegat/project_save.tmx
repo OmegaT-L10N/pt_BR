@@ -32440,6 +32440,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reuse Translation Memories</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20191004T095138Z" creationid="Sheila" creationdate="20191004T095138Z">
+        <seg>Reutilizar memórias de tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reusing translation memories</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003716Z" creationid="karol" creationdate="20160309T003716Z">
@@ -34452,6 +34460,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003209Z" creationid="karol" creationdate="20160309T003209Z">
         <seg>Defina o início do segmento depois do ponto ('.') seguido por espaço, tabulação...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set up a Team Project</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20191004T095325Z" creationid="Sheila" creationdate="20191004T095325Z">
+        <seg>Criar um projeto de equipe</seg>
       </tuv>
     </tu>
     <tu>
@@ -38475,6 +38491,14 @@ instead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20180923T195624Z" creationid="User" creationdate="20180923T195624Z">
         <seg>As opções a seguir não se aplicam se "Compatibilidade com OmegaT 2.6" está assinalado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20191004T095200Z" creationid="Sheila" creationdate="20191004T095200Z">
+        <seg>A seguinte 'receita' é apenas uma das possibilidades, mas simples o suficiente de se seguir e sem qualquer perigo para a tradução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44540,6 +44564,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="grego" changedate="20171108T013209Z" creationid="grego" creationdate="20171108T013209Z">
         <seg>Como usar o OmegaT no Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using TMX with alternative language</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20191004T095303Z" creationid="Sheila" creationdate="20191004T095303Z">
+        <seg>Utilização da TMX com idiomas alternativos</seg>
       </tuv>
     </tu>
     <tu>
@@ -53134,6 +53166,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201552Z" creationid="karol" creationdate="20160308T201552Z">
         <seg>Fundação para o Software Livre, sob a versão 3 da Licença ou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20191004T095245Z" creationid="Sheila" creationdate="20191004T095245Z">
+        <seg>os arquivos TMX na pasta principal do projeto (ver acima) conterão as traduções no par de idiomas selecionado para os arquivos que você copiou para a pasta de origem.</seg>
       </tuv>
     </tu>
     <tu>
