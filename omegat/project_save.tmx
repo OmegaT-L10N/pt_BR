@@ -9482,6 +9482,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20191009T171355Z" creationid="Sheila" creationdate="20191009T171355Z">
+        <seg>Como há muitas informações sobre SVN e Git facilmente disponíveis, não vamos descrever como elas funcionam aqui, mas apenas como o OmegaT funciona com elas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181433Z" creationid="karol" creationdate="20160308T181433Z">
@@ -23015,6 +23023,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20191009T171339Z" creationid="Sheila" creationdate="20191009T171339Z">
+        <seg>Assim, deve ser realizada por pessoas em posição de gestor de projeto, líder de projeto ou engenheiro de localização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It shows translation of terms found in the current segment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004127Z" creationid="karol" creationdate="20160309T004127Z">
@@ -34532,6 +34548,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="pt-BR" changeid="grego" changedate="20171108T015651Z" creationid="grego" creationdate="20171108T015603Z">
         <seg>Como configurar a função de visualização para usá-la com o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20191009T171252Z" creationid="Sheila" creationdate="20191009T171252Z">
+        <seg>A configuração de um projeto de equipe requer algum conhecimento de servidores e dos sistemas de versionamento SVN ou Git.</seg>
       </tuv>
     </tu>
     <tu>
