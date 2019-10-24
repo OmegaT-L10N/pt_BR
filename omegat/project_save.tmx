@@ -12825,6 +12825,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20191024T105159Z" creationid="Sheila" creationdate="20191024T105036Z">
+        <seg>Crie uma cópia local do repositório (comando &lt;c0&gt;check out&lt;/c0&gt; no SVN, &lt;c1&gt;clone&lt;/c1&gt; no Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172633Z" creationid="karol" creationdate="20160308T172633Z">
@@ -12837,6 +12845,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003759Z" creationid="karol" creationdate="20160309T003759Z">
         <seg>Crie um projeto separado para outros projetos no par de idiomas desejado, com um nome apropriado - observe que as TMXs criadas incluirão esse nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20191024T105041Z" creationid="Sheila" creationdate="20191024T105024Z">
+        <seg>Crie um repositório SVN ou Git em um servidor que será acessível pelos tradutores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12973,6 +12989,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003736Z" creationid="karol" creationdate="20160309T003736Z">
         <seg>Criação de uma memória de tradução de documentos selecionados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20191024T104954Z" creationid="Sheila" creationdate="20191024T104954Z">
+        <seg>Criando um projeto vazio no servidor</seg>
       </tuv>
     </tu>
     <tu>
@@ -35817,6 +35841,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20171023T180222Z" creationid="Sheila" creationdate="20171023T180222Z">
         <seg>Passo 1: Ajustar parâmetros de alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20191024T104945Z" creationid="Sheila" creationdate="20191024T104945Z">
+        <seg>Passo 1: Criar um projeto vazio no servidor</seg>
       </tuv>
     </tu>
     <tu>
