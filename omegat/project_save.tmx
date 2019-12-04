@@ -4224,6 +4224,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T102032Z" creationid="CALDAS" creationdate="20191204T102032Z">
+        <seg>&lt;g0&gt;Projeto&lt;/g0&gt; &lt;g1&gt;Novo...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20181123T130430Z" creationid="Sheila" creationdate="20181123T130430Z">
@@ -51915,6 +51923,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T210512Z" creationid="Sheila" creationdate="20170903T210512Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T102456Z" creationid="CALDAS" creationdate="20191204T102456Z">
+        <seg>na linha de comando: &lt;c0&gt;&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
