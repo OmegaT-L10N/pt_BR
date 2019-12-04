@@ -79,3 +79,4 @@ Utilities	Utilitários
 one-to-many matching	correspondência única ou múltipla
 saving	gravação	como verbo, "salvar", como substantivo, "gravação"uncleaned files
 highlighted	destacado
+OmegaT project	projeto OmegaT
