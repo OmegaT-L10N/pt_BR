@@ -31251,6 +31251,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T152144Z" creationid="CALDAS" creationdate="20191204T152144Z">
+        <seg>Publique o novo projeto OmegaT no servidor (clicando em &lt;c0&gt;commit&lt;/c0&gt;, com o SVN ou em &lt;c1&gt;commit&lt;/c1&gt; e &lt;c2&gt; push&lt;/c2&gt;, com Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Push failed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T112939Z" creationid="Evandro" creationdate="20160312T112939Z">
