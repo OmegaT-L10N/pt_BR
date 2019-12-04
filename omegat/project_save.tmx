@@ -8113,8 +8113,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T102551Z" creationid="CALDAS" creationdate="20191204T102551Z">
-        <seg>Adicione o novo projeto OmegaT ao sistema de versão ( &lt;c0&gt; adicionar &lt;/c0&gt; com SVN e Git)</seg>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T102904Z" creationid="CALDAS" creationdate="20191204T102551Z">
+        <seg>Adicione o novo projeto OmegaT ao sistemas de versionamento (&lt;c0&gt;adicionar&lt;/c0&gt; com SVN e Git)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51937,8 +51937,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T102456Z" creationid="CALDAS" creationdate="20191204T102456Z">
-        <seg>na linha de comando: &lt;c0&gt;&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T102602Z" creationid="CALDAS" creationdate="20191204T102456Z">
+        <seg>na linha de comando: &lt;c0&gt;&gt;java -jar OmegaT.jar team init [idioma1] [idioma2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
