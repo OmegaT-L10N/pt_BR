@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_c63a9b8d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12134,6 +12134,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160313T104056Z" creationid="Evandro" creationdate="20160311T190006Z">
         <seg>Confundido por início falso de uma tag de comentário!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T101531Z" creationid="CALDAS" creationdate="20191204T101531Z">
+        <seg>Conecte ao servidor personalizado em vez do apertium.org</seg>
       </tuv>
     </tu>
     <tu>
