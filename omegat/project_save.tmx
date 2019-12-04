@@ -27265,6 +27265,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T104558Z" creationid="CALDAS" creationdate="20191204T104558Z">
+        <seg>Nota: essa etapa já foi realizada pelo programa caso o projeto tenha sido criado usando a linha de comando do passo 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: Items that are found in most applications (copy/cut/paste) are not displayed in this menu, but are available using your system shortcuts.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201907Z" creationid="karol" creationdate="20160308T201907Z">
