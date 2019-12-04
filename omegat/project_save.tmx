@@ -7709,6 +7709,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T101653Z" creationid="CALDAS" creationdate="20191204T101653Z">
+        <seg>Chave de API (opcional)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170911T222943Z" creationid="Sheila" creationdate="20170911T222943Z">
@@ -13579,6 +13587,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T213442Z" creationid="karol" creationdate="20160308T213442Z">
         <seg>Personalizar cores...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T101546Z" creationid="CALDAS" creationdate="20191204T101546Z">
+        <seg>URL do servidor personalizado</seg>
       </tuv>
     </tu>
     <tu>
