@@ -35627,6 +35627,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specific parameters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T152631Z" creationid="CALDAS" creationdate="20191204T152631Z">
+        <seg>Parâmetros específicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20190420T123024Z" creationid="CALDAS" creationdate="20190420T123024Z">
