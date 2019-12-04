@@ -12857,6 +12857,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a new, empty OmegaT project in the local repository.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T101923Z" creationid="CALDAS" creationdate="20191204T101923Z">
+        <seg>Crie um novo projeto OmegaT vazio no repositório local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003759Z" creationid="karol" creationdate="20160309T003759Z">
@@ -15753,6 +15761,22 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002048Z" creationid="karol" creationdate="20160309T002048Z">
         <seg>Inglês: palavras, começando com vogais, que deveriam sempre ser precedidas por "an" e não "a"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T101830Z" creationid="CALDAS" creationdate="20191204T101830Z">
+        <seg>Verifique se a URL está correta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T101759Z" creationid="CALDAS" creationdate="20191204T101759Z">
+        <seg>Verifique se a URL do servidor está correta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39800,6 +39824,14 @@ Dúvida nesse "call-out" do segmento.</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T101820Z" creationid="CALDAS" creationdate="20191204T101820Z">
+        <seg>O servidor não é um servidor Apertium válido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20171104T155119Z" creationid="karol" creationdate="20160308T172621Z">
@@ -41057,6 +41089,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182344Z" creationid="karol" creationdate="20160308T182344Z">
         <seg>Isto pode ser feito de duas formas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T102004Z" creationid="CALDAS" creationdate="20191204T102004Z">
+        <seg>Isso pode ser feito de duas maneiras:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43524,6 +43564,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T182235Z" creationid="Evandro" creationdate="20160311T182235Z">
         <seg>Impossível criar novo arquivo TMX!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T101715Z" creationid="CALDAS" creationdate="20191204T101715Z">
+        <seg>Não foi possível conectar-se ao servidor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50111,6 +50159,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20181113T103209Z" creationid="Sheila" creationdate="20181113T103209Z">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T101838Z" creationid="CALDAS" creationdate="20191204T101838Z">
+        <seg>https://omegat.org/support</seg>
       </tuv>
     </tu>
     <tu>
