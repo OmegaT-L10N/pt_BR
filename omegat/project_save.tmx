@@ -8113,8 +8113,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T102904Z" creationid="CALDAS" creationdate="20191204T102551Z">
-        <seg>Adicione o novo projeto OmegaT ao sistemas de versionamento (&lt;c0&gt;adicionar&lt;/c0&gt; com SVN e Git)</seg>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191205T124916Z" creationid="CALDAS" creationdate="20191204T102551Z">
+        <seg>Adicione o novo projeto OmegaT ao sistemas de versionamento (clicando em &lt;c0&gt;add&lt;/c0&gt;, com SVN e Git)</seg>
       </tuv>
     </tu>
     <tu>
