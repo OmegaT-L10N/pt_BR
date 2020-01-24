@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_cd437983a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27,6 +27,15 @@ License by making exceptions from one or more of its conditions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170914T031841Z" creationid="CALDAS" creationdate="20170914T031734Z">
         <seg>Utilitário alinhador "Bligner"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="karol" changedate="20160309T010533Z" creationid="karol" creationdate="20160309T010533Z">
+        <seg>"Impossível iniciar a partir de uma pasta que contém o caractere \"/\" em seu nome.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -87,6 +96,15 @@ country that you have reason to believe are valid.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="karol" changedate="20160309T010532Z" creationid="karol" creationdate="20160309T010532Z">
+        <seg>"Nome de classe principal é necessário.";</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>"Object code" means any non-source
 form of a work.</seg>
@@ -121,11 +139,56 @@ License.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="karol" changedate="20160309T010530Z" creationid="karol" creationdate="20160309T010530Z">
+        <seg>"Este programa requer o Java %d ou mais recente instalado no seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="karol" changedate="20160309T010531Z" creationid="karol" creationdate="20160309T010531Z">
+        <seg>"Este programa requer o Java %d JDK ou mais recente instalado no seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182012Z" creationid="karol" creationdate="20160308T182012Z">
         <seg>"Este é um termo de origem, que contém uma vírgula","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="karol" changedate="20160309T010532Z" creationid="karol" creationdate="20160309T010532Z">
+        <seg>"Impossível enumerar o conteúdo da pasta do Java.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="karol" changedate="20160309T010529Z" creationid="karol" creationdate="20160309T010529Z">
+        <seg>"Impossível carregar o Java Runtime Environment.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="karol" changedate="20160309T010530Z" creationid="karol" creationdate="20160309T010530Z">
+        <seg>"Impossível carregar um Java %d Runtime Environment.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -30122,6 +30185,24 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="karol" changedate="20160309T010531Z" creationid="karol" creationdate="20160309T010531Z">
+        <seg>Baixe e instale a última versão do Java JDK em Oracle.com e tente outra vez.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="karol" changedate="20160309T010531Z" creationid="karol" creationdate="20160309T010531Z">
+        <seg>Baixe e instale a última versão do Java em www.java.com e tente outra vez.";</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Please enter the name of this set:</seg>
       </tuv>
@@ -33991,12 +34072,13 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
     </tu>
     <tu>
-      <note>Segment added on version 3.6</note>
+      <note>Segment added on version 3.6
+In this segment {0,number,#} should remain unchanged</note>
       <tuv lang="en">
         <seg>Segment {0,number,#}</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T180525Z" creationid="Evandro" creationdate="20160311T180308Z">
-        <seg>Segmento {0,número,#}</seg>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20200124T174521Z" creationid="Evandro" creationdate="20160311T180308Z">
+        <seg>Segmento {0,number,#}</seg>
       </tuv>
     </tu>
     <tu>
