@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_cd437983a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8176,8 +8176,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191205T124916Z" creationid="CALDAS" creationdate="20191204T102551Z">
-        <seg>Adicione o novo projeto OmegaT ao sistemas de versionamento (clicando em &lt;c0&gt;add&lt;/c0&gt;, com SVN e Git)</seg>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191205T124952Z" creationid="CALDAS" creationdate="20191204T102551Z">
+        <seg>Adicione o novo projeto OmegaT ao sistemas de versionamento (clicando em &lt;c0&gt;add&lt;/c0&gt;, no SVN e Git)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31334,8 +31334,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T152144Z" creationid="CALDAS" creationdate="20191204T152144Z">
-        <seg>Publique o novo projeto OmegaT no servidor (clicando em &lt;c0&gt;commit&lt;/c0&gt;, com o SVN ou em &lt;c1&gt;commit&lt;/c1&gt; e &lt;c2&gt; push&lt;/c2&gt;, com Git).</seg>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20191205T125024Z" creationid="CALDAS" creationdate="20191204T152144Z">
+        <seg>Publique o novo projeto OmegaT no servidor (clicando em &lt;c0&gt;commit&lt;/c0&gt;, no SVN ou em &lt;c1&gt;commit&lt;/c1&gt; e &lt;c2&gt; push&lt;/c2&gt;, no Git).</seg>
       </tuv>
     </tu>
     <tu>
