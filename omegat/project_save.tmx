@@ -11748,6 +11748,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T142725Z" creationid="CALDAS" creationdate="20200126T142725Z">
+        <seg>Clique na aba &lt;g0&gt;Editar&lt;/g0&gt; na página da Wikipédia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002120Z" creationid="karol" creationdate="20160309T002120Z">
@@ -12585,6 +12593,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003702Z" creationid="karol" creationdate="20160309T003702Z">
         <seg>Copie-a para &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T142828Z" creationid="CALDAS" creationdate="20200126T142828Z">
+        <seg>Copie o URL da página (com final &lt;g0&gt;action=edit&lt;/g0&gt;) e cole-o no &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
