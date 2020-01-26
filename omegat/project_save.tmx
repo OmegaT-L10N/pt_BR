@@ -42803,6 +42803,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To translate the contents of a Wikipedia page (for example):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T142639Z" creationid="CALDAS" creationdate="20200126T142639Z">
+        <seg>Para traduzir o conteúdo de uma página da Wikipédia (por exemplo):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To untar the &lt;e1&gt;.tar.gz&lt;/e1&gt; file:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T224911Z" creationid="karol" creationdate="20160308T182136Z">
