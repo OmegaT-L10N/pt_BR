@@ -18382,6 +18382,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Give access to the ten last edited projects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T141509Z" creationid="CALDAS" creationdate="20200126T141509Z">
+        <seg>Fornece acesso aos dez últimos projetos editados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gives access to the list of plugins available.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20191001T181912Z" creationid="Sheila" creationdate="20191001T181912Z">
@@ -33705,6 +33713,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171135Z" creationid="karol" creationdate="20160308T171135Z">
         <seg>Ver &lt;l0&gt;Apêndice de configuração de atalhos&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T141146Z" creationid="CALDAS" creationdate="20200126T141146Z">
+        <seg>Veja &lt;l0&gt;Instruções sobre como usar o projeto de equipe&lt;/l0&gt; para mais detalhes.</seg>
       </tuv>
     </tu>
     <tu>
