@@ -12613,6 +12613,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T145749Z" creationid="CALDAS" creationdate="20200126T145749Z">
+        <seg>Copie o texto e cole-o na versão traduzida da página da Wikipedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003800Z" creationid="karol" creationdate="20160309T003800Z">
