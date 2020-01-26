@@ -31861,6 +31861,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T151803Z" creationid="CALDAS" creationdate="20200126T151803Z">
+        <seg>Recarrega o projeto para aceitar alterações externas em arquivos de origem e configurações do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reloads the project to take external changes in source files, legacy translation memories, glossaries and project settings into account.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170901T095209Z" creationid="karol" creationdate="20160308T201854Z">
