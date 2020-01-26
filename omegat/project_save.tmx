@@ -27973,6 +27973,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T152126Z" creationid="CALDAS" creationdate="20200126T151946Z">
+        <seg>O OmegaT salva automaticamente a tradução a cada 3 minutos, quando fecha o projeto ou sai do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170523T185545Z" creationid="karol" creationdate="20160308T172726Z">
@@ -39013,6 +39021,14 @@ desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T182132Z" creationid="CarolVignolis" creationdate="20181014T182132Z">
         <seg>O programa de instalação pode criar atalhos para você no menu iniciar, na área de trabalho e na barra de início rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T152337Z" creationid="CALDAS" creationdate="20200126T152337Z">
+        <seg>O intervalo de 3 minutos pode ser alterado em &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Opções&lt;/g2&gt; &lt;g3&gt;Preferências&lt;/g3&gt; &lt;g4&gt;Gravação e saída&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
