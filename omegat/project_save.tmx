@@ -26565,6 +26565,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T151924Z" creationid="CALDAS" creationdate="20200126T151924Z">
+        <seg>Novas memórias de tradução colocadas na pasta &lt;f0&gt;/tm&lt;/f0&gt; enquanto a tradução é carregada automaticamente assim que o cursor se move de um segmento para outro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T030553Z" creationid="CALDAS" creationdate="20170912T030553Z">
