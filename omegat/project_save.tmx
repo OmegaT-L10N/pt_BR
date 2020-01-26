@@ -29101,6 +29101,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T145728Z" creationid="CALDAS" creationdate="20200126T145728Z">
+        <seg>Abra o arquivo &lt;f0&gt;.UTF8&lt;/f0&gt; gerado na pasta &lt;f1&gt;/target&lt;/f1&gt; pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002101Z" creationid="karol" creationdate="20160309T002101Z">
@@ -45882,6 +45890,14 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003802Z" creationid="karol" creationdate="20160309T003802Z">
         <seg>Quando você sair do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you have finished your translation, to import it into Wikipedia:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T142956Z" creationid="CALDAS" creationdate="20200126T142956Z">
+        <seg>Quando terminar sua tradução, importe-a para a Wikipédia:</seg>
       </tuv>
     </tu>
     <tu>
