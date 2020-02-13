@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21119,11 +21119,16 @@ is to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Selecione a caixa abaixo para que o OmegaT seja instalado com o mesmo idioma usado pelo instalador.
+
+Selecione a caixa abaixo para que o OmegaT seja instalado com o mesmo idioma escolhido na configuração de idioma do instalador.
+
+</note>
       <tuv lang="en">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="karol" changedate="20160309T010534Z" creationid="karol" creationdate="20160309T010534Z">
-        <seg>Se quise usar no OmegaT o mesmo idioma utilizado na instalação, selecione a caixa abaixo.</seg>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T031455Z" creationid="karol" creationdate="20160309T010534Z">
+        <seg>Selecione a caixa abaixo se quiser que o OmegaT utilize o mesmo idioma usado na instalação,</seg>
       </tuv>
     </tu>
     <tu>
@@ -22482,6 +22487,16 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20181120T165622Z" creationid="Sheila" creationdate="20181120T165613Z">
         <seg>Instalação do OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033126Z" creationid="CALDAS" creationdate="20200213T033115Z">
+        <seg>Instalação do OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
     </tu>
@@ -26203,6 +26218,15 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033056Z" creationid="CALDAS" creationdate="20200213T033056Z">
+        <seg>Mover a pasta para um local apropriado tal como a pasta Ferramentas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves one segment back in history</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214356Z" creationid="karol" creationdate="20160308T214356Z">
@@ -27923,6 +27947,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
+      <note>https://live.staticflickr.com/65535/49528270951_a2a6d644ee.jpg
+</note>
       <tuv lang="en">
         <seg>OmegaT User Interface Language</seg>
       </tuv>
@@ -28194,8 +28220,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T173051Z" creationid="CarolVignolis" creationdate="20181014T173051Z">
-        <seg>O OmegaT é uma ferramenta de tradução assistida por computador gratuita e de código aberto com correspondência parcial, memória de tradução, busca de palavras-chaves, glossários e reutilização de tradução em atualização de projetos traduzidos.</seg>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T032901Z" creationid="CarolVignolis" creationdate="20181014T173051Z">
+        <seg>O OmegaT é uma ferramenta de tradução assistida por computador gratuita e de código aberto com correspondência parcial, memória de tradução, busca de palavras-chave, glossários e reutilização de tradução em atualização de projetos traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29603,8 +29629,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="karol" changedate="20160309T010535Z" creationid="karol" creationdate="20160309T010535Z">
-        <seg>Caso contrário, o OmegaT usará o idioma do sistema operacional.</seg>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T031508Z" creationid="karol" creationdate="20160309T010535Z">
+        <seg>caso contrário, o OmegaT usará o idioma do sistema operacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39100,6 +39126,16 @@ xx ou yyy é o código do idioma e YY é o código do país (opcional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T032914Z" creationid="CALDAS" creationdate="20200213T032914Z">
+        <seg>A licença de cada biblioteca é mencionada
+em /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The license of each library is mentionned
 in /lib/licenses/Licenses.txt.</seg>
       </tuv>
@@ -42938,6 +42974,19 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033102Z" creationid="CALDAS" creationdate="20200213T033102Z">
+        <seg>Para usar esse script, abra um
+janela de terminal (console), mude a pasta para a pasta que contém OmegaT. jar
+e o script linux-install.sh, e execute o script com ./linux-
+install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20171023T161106Z" creationid="Sheila" creationdate="20171023T161037Z">
@@ -44101,6 +44150,15 @@ documentation file and the OmegaT application.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033052Z" creationid="CALDAS" creationdate="20200213T033052Z">
+        <seg>Descompactar o arquivo .zip do OmegaT para obter uma pasta que contém um arquivo de documentação e a ferramenta OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T224922Z" creationid="karol" creationdate="20160308T182135Z">
@@ -44749,11 +44807,12 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>IMHO, this string is unnecessary because it repeats the same info provide above.</note>
       <tuv lang="en">
         <seg>User interface language for OmegaT</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="karol" changedate="20160309T010534Z" creationid="karol" creationdate="20160309T010534Z">
-        <seg>Idioma da interface do usuário para o OmegaT</seg>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T032722Z" creationid="karol" creationdate="20160309T010534Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -45477,6 +45536,15 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T175225Z" creationid="CarolVignolis" creationdate="20181014T175225Z">
         <seg>Nós recomendamos usar os pacotes do OmegaT que incluem o JRE, para poupá-lo do trabalho de selecionar, obter e instalá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033037Z" creationid="CALDAS" creationdate="20200213T033037Z">
+        <seg>Recomendamos usar os pacotes do OmegaT que incluem o JRE para poupá-lo do trabalho de instalá-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47090,6 +47158,16 @@ your programs, too.</seg>
 the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20181113T103524Z" creationid="Sheila" creationdate="20181113T103524Z">
+        <seg>No entanto, você pode ter uma instalação mais fácil e mais amigável usando
+o script de instalação (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033059Z" creationid="CALDAS" creationdate="20200213T033059Z">
         <seg>No entanto, você pode ter uma instalação mais fácil e mais amigável usando
 o script de instalação (linux-install.sh).</seg>
       </tuv>
