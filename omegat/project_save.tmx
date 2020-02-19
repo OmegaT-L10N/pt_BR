@@ -20887,6 +20887,15 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033320Z" creationid="CALDAS" creationdate="20200213T033320Z">
+        <seg>Se você já instalou o Java em seu sistema, uma forma de instalar o OmegaT é usar Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003250Z" creationid="karol" creationdate="20160309T003250Z">
@@ -21229,6 +21238,15 @@ material under section 10.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182504Z" creationid="karol" creationdate="20160308T182504Z">
         <seg>Se o seu arquivo fonte for um arquivo formatado, por exemplo, do Microsoft Word, do LibreOffice Writer ou em HTML, o OmegaT converterá a formatação em tags que rodearão o texto a ser traduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200219T101923Z" creationid="CALDAS" creationdate="20200219T101923Z">
+        <seg>Se, durante a instalação, você criou um atalho no desktop, dê duplo clique nesse atalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28359,6 +28377,15 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033204Z" creationid="CALDAS" creationdate="20200213T033204Z">
+        <seg>O OmegaT está, então, pronto para ser inicializado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is written in Java.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170919T161133Z" creationid="mroch" creationdate="20170919T161133Z">
@@ -30107,8 +30134,8 @@ em seguida, confirme tudo.</seg>
       <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T180110Z" creationid="CarolVignolis" creationdate="20181014T180110Z">
-        <seg>Coloque o arquivo em qualquer pasta apropriada e descompacte-o.</seg>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033311Z" creationid="CarolVignolis" creationdate="20181014T180110Z">
+        <seg>Coloque o arquivo em qualquer pasta adequada e descompacte-o.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50463,6 +50490,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T101838Z" creationid="CALDAS" creationdate="20191204T101838Z">
         <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033323Z" creationid="CALDAS" creationdate="20200213T033323Z">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
