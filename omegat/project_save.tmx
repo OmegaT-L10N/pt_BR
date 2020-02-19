@@ -2159,6 +2159,34 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (support group owner, localisation manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200219T102932Z" creationid="CALDAS" creationdate="20200219T102103Z">
+        <seg>- Anthony Baldwin (gerente de localização)
+- Didier Briel (gerente de projetos)
+- Alex Buloichik (desenvolvedor chefe)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (proprietário do grupo de apoio e gerente de localização)
+- Maxym Mykhalchuk (desenvolvedor chefe)
+- Samuel Murray
+- Henry Pijffers ( )
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172724Z" creationid="karol" creationdate="20160308T172724Z">
@@ -44893,6 +44921,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200219T102041Z" creationid="CALDAS" creationdate="20200219T102041Z">
+        <seg>Recursos de suporte do usuário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:</seg>
       </tuv>
@@ -50482,6 +50518,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20181113T103209Z" creationid="Sheila" creationdate="20181113T103209Z">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200219T102042Z" creationid="CALDAS" creationdate="20200219T102042Z">
+        <seg>https://omegat.org/</seg>
       </tuv>
     </tu>
     <tu>
