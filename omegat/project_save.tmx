@@ -2187,6 +2187,25 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Vincent Bidaux (documentation manager)
+- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200219T105002Z" creationid="CALDAS" creationdate="20200219T105002Z">
+        <seg>- Vincent Bidaux (gerente de documentação)
+- Marco Cevoli (gerente de comunidade no Telegram)
+- Jean-Christophe Helary (gerente de comunidade no Twitter) - Kos Ivantsof (gerente de localização)
+- Concepción Martin (gerente de comunidade no Facebook)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (gerente de comunidade no Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172724Z" creationid="karol" creationdate="20160308T172724Z">
