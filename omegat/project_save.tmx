@@ -17458,6 +17458,15 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200306T093113Z" creationid="CALDAS" creationdate="20200306T093113Z">
+        <seg>Para uma maneira mais acessível de iniciar o OmegaT, você pode usar o Kaptain script fornecido (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a particular
 product received by a particular user, "normally used" refers to a
 typical or common use of that class of product, regardless of the status
@@ -19635,6 +19644,16 @@ SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001005Z" creationid="Evandro" creationdate="20160310T001005Z">
         <seg>Ido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200306T060923Z" creationid="CALDAS" creationdate="20200306T060923Z">
+        <seg>Se o Java estiver instalado a nível de sistema e estiver no caminho de comando, o caminho completo não precisará ser inserido.)</seg>
       </tuv>
     </tu>
     <tu>
