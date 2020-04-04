@@ -20788,6 +20788,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200403T154016Z" creationid="CALDAS" creationdate="20200403T154016Z">
+        <seg>Se estiver incerto se um JRE adequado já está instalado em seu sistema, ainda pode baixar e instalar uma versão do OmegaT com JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110622Z" creationid="Evandro" creationdate="20160312T110622Z">
@@ -42342,6 +42350,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200403T154206Z" creationid="CALDAS" creationdate="20200403T154206Z">
+        <seg>Esta versão do JRE será usada apenas localmente para o OmegaT, não entrará em conflito ou substituirá ou desinstalará nenhuma outra instalação do JRE e, portanto, é segura para uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This way an inadvertent data loss is averted - see Preventing Data Loss in chapter &lt;l2&gt;Miscellanea.&lt;/l2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181234Z" creationid="karol" creationdate="20160308T181234Z">
@@ -46554,6 +46570,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T163335Z" creationid="karol" creationdate="20160308T212951Z">
         <seg>Com as &lt;e3&gt;Dicas de tradução/Correspondência exata &lt;/e3&gt;marcadas, apenas as palavras inteiras serão verificadas, senão o programa corresponderá partes de palavras também.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With JRE</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200403T154211Z" creationid="CALDAS" creationdate="20200403T154211Z">
+        <seg>Com JRE</seg>
       </tuv>
     </tu>
     <tu>
