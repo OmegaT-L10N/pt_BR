@@ -39261,6 +39261,14 @@ parts of the General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200614T150820Z" creationid="CALDAS" creationdate="20200614T150820Z">
+        <seg>O JRE incluído é a versão de 64 bits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The information below summarizes their use and how they are invoked:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003849Z" creationid="karol" creationdate="20160309T003849Z">
@@ -42376,8 +42384,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200614T150427Z" creationid="CALDAS" creationdate="20200614T150427Z">
-        <seg>Essa versão levará mais tempo para baixar e exigirá mais espaço no disco rígido, mas pode ter certeza de que funcionará.</seg>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200614T150652Z" creationid="CALDAS" creationdate="20200614T150427Z">
+        <seg>Essa versão levará mais tempo para baixar e exigirá mais espaço no disco rígido, mas pode ter certeza de que rodará.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46592,8 +46600,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>With 64-bit JRE</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200614T150644Z" creationid="CALDAS" creationdate="20200614T150644Z">
-        <seg>Com JRE 64-bit</seg>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200614T150904Z" creationid="CALDAS" creationdate="20200614T150644Z">
+        <seg>Com JRE de 64-bit</seg>
       </tuv>
     </tu>
     <tu>
