@@ -20786,6 +20786,14 @@ where to find the applicable terms.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200614T152914Z" creationid="CALDAS" creationdate="20200614T152914Z">
+        <seg>Caso tenha certeza de que um Java Runtime Environment adequado já está instalado no seu computador a nível do sistema, poderá selecionar a opção sem o JRE incluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>If you are unable to run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
@@ -46674,6 +46682,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181820Z" creationid="karol" creationdate="20160308T181820Z">
         <seg>Dentro de um segmento, o primeiro grupo (par ou único) recebe o número 0, o segundo o número 1, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without JRE</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200614T150937Z" creationid="CALDAS" creationdate="20200614T150937Z">
+        <seg>Sem JRE</seg>
       </tuv>
     </tu>
     <tu>
