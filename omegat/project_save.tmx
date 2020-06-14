@@ -37723,6 +37723,14 @@ implementation is available to the public in source code form.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200614T150131Z" creationid="CALDAS" creationdate="20200614T150131Z">
+        <seg>É a versão do OmegaT com seu próprio Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182125Z" creationid="karol" creationdate="20160308T182125Z">
