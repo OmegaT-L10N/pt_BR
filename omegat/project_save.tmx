@@ -42366,6 +42366,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200614T150427Z" creationid="CALDAS" creationdate="20200614T150427Z">
+        <seg>Essa versão levará mais tempo para baixar e exigirá mais espaço no disco rígido, mas pode ter certeza de que funcionará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This way an inadvertent data loss is averted - see Preventing Data Loss in chapter &lt;l2&gt;Miscellanea.&lt;/l2&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181234Z" creationid="karol" creationdate="20160308T181234Z">
