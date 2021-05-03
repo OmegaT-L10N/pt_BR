@@ -46709,6 +46709,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T234906Z" creationid="sheilagomes" creationdate="20210503T234906Z">
+        <seg>Ao traduzir arquivos relacionados a software, você pode configurar as opções do Validador de tags para verificar também as variáveis ​​de programação (%...) ou espaços reservados ({0}), se o filtro de arquivo  não fizer isso por conta própria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190926T142224Z" creationid="Sheila" creationdate="20190926T142224Z">
@@ -51334,6 +51342,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T121015Z" creationid="Sheila" creationdate="20170905T121015Z">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T234455Z" creationid="sheilagomes" creationdate="20210503T234455Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
