@@ -18567,6 +18567,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Glossary &amp;layout:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T212742Z" creationid="sheilagomes" creationdate="20210503T212742Z">
+        <seg>&amp;Layout do glossário:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Glossary Files Folder</seg>
@@ -25892,6 +25900,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113621Z" creationid="Evandro" creationdate="20160312T113609Z">
         <seg>Combinar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T212820Z" creationid="sheilagomes" creationdate="20210503T212820Z">
+        <seg>Combinar definições alternativas para o mesmo termo</seg>
       </tuv>
     </tu>
     <tu>
@@ -37363,6 +37379,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T171828Z" creationid="Sheila" creationdate="20170905T171828Z">
         <seg>Equipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T212942Z" creationid="sheilagomes" creationdate="20210503T212942Z">
+        <seg>Mapeamento de repositório do modo de equipe</seg>
       </tuv>
     </tu>
     <tu>
