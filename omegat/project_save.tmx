@@ -9818,6 +9818,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223354Z" creationid="sheilagomes" creationdate="20210503T223354Z">
+        <seg>Autor(a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Author of the match when the match was created</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T205839Z" creationid="Sheila" creationdate="20170904T205839Z">
@@ -11663,6 +11671,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001001Z" creationid="Evandro" creationdate="20160310T001001Z">
         <seg>Chuvash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223347Z" creationid="sheilagomes" creationdate="20210503T223347Z">
+        <seg>Classe</seg>
       </tuv>
     </tu>
     <tu>
@@ -18592,6 +18608,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are terminology files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223358Z" creationid="sheilagomes" creationdate="20210503T223358Z">
+        <seg>Glossaries are terminology files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181951Z" creationid="karol" creationdate="20160308T181951Z">
@@ -18701,6 +18725,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223336Z" creationid="sheilagomes" creationdate="20210503T223336Z">
+        <seg>Nota do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181951Z" creationid="karol" creationdate="20160308T181951Z">
@@ -18713,6 +18745,22 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T114621Z" creationid="Sheila" creationdate="20170904T114621Z">
         <seg>Painel de glossário: se você soltar arquivos com extensões glossário conhecidas (&lt;f0&gt;. txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) eles serão copiados para a pasta &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223324Z" creationid="sheilagomes" creationdate="20210503T223324Z">
+        <seg>Fonte do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223330Z" creationid="sheilagomes" creationdate="20210503T223330Z">
+        <seg>Tradução do glossário</seg>
       </tuv>
     </tu>
     <tu>
@@ -22656,6 +22704,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171459Z" creationid="karol" creationdate="20160308T171459Z">
         <seg>Instalação e uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223344Z" creationid="sheilagomes" creationdate="20210503T223344Z">
+        <seg>Plug-ins instalados:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30631,6 +30687,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T112955Z" creationid="Evandro" creationdate="20160312T112955Z">
         <seg>Digite seu nome de usuário/senha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223259Z" creationid="sheilagomes" creationdate="20210503T223259Z">
+        <seg>Digite o nome de usuário/senha para {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -44328,10 +44392,34 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223227Z" creationid="sheilagomes" creationdate="20210503T223227Z">
+        <seg>Não é possível analisar a resposta do serviço IAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T102046Z" creationid="Evandro" creationdate="20160312T102046Z">
         <seg>Impossível analisar arquivo de configuração dos filtros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223246Z" creationid="sheilagomes" creationdate="20210503T223246Z">
+        <seg>Não é possível analisar o relatório de erro do serviço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223236Z" creationid="sheilagomes" creationdate="20210503T223236Z">
+        <seg>Não é possível analisar a resposta do serviço de tradução</seg>
       </tuv>
     </tu>
     <tu>
@@ -47027,6 +47115,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T112957Z" creationid="Evandro" creationdate="20160312T112957Z">
         <seg>Nome de usuário/senha incorretos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223314Z" creationid="sheilagomes" creationdate="20210503T223314Z">
+        <seg>Nome de usuário/senha incorretos para {0}</seg>
       </tuv>
     </tu>
     <tu>
