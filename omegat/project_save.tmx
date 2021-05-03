@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30,7 +30,6 @@ License by making exceptions from one or more of its conditions.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
       </tuv>
@@ -96,7 +95,6 @@ country that you have reason to believe are valid.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>"Main class name is required.";</seg>
       </tuv>
@@ -139,7 +137,6 @@ License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>"This application requires that Java %d or later be installed on your computer.</seg>
       </tuv>
@@ -148,7 +145,6 @@ License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
       </tuv>
@@ -165,7 +161,6 @@ License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>"Unable to enumerate Java directory contents.";</seg>
       </tuv>
@@ -174,7 +169,6 @@ License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>"Unable to load Java Runtime Environment.";</seg>
       </tuv>
@@ -183,7 +177,6 @@ License.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>"Unable to load a Java %d Runtime Environment.";</seg>
       </tuv>
@@ -30481,7 +30474,6 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
@@ -30490,7 +30482,6 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <tuv lang="en">
         <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
       </tuv>
@@ -34131,6 +34122,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T112911Z" creationid="Evandro" creationdate="20160310T112813Z">
         <seg>Consulte OmegaT.jar/META-INF/MANIFEST.MF para valores válidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T211514Z" creationid="sheilagomes" creationdate="20210503T211514Z">
+        <seg>Veja Opções &gt; Filtros de arquivos para ver uma lista de formatos de arquivos compatíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42605,6 +42604,22 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181243Z" creationid="karol" creationdate="20160308T181243Z">
         <seg>Para adicionar conteúdo, selecione &lt;m0&gt;&lt;s1&gt;&lt;k2&gt;&lt;k3&gt;Ctrl&lt;/k3&gt;&lt;k4&gt;D&lt;/k4&gt;&lt;/k2&gt;&lt;/s1&gt;&lt;g5&gt;Projeto&lt;/g5&gt;&lt;g6&gt;Criar documentos traduzidos&lt;/g6&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T212648Z" creationid="sheilagomes" creationdate="20210503T212648Z">
+        <seg>Para adicionar arquivos ao projeto, você pode
+- arrastar e soltar arquivos neste painel do editor
+- usar Projeto &gt; Copiar arquivos para a pasta de origem...
+- clicar em Copiar arquivos para a pasta de origem... na janela Arquivos de projeto
+- copiar os arquivos para a pasta 'source' do projeto com seu gerenciador de arquivos e, em seguida, recarregar o projeto com Projeto &gt; Recarregar.</seg>
       </tuv>
     </tu>
     <tu>
