@@ -7248,6 +7248,22 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS default encoding&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS default encoding&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230839Z" creationid="sheilagomes" creationdate="20210503T230839Z">
+        <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;Codificação padrão do sistema&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;Codificação padrão do sistema&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Format&lt;/t0&gt; &lt;t1&gt;Extension&lt;/t1&gt; &lt;t2&gt;Encoding&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230747Z" creationid="sheilagomes" creationdate="20210503T230747Z">
+        <seg>&lt;t0&gt;Formato&lt;/t0&gt; &lt;t1&gt;Extensão&lt;/t1&gt; &lt;t2&gt;Codificação&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103633Z" creationid="Evandro" creationdate="20160312T103633Z">
@@ -7766,6 +7782,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181317Z" creationid="karol" creationdate="20160308T181317Z">
         <seg>Um arquivo de texto que contém duas linhas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A third possible format is the "TBX" (TermBase eXchange) ISO standard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230707Z" creationid="sheilagomes" creationdate="20210503T230707Z">
+        <seg>Um terceiro formato possível é o padrão ISO "TBX" (TermBase eXchange).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12133,6 +12157,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments are displayed after a number and each on a separate line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230603Z" creationid="sheilagomes" creationdate="20210503T230603Z">
+        <seg>Os comentários são exibidos após um número e cada um em uma linha separada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments by the author in PO files, or the name of the attribute being translated (in XHTML)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003854Z" creationid="karol" creationdate="20160309T003854Z">
@@ -13922,6 +13954,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T205922Z" creationid="Sheila" creationdate="20170904T205922Z">
         <seg>Data da correspondência quando ela foi atualizada por último</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deactivate &lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the OmegaT global preferences to only find exact matches for a term.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230542Z" creationid="sheilagomes" creationdate="20210503T230542Z">
+        <seg>Desativar Usar lematização para entradas do glossário nas preferências globais do OmegaT para encontrar apenas correspondências exatas para um termo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18151,6 +18191,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Format, extensions and expected encoding</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230730Z" creationid="sheilagomes" creationdate="20210503T230730Z">
+        <seg>Formato, extensões e codificação esperada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T102523Z" creationid="Evandro" creationdate="20160312T102523Z">
@@ -18620,6 +18668,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181937Z" creationid="karol" creationdate="20160308T181937Z">
         <seg>Os glossários são arquivos criados e atualizados manualmente para uso no &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries are read in an encoding that depends on the file extension:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230721Z" creationid="sheilagomes" creationdate="20210503T230721Z">
+        <seg>Os glossários são lidos em uma codificação que depende da extensão do arquivo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28525,6 +28581,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230651Z" creationid="sheilagomes" creationdate="20210503T230651Z">
+        <seg>Os arquivos de glossário do OmegaT são listas simples de texto simples de três colunas com o termo de origem na primeira coluna, um termo de destino opcional na segunda coluna e um comentário opcional na terceira coluna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190926T141718Z" creationid="Sheila" creationdate="20190926T141718Z">
@@ -30580,6 +30644,14 @@ em seguida, confirme tudo.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181327Z" creationid="karol" creationdate="20160308T181327Z">
         <seg>Os arquivos de texto simples contêm apenas texto, portanto sua tradução é um processo simples de inserção do texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230701Z" creationid="sheilagomes" creationdate="20210503T230701Z">
+        <seg>Glossários de texto simples podem ser arquivos de "valores separados por tabulação" (TSV) ou arquivos de "valores separados por vírgula" (CSV).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33292,6 +33364,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T132846Z" creationid="karol" creationdate="20160308T182147Z">
         <seg>Clique com o botão direito do mouse no painel - &lt;e0&gt;Adicionar novo inicializador.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the underlined term and select a target term to insert it at the cursor location in the target part of the segment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230644Z" creationid="sheilagomes" creationdate="20210503T230644Z">
+        <seg>Clique com o botão direito no termo sublinhado e selecione um termo de destino para inseri-lo na localização do cursor na parte de destino do segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37754,6 +37834,22 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms from the project writable glossary are displayed in bold face.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230610Z" creationid="sheilagomes" creationdate="20210503T230610Z">
+        <seg>Os termos do glossário gravável do projeto são exibidos em negrito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms from the reference glossaries are displayed in normal face.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230619Z" creationid="sheilagomes" creationdate="20210503T230619Z">
+        <seg>Os termos dos glossários de referência são exibidos normalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Michael" changedate="20190526T002042Z" creationid="Michael" creationdate="20190526T002042Z">
@@ -39496,6 +39592,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The glossary function uses stemming to find matches.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230525Z" creationid="sheilagomes" creationdate="20210503T230525Z">
+        <seg>A função de glossário usa lematização para encontrar correspondências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T114937Z" creationid="CALDAS" creationdate="20170912T114937Z">
@@ -40243,6 +40347,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230714Z" creationid="sheilagomes" creationdate="20210503T230714Z">
+        <seg>O glossário gravável padrão do projeto é sempre um arquivo TSV salvo na codificação UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project folder {0} is missing and could not be created.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113118Z" creationid="Evandro" creationdate="20160312T113118Z">
@@ -40752,6 +40864,14 @@ Dúvida nesse "call-out" do segmento.</note>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181957Z" creationid="karol" creationdate="20160308T181957Z">
         <seg>O termo de origem não precisa ser uma única palavra, assim como mostra o exemplo a seguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source term is displayed before the " = " sign and the target terms after.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230553Z" creationid="sheilagomes" creationdate="20210503T230553Z">
+        <seg>O termo de origem é exibido antes do sinal "=" e os termos de destino depois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43138,6 +43258,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230629Z" creationid="sheilagomes" creationdate="20210503T230629Z">
+        <seg>Para exibir o menu contextual &lt;g0&gt; Preenchimento automático &lt;/g0&gt; para as correspondências do glossário, pressione a tecla dependente do sistema operacional (Escape para macOS, Ctrl + Espaço para as outras plataformas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170523T195517Z" creationid="karol" creationdate="20160308T182319Z">
@@ -43528,6 +43656,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T142639Z" creationid="CALDAS" creationdate="20200126T142639Z">
         <seg>Para traduzir o conteúdo de uma página da Wikipédia (por exemplo):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230637Z" creationid="sheilagomes" creationdate="20210503T230637Z">
+        <seg>Para sublinhar os termos correspondentes na parte de origem do segmento, use Exibir&gt; Marcar correspondências do glossário.</seg>
       </tuv>
     </tu>
     <tu>
