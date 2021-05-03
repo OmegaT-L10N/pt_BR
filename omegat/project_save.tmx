@@ -37852,8 +37852,8 @@ this License.</seg>
       <tuv lang="en">
         <seg>Terms from the project writable glossary are displayed in bold face.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230610Z" creationid="sheilagomes" creationdate="20210503T230610Z">
-        <seg>Os termos do glossário gravável do projeto são exibidos em negrito.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T233849Z" creationid="sheilagomes" creationdate="20210503T230610Z">
+        <seg>Os termos do glossário editável do projeto são exibidos em negrito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43276,8 +43276,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230629Z" creationid="sheilagomes" creationdate="20210503T230629Z">
-        <seg>Para exibir o menu contextual &lt;g0&gt; Preenchimento automático &lt;/g0&gt; para as correspondências do glossário, pressione a tecla dependente do sistema operacional (Escape para macOS, Ctrl + Espaço para as outras plataformas).</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T234155Z" creationid="sheilagomes" creationdate="20210503T230629Z">
+        <seg>Para exibir o menu contextual &lt;g0&gt;Preenchimento automático&lt;/g0&gt; para as correspondências do glossário, pressione a tecla dependente do sistema operacional (&lt;k1&gt;Esc&lt;/k1&gt; para macOS, &lt;k2&gt;Ctrl + Espaço&lt;/k2&gt; para as outras plataformas).</seg>
       </tuv>
     </tu>
     <tu>
