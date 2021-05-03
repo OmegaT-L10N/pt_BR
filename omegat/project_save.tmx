@@ -13960,8 +13960,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Deactivate &lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the OmegaT global preferences to only find exact matches for a term.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230542Z" creationid="sheilagomes" creationdate="20210503T230542Z">
-        <seg>Desativar Usar lematização para entradas do glossário nas preferências globais do OmegaT para encontrar apenas correspondências exatas para um termo.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T233826Z" creationid="sheilagomes" creationdate="20210503T230542Z">
+        <seg>Desative &lt;g0&gt;Usar lematização para entradas do glossário&lt;/g0&gt; nas preferências globais do OmegaT para encontrar apenas correspondências exatas para um termo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20600,8 +20600,8 @@ copy of the Program in return for a fee.</seg>
       <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and the file will be saved in UTF-8 encoding.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230359Z" creationid="sheilagomes" creationdate="20210503T230359Z">
-        <seg>Se o arquivo já existe, nenhuma tentativa é feita para verificar o formato ou o conjunto de caracteres do arquivo: as novas entradas sempre estarão em formato separado por tabulações e o arquivo será salvo na codificação UTF-8.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T233646Z" creationid="sheilagomes" creationdate="20210503T230359Z">
+        <seg>Se o arquivo já existir, nenhuma tentativa é feita para verificar o formato ou o conjunto de caracteres do arquivo: as novas entradas sempre estarão em formato separado por tabulações e o arquivo será salvo na codificação UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43042,8 +43042,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230442Z" creationid="sheilagomes" creationdate="20210503T230442Z">
-        <seg>Para adicionar um novo termo ao glossário editável, use Editar&gt; Criar entrada de glossário</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T233720Z" creationid="sheilagomes" creationdate="20210503T230442Z">
+        <seg>Para adicionar um novo termo ao glossário editável, use &lt;g0&gt;Editar&lt;/g0&gt; &gt; &lt;g1&gt;Criar entrada de glossário&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
