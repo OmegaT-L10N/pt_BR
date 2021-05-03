@@ -38146,6 +38146,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T220729Z" creationid="sheilagomes" creationdate="20210503T220729Z">
+        <seg>O filtro Mozilla FTL lançou uma exceção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT developers' list.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170912T225730Z" creationid="mroch" creationdate="20170912T225730Z">
