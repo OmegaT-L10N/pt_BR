@@ -23712,8 +23712,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;/glossary&lt;/f2&gt; project folder.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230333Z" creationid="sheilagomes" creationdate="20210503T230333Z">
-        <seg>Seu nome e localização podem ser modificados na caixa de diálogo de propriedades do projeto, mas sua extensão deve ser .txt ou .utf8 e sua localização deve estar contida na pasta do projeto / glossary.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T233601Z" creationid="sheilagomes" creationdate="20210503T230333Z">
+        <seg>Seu nome e localização podem ser modificados na caixa de diálogo de propriedades do projeto, mas sua extensão deve ser &lt;f0&gt;.txt&lt;/f0&gt; ou &lt;f1&gt;.utf8&lt;/f1&gt; e sua localização deve estar contida na pasta do projeto &lt;f2&gt;/glossary&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39090,8 +39090,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230321Z" creationid="sheilagomes" creationdate="20210503T230321Z">
-        <seg>O glossário gravável padrão está localizado na pasta do projeto / glossary e é denominado glossary.txt.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T233456Z" creationid="sheilagomes" creationdate="20210503T230321Z">
+        <seg>O glossário editável padrão está localizado na pasta &lt;f0&gt;/glossary&lt;/f0&gt; do projeto e é denominado &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
