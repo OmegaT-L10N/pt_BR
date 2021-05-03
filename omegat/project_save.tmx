@@ -7522,6 +7522,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230246Z" creationid="sheilagomes" creationdate="20210503T230246Z">
+        <seg>Um determinado projeto pode ter qualquer número de glossários de referência, mas apenas um glossário, o glossário padrão do projeto, poderá ser gravado diretamente na interface de usuário do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004132Z" creationid="karol" creationdate="20160309T004132Z">
@@ -13954,6 +13962,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215148Z" creationid="karol" creationdate="20160308T215148Z">
         <seg>Codificação padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default glossary</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230309Z" creationid="sheilagomes" creationdate="20210503T230309Z">
+        <seg>Glossário padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -20510,6 +20526,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and the file will be saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230359Z" creationid="sheilagomes" creationdate="20210503T230359Z">
+        <seg>Se o arquivo já existe, nenhuma tentativa é feita para verificar o formato ou o conjunto de caracteres do arquivo: as novas entradas sempre estarão em formato separado por tabulações e o arquivo será salvo na codificação UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181242Z" creationid="karol" creationdate="20160308T181242Z">
@@ -23610,6 +23634,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003311Z" creationid="karol" creationdate="20160309T003311Z">
         <seg>Seu conteúdo estará sempre em ordem alfabética pelo segmento fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;/glossary&lt;/f2&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230333Z" creationid="sheilagomes" creationdate="20210503T230333Z">
+        <seg>Seu nome e localização podem ser modificados na caixa de diálogo de propriedades do projeto, mas sua extensão deve ser .txt ou .utf8 e sua localização deve estar contida na pasta do projeto / glossary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26928,6 +26960,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201820Z" creationid="karol" creationdate="20160308T201820Z">
         <seg>Novo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Newly added terms will be immediately recognized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230451Z" creationid="sheilagomes" creationdate="20210503T230451Z">
+        <seg>Os termos recém-adicionados serão reconhecidos imediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Newly added terms will be recognized as soon as the changes have been saved.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230507Z" creationid="sheilagomes" creationdate="20210503T230507Z">
+        <seg>Os termos recém-adicionados serão reconhecidos assim que as alterações forem salvas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32111,6 +32159,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170912T103735Z" creationid="Sheila" creationdate="20170912T103735Z">
         <seg>Atualizando a pasta de scripts "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regardless of the number of glossaries in a project, any term in a segment that has a match in a glossary will be displayed in the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230302Z" creationid="sheilagomes" creationdate="20210503T230302Z">
+        <seg>Independentemente do número de glossários em um projeto, qualquer termo em um segmento que tenha uma correspondência em um glossário será exibido no painel Glossário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38920,6 +38976,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230321Z" creationid="sheilagomes" creationdate="20210503T230321Z">
+        <seg>O glossário gravável padrão está localizado na pasta do projeto / glossary e é denominado glossary.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog allows to enable or disable the following options:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T173119Z" creationid="karol" creationdate="20160308T173119Z">
@@ -39148,6 +39212,14 @@ instead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181943Z" creationid="karol" creationdate="20160308T181943Z">
         <seg>O arquivo não precisa existir no momento da configuração, se necessário, será criado ao adicionar um termo no glossário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file does not need to exist when setting it, it will be created when adding the first glossary entry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230347Z" creationid="sheilagomes" creationdate="20210503T230347Z">
+        <seg>O arquivo não precisa existir ao configurá-lo, ele será criado ao adicionar a primeira entrada do glossário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40668,6 +40740,14 @@ Dúvida nesse "call-out" do segmento.</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source term can be a multi-word term.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230517Z" creationid="sheilagomes" creationdate="20210503T230517Z">
+        <seg>O termo de origem pode ser um termo de várias palavras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181957Z" creationid="karol" creationdate="20160308T181957Z">
@@ -41557,6 +41637,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181211Z" creationid="karol" creationdate="20160308T181211Z">
         <seg>Eles são os arquivos do trabalho de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be created and updated manually or imported from other projects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230229Z" creationid="sheilagomes" creationdate="20210503T230229Z">
+        <seg>Eles podem ser criados e atualizados manualmente ou importados de outros projetos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42816,6 +42904,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230442Z" creationid="sheilagomes" creationdate="20210503T230442Z">
+        <seg>Para adicionar um novo termo ao glossário editável, use Editar&gt; Criar entrada de glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181243Z" creationid="karol" creationdate="20160308T181243Z">
@@ -42836,6 +42932,14 @@ computer or modifying a private copy.</seg>
 - usar Projeto &gt; Copiar arquivos para a pasta de origem...
 - clicar em Copiar arquivos para a pasta de origem... na janela Arquivos de projeto
 - copiar os arquivos para a pasta 'source' do projeto com seu gerenciador de arquivos e, em seguida, recarregar o projeto com Projeto &gt; Recarregar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add new terms to reference glossaries, edit them in an external text editor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230459Z" creationid="sheilagomes" creationdate="20210503T230459Z">
+        <seg>Para adicionar novos termos aos glossários de referência, edite-os em um editor de texto externo.</seg>
       </tuv>
     </tu>
     <tu>
