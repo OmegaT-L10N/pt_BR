@@ -18688,6 +18688,22 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries located in nested folders are also recognized.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230902Z" creationid="sheilagomes" creationdate="20210503T230902Z">
+        <seg>Glossários localizados em pastas aninhadas também são reconhecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries must be located in the &lt;f0&gt;/glossary&lt;/f0&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230854Z" creationid="sheilagomes" creationdate="20210503T230854Z">
+        <seg>Os glossários devem estar localizados na pasta do projeto / glossary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181951Z" creationid="karol" creationdate="20160308T181951Z">
