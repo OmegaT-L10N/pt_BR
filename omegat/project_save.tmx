@@ -18698,8 +18698,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Glossaries must be located in the &lt;f0&gt;/glossary&lt;/f0&gt; project folder.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230854Z" creationid="sheilagomes" creationdate="20210503T230854Z">
-        <seg>Os glossários devem estar localizados na pasta do projeto / glossary.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T234441Z" creationid="sheilagomes" creationdate="20210503T230854Z">
+        <seg>Os glossários devem estar localizados na pasta &lt;f0&gt;/glossary&lt;/f0&gt; do projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40365,8 +40365,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230714Z" creationid="sheilagomes" creationdate="20210503T230714Z">
-        <seg>O glossário gravável padrão do projeto é sempre um arquivo TSV salvo na codificação UTF-8.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T234403Z" creationid="sheilagomes" creationdate="20210503T230714Z">
+        <seg>O glossário editável padrão do projeto é sempre um arquivo TSV salvo na codificação UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43678,8 +43678,8 @@ these rights or asking you to surrender the rights.</seg>
       <tuv lang="en">
         <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230637Z" creationid="sheilagomes" creationdate="20210503T230637Z">
-        <seg>Para sublinhar os termos correspondentes na parte de origem do segmento, use Exibir&gt; Marcar correspondências do glossário.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T234242Z" creationid="sheilagomes" creationdate="20210503T230637Z">
+        <seg>Para sublinhar os termos correspondentes na parte de origem do segmento, use &lt;g0&gt;Exibir&lt;/g0&gt; &gt; &lt;g1&gt;Marcar correspondências do glossário&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
