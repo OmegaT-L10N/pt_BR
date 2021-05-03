@@ -30992,6 +30992,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T235122Z" creationid="sheilagomes" creationdate="20210503T235122Z">
+        <seg>Os plug-ins são instalados na pasta &lt;f0&gt;/plugins&lt;/f0&gt; na pasta de instalação do OmegaT ou na pasta de preferências do usuário do OmegaT específica da plataforma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20191001T181941Z" creationid="Sheila" creationdate="20191001T181941Z">
@@ -38542,6 +38550,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170918T161903Z" creationid="mroch" creationdate="20170918T161903Z">
         <seg>O projeto OmegaT precisa do apoio de voluntários em quase todas as áreas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO filter already handles %..</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T234927Z" creationid="sheilagomes" creationdate="20210503T234927Z">
+        <seg>O filtro PO já lida com %..</seg>
       </tuv>
     </tu>
     <tu>
@@ -49220,6 +49236,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172019Z" creationid="karol" creationdate="20160308T172019Z">
         <seg>e &lt;c0&gt;&lt;tecla&gt;&lt;/c0&gt; pode ser qualquer tecla disponível no seu teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T235021Z" creationid="sheilagomes" creationdate="20210503T235021Z">
+        <seg>e o filtro Java™ Resource Bundle já lida com tags {#}, então você só precisa disso para outros tipos de arquivo.</seg>
       </tuv>
     </tu>
     <tu>
