@@ -12882,6 +12882,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223055Z" creationid="sheilagomes" creationdate="20210503T222952Z">
+        <seg>Não foi possível excluir {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T101852Z" creationid="Evandro" creationdate="20160312T101852Z">
@@ -17363,6 +17371,14 @@ Teias de aranha estão te bloqueando
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T190018Z" creationid="Evandro" creationdate="20160311T190018Z">
         <seg>Caractere '?' flutuante não está associado a '&gt;'!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223121Z" creationid="sheilagomes" creationdate="20210503T223121Z">
+        <seg>ID da pasta</seg>
       </tuv>
     </tu>
     <tu>
@@ -23865,6 +23881,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223141Z" creationid="sheilagomes" creationdate="20210503T223141Z">
+        <seg>Manter as tags no texto traduzido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep up your good work!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T170422Z" creationid="karol" creationdate="20160308T170422Z">
@@ -25637,6 +25661,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223010Z" creationid="sheilagomes" creationdate="20210503T223010Z">
+        <seg>Marcar palavras desconhecidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Marshallese</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171253Z" creationid="karol" creationdate="20160308T171253Z">
@@ -26682,6 +26714,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223108Z" creationid="sheilagomes" creationdate="20210503T223108Z">
+        <seg>NB: o filtro Java™ Resource Bundles já os detecta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113753Z" creationid="Evandro" creationdate="20160312T113753Z">
@@ -26961,6 +27001,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223202Z" creationid="sheilagomes" creationdate="20210503T223202Z">
+        <seg>Nenhum token OAuth especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111038Z" creationid="Evandro" creationdate="20160312T111038Z">
@@ -27010,6 +27058,14 @@ measures.</seg>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201350Z" creationid="karol" creationdate="20160308T201350Z">
         <seg>Nenhum trabalho coberto deve ser considerado como parte de uma medida tecnológica efetiva de acordo com qualquer legislação aplicável que cumpra obrigações de acordo com artigo 11 do tratado de direitos autorais WIPO adotado no dia 20 de dezembro de 1996, ou
 leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223210Z" creationid="sheilagomes" creationdate="20210503T223210Z">
+        <seg>Nenhum ID de pasta especificado</seg>
       </tuv>
     </tu>
     <tu>
@@ -27955,6 +28011,14 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T104833Z" creationid="Evandro" creationdate="20160312T104833Z">
         <seg>O&amp;pções...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223129Z" creationid="sheilagomes" creationdate="20210503T223129Z">
+        <seg>Token OAuth</seg>
       </tuv>
     </tu>
     <tu>
@@ -44956,6 +45020,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223154Z" creationid="sheilagomes" creationdate="20210503T223154Z">
+        <seg>Usar os termos do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182426Z" creationid="karol" creationdate="20160308T182426Z">
@@ -47158,6 +47230,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20181008T130707Z" creationid="Evandro" creationdate="20160312T112102Z">
         <seg>Yandex Translate - não foi especificada uma chave de API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T222956Z" creationid="sheilagomes" creationdate="20210503T222956Z">
+        <seg>Yandex.Cloud</seg>
       </tuv>
     </tu>
     <tu>
