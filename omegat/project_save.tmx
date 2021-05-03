@@ -26537,6 +26537,22 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T212949Z" creationid="sheilagomes" creationdate="20210503T212949Z">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T213001Z" creationid="sheilagomes" creationdate="20210503T213001Z">
+        <seg>Opções de filtro do Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mozilla Lang</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T102853Z" creationid="Evandro" creationdate="20160312T102853Z">
