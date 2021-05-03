@@ -11043,6 +11043,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T220838Z" creationid="sheilagomes" creationdate="20210503T220838Z">
+        <seg>Mude para "precisa-revisão-tradução" em vez de "traduzido"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T184812Z" creationid="Evandro" creationdate="20160311T184812Z">
@@ -36080,6 +36088,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190928T200801Z" creationid="Sheila" creationdate="20190928T200801Z">
         <seg>Especifique os comandos que são executados após o comando &lt;g0&gt;Criar documentos traduzidos&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T220758Z" creationid="sheilagomes" creationdate="20210503T220758Z">
+        <seg>Especifique o comportamento de manipulação de atributos de estado</seg>
       </tuv>
     </tu>
     <tu>
