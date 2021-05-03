@@ -18247,6 +18247,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T222759Z" creationid="sheilagomes" creationdate="20210503T222759Z">
+        <seg>A verificação completa pode levar a falsos positivos em textos normais e o filtro PO já os detecta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110650Z" creationid="Evandro" creationdate="20160312T110650Z">
@@ -25988,6 +25996,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T015633Z" creationid="CALDAS" creationdate="20170912T114619Z">
         <seg>Breve análise sobre o OmegaT, 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T220946Z" creationid="sheilagomes" creationdate="20210503T220946Z">
+        <seg>Limite mínimo para mostrar uma correspondência parcial</seg>
       </tuv>
     </tu>
     <tu>
@@ -55048,6 +55064,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170918T112941Z" creationid="Sheila" creationdate="20170918T112941Z">
         <seg>{0} alterna a orientação entre LTR, RTL e dependente de idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T220848Z" creationid="sheilagomes" creationdate="20210503T220848Z">
+        <seg>{0} versão {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T220904Z" creationid="sheilagomes" creationdate="20210503T220904Z">
+        <seg>{0} versão {1}, atualização {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
