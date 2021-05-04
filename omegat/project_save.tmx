@@ -36710,6 +36710,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 2: Add files to translate and other resources</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151419Z" creationid="sheilagomes" creationdate="20210504T151419Z">
+        <seg>Passo 2: adicionar arquivos para traduzir e outros recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Step 2: Make manual corrections</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20171025T220003Z" creationid="Sheila" creationdate="20171025T220003Z">
@@ -42040,6 +42048,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can also be done within OmegaT:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151440Z" creationid="sheilagomes" creationdate="20210504T151440Z">
+        <seg>Isso também pode ser feito no OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be achieved in two ways:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182344Z" creationid="karol" creationdate="20160308T182344Z">
@@ -45351,6 +45367,14 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113652Z" creationid="Evandro" creationdate="20160312T113652Z">
         <seg>Usar todos os atualizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use an SVN or Git client to add the files to translate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151432Z" creationid="sheilagomes" creationdate="20210504T151432Z">
+        <seg>Use um cliente SVN ou Git para adicionar os arquivos a serem traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49852,6 +49876,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201419Z" creationid="karol" creationdate="20160308T201419Z">
         <seg>cópia da fonte correspondente de todo o software no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151502Z" creationid="sheilagomes" creationdate="20210504T151502Z">
+        <seg>copie os arquivos para a pasta &lt;f0&gt;/source&lt;/f0&gt; </seg>
       </tuv>
     </tu>
     <tu>
