@@ -43048,6 +43048,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151640Z" creationid="sheilagomes" creationdate="20210504T151640Z">
+        <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To access &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file in Contents/Resources by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T225621Z" creationid="Sheila" creationdate="20170903T225621Z">
@@ -43116,6 +43124,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230459Z" creationid="sheilagomes" creationdate="20210503T230459Z">
         <seg>Para adicionar novos termos aos glossários de referência, edite-os em um editor de texto externo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add other resources (dictionaries, TMXs or glossaries), use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151555Z" creationid="sheilagomes" creationdate="20210504T151555Z">
+        <seg>Para adicionar outros recursos (dicionários, TMXs ou glossários), use um cliente SVN ou Git.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55086,6 +55102,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001021Z" creationid="Evandro" creationdate="20160310T001021Z">
         <seg>[fuzzy]urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151536Z" creationid="sheilagomes" creationdate="20210504T151536Z">
+        <seg>use &lt;m0&gt; &lt;g1&gt;Projeto&lt;/g1&gt; &lt;g2&gt; Confirmar arquivos de origem&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
