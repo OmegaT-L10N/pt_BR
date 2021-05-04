@@ -20697,8 +20697,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T235125Z" creationid="sheilagomes" creationdate="20210503T235125Z">
-        <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151338Z" creationid="sheilagomes" creationdate="20210503T235125Z">
+        <seg>Se o projeto usa filtros e parâmetros de segmentação específicos, ambos os arquivos &lt;f0&gt;filtros.xml&lt;/f0&gt; e &lt;f1&gt;segmentation.conf&lt;/f1&gt; devem ser adicionados ao sistema de versionamento e publicados no servidor.</seg>
       </tuv>
     </tu>
     <tu>
