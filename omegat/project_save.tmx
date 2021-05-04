@@ -8700,6 +8700,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other files are read-only.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T152005Z" creationid="sheilagomes" creationdate="20210504T152005Z">
+        <seg>Todos os outros arquivos são somente leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All other non-permissive additional terms are considered "further
 restrictions" within the meaning of section 10.</seg>
       </tuv>
@@ -20751,6 +20759,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the translator attempts to modify them, they will go back to their original state whenever the project is opened, closed, saved or reloaded.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T152025Z" creationid="sheilagomes" creationdate="20210504T152025Z">
+        <seg>Se o tradutor tentar modificá-los, eles voltarão ao estado original sempre que o projeto for aberto, fechado, salvo ou recarregado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182434Z" creationid="karol" creationdate="20160308T182434Z">
@@ -27710,6 +27726,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that only two files are modified by OmegaT during translation:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151943Z" creationid="sheilagomes" creationdate="20210504T151943Z">
+        <seg>Observe que apenas dois arquivos são modificados pelo OmegaT durante a tradução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003319Z" creationid="karol" creationdate="20160309T003319Z">
@@ -29387,6 +29411,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172646Z" creationid="karol" creationdate="20160308T172646Z">
         <seg>Uma vez que a operação tenha terminado, você pode verificar a pasta citada: ela deve conter agora uma subpasta .svn e um símbolo verde de OK no seu ícone, mostrando que o conteúdo da pasta está atualizado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T152149Z" creationid="sheilagomes" creationdate="20210504T152053Z">
+        <seg>Depois que o projeto é configurado no servidor, o gerente de projeto pode convidar o(a) tradutor(a) para trabalhar nele de duas maneiras diferentes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36726,6 +36758,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 3: Send an invitation to the translator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T152114Z" creationid="sheilagomes" creationdate="20210504T152044Z">
+        <seg>Passo 3: Envie um convite ao(à) tradutor(a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Steps to reproduce</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172740Z" creationid="karol" creationdate="20160308T172740Z">
@@ -43050,8 +43090,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151640Z" creationid="sheilagomes" creationdate="20210504T151640Z">
-        <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151928Z" creationid="sheilagomes" creationdate="20210504T151640Z">
+        <seg>Para &lt;e0&gt; excluir arquivos &lt;/e0&gt;, use um cliente SVN ou Git.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50809,6 +50849,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151948Z" creationid="sheilagomes" creationdate="20210504T151948Z">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>glv</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001009Z" creationid="Evandro" creationdate="20160310T001009Z">
@@ -53214,6 +53262,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151946Z" creationid="sheilagomes" creationdate="20210504T151946Z">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T102602Z" creationid="CALDAS" creationdate="20191204T102456Z">
@@ -54173,6 +54229,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215135Z" creationid="karol" creationdate="20160308T215135Z">
         <seg>Selecione a memória de tradução de backup onde podem estar os dados que você perdeu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T170220Z" creationid="sheilagomes" creationdate="20210504T170220Z">
+        <seg>enviando a URL do projeto e pedindo ao tradutor para criar uma cópia local pela opção &lt;m0&gt; &lt;g1&gt; Projeto &lt;/g1&gt; &lt;g2&gt; Baixar projeto de equipe &lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
