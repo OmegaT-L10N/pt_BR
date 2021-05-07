@@ -40523,6 +40523,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210507T151746Z" creationid="sheilagomes" creationdate="20210507T151746Z">
+        <seg>e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T001632Z" creationid="karol" creationdate="20160309T001632Z">
