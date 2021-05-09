@@ -36470,6 +36470,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Special case: selective sharing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T180918Z" creationid="sheilagomes" creationdate="20210509T180912Z">
+        <seg>Caso especial: compartilhamento seletivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specific behavior can be set up in the file filters.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181352Z" creationid="karol" creationdate="20160308T181352Z">
@@ -40457,6 +40465,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Michael" changedate="20190608T021330Z" creationid="Michael" creationdate="20190608T021330Z">
         <seg>O processo para configurar o acesso aos serviços do Microsoft Translator e do Google Translate estão descritos&lt;u0&gt;aqui&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The process above describes the usual case, where the project manager wants to have full control of the project and where the files (and the statistics) are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T180915Z" creationid="sheilagomes" creationdate="20210509T180915Z">
+        <seg>The process above describes the usual case, where the project manager wants to have full control of the project and where the files (and the statistics) are identical on both sides (server side and translator side).</seg>
       </tuv>
     </tu>
     <tu>
