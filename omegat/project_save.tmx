@@ -7192,6 +7192,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T151219Z" creationid="sheilagomes" creationdate="20210509T151219Z">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170918T154215Z" creationid="mroch" creationdate="20170918T154215Z">
@@ -40525,8 +40533,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210507T151746Z" creationid="sheilagomes" creationdate="20210507T151746Z">
-        <seg>e</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T180559Z" creationid="sheilagomes" creationdate="20210507T151746Z">
+        <seg>A referência à URL é especificada da forma abaixo (aqui para um repositório Git):</seg>
       </tuv>
     </tu>
     <tu>
