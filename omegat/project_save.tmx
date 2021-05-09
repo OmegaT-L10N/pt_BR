@@ -2915,6 +2915,16 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T180607Z" creationid="sheilagomes" creationdate="20210509T180607Z">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;&lt;l0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181835Z" creationid="karol" creationdate="20160308T181835Z">
@@ -5143,6 +5153,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T180606Z" creationid="sheilagomes" creationdate="20210509T180606Z">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T005426Z" creationid="karol" creationdate="20160309T005426Z">
@@ -7196,6 +7214,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T151219Z" creationid="sheilagomes" creationdate="20210509T151219Z">
         <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T180604Z" creationid="sheilagomes" creationdate="20210509T180604Z">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11647,6 +11673,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113029Z" creationid="Evandro" creationdate="20160312T113029Z">
         <seg>Verificando o projeto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checking statistics</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T180810Z" creationid="sheilagomes" creationdate="20210509T180732Z">
+        <seg>Verificação de estatísticas</seg>
       </tuv>
     </tu>
     <tu>
@@ -20791,6 +20825,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T180849Z" creationid="sheilagomes" creationdate="20210509T180849Z">
+        <seg>Se houver alguma diferença, verifique se os arquivos &lt;f0&gt;filters.xml&lt;/f0&gt; e &lt;f1&gt;segmentation.conf&lt;/f1&gt; estão em controle de versionamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182411Z" creationid="karol" creationdate="20160308T182411Z">
@@ -21876,6 +21918,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215104Z" creationid="karol" creationdate="20160308T215104Z">
         <seg>Em todos os outros casos, a verificação de tag não é efetuada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T180804Z" creationid="sheilagomes" creationdate="20210509T180647Z">
+        <seg>Em ambos os casos, o gerente de projeto deve enviar ao tradutor seu ID e senha para acessar o repositório.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38655,6 +38705,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004149Z" creationid="karol" creationdate="20160309T004149Z">
         <seg>A janela Arquivos do projeto lista os arquivos do projeto e exibe outras informações sobre o projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T180751Z" creationid="sheilagomes" creationdate="20210509T180751Z">
+        <seg>O gerente de projeto deve verificar com o tradutor se as estatísticas são idênticas em ambos os lados (servidor e tradutor).</seg>
       </tuv>
     </tu>
     <tu>
