@@ -40274,8 +40274,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134435Z" creationid="sheilagomes" creationdate="20210511T134435Z">
-        <seg>O arquivo local &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; é mapeado para o arquivo local &lt;f1&gt; source / file.txt &lt;/f1&gt; e &lt;f2&gt; / home / me / myfiles /some/file.txt &lt;/f2&gt; é mapeado para o arquivo local &lt;f3&gt; source / file2.txt &lt;/f3&gt;. Atenção: se não existir um arquivo, o projeto não carregará. Você pode adicionar quantos mapeamentos desejar, mas apenas no contexto de um projeto de equipe, ou seja, um dos mapeamentos inclui omegat.project. Este recurso se destina a reunir arquivos de origem, mas você não está restrito aos arquivos de origem. Nota sobre omegat.project e mapeamentos Quando você cria um novo projeto e o envia para um repositório, o arquivo &lt;f0&gt; omegat.project &lt;/f0&gt; não contém nenhum mapeamento. Quando você baixa o projeto, o projeto é convertido em um projeto de equipe localmente e um mapeamento padrão é adicionado. Observe que o arquivo omegat.project no repositório não é alterado automaticamente e ainda não contém os mapeamentos. Quando você carrega um projeto, todas as mudanças no repositório são copiadas para o projeto local, incluindo o arquivo &lt;f0&gt; omegat.project &lt;/f0&gt; com as configurações do projeto. Se o arquivo não contiver mapeamentos, os mapeamentos locais existentes serão reaplicados, e apenas aqueles. Todas as outras alterações locais no projeto são revertidas. Se o arquivo contiver mapeamentos, as alterações locais nos mapeamentos serão perdidas.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134617Z" creationid="sheilagomes" creationdate="20210511T134435Z">
+        <seg>O arquivo local &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; é mapeado para o arquivo local &lt;f1&gt;source/file.txt&lt;/f1&gt; e &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; é mapeado para o arquivo local &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40966,8 +40966,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T133941Z" creationid="sheilagomes" creationdate="20210511T133941Z">
-        <seg>O arquivo remoto  &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; está mapeado ao arquivo local  &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134531Z" creationid="sheilagomes" creationdate="20210511T133941Z">
+        <seg>O arquivo remoto  &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; é mapeado ao arquivo local  &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46872,6 +46872,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning: if a file does not exist, the project won't load.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134643Z" creationid="sheilagomes" creationdate="20210511T134643Z">
+        <seg>Atenção: se não existir um arquivo, o projeto não carregará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190828T162634Z" creationid="Sheila" creationdate="20190828T162634Z">
@@ -48266,6 +48274,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T193936Z" creationid="karol" creationdate="20160308T193936Z">
         <seg>Você pode criar um glossário pressionando &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, ou copiar glossários existentes para a subpasta&lt;f1&gt;/glossary/&lt;/f1&gt;da pasta do projeto, e o OmegaT procurará palavras nele automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many mappings as you want, but only in the context of a team project, i.e. one of the mappings includes omegat.project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T135458Z" creationid="sheilagomes" creationdate="20210511T135458Z">
+        <seg>Você pode adicionar quantos mapeamentos quiser, mas apenas no contexto de um projeto de equipe, ou seja, um dos mapeamentos inclui omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
