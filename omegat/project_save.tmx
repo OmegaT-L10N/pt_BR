@@ -25703,6 +25703,14 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Mapping parameters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010233Z" creationid="sheilagomes" creationdate="20210511T010233Z">
+        <seg>Parâmetros de mapeamento</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Mar&amp;k Whitespace</seg>
@@ -26992,6 +27000,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004120Z" creationid="karol" creationdate="20160309T004120Z">
         <seg>Nome da TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010403Z" creationid="sheilagomes" creationdate="20210511T010403Z">
+        <seg>Nome da pasta ou arquivo local, relativo à raiz do projeto OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of the remote folder or file, relative to the repository url.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010537Z" creationid="sheilagomes" creationdate="20210511T010537Z">
+        <seg>Nome da pasta ou arquivo remoto, relativo à url do repositório.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32686,6 +32710,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T170211Z" creationid="Sheila" creationdate="20170905T170211Z">
         <seg>Repositórios remotos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote location or directory of the files to translate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010338Z" creationid="sheilagomes" creationdate="20210511T010338Z">
+        <seg>Localização remota ou diretório dos arquivos a serem traduzidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42230,6 +42262,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T102004Z" creationid="CALDAS" creationdate="20191204T102004Z">
         <seg>Isso pode ser feito de duas maneiras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be either http (which includes https), svn, git or file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010304Z" creationid="sheilagomes" creationdate="20210511T010304Z">
+        <seg>Pode ser http (que inclui https), svn, git ou arquivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52800,6 +52840,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>mapping local</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010348Z" creationid="sheilagomes" creationdate="20210511T010348Z">
+        <seg>mapeamento local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mapping repository</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010411Z" creationid="sheilagomes" creationdate="20210511T010411Z">
+        <seg>repositório de mapeamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001010Z" creationid="Evandro" creationdate="20160310T001010Z">
@@ -54134,6 +54190,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215134Z" creationid="karol" creationdate="20160308T215134Z">
         <seg>mude o nome do arquivo &lt;f0&gt;project_save.tmx &lt;/f0&gt; (p.ex., para &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository type</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010243Z" creationid="sheilagomes" creationdate="20210511T010243Z">
+        <seg>tipo de repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository url</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010317Z" creationid="sheilagomes" creationdate="20210511T010317Z">
+        <seg>url do repositório</seg>
       </tuv>
     </tu>
     <tu>
