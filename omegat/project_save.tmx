@@ -25850,8 +25850,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mapping for extra source files from the web: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T012441Z" creationid="sheilagomes" creationdate="20210511T012441Z">
-        <seg>Mapping for extra source files from the web: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T133900Z" creationid="sheilagomes" creationdate="20210511T012441Z">
+        <seg>Mapeamento para arquivos de origem extras na web: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
       </tuv>
     </tu>
     <tu>
