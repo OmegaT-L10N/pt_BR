@@ -10797,6 +10797,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, all files that are not excluded are included.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011111Z" creationid="sheilagomes" creationdate="20210511T011111Z">
+        <seg>Por padrão, todos os arquivos que não são excluídos são incluídos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T143033Z" creationid="Sheila" creationdate="20170904T143033Z">
@@ -16624,12 +16632,28 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011524Z" creationid="sheilagomes" creationdate="20210511T011524Z">
+        <seg>Mapeamentos de exemplo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Example:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215051Z" creationid="karol" creationdate="20160308T215051Z">
         <seg>Exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011051Z" creationid="sheilagomes" creationdate="20210511T011051Z">
+        <seg>Exemplo: &lt;u0&gt;**/*.docx&lt;/u0&gt; para adicionar todos os arquivos .docx, onde quer que estejam localizados no projeto, mesmo em pastas excluídas</seg>
       </tuv>
     </tu>
     <tu>
@@ -48810,6 +48834,14 @@ ou possam ter acesso ao código fonte.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111841Z" creationid="Evandro" creationdate="20160312T111841Z">
         <seg>Você precisa atualizar o JDK 1.6 para a última versão, ou então retirar os arquivos jaxb-*.jar do diretório /lib do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You only need to specify this to override some exclusions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011127Z" creationid="sheilagomes" creationdate="20210511T011127Z">
+        <seg>Você só precisa especificar isso para substituir algumas exclusões.</seg>
       </tuv>
     </tu>
     <tu>
