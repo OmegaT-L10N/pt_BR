@@ -29116,6 +29116,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not (all of) the (source) files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010032Z" creationid="sheilagomes" creationdate="20210511T010032Z">
+        <seg>Os projetos de equipe do OmegaT também podem ser configurados de uma maneira diferente, onde vários tradutores compartilham o arquivo project_save.tmx, mas não (todos) os arquivos (de origem).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT text export function</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170916T015839Z" creationid="CALDAS" creationdate="20170916T015839Z">
