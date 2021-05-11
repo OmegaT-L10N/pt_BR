@@ -5203,6 +5203,24 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134353Z" creationid="sheilagomes" creationdate="20210511T134353Z">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134355Z" creationid="sheilagomes" creationdate="20210511T134355Z">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
 &lt;/repository&gt;</seg>
       </tuv>
@@ -7274,6 +7292,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T151219Z" creationid="sheilagomes" creationdate="20210509T151219Z">
         <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134348Z" creationid="sheilagomes" creationdate="20210511T134348Z">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25353,6 +25379,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file mapping:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134346Z" creationid="sheilagomes" creationdate="20210511T134346Z">
+        <seg>Mapeamento de arquivo local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170909T153208Z" creationid="Sheila" creationdate="20170909T153208Z">
@@ -40238,6 +40272,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134435Z" creationid="sheilagomes" creationdate="20210511T134435Z">
+        <seg>O arquivo local &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; é mapeado para o arquivo local &lt;f1&gt; source / file.txt &lt;/f1&gt; e &lt;f2&gt; / home / me / myfiles /some/file.txt &lt;/f2&gt; é mapeado para o arquivo local &lt;f3&gt; source / file2.txt &lt;/f3&gt;. Atenção: se não existir um arquivo, o projeto não carregará. Você pode adicionar quantos mapeamentos desejar, mas apenas no contexto de um projeto de equipe, ou seja, um dos mapeamentos inclui omegat.project. Este recurso se destina a reunir arquivos de origem, mas você não está restrito aos arquivos de origem. Nota sobre omegat.project e mapeamentos Quando você cria um novo projeto e o envia para um repositório, o arquivo &lt;f0&gt; omegat.project &lt;/f0&gt; não contém nenhum mapeamento. Quando você baixa o projeto, o projeto é convertido em um projeto de equipe localmente e um mapeamento padrão é adicionado. Observe que o arquivo omegat.project no repositório não é alterado automaticamente e ainda não contém os mapeamentos. Quando você carrega um projeto, todas as mudanças no repositório são copiadas para o projeto local, incluindo o arquivo &lt;f0&gt; omegat.project &lt;/f0&gt; com as configurações do projeto. Se o arquivo não contiver mapeamentos, os mapeamentos locais existentes serão reaplicados, e apenas aqueles. Todas as outras alterações locais no projeto são revertidas. Se o arquivo contiver mapeamentos, as alterações locais nos mapeamentos serão perdidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214425Z" creationid="karol" creationdate="20160308T214425Z">
@@ -40916,8 +40958,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134121Z" creationid="sheilagomes" creationdate="20210511T134121Z">
-        <seg>O arquivo remoto  &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; está mapeado ao arquivo local  &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134515Z" creationid="sheilagomes" creationdate="20210511T134121Z">
+        <seg>O arquivo remoto  &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; é mapeado ao arquivo local  &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
