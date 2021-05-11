@@ -2915,6 +2915,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T012152Z" creationid="sheilagomes" creationdate="20210511T012152Z">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repository&gt;
 &lt;/repositories&gt;</seg>
       </tuv>
@@ -4313,6 +4321,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T012149Z" creationid="sheilagomes" creationdate="20210511T012149Z">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt; folder</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003318Z" creationid="karol" creationdate="20160309T003318Z">
@@ -4445,6 +4461,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182119Z" creationid="karol" creationdate="20160308T182119Z">
         <seg>&lt;i2/&gt;Neste caso, as opções para iniciar o programa serão lidas do arquivo &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;, que está na mesma pasta que o arquivo exe, e que pode ser editado para refletir suas configurações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T012151Z" creationid="sheilagomes" creationdate="20210511T012151Z">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5165,6 +5189,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011927Z" creationid="sheilagomes" creationdate="20210511T011830Z">
         <seg>&lt;mapping local="" repository="Projeto_En-US_Pt-BR"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T012145Z" creationid="sheilagomes" creationdate="20210511T012145Z">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7234,6 +7266,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T012132Z" creationid="sheilagomes" creationdate="20210511T012132Z">
+        <seg>&lt;repository type="svn" url="https://repo_de_todos_os_projetos_de_equipe_do_OmegaT_origem"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011858Z" creationid="sheilagomes" creationdate="20210511T011858Z">
@@ -8805,6 +8845,22 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002428Z" creationid="karol" creationdate="20160309T002428Z">
         <seg>Todos os conjuntos de regras de segmentação para um padrão de língua correspondente são ativos e aplicados na ordem de prioridade estabelecida, portanto as regras para uma língua específica devem ter maior prioridade do que aquelas predefinidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T012402Z" creationid="sheilagomes" creationdate="20210511T012402Z">
+        <seg>Todo o conteúdo de  &lt;f0&gt;https://repo_de_todos_os_projetos_de_equipe_do_OmegaT_origem&lt;/f0&gt; são mapeados para a pasta de origem do projeto local do OmegaT, mas não os arquivos *.bak, com exceção do readme.bak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T012047Z" creationid="sheilagomes" creationdate="20210511T012047Z">
+        <seg>Todo o conteúdo de &lt;f0&gt;https://repo_de_todos_os_projetos_de_equipe_do_OmegaT/Projeto_En-US_Pt-BR&lt;/f0&gt; são mapeados para o projeto local do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25780,6 +25836,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170919T155742Z" creationid="mroch" creationdate="20170919T155727Z">
         <seg>Muitos de vocês, que estão lendo isso, traduzirão muita documentação para usuários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for additional sources from remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T012051Z" creationid="sheilagomes" creationdate="20210511T012051Z">
+        <seg>Mapping for additional sources from remote repository, with filters:</seg>
       </tuv>
     </tu>
     <tu>
