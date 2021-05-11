@@ -9683,6 +9683,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011022Z" creationid="sheilagomes" creationdate="20210511T011022Z">
+        <seg>Como acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T034802Z" creationid="CALDAS" creationdate="20170912T022300Z">
@@ -16622,6 +16630,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215051Z" creationid="karol" creationdate="20160308T215051Z">
         <seg>Exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011013Z" creationid="sheilagomes" creationdate="20210511T010908Z">
+        <seg>Exemplo: &lt;u0&gt;**/pastaexcluida/**;*.txt&lt;/u0&gt; exclui arquivos que têm /pastaexcluida/ no caminho e arquivos com extensão .txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35372,8 +35388,8 @@ In this segment {0,number,#} should remain unchanged</note>
       <tuv lang="en">
         <seg>Separate different patterns with a semicolon.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010808Z" creationid="sheilagomes" creationdate="20210511T010808Z">
-        <seg>Separe os diferentes padrões com um ponto e vírgula. Exemplo: &lt;u0&gt; ** / excludedfolder / **; *. Txt &lt;/u0&gt; exclui arquivos que têm / excludedfolder / no caminho e arquivos com extensão .txt. inclui Como acima. Exemplo: &lt;u0&gt; ** / *. Docx &lt;/u0&gt; para adicionar todos os arquivos .docx, onde quer que estejam localizados no projeto, mesmo em pastas excluídas Por padrão, todos os arquivos que não são excluídos são incluídos. Você só precisa especificar isso para substituir algumas exclusões. Mapeamentos de exemplo Mapeamento de projeto padrão: &lt;repository type = "svn" url = "https: // repo_for_OmegaT_team_project"&gt; Todo o conteúdo de &lt;f0&gt; https: // repo_for_OmegaT_team_project &lt;/f0&gt; é mapeado para o projeto OmegaT local Mapeamento para projetos em um subdiretório do repositório: &lt;repository type = "svn" url = "https: // repo_for_All_OmegaT_team_projects"&gt; &lt;mapeamento local = "" repository = "En-US_DE_project" /&gt; Todo o conteúdo de &lt;f0&gt; https: // repo_for_All_OmegaT_team_projects / En-US_DE_project &lt;/f0&gt; é mapeado para o projeto OmegaT local. Mapeamento para fontes adicionais de repositório remoto, com filtros: &lt;repository type = "svn" url = "https: // repo_for_All_OmegaT_team_project_sources"&gt; &lt;mapeamento local = "source / subdir" repository = ""&gt; &lt;excludes&gt; ** / *. bak &lt;/excludes&gt; &lt;includes&gt; readme.bak &lt;/includes&gt; &lt;/mapping&gt; Todo o conteúdo de &lt;f0&gt; https: // repo_for_All_OmegaT_team_project_sources &lt;/f0&gt; é mapeado para a pasta de origem do projeto OmegaT local, exceto todos os arquivos * .bak, exceto readme.bak. Mapeamento para arquivos de origem extras da web: &lt;repository type = "http" url = "https://github.com/omegat-org/omegat/raw/master/"&gt; &lt;mapping local = "source / Bundle.properties" repository = "src / org / omegat / Bundle.properties" /&gt; &lt;/repository&gt; O arquivo remoto &lt;f0&gt; https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties &lt;/f0&gt; é mapeado para o arquivo local &lt;f1&gt; source / Bundle. propriedades &lt;/f1&gt;. Mapeamento com renomeação: &lt;repository type = "http" url = "https://github.com/omegat-org/omegat/raw/master/"&gt; &lt;mapeamento local = "source / readme_tr.txt" repository = "release / readme.txt" /&gt; &lt;/repository&gt; O arquivo remoto &lt;f0&gt; https://github.com/omegat-org/omegat/raw/master/release/readme.txt &lt;/f0&gt; é mapeado para o arquivo local &lt;f1&gt; source / readme_tr.txt &lt;/ f1 &gt;. Isso torna possível renomear o arquivo a ser traduzido. Mapeamento de arquivo local: &lt;repository type = "file" url = "/ home / me / myfiles"&gt;</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010854Z" creationid="sheilagomes" creationdate="20210511T010808Z">
+        <seg>Separa os diferentes padrões com um ponto e vírgula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52032,6 +52048,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001004Z" creationid="Evandro" creationdate="20160310T001004Z">
         <seg>ina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>includes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011016Z" creationid="sheilagomes" creationdate="20210511T010919Z">
+        <seg>nclui</seg>
       </tuv>
     </tu>
     <tu>
