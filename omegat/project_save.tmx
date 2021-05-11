@@ -5161,6 +5161,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011927Z" creationid="sheilagomes" creationdate="20210511T011830Z">
+        <seg>&lt;mapping local="" repository="Projeto_En-US_Pt-BR"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T005426Z" creationid="karol" creationdate="20160309T005426Z">
@@ -7222,6 +7230,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T180604Z" creationid="sheilagomes" creationdate="20210509T180604Z">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011858Z" creationid="sheilagomes" creationdate="20210511T011858Z">
+        <seg>&lt;repository type="svn" url="https://repo_de_todos_os_projetos_de_equipe_do_OmegaT"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25764,6 +25780,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170919T155742Z" creationid="mroch" creationdate="20170919T155727Z">
         <seg>Muitos de vocês, que estão lendo isso, traduzirão muita documentação para usuários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subdirectory of the repository:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011731Z" creationid="sheilagomes" creationdate="20210511T011731Z">
+        <seg>Mapeamento para projetos em um subdiretório do repositório:</seg>
       </tuv>
     </tu>
     <tu>
