@@ -8868,6 +8868,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other local changes to the project are reverted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T174420Z" creationid="sheilagomes" creationdate="20210511T174420Z">
+        <seg>Todas as outras alterações locais no projeto são revertidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All other non-permissive additional terms are considered "further
 restrictions" within the meaning of section 10.</seg>
       </tuv>
@@ -20854,6 +20862,22 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the file does contain mappings, then local changes to mappings are lost.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T174438Z" creationid="sheilagomes" creationdate="20210511T174438Z">
+        <seg>Se o arquivo contiver mapeamentos, as alterações locais nos mapeamentos serão perdidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file doesn't contain mappings, the existing local mappings are re-applied, and only those.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T174426Z" creationid="sheilagomes" creationdate="20210511T174407Z">
+        <seg>Se o arquivo não contiver mapeamentos, os mapeamentos locais existentes serão reaplicados, e apenas estes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181242Z" creationid="karol" creationdate="20160308T181242Z">
@@ -28114,6 +28138,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182329Z" creationid="karol" creationdate="20160308T182329Z">
         <seg>Observe que a chave deve ter 38 caracteres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain the mappings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T174333Z" creationid="sheilagomes" creationdate="20210511T174333Z">
+        <seg>Observe que o arquivo omegat.project no repositório não é alterado automaticamente e ainda não contém os mapeamentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44589,6 +44621,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate a PDF file</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T174501Z" creationid="sheilagomes" creationdate="20210511T174456Z">
+        <seg>Tradução de arquivos PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate the file</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182456Z" creationid="karol" creationdate="20160308T182456Z">
@@ -45815,6 +45855,14 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T213443Z" creationid="Sheila" creationdate="20170904T213443Z">
         <seg>Usar &amp;lematização para termos do glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T210938Z" creationid="sheilagomes" creationdate="20210511T210938Z">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47415,6 +47463,14 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you download the project, the project is converted to a team project locally and a default mapping is added.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T174307Z" creationid="sheilagomes" creationdate="20210511T174307Z">
+        <seg>Quando você baixa o projeto, o ele é convertido em um projeto de equipe localmente e um mapeamento padrão é adicionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you exit the project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003802Z" creationid="karol" creationdate="20160309T003802Z">
@@ -47443,6 +47499,14 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170515T200457Z" creationid="karol" creationdate="20160308T170032Z">
         <seg>Quando você indica quais arquivos quer traduzir, o OmegaT procurará pelos formatos compatíveis de acordo com as regras de filtragem de arquivo, reconhecerá neles as partes de texto, dividirá os grupos de texto maiores de acordo com as regras de segmentação e exibirá os segmentos um a um para que você inicie a tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you load a project, all changes in the repository are copied to the local project, including the &lt;f0&gt;omegat.project&lt;/f0&gt; file with project settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T174351Z" creationid="sheilagomes" creationdate="20210511T174351Z">
+        <seg>Quando você carrega um projeto, todas as mudanças no repositório são copiadas para o projeto local, incluindo o arquivo &lt;f0&gt;omegat.project&lt;/f0&gt; com as configurações do projeto.</seg>
       </tuv>
     </tu>
     <tu>
