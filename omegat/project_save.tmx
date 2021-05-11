@@ -5193,6 +5193,26 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T133903Z" creationid="sheilagomes" creationdate="20210511T133903Z">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134049Z" creationid="sheilagomes" creationdate="20210511T134049Z">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T012145Z" creationid="sheilagomes" creationdate="20210511T012145Z">
@@ -7262,6 +7282,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210509T180604Z" creationid="sheilagomes" creationdate="20210509T180604Z">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134046Z" creationid="sheilagomes" creationdate="20210511T134046Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25879,6 +25907,14 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Mapping with renaming:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134035Z" creationid="sheilagomes" creationdate="20210511T134035Z">
+        <seg>Mapeamento com renomeação</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Mar&amp;k Whitespace</seg>
@@ -40878,6 +40914,22 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134121Z" creationid="sheilagomes" creationdate="20210511T134121Z">
+        <seg>O arquivo remoto  &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; está mapeado ao arquivo local  &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T133941Z" creationid="sheilagomes" creationdate="20210511T133941Z">
+        <seg>O arquivo remoto  &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; está mapeado ao arquivo local  &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The repository is empty at this moment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172643Z" creationid="karol" creationdate="20160308T172643Z">
@@ -42995,6 +43047,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170912T231936Z" creationid="mroch" creationdate="20170912T231936Z">
         <seg>Esta lista de discussão é voltada ao traodutores que trabalham na localização do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes it possible to rename the file to be translated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134337Z" creationid="sheilagomes" creationdate="20210511T134337Z">
+        <seg>Isso torna possível renomear o arquivo a ser traduzido.</seg>
       </tuv>
     </tu>
     <tu>
