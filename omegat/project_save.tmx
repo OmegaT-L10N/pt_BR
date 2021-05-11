@@ -42721,6 +42721,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This feature is intended for gathering source files, but you're not restricted to source files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T174142Z" creationid="sheilagomes" creationdate="20210511T174142Z">
+        <seg>Este recurso se destina a reunir arquivos de origem, mas você não está restrito aos arquivos de origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This feature, however, is not implemented in OmegaT.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201631Z" creationid="karol" creationdate="20160308T201631Z">
