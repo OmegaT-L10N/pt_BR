@@ -27894,6 +27894,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note about omegat.project and mappings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T174159Z" creationid="sheilagomes" creationdate="20210511T174159Z">
+        <seg>Nota sobre omegat.project e mapeamentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note also that some fonts behave better for some language pairs than for others.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215127Z" creationid="karol" creationdate="20160308T215127Z">
@@ -47379,6 +47387,14 @@ technological measures.</seg>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170627T230845Z" creationid="karol" creationdate="20160308T201351Z">
         <seg>Ao transmitir um trabalho coberto, você renuncia a qualquer poder legal de proibir
 circunvenção de medidas tecnológicas até o ponto em que tal circunvenção seja efetuada pelo exercício de direitos sob esta licença com respeito ao trabalho coberto, e nega qualquer intenção de limitar a operação ou alteração do trabalho como um meio de forçar, contra os usuários do trabalho, os direitos legais dos seus terceiros ou de proibir a circunvenção de medidas tecnológicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T174218Z" creationid="sheilagomes" creationdate="20210511T174218Z">
+        <seg>Quando você cria um novo projeto e o envia para um repositório, o arquivo &lt;f0&gt;omegat.project&lt;/f0&gt; não contém nenhum mapeamento.</seg>
       </tuv>
     </tu>
     <tu>
