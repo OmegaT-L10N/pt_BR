@@ -7226,6 +7226,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011614Z" creationid="sheilagomes" creationdate="20210511T011614Z">
+        <seg>&lt;repository type="svn" url="https://repo_do_projeto_de_equipe_do_OmegaT"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170918T154215Z" creationid="mroch" creationdate="20170918T154215Z">
@@ -8781,6 +8789,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002428Z" creationid="karol" creationdate="20160309T002428Z">
         <seg>Todos os conjuntos de regras de segmentação para um padrão de língua correspondente são ativos e aplicados na ordem de prioridade estabelecida, portanto as regras para uma língua específica devem ter maior prioridade do que aquelas predefinidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011711Z" creationid="sheilagomes" creationdate="20210511T011711Z">
+        <seg>Todo o conteúdo de &lt;f0&gt;https://repo_do_projeto_de_equipe_do_OmegaT&lt;/f0&gt; é mapeado para o projeto OmegaT local</seg>
       </tuv>
     </tu>
     <tu>
@@ -14092,6 +14108,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181158Z" creationid="karol" creationdate="20160308T181158Z">
         <seg>Padrão é &lt;l0&gt;${filename}&lt;/l0&gt;– nome completo do arquivo fonte com extensão, portanto o nome do arquivo traduzido é o mesmo que o nome do arquivo fonte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default project mapping:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011538Z" creationid="sheilagomes" creationdate="20210511T011538Z">
+        <seg>Mapeamento de projeto padrão:</seg>
       </tuv>
     </tu>
     <tu>
