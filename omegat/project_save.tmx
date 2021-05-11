@@ -22447,6 +22447,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the procedure is the same, but the project manager does not add (all) files to version-controlled project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010051Z" creationid="sheilagomes" creationdate="20210511T010051Z">
+        <seg>Nesse caso, o procedimento é o mesmo, mas o gerente de projeto não adiciona (todos) os arquivos ao projeto com versão controlada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this dialog one can define the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; in the following windows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215119Z" creationid="karol" creationdate="20160308T215119Z">
@@ -22989,6 +22997,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T223012Z" creationid="Evandro" creationdate="20160312T110840Z">
         <seg>Início rápido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010110Z" creationid="sheilagomes" creationdate="20210511T010110Z">
+        <seg>Em vez disso, os tradutores copiam os próprios arquivos ou adicionam mapeamentos para sincronizar arquivos de outros locais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40094,6 +40110,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003954Z" creationid="karol" creationdate="20160309T003954Z">
         <seg>A janela principal é formada por diversos painéis, o menu principal e a barra de status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The mappings can be added via the UI: &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;Repository Mapping&lt;/g3&gt; &lt;/m0&gt; or by editing &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010223Z" creationid="sheilagomes" creationdate="20210511T010223Z">
+        <seg>Os mapeamentos podem ser adicionados por meio da IU: &lt;m0&gt; &lt;g1&gt;Projeto&lt;/g1&gt; &lt;g2&gt;Propriedades&lt;/g2&gt; &lt;g3&gt;Mapeamento de repositório&lt;/g3&gt; &lt;/m0&gt; ou editando &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
