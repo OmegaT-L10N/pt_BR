@@ -7930,6 +7930,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A team project can be opened and translated offline.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155803Z" creationid="sheilagomes" creationdate="20210512T155803Z">
+        <seg>Um projeto de equipe pode ser aberto e traduzido offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A text file containing two lines:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181317Z" creationid="karol" creationdate="20160308T181317Z">
@@ -8470,6 +8478,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding new source files</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155620Z" creationid="sheilagomes" creationdate="20210512T155620Z">
+        <seg>Adição de novos arquivos de origem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional Terms.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201440Z" creationid="karol" creationdate="20160308T201440Z">
@@ -8864,6 +8880,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T152005Z" creationid="sheilagomes" creationdate="20210504T152005Z">
         <seg>Todos os outros arquivos são somente leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All other files will be replaced by the files in the remote repository.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155602Z" creationid="sheilagomes" creationdate="20210512T155602Z">
+        <seg>Todos os outros arquivos serão substituídos pelos arquivos no repositório remoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11367,6 +11391,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182253Z" creationid="karol" creationdate="20160308T182253Z">
         <seg>As alterações neste comando requerem a adição de "parâmetros".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing segmentation rules or file filters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155738Z" creationid="sheilagomes" creationdate="20210512T155738Z">
+        <seg>Alteração de regras de segmentação ou filtros de arquivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14326,6 +14358,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting source files</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155717Z" creationid="sheilagomes" creationdate="20210512T155717Z">
+        <seg>Exclusão de arquivos de origem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delimiter</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T020615Z" creationid="CarolVignolis" creationdate="20181014T020615Z">
@@ -16966,6 +17006,14 @@ Teias de aranha estão te bloqueando
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155707Z" creationid="sheilagomes" creationdate="20210512T155707Z">
+        <seg>Os arquivos de origem existentes podem ser modificados, mas a operação de confirmação deve ser realizada antes de um salvamento automático e antes que o projeto seja recarregado ou fechado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T182426Z" creationid="Evandro" creationdate="20160311T182426Z">
@@ -17568,6 +17616,14 @@ Teias de aranha estão te bloqueando
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002405Z" creationid="karol" creationdate="20160309T002405Z">
         <seg>Arquivos com formatação (documentos ODF, documentos HTML, etc.) são segmentados nas tags de nível de bloco (ou seja, parágrafos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files must be deleted by the project manager.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155727Z" creationid="sheilagomes" creationdate="20210512T155727Z">
+        <seg>Os arquivos devem ser excluídos pelo gerente de projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32231,6 +32287,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project parameters must be changed by the project manager.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155747Z" creationid="sheilagomes" creationdate="20210512T155747Z">
+        <seg>Os parâmetros do projeto devem ser alterados pelo gerente do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project properties</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214250Z" creationid="karol" creationdate="20160308T214250Z">
@@ -43664,6 +43728,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new source file:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155631Z" creationid="sheilagomes" creationdate="20210512T155631Z">
+        <seg>Para adicionar um novo arquivo de origem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T233720Z" creationid="sheilagomes" creationdate="20210503T230442Z">
@@ -48009,6 +48081,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170915T025443Z" creationid="mroch" creationdate="20170915T025443Z">
         <seg>Trabalhe com mais de 30 formatos de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working offline</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155756Z" creationid="sheilagomes" creationdate="20210512T155756Z">
+        <seg>Trabalho offline</seg>
       </tuv>
     </tu>
     <tu>
