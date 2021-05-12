@@ -29442,6 +29442,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T123703Z" creationid="sheilagomes" creationdate="20210512T123703Z">
+        <seg>Os projetos de equipe do OmegaT devem primeiro ser &lt;l0&gt;configurados&lt;/l0&gt; em um servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT text export function</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170916T015839Z" creationid="CALDAS" creationdate="20170916T015839Z">
@@ -34856,6 +34864,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20191002T111420Z" creationid="Sheila" creationdate="20191002T111420Z">
         <seg>Veja &lt;l3&gt;Preferências de filtros de arquivo&lt;/l3&gt; para mais informações sobre o assunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T123507Z" creationid="sheilagomes" creationdate="20210512T123507Z">
+        <seg>Veja &lt;u0&gt;Como traduzir arquivos PDF com o Iceni Infix e o OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45907,6 +45923,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use a Team Project</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T123645Z" creationid="sheilagomes" creationdate="20210512T123645Z">
+        <seg>Como usar um projeto de equipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use all mine</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113632Z" creationid="Evandro" creationdate="20160312T113632Z">
@@ -46016,6 +46040,14 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182206Z" creationid="karol" creationdate="20160308T182206Z">
         <seg>Use o arquivo &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; localizado em &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; para iniciar o &lt;a4&gt;OmegaT&lt;/a4&gt; a partir da linha de comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Iceni Infix filter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T123418Z" creationid="sheilagomes" creationdate="20210512T123418Z">
+        <seg>Use o filtro Iceni Infix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52054,6 +52086,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20200219T102042Z" creationid="CALDAS" creationdate="20200219T102042Z">
         <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T123403Z" creationid="sheilagomes" creationdate="20210512T123403Z">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
       </tuv>
     </tu>
     <tu>
