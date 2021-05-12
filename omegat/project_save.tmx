@@ -247,6 +247,28 @@ desinência **</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T205738Z" creationid="sheilagomes" creationdate="20210512T205738Z">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#!/bin/bash java
 java -jar OmegaT.jar $*</seg>
       </tuv>
@@ -40088,6 +40110,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T204733Z" creationid="sheilagomes" creationdate="20210512T204733Z">
+        <seg>O exemplo a seguir para o arquivo INI reserva 1 GB de memória, solicita o francês como idioma do usuário e o Canadá como país:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following example for the INI file reserves 1GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170523T195501Z" creationid="karol" creationdate="20160308T182120Z">
@@ -40848,6 +40878,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T204708Z" creationid="sheilagomes" creationdate="20210512T204708Z">
+        <seg>As opções para a inicialização do programa neste caso serão lidas no arquivo &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, que fica na mesma pasta do arquivo exe e que pode ser editado para refletir sua configuração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The output from running a
 covered work is covered by this License only if the output, given its
 content, constitutes a covered work.</seg>
@@ -41519,6 +41557,14 @@ Dúvida nesse "call-out" do segmento.</note>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171133Z" creationid="karol" creationdate="20160308T171133Z">
         <seg>Os atalhos &lt;k2&gt;Ctrl+A&lt;/k2&gt; e &lt;k3&gt;Ctrl+C&lt;/k3&gt; funcionam nos painéis, permitindo copiar tudo ou partes das informações para a área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T204640Z" creationid="sheilagomes" creationdate="20210512T204640Z">
+        <seg>A forma mais simples de iniciar o OmegaT, entretanto, é executar o programa &lt;f0&gt;OmegaT.exe&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
