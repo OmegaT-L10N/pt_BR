@@ -3750,6 +3750,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T205810Z" creationid="sheilagomes" creationdate="20210512T205810Z">
+        <seg>&lt;e0&gt;Instale sobre a instalação existente.&lt;/e0&gt; Para fazer isso, basta selecionar a mesma pasta de instalação da instalação existente ao instalar a nova versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install to a new folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182127Z" creationid="karol" creationdate="20160308T182127Z">
@@ -43051,6 +43059,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T045419Z" creationid="CALDAS" creationdate="20170912T014353Z">
         <seg>Esta abordagem sem interferência é descrita pelo atual coordenador do projeto OmegaT como “anarquia delegada”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T205839Z" creationid="sheilagomes" creationdate="20210512T205839Z">
+        <seg>Isso inclui as preferências definidas no OmegaT, quaisquer alterações feitas em seu arquivo &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; e também seu script de inicialização (arquivo &lt;f2&gt;.bat&lt;/f2&gt;), se você estiver usando um.</seg>
       </tuv>
     </tu>
     <tu>
