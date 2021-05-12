@@ -47623,6 +47623,14 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whenever the project is automatically saved, but also when it is opened, closed and reloaded, only two files are actually synchronised:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155551Z" creationid="sheilagomes" creationdate="20210512T155551Z">
+        <seg>Sempre que o projeto é salvo automaticamente, mas também quando é aberto, fechado e recarregado, apenas dois arquivos são realmente sincronizados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003726Z" creationid="karol" creationdate="20160309T003726Z">
