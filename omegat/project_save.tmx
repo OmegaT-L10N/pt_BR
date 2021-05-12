@@ -10204,6 +10204,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatic saving</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T123817Z" creationid="sheilagomes" creationdate="20210512T123817Z">
+        <seg>Salvamento automático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T022237Z" creationid="CarolVignolis" creationdate="20181014T022224Z">
@@ -16747,6 +16755,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111007Z" creationid="Evandro" creationdate="20160312T111007Z">
         <seg>Evento: mudança de projeto - "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T123837Z" creationid="sheilagomes" creationdate="20210512T123837Z">
+        <seg>A cada 3 minutos (por padrão), o projeto local é sincronizado com o repositório remoto para que o gerente de projeto ou outros tradutores possam ver e usar as traduções adicionadas durante esse período.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29807,6 +29823,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T123811Z" creationid="sheilagomes" creationdate="20210512T123811Z">
+        <seg>Assim que o projeto for aberto, a tradução é feita da mesma forma que a de um projeto que não seja de equipe, exceto pelos seguintes pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T152149Z" creationid="sheilagomes" creationdate="20210504T152053Z">
@@ -37565,6 +37589,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronised files</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T130747Z" creationid="sheilagomes" creationdate="20210512T130747Z">
+        <seg>Arquivos sincronizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113103Z" creationid="Evandro" creationdate="20160312T113103Z">
@@ -44296,6 +44328,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172706Z" creationid="karol" creationdate="20160308T172706Z">
         <seg>Para atualizar os arquivos locais, clique com o botão direito na pasta local e escolha &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use a team project for the first time, follow the procedure provided by the project manager.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T123716Z" creationid="sheilagomes" creationdate="20210512T123716Z">
+        <seg>Para usar um projeto de equipe pela primeira vez, siga o procedimento fornecido pelo gerente de projeto.</seg>
       </tuv>
     </tu>
     <tu>
