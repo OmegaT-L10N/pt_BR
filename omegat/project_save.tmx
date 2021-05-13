@@ -22222,6 +22222,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T204531Z" creationid="sheilagomes" creationdate="20210513T204531Z">
+        <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T170135Z" creationid="karol" creationdate="20160308T170135Z">
@@ -30655,6 +30663,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T204553Z" creationid="sheilagomes" creationdate="20210513T204553Z">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other OmegaT resources</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T073446Z" creationid="CALDAS" creationdate="20170913T073446Z">
@@ -34030,6 +34046,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T204908Z" creationid="sheilagomes" creationdate="20210513T204908Z">
+        <seg>Clique com o botão direito no painel - &lt;e0&gt;Adicionar novo inicializador&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-click on the underlined term and select a target term to insert it at the cursor location in the target part of the segment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230644Z" creationid="sheilagomes" creationdate="20210503T230644Z">
@@ -35753,6 +35777,14 @@ In this segment {0,number,#} should remain unchanged</note>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182149Z" creationid="karol" creationdate="20160308T182149Z">
         <seg>Selecione o ícone &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T204603Z" creationid="sheilagomes" creationdate="20210513T204603Z">
+        <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
       </tuv>
     </tu>
     <tu>
