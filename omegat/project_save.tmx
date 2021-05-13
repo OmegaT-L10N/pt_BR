@@ -3766,6 +3766,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Install to a new folder.&lt;/e0&gt; This will enable you to keep both versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T001749Z" creationid="sheilagomes" creationdate="20210513T001749Z">
+        <seg>&lt;e0&gt;Instale em uma nova pasta.&lt;/e0&gt; Isso permitirá que você mantenha as duas versões, o que você pode querer fazer até se sentir confortável com a nova versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Installing and running OmegaT: &lt;/e0&gt;this chapter is useful when you first begin using OmegaT.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T170110Z" creationid="karol" creationdate="20160308T170110Z">
