@@ -4391,6 +4391,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T011827Z" creationid="sheilagomes" creationdate="20210514T011827Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215117Z" creationid="karol" creationdate="20160308T215117Z">
@@ -53776,6 +53784,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205052Z" creationid="sheilagomes" creationdate="20210513T205052Z">
         <seg>Usuários macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS goodies</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T003735Z" creationid="sheilagomes" creationdate="20210514T003735Z">
+        <seg>Aproveitando o macOS</seg>
       </tuv>
     </tu>
     <tu>
