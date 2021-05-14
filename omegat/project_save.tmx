@@ -4391,14 +4391,6 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T011827Z" creationid="sheilagomes" creationdate="20210514T011827Z">
-        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215117Z" creationid="karol" creationdate="20160308T215117Z">
@@ -46371,8 +46363,8 @@ na linha {1}, coluna {2}.</seg>
       <tuv lang="en">
         <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T210938Z" creationid="sheilagomes" creationdate="20210511T210938Z">
-        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T012911Z" creationid="sheilagomes" creationdate="20210511T210938Z">
+        <seg>Use o filtro padrão do &lt;a0&gt;OmegaT&lt;/a0&gt; (entrada de PDF), traduza, crie um arquivo de destino (será um arquivo de texto simples), adicione a formatação e itens relevantes manualmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49416,14 +49408,6 @@ o script de instalação (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171411Z" creationid="karol" creationdate="20160308T171411Z">
         <seg>Pode-se pensar no LanguageTool como um programa para detectar erros que um verificador ortográfico simples não identificaria, p. ex., utilização incorreta de palavras como lá/lã, não/no etc.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T011940Z" creationid="sheilagomes" creationdate="20210514T011940Z">
-        <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
       </tuv>
     </tu>
     <tu>
