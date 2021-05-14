@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_b2daf3459" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1923,6 +1923,15 @@ for which you have or can give appropriate copyright permission.</seg>
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T185604Z" creationid="CarolVignolis" creationdate="20181014T185604Z">
+        <seg>(Se você acredita que contribuiu significativamente para o Projeto OmegaT, mas não vê seu nome nas listas, sinta-se a vontade para nos contactar.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063709Z" creationid="Kos Ivantsov" creationdate="20210514T063709Z">
         <seg>(Se você acredita que contribuiu significativamente para o Projeto OmegaT, mas não vê seu nome nas listas, sinta-se a vontade para nos contactar.)</seg>
       </tuv>
     </tu>
@@ -7528,7 +7537,7 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>===============</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20181113T103307Z" creationid="Sheila" creationdate="20181113T103307Z">
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063757Z" creationid="Sheila" creationdate="20181113T103307Z">
         <seg>===============</seg>
       </tuv>
     </tu>
@@ -7536,8 +7545,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20181113T103306Z" creationid="Sheila" creationdate="20181113T103306Z">
-        <seg>@AVISO_DE_TRADUÇÃO@</seg>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T064308Z" creationid="Sheila" creationdate="20181113T103306Z">
+        <seg>© Fabio Caldas, Sheila Gomes, Carol Vignolis et el.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12918,9 +12927,9 @@ software for all its users.</seg>
         <seg>Contributors
 ============</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20190420T125042Z" creationid="CALDAS" creationdate="20190420T125038Z">
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063817Z" creationid="CALDAS" creationdate="20190420T125038Z">
         <seg>Contribuidores
-============</seg>
+==============</seg>
       </tuv>
     </tu>
     <tu>
@@ -21572,6 +21581,15 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063901Z" creationid="Kos Ivantsov" creationdate="20210514T063901Z">
+        <seg>Se você pode ver o arquivo OmegaT mas não o OmegaT.exe no seu gerenciador de arquivos (Windows Explorer), mude as configurações para que as extensões de arquivo sejam mostradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182346Z" creationid="karol" creationdate="20160308T182346Z">
@@ -23397,9 +23415,9 @@ parts of the aggregate.</seg>
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20181113T103455Z" creationid="Sheila" creationdate="20181113T103455Z">
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063808Z" creationid="Sheila" creationdate="20181113T103455Z">
         <seg>Instalação do OmegaT (Linux)
-=========================</seg>
+============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -23407,9 +23425,9 @@ parts of the aggregate.</seg>
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20181113T103445Z" creationid="Sheila" creationdate="20181113T103445Z">
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063807Z" creationid="Sheila" creationdate="20181113T103445Z">
         <seg>Instalação do OmegaT (Mac)
-=======================</seg>
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -23427,9 +23445,9 @@ parts of the aggregate.</seg>
         <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033126Z" creationid="CALDAS" creationdate="20200213T033115Z">
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063809Z" creationid="CALDAS" creationdate="20200213T033115Z">
         <seg>Instalação do OmegaT (Solaris, FreeBSD, etc.)
-=========================================</seg>
+=============================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -23437,9 +23455,9 @@ parts of the aggregate.</seg>
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20181113T103435Z" creationid="Sheila" creationdate="20181113T103435Z">
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063806Z" creationid="Sheila" creationdate="20181113T103435Z">
         <seg>Instalação do OmegaT (Windows)
-===========================</seg>
+==============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -24397,6 +24415,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T062802Z" creationid="Kos Ivantsov" creationdate="20210514T062802Z">
+        <seg>Com o uso da tecnologia Java Web Start (parte do Java 8 e versões mais recentes), os aplicativos independentes do Java podem ser implementados com um único clique na rede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170914T033543Z" creationid="CALDAS" creationdate="20170914T033543Z">
@@ -25229,9 +25255,9 @@ permissions.</seg>
         <seg>Launching OmegaT (Linux)
 ========================</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20190420T124709Z" creationid="CALDAS" creationdate="20190420T124709Z">
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063813Z" creationid="CALDAS" creationdate="20190420T124709Z">
         <seg>Iniciando o OmegaT (Linux)
-=========================</seg>
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -25239,9 +25265,9 @@ permissions.</seg>
         <seg>Launching OmegaT (Mac)
 ======================</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20190420T124719Z" creationid="CALDAS" creationdate="20190420T123407Z">
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063812Z" creationid="CALDAS" creationdate="20190420T123407Z">
         <seg>Iniciando o OmegaT (Mac)
-======================</seg>
+========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -25259,8 +25285,9 @@ permissions.</seg>
         <seg>Launching OmegaT from the command line (all systems)
 ====================================================</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20190420T124839Z" creationid="CALDAS" creationdate="20190420T124839Z">
-        <seg>Iniciando o OmegaT a partir da linha de comando (em qualquer sistema operacional)</seg>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063815Z" creationid="CALDAS" creationdate="20190420T124839Z">
+        <seg>Iniciando o OmegaT a partir da linha de comando (em qualquer sistema operacional)
+=================================================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -25468,9 +25495,9 @@ permissions.</seg>
         <seg>Licensing information
 =====================</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20181113T103322Z" creationid="CarolVignolis" creationdate="20181014T173145Z">
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063803Z" creationid="CarolVignolis" creationdate="20181014T173145Z">
         <seg>Informação de licenciamento
-=====================</seg>
+===========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -29137,6 +29164,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T064134Z" creationid="Kos Ivantsov" creationdate="20210514T064134Z">
+        <seg>OmegaT também possui as seguintes listas de discussão e rastreadores, que estão hospedados no SourceForge</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>TODO: Voltar e acertar "Trackers"</note>
       <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
@@ -31889,9 +31924,9 @@ additional steps need to be taken.</seg>
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20181113T103407Z" creationid="Sheila" creationdate="20181113T103407Z">
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063805Z" creationid="Sheila" creationdate="20181113T103407Z">
         <seg>Pré-requisitos para a instalação do OmegaT
-===================================</seg>
+==========================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -40598,6 +40633,15 @@ desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063844Z" creationid="Kos Ivantsov" creationdate="20210514T063844Z">
+        <seg>O programa de instalação pode criar atalhos para você no menu iniciar, na área de trabalho e na barra de início rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T152337Z" creationid="CALDAS" creationdate="20200126T152337Z">
@@ -40676,9 +40720,8 @@ xx ou yyy é o código do idioma e YY é o código do país (opcional).</seg>
         <seg>The license of each library is mentioned in
 /lib/licenses/Licenses.txt.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T032914Z" creationid="CALDAS" creationdate="20200213T032914Z">
-        <seg>A licença de cada biblioteca é mencionada
-em /lib/licenses/Licenses.txt.</seg>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T064242Z" creationid="CALDAS" creationdate="20200213T032914Z">
+        <seg>A licença de cada biblioteca é mencionada em /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44837,11 +44880,8 @@ install.sh.</seg>
 window (console), change folder to the folder containing OmegaT.jar and the
 linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033102Z" creationid="CALDAS" creationdate="20200213T033102Z">
-        <seg>Para usar esse script, abra um
-janela de terminal (console), mude a pasta para a pasta que contém OmegaT. jar
-e o script linux-install.sh, e execute o script com ./linux-
-install.sh.</seg>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T064208Z" creationid="CALDAS" creationdate="20200213T033102Z">
+        <seg>Para usar esse script, abra um janela de terminal (console), mude a pasta para a pasta que contém OmegaT. jar e o script linux-install.sh, e execute o script com ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46693,8 +46733,9 @@ na linha {1}, coluna {2}.</seg>
         <seg>Useful links
 ============</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20190420T130126Z" creationid="CALDAS" creationdate="20190420T130126Z">
-        <seg>Links úteis:</seg>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063818Z" creationid="CALDAS" creationdate="20190420T130126Z">
+        <seg>Links úteis:
+============</seg>
       </tuv>
     </tu>
     <tu>
@@ -46905,9 +46946,9 @@ searchable without subscription:</seg>
         <seg>Using Java Web Start for installing OmegaT (all platforms)
 ===========================================================</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20181120T165710Z" creationid="Sheila" creationdate="20181120T165710Z">
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063810Z" creationid="Sheila" creationdate="20181120T165710Z">
         <seg>Usando o Java Web Start para instalar o OmegaT (todas as plataformas)
-===========================================================</seg>
+=====================================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -49022,11 +49063,29 @@ o OmegaT a partir do campo pesquisa Spotlight.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T064117Z" creationid="Kos Ivantsov" creationdate="20210514T064117Z">
+        <seg>Você também pode iniciar o OmegaT a partir do campo pesquisa Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also manually drag the file
 OmegaT.exe to the start menu, the desktop or the quick launch area to link it
 from there.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T182542Z" creationid="CarolVignolis" creationdate="20181014T182542Z">
+        <seg>Você também arrastar o arquivo OmegaT.exe manualmente para o menu iniciar, para a área de trabalho ou para a barra de início rápido para criar um vínculo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063849Z" creationid="Kos Ivantsov" creationdate="20210514T063849Z">
         <seg>Você também arrastar o arquivo OmegaT.exe manualmente para o menu iniciar, para a área de trabalho ou para a barra de início rápido para criar um vínculo.</seg>
       </tuv>
     </tu>
@@ -49208,9 +49267,8 @@ your programs, too.</seg>
         <seg>You can find the text of the license in
 /docs/OmegaT-license.txt.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20181113T103335Z" creationid="Sheila" creationdate="20181113T103335Z">
-        <seg>Você pode encontrar o texto da licença em
-/docs/OmegaT-license.txt.</seg>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T064250Z" creationid="Sheila" creationdate="20181113T103335Z">
+        <seg>Você pode encontrar o texto da licença em /docs/OmegaT-license.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49260,9 +49318,8 @@ o script de instalação (linux-install.sh).</seg>
         <seg>You can however obtain a neater and more user-friendly installation by using the
 installation script (linux-install.sh).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033059Z" creationid="CALDAS" creationdate="20200213T033059Z">
-        <seg>No entanto, você pode ter uma instalação mais fácil e mais amigável usando
-o script de instalação (linux-install.sh).</seg>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T064225Z" creationid="CALDAS" creationdate="20200213T033059Z">
+        <seg>No entanto, você pode ter uma instalação mais fácil e mais amigável usando o script de instalação (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49588,6 +49645,15 @@ Finder window to be able to launch it from any location.</seg>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20190420T124214Z" creationid="CALDAS" creationdate="20190420T124214Z">
         <seg>Você pode arrastar o aplicativo OmegaT para o dock ou para a barra de ferramentas de uma
 janela do Finder para poder iniciá-lo em qualquer local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T064108Z" creationid="Kos Ivantsov" creationdate="20210514T064108Z">
+        <seg>Você pode arrastar o aplicativo OmegaT para o dock ou para a barra de ferramentas de uma janela do Finder para poder iniciá-lo em qualquer local.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52636,6 +52702,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T101838Z" creationid="CALDAS" creationdate="20191204T101838Z">
         <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T062814Z" creationid="Kos Ivantsov" creationdate="20210514T062814Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
