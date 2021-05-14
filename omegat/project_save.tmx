@@ -15484,6 +15484,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T003108Z" creationid="sheilagomes" creationdate="20210514T003108Z">
+        <seg>Clique duas vezes em &lt;f0&gt;OmegaT.app&lt;/f0&gt; ou clique em sua localização na Dock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T182923Z" creationid="CarolVignolis" creationdate="20181014T182923Z">
@@ -18186,6 +18194,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T003320Z" creationid="sheilagomes" creationdate="20210514T003320Z">
+        <seg>Por exemplo, &lt;l2&gt;user.language = ja&lt;/l2&gt; (sem o &lt;l3&gt;#&lt;/l3&gt;) iniciará o &lt;a4&gt;OmegaT&lt;/a4&gt; com a interface do usuário em japonês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, Corresponding Source
 includes interface definition files associated with source files for
 the work, and the source code for shared libraries and dynamically
@@ -18488,6 +18504,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182203Z" creationid="karol" creationdate="20160308T182203Z">
         <seg>Para opções pré-definidas, remova o caractere # antes de um parâmetro para habilitá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T003251Z" creationid="sheilagomes" creationdate="20210514T003251Z">
+        <seg>Para opções predefinidas, remova o &lt;l1&gt;#&lt;/l1&gt; antes de um parâmetro para habilitá-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30618,6 +30642,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T225711Z" creationid="Sheila" creationdate="20170903T225711Z">
         <seg>As opções mudam ao alterar &lt;e0&gt;Configuration.properties&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options are changed by modifying &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T003237Z" creationid="sheilagomes" creationdate="20210514T003237Z">
+        <seg>As opções são alteradas modificando &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43998,6 +44030,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T003200Z" creationid="sheilagomes" creationdate="20210514T003200Z">
+        <seg>Para acessar &lt;f0&gt;Configuration.properties&lt;/f0&gt;, clique com o botão direito em &lt;f1&gt;OmegaT.app&lt;/f1&gt; e selecione "Mostrar conteúdo do pacote", a seguir abra o arquivo em &lt;f2&gt;Conteúdo/Recursos&lt;/f2&gt; clicando nele com o botão direito e selecionando o editor de texto de sua preferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To access the TaaS service, a user must create a key using https://term.tilde.com/account/keys/create?system=omegaT.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T013835Z" creationid="Sheila" creationdate="20170905T013835Z">
@@ -44132,6 +44172,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T225804Z" creationid="Sheila" creationdate="20170903T225804Z">
         <seg>Para alterar a quantidade de memória disponível, edite o arquivo &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; e altere o conteúdo de &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T003427Z" creationid="sheilagomes" creationdate="20210514T003427Z">
+        <seg>Para alterar a quantidade de memória disponível, edite o arquivo &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; e descomente a linha &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; removendo o &lt;l2&gt;&lt;!--&lt;/l2&gt; e &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48868,6 +48916,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T003225Z" creationid="sheilagomes" creationdate="20210514T003225Z">
+        <seg>Você também pode usar &lt;c3&gt;cd&lt;/c3&gt; diretamente na linha de comando e abrir &lt;f4&gt;Configuration.properties&lt;/f4&gt; em um editor de linha de comando como emacs ou vi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T005220Z" creationid="karol" creationdate="20160309T005220Z">
@@ -49207,6 +49263,14 @@ o script de instalação (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T225204Z" creationid="Sheila" creationdate="20170903T225204Z">
         <seg>Você pode alterar o comportamento do OmegaT editando as &lt;e0&gt;Propriedades&lt;/e0&gt;, bem como o arquivo &lt;e1&gt;Configuration.properties&lt;/e1&gt; no pacote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T003125Z" creationid="sheilagomes" creationdate="20210514T003125Z">
+        <seg>Você pode modificar o comportamento do OmegaT editando as &lt;e0&gt;Propriedades&lt;/e0&gt; e também o arquivo &lt;f1&gt;Configuration.properties&lt;/f1&gt; no pacote.</seg>
       </tuv>
     </tu>
     <tu>
