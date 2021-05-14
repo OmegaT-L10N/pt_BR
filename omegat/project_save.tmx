@@ -12196,8 +12196,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;/images&lt;/f1&gt; subfolder in the &lt;a2&gt;OmegaT&lt;/a2&gt; application folder.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T204951Z" creationid="sheilagomes" creationdate="20210513T204951Z">
-        <seg>Clique no botão do ícone, clique em &lt;g0&gt; Navegar ... &lt;/g0&gt; e navegue até a subpasta &lt;f1&gt; / images &lt;/f1&gt; na pasta do aplicativo &lt;a2&gt; OmegaT &lt;/a2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002442Z" creationid="sheilagomes" creationdate="20210513T204951Z">
+        <seg>Clique no botão do ícone, clique em &lt;g0&gt;Procurar...&lt;/g0&gt; e navegue até a subpasta &lt;f1&gt;/images&lt;/f1&gt; na pasta do aplicativo &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13087,6 +13087,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003759Z" creationid="karol" creationdate="20160309T003759Z">
         <seg>Copie os documentos para os quais você precisa da memória de tradução para a pasta de origem do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205134Z" creationid="sheilagomes" creationdate="20210513T205134Z">
+        <seg>Copie a pasta para uma pasta adequada (por exemplo Formulários).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30093,6 +30101,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once you have done this, you can delete the &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205144Z" creationid="sheilagomes" creationdate="20210513T205144Z">
+        <seg>Depois de fazer isso, você pode excluir o arquivo &lt;f4&gt; OmegaT_4.n.n_Mac.zip &lt;/f4&gt;, ele não é mais necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182509Z" creationid="karol" creationdate="20160308T182509Z">
@@ -40222,6 +40238,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205128Z" creationid="sheilagomes" creationdate="20210513T205128Z">
+        <seg>A pasta contém 2 arquivos: &lt;f2&gt; index.html &lt;/f2&gt; e &lt;f3&gt; OmegaT.app &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder contains 2 files: index.html and &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app.&lt;/e3&gt; Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182157Z" creationid="karol" creationdate="20160308T182157Z">
@@ -43003,6 +43027,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182157Z" creationid="karol" creationdate="20160308T182157Z">
         <seg>Isso criará uma pasta chamada&lt;e1&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; &lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205120Z" creationid="sheilagomes" creationdate="20210513T205120Z">
+        <seg>Isso cria uma pasta chamada &lt;f1&gt; OmegaT &lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
