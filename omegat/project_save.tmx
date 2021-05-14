@@ -11539,8 +11539,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check "&lt;l3/&gt;" below for more information.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205045Z" creationid="sheilagomes" creationdate="20210513T205045Z">
-        <seg>Verifique "&lt;l3 /&gt;" abaixo para obter mais informações.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002552Z" creationid="sheilagomes" creationdate="20210513T205045Z">
+        <seg>Verifique "&lt;l3/&gt;" abaixo para obter mais informações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13093,8 +13093,8 @@ the conditions stated below.</seg>
       <tuv lang="en">
         <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205134Z" creationid="sheilagomes" creationdate="20210513T205134Z">
-        <seg>Copie a pasta para uma pasta adequada (por exemplo Formulários).</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002709Z" creationid="sheilagomes" creationdate="20210513T205134Z">
+        <seg>Copie a pasta para uma pasta adequada (por exemplo, Aplicativos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15470,8 +15470,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Double click on &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; to unpack it.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205112Z" creationid="sheilagomes" creationdate="20210513T205112Z">
-        <seg>Clique duas vezes em &lt;f0&gt; OmegaT_4.n.n_Mac.zip &lt;/f0&gt; para descompactá-lo.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002629Z" creationid="sheilagomes" creationdate="20210513T205112Z">
+        <seg>Clique duas vezes em &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; para descompactá-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15559,8 +15559,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Download &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205058Z" creationid="sheilagomes" creationdate="20210513T205058Z">
-        <seg>Baixe &lt;f0&gt; OmegaT_4.n.n_Mac.zip &lt;/f0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002602Z" creationid="sheilagomes" creationdate="20210513T205058Z">
+        <seg>Baixe o arquivo &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15699,6 +15699,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182158Z" creationid="karol" creationdate="20160308T182158Z">
         <seg>Arraste o &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; para a Dock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T003043Z" creationid="sheilagomes" creationdate="20210514T003043Z">
+        <seg>Arraste e solte &lt;f0&gt;OmegaT.app&lt;/f0&gt; para a Dock.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18912,8 +18920,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f4&gt;OmegaT.png&lt;/f4&gt; can be selected.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205017Z" creationid="sheilagomes" creationdate="20210513T205017Z">
-        <seg>O GNOME pode falhar em exibir os arquivos de ícone nos formatos disponíveis e inicialmente parecer esperar um arquivo SVG, mas se a pasta for selecionada, os arquivos devem aparecer e &lt;f4&gt; OmegaT.png &lt;/f4&gt; pode ser selecionado.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002516Z" creationid="sheilagomes" creationdate="20210513T205017Z">
+        <seg>O GNOME pode não exibir os arquivos de ícone nos formatos disponíveis e inicialmente parecer esperar um arquivo SVG, mas se a pasta for selecionada, os arquivos devem aparecer e &lt;f4&gt;OmegaT.png&lt;/f4&gt; pode ser selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23348,8 +23356,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Installing &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205105Z" creationid="sheilagomes" creationdate="20210513T205105Z">
-        <seg>Instalando o &lt;a0&gt; OmegaT &lt;/a0&gt;</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002619Z" creationid="sheilagomes" creationdate="20210513T205105Z">
+        <seg>Instalação do &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26094,8 +26102,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205037Z" creationid="sheilagomes" creationdate="20210513T205037Z">
-        <seg>Certifique-se de que suas configurações de &lt;v1&gt; PATH &lt;/v1&gt; estejam corretas e que os arquivos &lt;f2&gt; .jar &lt;/f2&gt; estejam devidamente associados a um iniciador Java.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002543Z" creationid="sheilagomes" creationdate="20210513T205037Z">
+        <seg>Certifique-se de que suas configurações de &lt;v1&gt;PATH&lt;/v1&gt; estejam corretas e que os arquivos &lt;f2&gt;.jar&lt;/f2&gt; estejam devidamente associados a um inicializador Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30103,8 +30111,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Once you have done this, you can delete the &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; file, it is no longer needed.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205144Z" creationid="sheilagomes" creationdate="20210513T205144Z">
-        <seg>Depois de fazer isso, você pode excluir o arquivo &lt;f4&gt; OmegaT_4.n.n_Mac.zip &lt;/f4&gt;, ele não é mais necessário.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002716Z" creationid="sheilagomes" creationdate="20210513T205144Z">
+        <seg>Depois de fazer isso, você pode excluir o arquivo &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;, ele não é mais necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35863,8 +35871,8 @@ In this segment {0,number,#} should remain unchanged</note>
       <tuv lang="en">
         <seg>Select the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205005Z" creationid="sheilagomes" creationdate="20210513T205005Z">
-        <seg>Selecione o f3 &lt;ícone&gt; OmegaT.png &lt;/f3&gt;.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002457Z" creationid="sheilagomes" creationdate="20210513T205005Z">
+        <seg>Selecione o ícone &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40240,8 +40248,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205128Z" creationid="sheilagomes" creationdate="20210513T205128Z">
-        <seg>A pasta contém 2 arquivos: &lt;f2&gt; index.html &lt;/f2&gt; e &lt;f3&gt; OmegaT.app &lt;/f3&gt;.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002650Z" creationid="sheilagomes" creationdate="20210513T205128Z">
+        <seg>A pasta contém 2 arquivos: &lt;f2&gt;index.html&lt;/f2&gt; e &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43033,8 +43041,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205120Z" creationid="sheilagomes" creationdate="20210513T205120Z">
-        <seg>Isso cria uma pasta chamada &lt;f1&gt; OmegaT &lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002635Z" creationid="sheilagomes" creationdate="20210513T205120Z">
+        <seg>Isso cria uma pasta chamada &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49189,8 +49197,8 @@ o script de instalação (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205030Z" creationid="sheilagomes" creationdate="20210513T205030Z">
-        <seg>Você pode iniciar o OmegaT a partir da linha de comando com um script que inclui opções de inicialização ou pode clicar em &lt;f0&gt; OmegaT.jar &lt;/f0&gt; para iniciá-lo diretamente.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002526Z" creationid="sheilagomes" creationdate="20210513T205030Z">
+        <seg>Você pode iniciar o OmegaT a partir da linha de comando com um script que inclui opções de inicialização ou pode clicar em &lt;f0&gt;OmegaT.jar&lt;/f0&gt; para iniciá-lo diretamente.</seg>
       </tuv>
     </tu>
     <tu>
