@@ -10850,6 +10850,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T064404Z" creationid="Kos Ivantsov" creationdate="20210514T064404Z">
+        <seg>Erros, solicitações de novas funcionalidades e documentação de problemas são tratados pelo SourceForge através dos sistemas de rastreamento abaixo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170912T232520Z" creationid="mroch" creationdate="20170912T232520Z">
@@ -31533,6 +31541,14 @@ para determinar a origem do erro e tente novamente.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170912T234245Z" creationid="mroch" creationdate="20170912T233641Z">
         <seg>Entre em contato com o &lt;a2&gt;webmaster&lt;/a2&gt; quando o assunto estiver relacionado especificadamente ao site do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T064427Z" creationid="Kos Ivantsov" creationdate="20210514T064427Z">
+        <seg>Entre em contato com o &lt;a3&gt;webmaster&lt;/a3&gt; quando o assunto estiver relacionado especificadamente ao site do projeto.</seg>
       </tuv>
     </tu>
     <tu>
