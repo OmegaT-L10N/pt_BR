@@ -46823,8 +46823,8 @@ na linha {1}, coluna {2}.</seg>
       <tuv lang="en">
         <seg>User interface language for OmegaT</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T032722Z" creationid="karol" creationdate="20160309T010534Z">
-        <seg></seg>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T070529Z" creationid="karol" creationdate="20160309T010534Z">
+        <seg>Idioma da interface do usuário para o OmegaT</seg>
       </tuv>
     </tu>
     <tu>
