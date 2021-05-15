@@ -30095,6 +30095,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T213413Z" creationid="Isa" creationdate="20210515T213413Z">
+        <seg>No macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172018Z" creationid="karol" creationdate="20160308T172018Z">
