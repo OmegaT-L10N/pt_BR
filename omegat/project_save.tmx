@@ -3737,8 +3737,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T184418Z" creationid="Isa" creationdate="20210515T184418Z">
-        <seg>[parcial]&lt;e0&gt;Não sei:&lt;/e0&gt; abra um terminal e digite "java -version".</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T194350Z" creationid="Isa" creationdate="20210515T184418Z">
+        <seg>&lt;e0&gt;Não sei:&lt;/e0&gt; abra um terminal e digite &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49553,14 +49553,6 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171411Z" creationid="karol" creationdate="20160308T171411Z">
         <seg>Pode-se pensar no LanguageTool como um programa para detectar erros que um verificador ortográfico simples não identificaria, p. ex., utilização incorreta de palavras como lá/lã, não/no etc.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T182857Z" creationid="Isa" creationdate="20210515T182857Z">
-        <seg>[parcial]Assim, você pode acessar uma palavra em qualquer lugar do &lt;a2&gt;OmegaT&lt;/a2&gt; e usar Services para verificar a palavra, por exemplo no Spotlight ou no Google.</seg>
       </tuv>
     </tu>
     <tu>
