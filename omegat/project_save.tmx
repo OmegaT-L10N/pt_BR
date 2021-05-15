@@ -43170,6 +43170,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T185513Z" creationid="Isa" creationdate="20210515T185513Z">
+        <seg>[parcial]Isso criará um diretório &lt;e2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/e2&gt; na pasta de trabalho com todos os arquivos necessários para executar o&lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170901T100401Z" creationid="karol" creationdate="20160308T180946Z">
