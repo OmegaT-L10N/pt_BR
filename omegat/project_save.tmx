@@ -26199,6 +26199,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T190650Z" creationid="Isa" creationdate="20210515T190650Z">
+        <seg>[parcial]Certifique-se de que suas configurações de &lt;v1&gt;PATH&lt;/v1&gt; estejam corretas e que os arquivos &lt;f2&gt;.jar&lt;/f2&gt; estejam devidamente associados a um inicializador Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure the field &lt;e1&gt;Checkout directory&lt;/e1&gt; is correct, i.e. specifies the empty folder you have created, and press &lt;e2&gt;OK&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172644Z" creationid="karol" creationdate="20160308T172644Z">
@@ -44573,8 +44581,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; file.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T185308Z" creationid="Isa" creationdate="20210515T185308Z">
-        <seg>Para instalar o &lt;a0&gt;OmegaT&lt;/a0&gt;, basta descompactar o arquivo &lt;f1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/f1&gt; </seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T190741Z" creationid="Isa" creationdate="20210515T185308Z">
+        <seg>Para instalar o &lt;a0&gt;OmegaT&lt;/a0&gt;, basta descompactar o arquivo &lt;f1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
