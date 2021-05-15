@@ -46884,8 +46884,8 @@ na linha {1}, coluna {2}.</seg>
       <tuv lang="en">
         <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T233512Z" creationid="Francisco Valdez" creationdate="20210515T233512Z">
-        <seg>Use este comando para registrar a tradução como idêntica ao texto fonte, mesmo que &lt;l0&gt;&lt;g1&gt;Permitir que a tradução seja idêntica ao texto fonte&lt;/g1&gt;&lt;/l0&gt; não esteja marcada.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T233537Z" creationid="Francisco Valdez" creationdate="20210515T233512Z">
+        <seg>Use este comando para registrar a tradução como idêntica ao texto fonte, mesmo que &lt;l0&gt;&lt;g1&gt;Permitir que a tradução seja igual ao texto fonte&lt;/g1&gt;&lt;/l0&gt; não esteja marcada.</seg>
       </tuv>
     </tu>
     <tu>
