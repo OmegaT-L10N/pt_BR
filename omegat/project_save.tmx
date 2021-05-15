@@ -12034,6 +12034,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Checks to see whether a more recent version of &lt;a0&gt;OmegaT&lt;/a0&gt; has been released.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T234620Z" creationid="Francisco Valdez" creationdate="20210515T234620Z">
+        <seg>Verifica se uma versão mais recente do &lt;a0&gt;OmegaT&lt;/a0&gt; foi lançada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chichewa, Chewa, Nyanja</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001001Z" creationid="Evandro" creationdate="20160310T001001Z">
