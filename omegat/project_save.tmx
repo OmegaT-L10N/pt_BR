@@ -11578,6 +11578,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check "&lt;l4/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T190401Z" creationid="Isa" creationdate="20210515T190401Z">
+        <seg>[parcial]Verifique "&lt;l3/&gt;" abaixo para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check "Command line launching" below for more information.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182153Z" creationid="karol" creationdate="20160308T182153Z">
@@ -20480,8 +20488,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T185110Z" creationid="Isa" creationdate="20210515T184901Z">
-        <seg>Se aparecer a mensagem "comando não encontrado" ou algo parecido, é provável que o Java não esteja instalado no seu sistema</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T190407Z" creationid="Isa" creationdate="20210515T184901Z">
+        <seg>Se aparecer a mensagem "comando não encontrado" ou algo parecido, é provável que o Java não esteja instalado no seu sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43816,8 +43824,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T185057Z" creationid="Isa" creationdate="20210515T184414Z">
-        <seg>Este pacote pode ser usado em qualquer plataforma que tenha o Java 8 compatível com JRE instalado</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T190607Z" creationid="Isa" creationdate="20210515T184414Z">
+        <seg>Este pacote pode ser usado em qualquer plataforma que tenha o Java 8 compatível com JRE instalado.</seg>
       </tuv>
     </tu>
     <tu>
