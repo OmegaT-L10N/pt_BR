@@ -3889,8 +3889,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T185209Z" creationid="Isa" creationdate="20210515T184958Z">
-        <seg>&lt;e0&gt;Não:&lt;/e0&gt; instale o Java JRE no seu sistema (ver abaixo) e baixe o &lt;f1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T211544Z" creationid="Isa" creationdate="20210515T184958Z">
+        <seg>&lt;e0&gt;Não:&lt;/e0&gt; instale o Java JRE no seu sistema (ver abaixo) e baixe o arquivo &lt;f1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11588,8 +11588,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check "&lt;l4/&gt;" below for more information.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T194312Z" creationid="Isa" creationdate="20210515T190401Z">
-        <seg>Confira "&lt;l4/&gt;" mais inforções abaixo.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T211750Z" creationid="Isa" creationdate="20210515T190401Z">
+        <seg>Confira "&lt;l4/&gt;" mais informações abaixo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30145,8 +30145,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T193317Z" creationid="Isa" creationdate="20210515T190049Z">
-        <seg>Depois de instalado, o &lt;a0&gt;OmegaT&lt;/a0&gt; pode ser iniciado diretamente da linha de comando, com a opção de criar um script que inclui os parâmetros de inicialização para a linha de comando ou iniciar o programa diretamente clicando em &lt;f1&gt;OmegaT.jar&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T211634Z" creationid="Isa" creationdate="20210515T190049Z">
+        <seg>Depois de instalado, o &lt;a0&gt;OmegaT&lt;/a0&gt; pode ser iniciado diretamente da linha de comando, com a opção de criar um script com os parâmetros de inicialização para a linha de comando ou iniciar o programa diretamente clicando em &lt;f1&gt;OmegaT.jar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
