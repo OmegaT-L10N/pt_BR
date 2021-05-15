@@ -3735,6 +3735,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T184418Z" creationid="Isa" creationdate="20210515T184418Z">
+        <seg>[parcial]&lt;e0&gt;Não sei:&lt;/e0&gt; abra um terminal e digite "java -version".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;Google Translate API v2 requires billing information for all accounts before you can start using the service (see &lt;u1&gt;Pricing and Terms of Service&lt;/u1&gt; for more).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20181008T130936Z" creationid="karol" creationdate="20160308T201617Z">
@@ -20458,6 +20466,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182215Z" creationid="karol" creationdate="20160308T182215Z">
         <seg>Se aparecer a mensagem 'command not found' (comando não encontrado) ou algo parecido, é provável que o Java não está instalado no seu sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T184901Z" creationid="Isa" creationdate="20210515T184901Z">
+        <seg>[parcial]Se aparecer a mensagem "comando não encontrado" ou algo parecido, é provável que o Java não esteja instalado no seu sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -43776,8 +43792,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T184414Z" creationid="Isa" creationdate="20210515T184414Z">
-        <seg>[parcial]Este pacote pode ser usado em qualquer plataforma onde um Java 8 compatível com JRE estiver instalado</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T184610Z" creationid="Isa" creationdate="20210515T184414Z">
+        <seg>[parcial]Este pacote pode ser usado em qualquer plataforma que tenha um Java 8 compatível com JRE instalado</seg>
       </tuv>
     </tu>
     <tu>
