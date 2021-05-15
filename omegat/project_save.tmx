@@ -30425,6 +30425,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T223859Z" creationid="Francisco Valdez" creationdate="20210515T223859Z">
+        <seg>Somente o arquivo &lt;f0&gt;test.html&lt;/f0&gt; na pasta &lt;f1&gt;dir-10&lt;/f1&gt; será processado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the file test.html at the root of the source folder will be translated.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182410Z" creationid="karol" creationdate="20160308T182410Z">
