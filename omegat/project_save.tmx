@@ -20469,6 +20469,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T230227Z" creationid="Francisco Valdez" creationdate="20210515T230227Z">
+        <seg>Se a &lt;l0&gt;busca automática nos dicionários&lt;/l0&gt; está desabilitada, esta função permite procura pela palavra selecionada nos dicionários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182424Z" creationid="karol" creationdate="20160308T182424Z">
