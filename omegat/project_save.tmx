@@ -40947,8 +40947,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T210954Z" creationid="Isa" creationdate="20210515T210629Z">
-        <seg>O equivalente no macOS está no terminal de aplicativos localizado em &lt;f0&gt;Aplicativos/Utilitários&lt;/f0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T211829Z" creationid="Isa" creationdate="20210515T210629Z">
+        <seg>O equivalente no macOS está no terminal de aplicativos, localizado em &lt;f0&gt;Aplicativos/Utilitários&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51120,6 +51120,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T211912Z" creationid="Isa" creationdate="20210515T211912Z">
+        <seg>cd &lt;p0&gt;pasta&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T230921Z" creationid="Sheila" creationdate="20170903T230921Z">
@@ -56831,6 +56839,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T115256Z" creationid="CALDAS" creationdate="20170912T115256Z">
         <seg>weLocalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T212026Z" creationid="Isa" creationdate="20210515T212026Z">
+        <seg>[parcial]onde&lt;e0&gt; {pasta}&lt;/e0&gt; é o nome da pasta com o caminho completo na qual o &lt;a1&gt;OmegaT&lt;/a1&gt; está localizado - especificamente, o arquivo &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jar&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
