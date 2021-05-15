@@ -26201,8 +26201,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T190650Z" creationid="Isa" creationdate="20210515T190650Z">
-        <seg>[parcial]Certifique-se de que suas configurações de &lt;v1&gt;PATH&lt;/v1&gt; estejam corretas e que os arquivos &lt;f2&gt;.jar&lt;/f2&gt; estejam devidamente associados a um inicializador Java.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T193936Z" creationid="Isa" creationdate="20210515T190650Z">
+        <seg>Verifique se as configurações de &lt;v2&gt;PATH&lt;/v2&gt; estão corretas e se os arquivos&lt;f3&gt;.jar&lt;/f3&gt; estão devidamente associados a um inicializador Java.</seg>
       </tuv>
     </tu>
     <tu>
