@@ -30792,6 +30792,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T234438Z" creationid="Francisco Valdez" creationdate="20210515T234438Z">
+        <seg>Abre este manual no navegador padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Operating System</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20200309T163044Z" creationid="CarolVignolis" creationdate="20181014T200913Z">
