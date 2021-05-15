@@ -8754,6 +8754,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T205532Z" creationid="Isa" creationdate="20210515T205532Z">
+        <seg>Após a instalação inicial, será possível usar o &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; quando estiver offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182455Z" creationid="karol" creationdate="20160308T182455Z">
