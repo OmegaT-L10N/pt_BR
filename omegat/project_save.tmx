@@ -15688,6 +15688,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T203248Z" creationid="Isa" creationdate="20210515T203248Z">
+        <seg>Baixe o arquivo &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; e, então, clique nele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.jnlp&lt;/e0&gt; and then click on it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182229Z" creationid="karol" creationdate="20160308T182229Z">
@@ -20237,6 +20245,14 @@ later version.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181004T140313Z" creationid="User" creationdate="20181004T140313Z">
         <seg>IBM Watson não disponível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T202755Z" creationid="Isa" creationdate="20210515T202755Z">
+        <seg>IBM fornece JREs para Linux PowerPC em &lt;u0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
