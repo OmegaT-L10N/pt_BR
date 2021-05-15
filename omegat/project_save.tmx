@@ -21213,6 +21213,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T221451Z" creationid="Francisco Valdez" creationdate="20210515T221451Z">
+        <seg>Se o idioma do sistema do usuário não está disponível, &lt;a7&gt;o OmegaT&lt;/a7&gt; usa o inglês por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the option is OFF, the glossary entry above will not be found.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T213031Z" creationid="Sheila" creationdate="20170904T213031Z">
