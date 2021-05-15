@@ -43172,8 +43172,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T185513Z" creationid="Isa" creationdate="20210515T185513Z">
-        <seg>[parcial]Isso criará um diretório &lt;e2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/e2&gt; na pasta de trabalho com todos os arquivos necessários para executar o&lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T185939Z" creationid="Isa" creationdate="20210515T185513Z">
+        <seg>Uma pasta &lt;f2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/f2&gt; será criada na pasta de trabalho com todos os arquivos necessários para executar o&lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
