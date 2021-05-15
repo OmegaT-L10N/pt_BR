@@ -43402,6 +43402,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This information applies to systems such as Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T202105Z" creationid="Isa" creationdate="20210515T202105Z">
+        <seg>Estas informações aplicam-se aos sistemas Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This information is computed for segments as well as for words and for characters (without and including spaces).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T005242Z" creationid="karol" creationdate="20160309T005242Z">
