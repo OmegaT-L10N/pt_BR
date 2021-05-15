@@ -30785,6 +30785,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 8) and for Linux x64, Solaris x64, Windows x64 (Java 8) at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T202652Z" creationid="Isa" creationdate="20210515T202652Z">
+        <seg>Oracle fornece JREs para Solaris SPARC/x86 (Java 8) e para Linux x64, Solaris x64, Windows x64 (Java 8) em &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170912T222229Z" creationid="mroch" creationdate="20170912T222229Z">
