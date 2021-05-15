@@ -20899,6 +20899,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no text is selected, &lt;a3&gt;OmegaT&lt;/a3&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T232517Z" creationid="Francisco Valdez" creationdate="20210515T232517Z">
+        <seg>Se nenhum texto for selecionado, o &lt;a3&gt;OmegaT&lt;/a3&gt; seleciona a palavra que contiver a letra imediatamente à direita do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not checked, source segments will not be shown.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T212613Z" creationid="karol" creationdate="20160308T212613Z">
