@@ -43774,6 +43774,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T184414Z" creationid="Isa" creationdate="20210515T184414Z">
+        <seg>[parcial]Este pacote pode ser usado em qualquer plataforma onde um Java 8 compatível com JRE estiver instalado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182104Z" creationid="karol" creationdate="20160308T182104Z">
