@@ -31365,6 +31365,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;l0&gt;omegat&lt;/l0&gt; instead of &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T214013Z" creationid="Isa" creationdate="20210515T214013Z">
+        <seg>Preste atenção ao uso de letras maiúsculas. Num sistema operacional diferente do Windows, o programa não iniciará se você escrever &lt;l0&gt;omegat&lt;/l0&gt; em vez de &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pay extra attention to tag pairs</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181932Z" creationid="karol" creationdate="20160308T181932Z">
