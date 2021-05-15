@@ -47143,6 +47143,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User's Manual...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T234414Z" creationid="Francisco Valdez" creationdate="20210515T234414Z">
+        <seg>Manual do Usuário...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110625Z" creationid="Evandro" creationdate="20160312T110625Z">
