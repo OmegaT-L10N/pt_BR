@@ -40361,6 +40361,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T225351Z" creationid="Francisco Valdez" creationdate="20210515T225351Z">
+        <seg>Os conteúdos exportados são copiados para o arquivo &lt;f1&gt;selection.txt&lt;/f1&gt; localizado na pasta de arquivos de Preferências do usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181941Z" creationid="karol" creationdate="20160308T181941Z">
