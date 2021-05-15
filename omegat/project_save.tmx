@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30098,6 +30098,14 @@ installed on your system.</seg>
         <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; to launch it directly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182224Z" creationid="karol" creationdate="20160308T182224Z">
+        <seg>Depois de instalado, o &lt;a0&gt;OmegaT&lt;/a0&gt; pode ser iniciado diretamente da linha de comando, ou você poderá criar um script que inclui os parâmetros de inicialização para a linha de comando ou ainda clicar no &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt;para iniciar o programa diretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T190354Z" creationid="Isa" creationdate="20210515T190049Z">
         <seg>Depois de instalado, o &lt;a0&gt;OmegaT&lt;/a0&gt; pode ser iniciado diretamente da linha de comando, ou você poderá criar um script que inclui os parâmetros de inicialização para a linha de comando ou ainda clicar no &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt;para iniciar o programa diretamente.</seg>
       </tuv>
     </tu>
