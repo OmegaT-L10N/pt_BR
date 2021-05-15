@@ -49187,6 +49187,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T195426Z" creationid="Isa" creationdate="20210515T195426Z">
+        <seg>[parcial]Você também pode usar o AppleScript ou Automator para criar Services ou scripts que automatizem as ações frequentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can apply it to
 your programs, too.</seg>
       </tuv>
