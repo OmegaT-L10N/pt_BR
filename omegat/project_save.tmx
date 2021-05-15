@@ -56845,8 +56845,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T212026Z" creationid="Isa" creationdate="20210515T212026Z">
-        <seg>[parcial]onde&lt;e0&gt; {pasta}&lt;/e0&gt; é o nome da pasta com o caminho completo na qual o &lt;a1&gt;OmegaT&lt;/a1&gt; está localizado - especificamente, o arquivo &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jar&lt;/e2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T213320Z" creationid="Isa" creationdate="20210515T212026Z">
+        <seg>em &lt;p0&gt;pasta&lt;/p0&gt; está o nome da pasta, com o caminho completo, na qual o programa &lt;a1&gt;OmegaT&lt;/a1&gt; – ou mais especificamente, o arquivo &lt;f2&gt;OmegaT.jar&lt;/f2&gt; – está localizado.</seg>
       </tuv>
     </tu>
     <tu>
