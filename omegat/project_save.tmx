@@ -37836,6 +37836,14 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T204810Z" creationid="Isa" creationdate="20210515T204810Z">
+        <seg>Próximos cliques em &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; verficarão se há alguma versão mais nova e, se houver, ela será instalada para, então, o &lt;a2&gt;OmegaT&lt;/a2&gt; ser inicializado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Subversion</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T170405Z" creationid="Sheila" creationdate="20170905T170405Z">
