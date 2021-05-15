@@ -48662,8 +48662,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history...&lt;/g0&gt;command below.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T234313Z" creationid="Francisco Valdez" creationdate="20210515T234122Z">
-        <seg>Com este comando você pode retroceder um segmento por vez e voltar mais tarde ao segmento atual usando o comando &lt;g0&gt;Forward in history...&lt;/g0&gt;command below.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T234337Z" creationid="Francisco Valdez" creationdate="20210515T234122Z">
+        <seg>Com este comando você pode retroceder um segmento por vez e voltar mais tarde ao segmento atual usando o comando &lt;g0&gt;Avançar pelos segmentos...&lt;/g0&gt;abaixo.</seg>
       </tuv>
     </tu>
     <tu>
