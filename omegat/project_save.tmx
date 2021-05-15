@@ -3889,8 +3889,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T184958Z" creationid="Isa" creationdate="20210515T184958Z">
-        <seg>[parcial]&lt;e0&gt;Não:&lt;/e0&gt; instale o Java JRE no seu sistema (ver abaixo) e baixe o &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T185209Z" creationid="Isa" creationdate="20210515T184958Z">
+        <seg>&lt;e0&gt;Não:&lt;/e0&gt; instale o Java JRE no seu sistema (ver abaixo) e baixe o &lt;f1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20480,8 +20480,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T184901Z" creationid="Isa" creationdate="20210515T184901Z">
-        <seg>[parcial]Se aparecer a mensagem "comando não encontrado" ou algo parecido, é provável que o Java não esteja instalado no seu sistema</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T185110Z" creationid="Isa" creationdate="20210515T184901Z">
+        <seg>Se aparecer a mensagem "comando não encontrado" ou algo parecido, é provável que o Java não esteja instalado no seu sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -43800,8 +43800,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T184610Z" creationid="Isa" creationdate="20210515T184414Z">
-        <seg>[parcial]Este pacote pode ser usado em qualquer plataforma que tenha um Java 8 compatível com JRE instalado</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T185057Z" creationid="Isa" creationdate="20210515T184414Z">
+        <seg>Este pacote pode ser usado em qualquer plataforma que tenha o Java 8 compatível com JRE instalado</seg>
       </tuv>
     </tu>
     <tu>
@@ -44543,6 +44543,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182220Z" creationid="karol" creationdate="20160308T182220Z">
         <seg>Para instalar o &lt;a0&gt;OmegaT&lt;/a0&gt;, basta descompactar o arquivo &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt; file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T185308Z" creationid="Isa" creationdate="20210515T185308Z">
+        <seg>Para instalar o &lt;a0&gt;OmegaT&lt;/a0&gt;, basta descompactar o arquivo &lt;f1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/f1&gt; </seg>
       </tuv>
     </tu>
     <tu>
