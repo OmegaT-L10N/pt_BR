@@ -49315,6 +49315,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also run directly the application with the following command:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T224953Z" creationid="Francisco Valdez" creationdate="20210515T224953Z">
+        <seg>Pode-se iniciar diretamente o aplicativo com o seguinte comando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T230104Z" creationid="karol" creationdate="20160308T182209Z">
