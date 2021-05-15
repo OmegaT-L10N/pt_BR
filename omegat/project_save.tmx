@@ -30792,6 +30792,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T234821Z" creationid="Francisco Valdez" creationdate="20210515T234821Z">
+        <seg>Abre a caixa de diálogo &lt;l0&gt;Preferências&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Source segmentation&lt;/l0&gt; dialog to configure text segmentation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T213445Z" creationid="karol" creationdate="20160308T213445Z">
