@@ -20578,6 +20578,14 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T214154Z" creationid="Francisco Valdez" creationdate="20210515T214154Z">
+        <seg>Se uma interface de usuário está disponível nesta língua, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If additional permissions
 apply only to part of the Program, that part may be used separately
 under those permissions, but the entire Program remains governed by
