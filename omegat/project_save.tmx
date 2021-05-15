@@ -49557,6 +49557,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T194924Z" creationid="Isa" creationdate="20210515T194924Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can thus select a word anywhere in &lt;a2&gt;OmegaT&lt;/a2&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T230052Z" creationid="karol" creationdate="20160308T182209Z">
