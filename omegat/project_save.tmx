@@ -11690,6 +11690,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for Updates...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T234512Z" creationid="Francisco Valdez" creationdate="20210515T234512Z">
+        <seg>Buscar por atualizações...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for doubled blanks</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T010544Z" creationid="karol" creationdate="20160309T010544Z">
