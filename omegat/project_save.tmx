@@ -46657,6 +46657,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T232248Z" creationid="Francisco Valdez" creationdate="20210515T232248Z">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; para percorrer as quatro alternativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Shift+F3 &lt;i0/&gt;to cycle through the four alternatives.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T211021Z" creationid="Sheila" creationdate="20170904T211021Z">
