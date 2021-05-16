@@ -21271,8 +21271,8 @@ copy of the Program in return for a fee.</seg>
       <tuv lang="en">
         <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T221451Z" creationid="Francisco Valdez" creationdate="20210515T221451Z">
-        <seg>Se o idioma do sistema do usuário não está disponível, &lt;a7&gt;o OmegaT&lt;/a7&gt; usa o inglês por padrão.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T144551Z" creationid="Francisco Valdez" creationdate="20210515T221451Z">
+        <seg>Se o idioma do sistema do usuário não está disponível, o &lt;a7&gt;OmegaT&lt;/a7&gt; usa o inglês por padrão.</seg>
       </tuv>
     </tu>
     <tu>
