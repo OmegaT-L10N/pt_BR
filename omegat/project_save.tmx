@@ -12034,6 +12034,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T160807Z" creationid="Francisco Valdez" creationdate="20210516T160807Z">
+        <seg>Marque esta opção caso o &lt;a0&gt;OmegaT&lt;/a0&gt; não exiba glifos corretamente (mesmo se as fontes que contêm os glifos relevantes estão instaladas em sua máquina).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T211850Z" creationid="Sheila" creationdate="20170904T211850Z">
