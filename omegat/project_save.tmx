@@ -36666,6 +36666,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T160951Z" creationid="Francisco Valdez" creationdate="20210516T160951Z">
+        <seg>Definir a opção Exibir alteração para &lt;g0&gt;Segmentoa tual&lt;/g0&gt; exibirá a hora e o autor da última mudança no segmento atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Setting up a preview function for use with OmegaT.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="grego" changedate="20171108T015651Z" creationid="grego" creationdate="20171108T015603Z">
