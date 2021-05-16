@@ -37408,6 +37408,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T195017Z" creationid="Isa" creationdate="20210516T195017Z">
+        <seg>Alguns filtros compatíveis: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some tag manipulations are necessary and are benign, others will cause problems when the translated document is created.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181924Z" creationid="karol" creationdate="20160308T181924Z">
