@@ -56067,8 +56067,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T153230Z" creationid="Francisco Valdez" creationdate="20210516T153230Z">
-        <seg>selecionar ou mover o mouse sobre uma fileira mostra o ícone do menu opo-up na última coluna contendo ações para corrigir ou ignorar o erro.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T153240Z" creationid="Francisco Valdez" creationdate="20210516T153230Z">
+        <seg>selecionar ou mover o mouse sobre uma fileira mostra o ícone do menu pop-up na última coluna contendo ações para corrigir ou ignorar o erro.</seg>
       </tuv>
     </tu>
     <tu>
