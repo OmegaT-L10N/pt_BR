@@ -39484,6 +39484,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T152253Z" creationid="Francisco Valdez" creationdate="20210516T152253Z">
+        <seg>A opção &lt;g1&gt;problema de Tag&lt;/g1&gt; já vem marcada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181419Z" creationid="karol" creationdate="20160308T181419Z">
