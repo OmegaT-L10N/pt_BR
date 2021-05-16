@@ -18763,6 +18763,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the project is EN-to-FR, &lt;f1&gt;alignDir&lt;/f1&gt; must contain a bundle ending with &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T195323Z" creationid="Isa" creationdate="20210516T195323Z">
+        <seg>Por exemplo, se o projeto for EN-FR, o &lt;f1&gt;alignDir&lt;/f1&gt; deve conter um pacote com final &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, plain text files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T173039Z" creationid="karol" creationdate="20160308T173039Z">
