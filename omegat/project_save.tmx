@@ -41561,6 +41561,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T191406Z" creationid="Isa" creationdate="20210516T191406Z">
+        <seg>O mais importante é &lt;l1&gt;/path/to/project&lt;/l1&gt;, e, como opção, &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most important is &lt;l1&gt;&lt;project-dir&gt;&lt;/l1&gt;, and optionally&lt;l2&gt; --config-dir=&lt;config-dir&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182350Z" creationid="karol" creationdate="20160308T182350Z">
