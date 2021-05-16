@@ -4464,6 +4464,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T152406Z" creationid="Francisco Valdez" creationdate="20210516T152406Z">
+        <seg>&lt;g0&gt;Problemas de Ortografia&lt;/g0&gt; (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20181123T130430Z" creationid="Sheila" creationdate="20181123T130430Z">
@@ -39486,8 +39494,8 @@ for making modifications to it.</seg>
       <tuv lang="en">
         <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T152253Z" creationid="Francisco Valdez" creationdate="20210516T152253Z">
-        <seg>A opção &lt;g1&gt;problema de Tag&lt;/g1&gt; já vem marcada.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T152348Z" creationid="Francisco Valdez" creationdate="20210516T152253Z">
+        <seg>A opção &lt;g1&gt;Problema de Tag&lt;/g1&gt; já vem marcada.</seg>
       </tuv>
     </tu>
     <tu>
