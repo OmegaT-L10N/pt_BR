@@ -3422,6 +3422,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Besides the language, you can also specify the country, for example &lt;l2&gt;CN&lt;/l2&gt; or &lt;l3&gt;TW&lt;/l3&gt; in case of the Chinese language.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T184446Z" creationid="Isa" creationdate="20210516T184446Z">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Além do idioma, é possível também especificar o país, por exemplo &lt;l2&gt;CN&lt;/l2&gt; ou &lt;l3&gt;TW&lt;/l3&gt; no caso do idioma chinês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; Besides the language, you can also specify the country, for example CN or TW in case of the Chinese language.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182318Z" creationid="karol" creationdate="20160308T182318Z">
@@ -44057,6 +44065,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002012Z" creationid="karol" creationdate="20160309T002012Z">
         <seg>O mesmo vale para o exemplo acima..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is necessary even if there's only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T184611Z" creationid="Isa" creationdate="20210516T184611Z">
+        <seg>Isso é necessário mesmo que haja apenas uma combinação disponível, como &lt;l4&gt;pt_BR&lt;/l4&gt;, no caso do português brasileiro.</seg>
       </tuv>
     </tu>
     <tu>
