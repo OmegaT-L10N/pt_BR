@@ -42275,6 +42275,14 @@ Dúvida nesse "call-out" do segmento.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T155242Z" creationid="Francisco Valdez" creationdate="20210516T155242Z">
+        <seg>Os arquivos de origem e de destino podem ter diferentes formatos (por exemplo, um arquivo &lt;f0&gt;.docx&lt;/f0&gt; pode ser alinhado com um arquivo &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
