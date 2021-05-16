@@ -30577,6 +30577,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only works if a spelling dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T152609Z" creationid="Francisco Valdez" creationdate="20210516T152609Z">
+        <seg>Funciona se um dicionário ortográfico estiver instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172106Z" creationid="karol" creationdate="20160308T172106Z">
