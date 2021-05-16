@@ -43626,6 +43626,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This function is specific to team projects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T151258Z" creationid="Francisco Valdez" creationdate="20210516T151227Z">
+        <seg>Esta função é específica para projetos de equipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T045419Z" creationid="CALDAS" creationdate="20170912T014353Z">
