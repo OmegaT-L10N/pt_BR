@@ -36992,8 +36992,8 @@ In this segment {0,number,#} should remain unchanged</note>
       <tuv lang="en">
         <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T215222Z" creationid="Francisco Valdez" creationdate="20210515T214906Z">
-        <seg>Se o sistema operacional do usuário está em russo e &lt;a5&gt;o OmegaT&lt;/a5&gt; foi localizado neste idioma, &lt;a6&gt;o OmegaT&lt;/a6&gt; é exibido com a interface de usuário em russo, menus em russo, etc.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T144702Z" creationid="Francisco Valdez" creationdate="20210515T214906Z">
+        <seg>Se o sistema operacional do usuário está em russo e o &lt;a5&gt;OmegaT&lt;/a5&gt; foi localizado neste idioma, &lt;a6&gt;o OmegaT&lt;/a6&gt; é exibido com a interface de usuário em russo, menus em russo, etc.</seg>
       </tuv>
     </tu>
     <tu>
