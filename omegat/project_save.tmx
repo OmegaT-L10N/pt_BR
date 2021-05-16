@@ -42413,6 +42413,14 @@ Dúvida nesse "call-out" do segmento.</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T155056Z" creationid="Francisco Valdez" creationdate="20210516T155056Z">
+        <seg>Os formatos de arquivos compatíveis estão listados em &lt;m0&gt; &lt;g1&gt;Projeto&lt;/g1&gt; &lt;g2&gt;Propriedades&lt;/g2&gt; &lt;g3&gt;Filtros de Arquivo&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The syntax of the language pattern conforms to regular expression syntax.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002439Z" creationid="karol" creationdate="20160309T002439Z">
