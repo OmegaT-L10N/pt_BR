@@ -29264,6 +29264,14 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T161837Z" creationid="Francisco Valdez" creationdate="20210516T161837Z">
+        <seg>É claro, pressionar &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; não terá nenhum efeito, se não houver uma correspondência nº5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T224258Z" creationid="Sheila" creationdate="20170903T224258Z">
