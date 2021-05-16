@@ -11690,6 +11690,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T151628Z" creationid="Francisco Valdez" creationdate="20210516T151628Z">
+        <seg>Verificar Problemas...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check LanguageTools rules</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T010543Z" creationid="karol" creationdate="20160309T010543Z">
