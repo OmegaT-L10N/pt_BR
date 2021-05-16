@@ -5296,6 +5296,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T192009Z" creationid="Isa" creationdate="20210516T192009Z">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; informa ao &lt;a1&gt;OmegaT&lt;/a1&gt; onde achar projetos para traduzir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181257Z" creationid="karol" creationdate="20160308T181257Z">
