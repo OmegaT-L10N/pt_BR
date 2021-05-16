@@ -4416,6 +4416,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210516T021133Z" creationid="edumartins" creationdate="20210516T021133Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; pode se aproveitar dos Serviços do macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215117Z" creationid="karol" creationdate="20160308T215117Z">
