@@ -42659,6 +42659,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The three matching percentages are in the following order:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T162117Z" creationid="Francisco Valdez" creationdate="20210516T162117Z">
+        <seg>As três porcentagens de correspondência estão na seguinte ordem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214205Z" creationid="karol" creationdate="20160308T214205Z">
