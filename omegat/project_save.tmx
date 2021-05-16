@@ -36360,6 +36360,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T154648Z" creationid="Francisco Valdez" creationdate="20210516T154648Z">
+        <seg>Selecionar os dois arquivos a serem alinhados (o arquivo de origem e a sua tradução) e clicar OK para abrir a &lt;l0&gt;&lt;g1&gt;janela&lt;/g1&gt; Alinhar&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T203241Z" creationid="karol" creationdate="20160308T203241Z">
