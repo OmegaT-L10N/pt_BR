@@ -18717,6 +18717,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T160649Z" creationid="Francisco Valdez" creationdate="20210516T160649Z">
+        <seg>Para detalhes técnicos, consulte &lt;u3&gt;Sugestões de Melhoria&lt;/u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For testing and demonstrating OmegaT.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170914T101742Z" creationid="CALDAS" creationdate="20170914T101742Z">
