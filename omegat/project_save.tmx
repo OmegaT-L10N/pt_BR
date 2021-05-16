@@ -28935,6 +28935,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T193544Z" creationid="Isa" creationdate="20210516T193544Z">
+        <seg>Observe o duplo caracter &lt;l5&gt;-&lt;/l5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170523T233132Z" creationid="Evandro" creationdate="20160312T105729Z">
