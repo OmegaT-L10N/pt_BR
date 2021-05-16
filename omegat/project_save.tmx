@@ -35700,6 +35700,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T162403Z" creationid="Francisco Valdez" creationdate="20210516T162403Z">
+        <seg>Ver &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
