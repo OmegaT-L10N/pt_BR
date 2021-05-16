@@ -3510,6 +3510,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T184738Z" creationid="Isa" creationdate="20210516T184738Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;Este comando atribui mais memória ao &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T202537Z" creationid="karol" creationdate="20160308T173228Z">
@@ -11118,6 +11126,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170901T094453Z" creationid="Sheila" creationdate="20170901T094453Z">
         <seg>Por padrão, o editor exibe os 2.000 segmentos iniciais e carrega progressivamente mais segmentos à medida que você se desloca para cima ou para baixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, 1024 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T184958Z" creationid="Isa" creationdate="20210516T184958Z">
+        <seg>Pelo padrão, são atribuídos 1024 MB de memória, portanto não há vantagem em atribuir valor inferior a esse.</seg>
       </tuv>
     </tu>
     <tu>
