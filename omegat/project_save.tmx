@@ -54518,6 +54518,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T151927Z" creationid="Francisco Valdez" creationdate="20210516T151927Z">
+        <seg>tags ausentes ou deslocadas, incluindo &lt;l0&gt;tags personalizadas&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mk</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001009Z" creationid="Evandro" creationdate="20160310T001009Z">
