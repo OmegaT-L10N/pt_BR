@@ -44673,6 +44673,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To associate a script with a number:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T160159Z" creationid="Francisco Valdez" creationdate="20210516T160159Z">
+        <seg>Para associar um script a um número:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To avoid any problems, one person only should have these rights at least initially.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172623Z" creationid="karol" creationdate="20160308T172623Z">
