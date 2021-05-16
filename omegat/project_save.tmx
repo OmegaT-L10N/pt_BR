@@ -44126,6 +44126,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T160511Z" creationid="Francisco Valdez" creationdate="20210516T160511Z">
+        <seg>Esta marcação tem a prioridade sobre &lt;g0&gt;Marcar segmentos traduzidos&lt;/g0&gt; e &lt;g1&gt;Marcar segmentos não traduzidos&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This marking has priority over Mark Translated Segments and Mark Untranslated Segments.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T212615Z" creationid="karol" creationdate="20160308T212615Z">
