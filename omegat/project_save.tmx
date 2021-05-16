@@ -42765,6 +42765,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T161713Z" creationid="Francisco Valdez" creationdate="20210516T161713Z">
+        <seg>A parte superior é o idioma de origem, em negrito, em negrito e com uma cor de fundo verde, a parte inferior é o campo de edição, terminado por um marcador: o marcador é &lt;l0&gt;&lt;segmento nnnn&gt;&lt;/l0&gt; onde nnnn é um número do segmento no projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The user group also serves as the main point of contact between users and the project team.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170913T004634Z" creationid="mroch" creationdate="20170912T224146Z">
