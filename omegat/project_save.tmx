@@ -44238,6 +44238,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T145437Z" creationid="Francisco Valdez" creationdate="20210516T145437Z">
+        <seg>Isto irá compilar uma distribuição completa do OmegaT na pasta &lt;f0&gt;./build/distributions&lt;/f0&gt;, onde você encontrará um arquivo zip contendo todo o necessário para rodar o &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T001936Z" creationid="sheilagomes" creationdate="20210513T001936Z">
