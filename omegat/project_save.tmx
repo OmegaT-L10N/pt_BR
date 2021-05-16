@@ -4472,6 +4472,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T152632Z" creationid="Francisco Valdez" creationdate="20210516T152632Z">
+        <seg>&lt;g0&gt;Problemas de Terminologia&lt;/g0&gt; (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20181123T130430Z" creationid="Sheila" creationdate="20181123T130430Z">
