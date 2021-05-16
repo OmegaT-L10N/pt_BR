@@ -3502,6 +3502,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T193848Z" creationid="Isa" creationdate="20210516T193848Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; inicia o &lt;a3&gt;OmegaT&lt;/a3&gt; em modo console para executar um dos seguintes serviços automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Isa" changedate="20210516T190403Z" creationid="Isa" creationdate="20210516T190403Z">
@@ -5220,6 +5228,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T102252Z" creationid="Sheila" creationdate="20170904T102252Z">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; diz ao &lt;a1&gt;OmegaT&lt;/a1&gt; qual arquivo de configuração usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T193705Z" creationid="Isa" creationdate="20210516T193705Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; indica ao &lt;a2&gt;OmegaT&lt;/a2&gt;qual configuração de arquivo usar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28673,8 +28689,8 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       <tuv lang="en">
         <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T191805Z" creationid="Isa" creationdate="20210516T191805Z">
-        <seg>Observe que todos os parâmetros iniciam com um caractere &lt;l0&gt;-&lt;/l0&gt; duplo.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T193623Z" creationid="Isa" creationdate="20210516T191805Z">
+        <seg>Observe que todos os parâmetros iniciam com um duplo caractere &lt;l0&gt;-&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
