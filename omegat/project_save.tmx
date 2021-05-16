@@ -20733,6 +20733,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T200116Z" creationid="Isa" creationdate="20210516T200116Z">
+        <seg>Se &lt;l0&gt;cancelar &lt;/l0&gt;for selecionado, o validador de tags irá parar no primeiro segmento inválido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T230242Z" creationid="Francisco Valdez" creationdate="20210515T230227Z">
