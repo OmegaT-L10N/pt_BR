@@ -23119,8 +23119,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T223144Z" creationid="Francisco Valdez" creationdate="20210515T222842Z">
-        <seg>Neste modo, o OmegaT vai alinhar os arquivos encontrados na pasta &lt;f0&gt;/de origem/&lt;/f0&gt; do projeto com os conteúdos encontrados na localização específica.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T144754Z" creationid="Francisco Valdez" creationdate="20210515T222842Z">
+        <seg>Neste modo, o OmegaT vai alinhar os arquivos encontrados na pasta &lt;f0&gt;/source/&lt;/f0&gt; do projeto com os conteúdos encontrados na localização específica.</seg>
       </tuv>
     </tu>
     <tu>
