@@ -36810,6 +36810,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T161330Z" creationid="Francisco Valdez" creationdate="20210516T161330Z">
+        <seg>Caso você esqueça suas alterações à interface de usuário, é possível clicar em &lt;g0&gt; Opções → Restaurar a janela principal&lt;/g0&gt; a qualquer momento para retornar ao layout original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004000Z" creationid="karol" creationdate="20160309T004000Z">
