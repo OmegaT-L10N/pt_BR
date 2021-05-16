@@ -56065,6 +56065,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T153230Z" creationid="Francisco Valdez" creationdate="20210516T153230Z">
+        <seg>selecionar ou mover o mouse sobre uma fileira mostra o ícone do menu opo-up na última coluna contendo ações para corrigir ou ignorar o erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T170335Z" creationid="sheilagomes" creationdate="20210504T170335Z">
