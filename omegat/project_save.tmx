@@ -11298,6 +11298,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T200421Z" creationid="Isa" creationdate="20210516T200421Z">
+        <seg>No Windows, por padrão, o arquivo &lt;f1&gt;omegat.project&lt;/f1&gt; está bloqueado e aparece uma mensagem de erro ao tentar abrir um projeto já aberto em outra instância do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, under Windows, &lt;l1&gt;omegat.project&lt;/l1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182429Z" creationid="karol" creationdate="20160308T182429Z">
