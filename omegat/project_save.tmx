@@ -7382,6 +7382,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T184038Z" creationid="Isa" creationdate="20210516T184038Z">
+        <seg>&lt;p3&gt;XX&lt;/p3&gt; no comando representa o código de dois dígitos do idioma desejado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201557Z" creationid="karol" creationdate="20160308T201557Z">
@@ -45151,6 +45159,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182316Z" creationid="karol" creationdate="20160308T182316Z">
         <seg>Para iniciar o &lt;a2&gt;OmegaT&lt;/a2&gt; com a interface em francês (por exemplo, em um sistema operacional em russo), o comando seria assim:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To launch &lt;a4&gt;OmegaT&lt;/a4&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T184213Z" creationid="Isa" creationdate="20210516T184213Z">
+        <seg>Para iniciar o &lt;a4&gt;OmegaT&lt;/a4&gt; com a interface em francês em um sistema operacional em russo, por exemplo, o comando seria assim:</seg>
       </tuv>
     </tu>
     <tu>
