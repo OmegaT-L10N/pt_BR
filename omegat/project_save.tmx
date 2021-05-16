@@ -9067,6 +9067,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T195818Z" creationid="Isa" creationdate="20210516T195545Z">
+        <seg>Todos os arquivos HTML serão traduzidos - observe que o ponto em &lt;l0&gt;*.html&lt;/l0&gt; deve ser de escape (&lt;l1&gt;\.&lt;/l1&gt;), como especificado pelas regras de expressões regulares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All collections (public and private) will be queried for the source and target language.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003304Z" creationid="karol" creationdate="20160309T003304Z">
