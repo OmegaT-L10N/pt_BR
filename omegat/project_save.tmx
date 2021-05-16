@@ -13476,6 +13476,14 @@ unpacking, reading or copying.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Create MED Projects...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T151408Z" creationid="Francisco Valdez" creationdate="20210516T151408Z">
+        <seg>Criar projeto MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Create New Project</seg>
