@@ -9910,6 +9910,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210516T022139Z" creationid="edumartins" creationdate="20210516T022139Z">
+        <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Arguments are added after the initial &lt;e0&gt;"java"&lt;/e0&gt;, and before the &lt;e1&gt;"-jar &lt;a2&gt;OmegaT&lt;/a2&gt;.jar"&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182254Z" creationid="karol" creationdate="20160308T182254Z">
@@ -22762,6 +22770,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210516T024028Z" creationid="edumartins" creationdate="20210516T024028Z">
+        <seg>Em outras plataformas, você pode modificar o arquivo &lt;f3&gt;Configuration.properties&lt;/f3&gt; no Mac, ou o inicializador &lt;f4&gt;OmegaT&lt;/f4&gt; no Linux, para fazer o mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In other platforms, you can modify &lt;f4&gt;Configuration.properties&lt;/f4&gt; file on the Mac, or &lt;f5&gt;OmegaT&lt;/f5&gt; launcher under Linux to do the same.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T132910Z" creationid="Sheila" creationdate="20170903T230729Z">
@@ -28491,6 +28507,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182237Z" creationid="karol" creationdate="20160308T182237Z">
         <seg>Lembre-se de que se você precisar ou quiser usar algum dos parâmetros de inicialização (ver acima), deverá usar a instalação normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210516T022239Z" creationid="edumartins" creationdate="20210516T022239Z">
+        <seg>Note que no Windows você pode modificar o arquivo &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; para que atenda suas preferências.</seg>
       </tuv>
     </tu>
     <tu>
