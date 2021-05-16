@@ -3897,8 +3897,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T211544Z" creationid="Isa" creationdate="20210515T184958Z">
-        <seg>&lt;e0&gt;Não:&lt;/e0&gt; instale o Java JRE no seu sistema (ver abaixo) e baixe o arquivo &lt;f1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T182542Z" creationid="Isa" creationdate="20210515T184958Z">
+        <seg>&lt;e0&gt;Não:&lt;/e0&gt; instale o Java JRE no seu sistema (ver abaixo) e baixe o arquivo &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38230,8 +38230,8 @@ makes it unnecessary.</seg>
       <tuv lang="en">
         <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T204810Z" creationid="Isa" creationdate="20210515T204810Z">
-        <seg>Próximos cliques em &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; verficarão se há alguma versão mais nova e, se houver, ela será instalada para, então, o &lt;a2&gt;OmegaT&lt;/a2&gt; ser inicializado.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T182748Z" creationid="Isa" creationdate="20210515T204810Z">
+        <seg>Próximos cliques em &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; verificarão se há alguma versão mais nova e, se houver, ela será instalada para, então, o &lt;a2&gt;OmegaT&lt;/a2&gt; ser inicializado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43684,8 +43684,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T185939Z" creationid="Isa" creationdate="20210515T185513Z">
-        <seg>Uma pasta &lt;f2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/f2&gt; será criada na pasta de trabalho com todos os arquivos necessários para executar o&lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T182644Z" creationid="Isa" creationdate="20210515T185513Z">
+        <seg>Uma pasta &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; será criada na pasta de trabalho com todos os arquivos necessários para executar o&lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45109,8 +45109,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; file.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T190741Z" creationid="Isa" creationdate="20210515T185308Z">
-        <seg>Para instalar o &lt;a0&gt;OmegaT&lt;/a0&gt;, basta descompactar o arquivo &lt;f1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T182556Z" creationid="Isa" creationdate="20210515T185308Z">
+        <seg>Para instalar o &lt;a0&gt;OmegaT&lt;/a0&gt;, basta descompactar o arquivo &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
