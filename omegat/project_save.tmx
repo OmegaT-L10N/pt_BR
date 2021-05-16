@@ -35939,8 +35939,8 @@ In this segment {0,number,#} should remain unchanged</note>
       <tuv lang="en">
         <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T150333Z" creationid="Francisco Valdez" creationdate="20210516T150333Z">
-        <seg>Selecionar &lt;g0&gt;Domínio de Consutla de Terminologia TaaS&lt;/g0&gt; para ativar esta consulta.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T150355Z" creationid="Francisco Valdez" creationdate="20210516T150333Z">
+        <seg>Selecionar &lt;g0&gt;Consulta de Terminologia TaaS&lt;/g0&gt; para ativar esta consulta.</seg>
       </tuv>
     </tu>
     <tu>
