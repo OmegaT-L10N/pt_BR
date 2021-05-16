@@ -23143,8 +23143,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T222655Z" creationid="Francisco Valdez" creationdate="20210515T222655Z">
-        <seg>Neste modo, o OmegaT vai tentar traduzir os arquivos em &lt;f0&gt;/de origem/&lt;/f0&gt; com as memórias de tradução disponíveis.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T144733Z" creationid="Francisco Valdez" creationdate="20210515T222655Z">
+        <seg>Neste modo, o OmegaT vai tentar traduzir os arquivos em &lt;f0&gt;/source/&lt;/f0&gt; com as memórias de tradução disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
