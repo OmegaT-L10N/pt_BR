@@ -54822,6 +54822,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>n - (script name)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T155451Z" creationid="Francisco Valdez" creationdate="20210516T155451Z">
+        <seg>n - (nome do script)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>na</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001010Z" creationid="Evandro" creationdate="20160310T001010Z">
