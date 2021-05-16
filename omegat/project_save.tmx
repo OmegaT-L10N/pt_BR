@@ -18870,6 +18870,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Four types of issues are detected:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T151745Z" creationid="Francisco Valdez" creationdate="20210516T151745Z">
+        <seg>Quatro tipos de problemas são detectados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fragment(s) that should be removed from the translation regular expression</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181901Z" creationid="karol" creationdate="20160308T181901Z">
