@@ -45437,6 +45437,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T161935Z" creationid="Francisco Valdez" creationdate="20210516T161935Z">
+        <seg>Para usar na sua tradução a correspondência selecionada, pressione &lt;g4&gt;Ctrl+R&lt;/g4&gt; para substituir o campo destino com a correspondência, ou  pressione &lt;g5&gt;Ctrl+I &lt;/g5&gt; para inseri-la na posição onde está o cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use the selected match in your translation, use &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; to replace the target field with the match or use &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; to insert it at the cursor position.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004054Z" creationid="karol" creationdate="20160309T004054Z">
