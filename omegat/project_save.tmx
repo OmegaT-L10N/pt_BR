@@ -36658,6 +36658,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T161136Z" creationid="Francisco Valdez" creationdate="20210516T161136Z">
+        <seg>Definir como &lt;g1&gt;Todos os segmentos&lt;/g1&gt; exibirá esta informação para todos os segmentos e &lt;g2&gt;Nenhum&lt;/g2&gt; desativa esta opção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Setting the Display Modification option to &lt;e0&gt;Current segment&lt;/e0&gt; will display the time and the author of the last change in the current segment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170627T230655Z" creationid="karol" creationdate="20160308T212626Z">
@@ -36668,8 +36676,8 @@ In this segment {0,number,#} should remain unchanged</note>
       <tuv lang="en">
         <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T160951Z" creationid="Francisco Valdez" creationdate="20210516T160951Z">
-        <seg>Definir a opção Exibir alteração para &lt;g0&gt;Segmentoa tual&lt;/g0&gt; exibirá a hora e o autor da última mudança no segmento atual.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T161003Z" creationid="Francisco Valdez" creationdate="20210516T160951Z">
+        <seg>Definir a opção Exibir alteração para &lt;g0&gt;Segmento atual&lt;/g0&gt; exibirá a hora e o autor da última mudança no segmento atual.</seg>
       </tuv>
     </tu>
     <tu>
