@@ -18726,6 +18726,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210516T022003Z" creationid="edumartins" creationdate="20210516T022003Z">
+        <seg>Por essa razão, os dois comandos descritos acima estão inseridos em um arquivo (um "script", também chamado de "arquivo &lt;f0&gt;.bat&lt;/f0&gt;" em sistemas Windows).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002416Z" creationid="karol" creationdate="20160309T002416Z">
@@ -51320,6 +51328,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210516T021307Z" creationid="edumartins" creationdate="20210516T021307Z">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Isa" changedate="20210515T211912Z" creationid="Isa" creationdate="20210515T211912Z">
@@ -51332,6 +51348,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T230921Z" creationid="Sheila" creationdate="20170903T230921Z">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd C:\Program Files\OmegaT</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210516T021259Z" creationid="edumartins" creationdate="20210516T021259Z">
+        <seg>cd C:\Program Files\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -53640,6 +53664,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T231013Z" creationid="Sheila" creationdate="20170903T231013Z">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210516T021311Z" creationid="edumartins" creationdate="20210516T021311Z">
+        <seg>java -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
