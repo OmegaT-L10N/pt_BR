@@ -8907,6 +8907,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Align Files...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T154031Z" creationid="Francisco Valdez" creationdate="20210516T154031Z">
+        <seg>Alinhar Arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T112712Z" creationid="Evandro" creationdate="20160312T112712Z">
