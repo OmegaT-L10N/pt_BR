@@ -4456,6 +4456,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T152700Z" creationid="Francisco Valdez" creationdate="20210516T152700Z">
+        <seg>&lt;g0&gt;Problemas do LanguageTool&lt;/g0&gt; (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T102032Z" creationid="CALDAS" creationdate="20191204T102032Z">
