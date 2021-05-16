@@ -30840,6 +30840,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T151121Z" creationid="Francisco Valdez" creationdate="20210516T151121Z">
+        <seg>Abre as opções &lt;l0&gt;Filtros de Arquivo&lt;/l0&gt; na caixa de diálogo Preferências.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T234821Z" creationid="Francisco Valdez" creationdate="20210515T234821Z">
