@@ -48990,6 +48990,14 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Which files are used for alignment depends on if the file filter supports it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T194909Z" creationid="Isa" creationdate="20210516T194909Z">
+        <seg>Os arquivos usados para o alinhamento dependerão da compatibilidade com os filtros de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Which version do you want to keep?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170912T102634Z" creationid="Sheila" creationdate="20170912T102634Z">
