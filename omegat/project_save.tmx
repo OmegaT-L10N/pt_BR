@@ -26716,6 +26716,14 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Mark Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T160247Z" creationid="Francisco Valdez" creationdate="20210516T160247Z">
+        <seg>Marcar delimitações de parágrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Mark Segments &amp;with Notes</seg>
