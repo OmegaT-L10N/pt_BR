@@ -43889,6 +43889,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T023706Z" creationid="edumartins" creationdate="20210517T023706Z">
+        <seg>Isto também se aplica aos campos &lt;g0&gt;Termo de destino&lt;/g0&gt; e &lt;g1&gt;Comentários &lt;/g1&gt;se novas seleções forem feitas e &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressionados novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be achieved in two ways:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182344Z" creationid="karol" creationdate="20160308T182344Z">
