@@ -28410,6 +28410,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T023153Z" creationid="edumartins" creationdate="20210517T023153Z">
+        <seg>Se nenhum serviço de Tradução Automática tiver sido ativado, nenhuma ação é feita (em &lt;m0&gt; &lt;g1&gt;Opções&lt;/g1&gt; &lt;g2&gt;Tradução automática&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No action is taken, if no Machine Translation service has been activated (see Menu &gt; Options below).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201949Z" creationid="karol" creationdate="20160308T201949Z">
