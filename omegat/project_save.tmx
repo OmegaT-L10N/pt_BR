@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2083,6 +2083,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T190024Z" creationid="Evandro" creationdate="20160311T190024Z">
         <seg>(tag vazia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(external search commands)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150852Z" creationid="sheilagomes" creationdate="20210517T150852Z">
+        <seg>(external search commands)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10061,6 +10069,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T151001Z" creationid="sheilagomes" creationdate="20210517T151001Z">
+        <seg>Appendices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181301Z" creationid="karol" creationdate="20160308T181301Z">
@@ -10200,6 +10216,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150847Z" creationid="sheilagomes" creationdate="20210517T150847Z">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As above.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011022Z" creationid="sheilagomes" creationdate="20210511T011022Z">
@@ -10324,6 +10348,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182114Z" creationid="karol" creationdate="20160308T182114Z">
         <seg>No início da instalação é possível selecionar o idioma que será usado durante a instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150851Z" creationid="sheilagomes" creationdate="20210517T150851Z">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20837,6 +20869,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150820Z" creationid="sheilagomes" creationdate="20210517T150820Z">
+        <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T213231Z" creationid="Sheila" creationdate="20170904T213231Z">
@@ -21077,6 +21117,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150907Z" creationid="sheilagomes" creationdate="20210517T150907Z">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113458Z" creationid="Evandro" creationdate="20160312T113458Z">
@@ -21089,6 +21137,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113454Z" creationid="Evandro" creationdate="20160312T113454Z">
         <seg>Se marcado, os termos mais longos são colocados no início da lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150906Z" creationid="sheilagomes" creationdate="20210517T150906Z">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21113,6 +21169,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T212616Z" creationid="karol" creationdate="20160308T212616Z">
         <seg>Se selecionada, os espaços em branco serão exibidos com um ponto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150854Z" creationid="sheilagomes" creationdate="20210517T150854Z">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25784,6 +25848,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T175417Z" creationid="CarolVignolis" creationdate="20181014T175417Z">
         <seg>Inicializar o programa de instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launches scripts that have been associated with a number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150849Z" creationid="sheilagomes" creationdate="20210517T150849Z">
+        <seg>Launches scripts that have been associated with a number.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31095,6 +31167,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the Scripting window</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150850Z" creationid="sheilagomes" creationdate="20210517T150850Z">
+        <seg>Open the Scripting window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002101Z" creationid="karol" creationdate="20160309T002101Z">
@@ -31280,6 +31360,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150848Z" creationid="sheilagomes" creationdate="20210517T150848Z">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T150721Z" creationid="Francisco Valdez" creationdate="20210516T150721Z">
@@ -31324,6 +31412,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214406Z" creationid="karol" creationdate="20160308T214406Z">
         <seg>Abre a janela Verificação de tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150824Z" creationid="sheilagomes" creationdate="20210517T150824Z">
+        <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33544,6 +33640,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T115254Z" creationid="CALDAS" creationdate="20170912T115254Z">
         <seg>Qabiria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150843Z" creationid="sheilagomes" creationdate="20210517T150843Z">
+        <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35941,6 +36045,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150835Z" creationid="sheilagomes" creationdate="20210517T150835Z">
+        <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181230Z" creationid="karol" creationdate="20160308T181230Z">
@@ -36740,6 +36852,14 @@ In this segment {0,number,#} should remain unchanged</note>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002130Z" creationid="karol" creationdate="20160309T002130Z">
         <seg>Selecione o método usando as opções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the script you want from the list on the left</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150850Z" creationid="sheilagomes" creationdate="20210517T150850Z">
+        <seg>Select the script you want from the list on the left</seg>
       </tuv>
     </tu>
     <tu>
@@ -40655,6 +40775,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150908Z" creationid="sheilagomes" creationdate="20210517T150908Z">
+        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20190420T123132Z" creationid="CALDAS" creationdate="20190420T123132Z">
@@ -42437,6 +42565,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T163204Z" creationid="karol" creationdate="20160308T182038Z">
         <seg>Os resultados do glossário prioritário (por padrão, glossary/glossary.txt) aparecem nas primeiras posições no painel Glossário e nas dicas de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The results window is laid out in the form of a table in which:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150845Z" creationid="sheilagomes" creationdate="20210517T150845Z">
+        <seg>The results window is laid out in the form of a table in which:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52216,6 +52352,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>clicking a column header changes the sort order for the column,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150846Z" creationid="sheilagomes" creationdate="20210517T150846Z">
+        <seg>clicking a column header changes the sort order for the column,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215133Z" creationid="karol" creationdate="20160308T215133Z">
@@ -52540,6 +52684,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002020Z" creationid="karol" creationdate="20160309T002020Z">
         <seg>palavras duplicadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150846Z" creationid="sheilagomes" creationdate="20210517T150846Z">
+        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
       </tuv>
     </tu>
     <tu>
@@ -53846,6 +53998,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T234455Z" creationid="sheilagomes" creationdate="20210503T234455Z">
         <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T151120Z" creationid="sheilagomes" creationdate="20210517T151120Z">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
       </tuv>
     </tu>
     <tu>
@@ -57262,6 +57422,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172650Z" creationid="karol" creationdate="20160308T172650Z">
         <seg>o arquivo de projeto do omegat - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with stemming</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T151002Z" creationid="sheilagomes" creationdate="20210517T151002Z">
+        <seg>the percentage calculated with stemming</seg>
       </tuv>
     </tu>
     <tu>
