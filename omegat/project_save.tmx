@@ -36761,6 +36761,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T024020Z" creationid="edumartins" creationdate="20210517T024020Z">
+        <seg>Seleciona a anterior, a próxima ou a correspondência parcial exibida na janela de correspondências parciais para substituir ou inserir no segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sentence level segmentation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002406Z" creationid="karol" creationdate="20160309T002406Z">
