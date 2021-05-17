@@ -31464,6 +31464,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files&lt;/l0&gt; window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T182547Z" creationid="edumartins" creationdate="20210517T182547Z">
+        <seg>Abre a janela dos &lt;l0&gt;Arquivos de projeto&lt;/l0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210517T141405Z" creationid="Francisco Valdez" creationdate="20210516T150847Z">
@@ -51908,6 +51916,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T235021Z" creationid="sheilagomes" creationdate="20210503T235021Z">
         <seg>e o filtro Java™ Resource Bundle já lida com tags {#}, então você só precisa disso para outros tipos de arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and ignoring tags and numbers (generally the highest)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T182607Z" creationid="edumartins" creationdate="20210517T182607Z">
+        <seg>and ignoring tags and numbers (generally the highest)</seg>
       </tuv>
     </tu>
     <tu>
