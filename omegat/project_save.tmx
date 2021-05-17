@@ -23034,8 +23034,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T183937Z" creationid="Isa" creationdate="20210517T183937Z">
-        <seg>Em um projeto de equipe, essa pasta contém uma versão copiada da estrutura da árvore do projeto ligada diretamente ao servidor remoto.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T190017Z" creationid="Isa" creationdate="20210517T183937Z">
+        <seg>Em um projeto de equipe, essa pasta contém uma cópia versionada da estrutura da árvore do projeto ligada diretamente ao servidor remoto.</seg>
       </tuv>
     </tu>
     <tu>
