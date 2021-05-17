@@ -34453,6 +34453,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace with Source</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T023232Z" creationid="edumartins" creationdate="20210517T023232Z">
+        <seg>Substituir por texto fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace with match</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214258Z" creationid="karol" creationdate="20160308T214258Z">
