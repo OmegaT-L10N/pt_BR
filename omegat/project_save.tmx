@@ -13999,6 +13999,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creates the target documents based on your translation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T182127Z" creationid="edumartins" creationdate="20210517T182127Z">
+        <seg>Cria os documentos de destino com base na sua tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creates the translated documents in the project's Target folder and creates translation memory files (level1, level2 and omegat tmx files) in the project's root folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214249Z" creationid="karol" creationdate="20160308T214249Z">
@@ -31416,6 +31424,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens a project package in the MED format defined by the EU Directorate-General for Translation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T182514Z" creationid="edumartins" creationdate="20210517T182514Z">
+        <seg>Abre o pacote do projeto no formato MED definido pela Direção-Geral da Tradução da Comissão Europeia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150848Z" creationid="sheilagomes" creationdate="20210517T150848Z">
@@ -47561,8 +47577,16 @@ na linha {1}, coluna {2}.</seg>
       <tuv lang="en">
         <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; directory.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T180929Z" creationid="edumartins" creationdate="20210517T180929Z">
-        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; directory.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T182030Z" creationid="edumartins" creationdate="20210517T180929Z">
+        <seg>Faz o upload para o repositório dos arquivos adicionados ou modificados localmente no diretório &lt;f0&gt;de origem&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T181901Z" creationid="edumartins" creationdate="20210517T181113Z">
+        <seg>Faz o upload para o repositório dos arquivos criados localmente no diretório &lt;f0&gt;de destino&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
