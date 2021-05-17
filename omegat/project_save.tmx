@@ -2684,6 +2684,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.repositories</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T182827Z" creationid="Isa" creationdate="20210517T182827Z">
+        <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T210853Z" creationid="Sheila" creationdate="20170903T210853Z">
@@ -13236,6 +13244,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contains project parameters as defined in the &lt;l0&gt;Project properties&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T182824Z" creationid="Isa" creationdate="20210517T182824Z">
+        <seg>Contém os parâmetros conforme foram definidos na caixa de diálogo &lt;l0&gt;Propriedades do projeto&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181305Z" creationid="karol" creationdate="20160308T181305Z">
@@ -23004,6 +23020,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T001608Z" creationid="karol" creationdate="20160309T001608Z">
         <seg>De uma maneira similar à acima, o usuário pode criar filtros de arquivo específicos por projeto, que serão salvos junto com o projeto e serão válidos apenas para o projeto atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T183937Z" creationid="Isa" creationdate="20210517T183937Z">
+        <seg>Em um projeto de equipe, essa pasta contém uma versão copiada da estrutura da árvore do projeto ligada diretamente ao servidor remoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56106,6 +56130,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T210512Z" creationid="Sheila" creationdate="20170903T210512Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.project (file)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T182045Z" creationid="Isa" creationdate="20210517T182033Z">
+        <seg>omegat.project (arquivo)</seg>
       </tuv>
     </tu>
     <tu>
