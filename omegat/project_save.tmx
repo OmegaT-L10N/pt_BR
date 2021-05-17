@@ -31434,8 +31434,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Opens the local directory where OmegaT configuration files are stored (depends on the Operating system).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T160752Z" creationid="sheilagomes" creationdate="20210517T150824Z">
-        <seg>Abre o  diretório local onde os arquivos de configuração do OmegaT estão armazenados (a depender do sistema operacional).</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T161217Z" creationid="sheilagomes" creationdate="20210517T150824Z">
+        <seg>Abre o diretório local onde os arquivos de configuração do OmegaT estão armazenados (a depender do sistema operacional).</seg>
       </tuv>
     </tu>
     <tu>
