@@ -12236,8 +12236,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T025213Z" creationid="edumartins" creationdate="20210517T025213Z">
-        <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T152905Z" creationid="edumartins" creationdate="20210517T025213Z">
+        <seg>Selecione a opção &lt;g0&gt;Usar Correspondências parciais para termos do dicionário&lt;/g0&gt; se quiser que os dicionários exibam palavras que tenham a mesma raiz.</seg>
       </tuv>
     </tu>
     <tu>
