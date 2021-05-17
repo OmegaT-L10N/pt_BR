@@ -36111,8 +36111,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="en">
         <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T022114Z" creationid="edumartins" creationdate="20210517T022114Z">
-        <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T152643Z" creationid="edumartins" creationdate="20210517T022114Z">
+        <seg>Consulte &lt;m1&gt;&lt;g2&gt;Opções&lt;/g2&gt;&lt;g3&gt;Preferências...&lt;/g3&gt;&lt;g4&gt;Filtros de arquivos&lt;/g4&gt;&lt;/m1&gt; para uma lista dos formatos de arquivos com os quais o OmegaT trabalha.</seg>
       </tuv>
     </tu>
     <tu>
