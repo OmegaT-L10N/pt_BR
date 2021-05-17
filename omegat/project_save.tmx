@@ -54402,6 +54402,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if existing, it contains project-specific GUI settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T182025Z" creationid="Isa" creationdate="20210517T182025Z">
+        <seg>se existente, contém as configurações de interface gráfica do usuário específicas do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if existing, it contains project-specific file filters, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181240Z" creationid="karol" creationdate="20160308T181240Z">
@@ -54410,10 +54418,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if existing, it contains project-specific file filters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T181749Z" creationid="Isa" creationdate="20210517T181749Z">
+        <seg>se existente, contém os filtros de arquivos específicos do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if existing, it contains project-specific segmentation rules, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181239Z" creationid="karol" creationdate="20160308T181239Z">
         <seg>se existente, contém regras de segmentação específicas do projeto, se isto tiver sido solicitado em &lt;g0&gt;Projeto &gt; Propriedades... &lt;/g0&gt;Veja o &lt;l1&gt;capítulo Propriedades&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if existing, it contains project-specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T181652Z" creationid="Isa" creationdate="20210517T181652Z">
+        <seg>se existente, contém as regras de segmentação específicas do projeto.</seg>
       </tuv>
     </tu>
     <tu>
