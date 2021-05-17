@@ -84,3 +84,4 @@ versioning system	sistemas de versionamento
 Commit	Submeter	SNV related | https://tortoisesvn.net/docs/release/TortoiseSVN_pt_BR/index.html
 Services	Serviços	Quando se referir ao app do macOS
 arguments	parâmetros
+translation engines	ferramentas de tradução automática
