@@ -11954,6 +11954,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T153048Z" creationid="Isa" creationdate="20210517T153048Z">
+        <seg>Selecione &lt;g0&gt;Autocompletar histórico&lt;/g0&gt; para mostrar palavras sugeridas assim que as primeiras letras forem inseridas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T162804Z" creationid="Sheila" creationdate="20170905T162804Z">
@@ -20871,8 +20879,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="en">
         <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150820Z" creationid="sheilagomes" creationdate="20210517T150820Z">
-        <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T152808Z" creationid="sheilagomes" creationdate="20210517T150820Z">
+        <seg>Se a opção &lt;g0&gt;Mostrar sugestões relevantes automaticamente&lt;/g0&gt;  estiver selecionada, o recurso Autocompletar é iniciado automaticamente ao digitar as primeiras letras de um termo do glossário traduzido ou ao digitar "&lt;" no caso das tags.</seg>
       </tuv>
     </tu>
     <tu>
