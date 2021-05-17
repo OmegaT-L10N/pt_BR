@@ -42863,8 +42863,8 @@ Dúvida nesse "call-out" do segmento.</note>
       <tuv lang="en">
         <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T155106Z" creationid="Francisco Valdez" creationdate="20210516T155056Z">
-        <seg>Os formatos de arquivo compatíveis estão listados em &lt;m0&gt; &lt;g1&gt;Projeto&lt;/g1&gt; &lt;g2&gt;Propriedades&lt;/g2&gt; &lt;g3&gt;Filtros de Arquivo&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210517T141802Z" creationid="Francisco Valdez" creationdate="20210516T155056Z">
+        <seg>Os formatos de arquivo compatíveis estão listados em &lt;m0&gt; &lt;g1&gt;Projeto&lt;/g1&gt; &lt;g2&gt;Propriedades&lt;/g2&gt; &lt;g3&gt;Filtros de arquivo&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
