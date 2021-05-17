@@ -4602,8 +4602,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T152406Z" creationid="Francisco Valdez" creationdate="20210516T152406Z">
-        <seg>&lt;g0&gt;Problemas de Ortografia&lt;/g0&gt; (opcional).</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210517T141435Z" creationid="Francisco Valdez" creationdate="20210516T152406Z">
+        <seg>&lt;g0&gt;Problemas de ortografia&lt;/g0&gt; (opcional).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39958,8 +39958,8 @@ for making modifications to it.</seg>
       <tuv lang="en">
         <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T152348Z" creationid="Francisco Valdez" creationdate="20210516T152253Z">
-        <seg>A opção &lt;g1&gt;Problema de Tag&lt;/g1&gt; já vem marcada.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210517T141431Z" creationid="Francisco Valdez" creationdate="20210516T152253Z">
+        <seg>A opção &lt;g1&gt;Problema de tag&lt;/g1&gt; já vem marcada.</seg>
       </tuv>
     </tu>
     <tu>
