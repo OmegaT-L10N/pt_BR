@@ -27327,6 +27327,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T145416Z" creationid="Isa" creationdate="20210517T145416Z">
+        <seg>[parcial]Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mere interaction with a user through
 a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
@@ -33030,6 +33038,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T132732Z" creationid="Evandro" creationdate="20160310T121038Z">
         <seg>&amp;Arquivos do projeto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T145452Z" creationid="Isa" creationdate="20210517T145452Z">
+        <seg>[parcial]Arquivos do projeto</seg>
       </tuv>
     </tu>
     <tu>
