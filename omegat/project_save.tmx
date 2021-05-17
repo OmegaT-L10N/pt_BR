@@ -36093,6 +36093,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T181154Z" creationid="Isa" creationdate="20210517T181154Z">
+        <seg>Veja &lt;l0&gt;Dicionários&lt;/l0&gt; para mais informações sobre o assunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T141146Z" creationid="CALDAS" creationdate="20200126T141146Z">
@@ -52684,6 +52692,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001003Z" creationid="Evandro" creationdate="20160310T001003Z">
         <seg>deu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T180927Z" creationid="Isa" creationdate="20210517T180927Z">
+        <seg>dictionary</seg>
       </tuv>
     </tu>
     <tu>
