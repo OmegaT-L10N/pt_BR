@@ -9593,6 +9593,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project is a folder containing files and subfolders.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T172800Z" creationid="Isa" creationdate="20210517T172800Z">
+        <seg>Um projeto do OmegaT é uma pasta contendo arquivos e subpastas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T214144Z" creationid="Sheila" creationdate="20170904T214144Z">
@@ -16666,6 +16674,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T114326Z" creationid="Sheila" creationdate="20170904T114317Z">
         <seg>Painel editor: se você soltar um arquivo de projeto do OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;) neste painel, o projeto correspondente será aberto, fechando qualquer outro projeto que esteja aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T172405Z" creationid="Isa" creationdate="20210517T172405Z">
+        <seg>Editor...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33330,6 +33346,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214404Z" creationid="karol" creationdate="20160308T214404Z">
         <seg>Relação de arquivos do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T172550Z" creationid="Isa" creationdate="20210517T172550Z">
+        <seg>Pasta do projeto</seg>
       </tuv>
     </tu>
     <tu>
