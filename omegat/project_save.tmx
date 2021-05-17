@@ -29103,6 +29103,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T024548Z" creationid="edumartins" creationdate="20210517T024548Z">
+        <seg>Nota: &lt;k0&gt;Enter&lt;/k0&gt; é um atalho alternativo se a opção &lt;l1&gt;Usar TAB para avançar&lt;/l1&gt; não estiver selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170523T233132Z" creationid="Evandro" creationdate="20160312T105729Z">
@@ -44602,6 +44610,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170911T233852Z" creationid="CALDAS" creationdate="20170911T233852Z">
         <seg>Isso significa que o código-fonte do OmegaT está disponível gratuitamente e que a licença do OmegaT proporciona aos seus usuários uma liberdade considerável na sua utilização.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This menu displays entries only when a project is open.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T024354Z" creationid="edumartins" creationdate="20210517T024354Z">
+        <seg>Este menu exibe entradas somente quando um projeto está aberto.</seg>
       </tuv>
     </tu>
     <tu>
