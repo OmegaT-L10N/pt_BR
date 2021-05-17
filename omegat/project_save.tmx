@@ -19166,6 +19166,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T180916Z" creationid="Isa" creationdate="20210517T180916Z">
+        <seg>Para memórias de tradução em pastas com o nome &lt;f0&gt;penalty-xxx&lt;/f0&gt; (sendo xxx entre 0 e 100), as correspondências serão penalizadas de acordo com o nome da pasta: uma correspondência de 100% em quaisquer TMs, na pasta &lt;f1&gt;penalty-30&lt;/f1&gt;, por exemplo, será reduzida para uma correspondência de 70%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170524T223103Z" creationid="karol" creationdate="20160308T170023Z">
@@ -57646,6 +57654,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003329Z" creationid="karol" creationdate="20160309T003329Z">
         <seg>pasta tm/mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/penalty-xxx</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T180134Z" creationid="Isa" creationdate="20210517T180134Z">
+        <seg>tm/penalty-xxx</seg>
       </tuv>
     </tu>
     <tu>
