@@ -23442,6 +23442,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T180129Z" creationid="Isa" creationdate="20210517T180129Z">
+        <seg>No painel do editor, quando uma correspondência é inserida a partir de um arquivo TMX de uma pasta chamada &lt;f0&gt;mt&lt;/f0&gt;, a cor de fundo do segmento ativo passa a ser vermelha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004137Z" creationid="karol" creationdate="20160309T004137Z">
@@ -57594,6 +57602,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tm/auto</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T175239Z" creationid="Isa" creationdate="20210517T175239Z">
+        <seg>tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tm/auto folder</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003326Z" creationid="karol" creationdate="20160309T003326Z">
@@ -57602,10 +57618,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tm/enforce</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T175244Z" creationid="Isa" creationdate="20210517T175244Z">
+        <seg>tm/enforce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tm/enforce folder</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003327Z" creationid="karol" creationdate="20160309T003327Z">
         <seg>pasta tm/enforce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/mt</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T175253Z" creationid="Isa" creationdate="20210517T175253Z">
+        <seg>tm/mt</seg>
       </tuv>
     </tu>
     <tu>
