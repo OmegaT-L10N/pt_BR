@@ -8609,6 +8609,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Activate the "Show hidden files" option to make it visible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T185719Z" creationid="Isa" creationdate="20210517T185719Z">
+        <seg>Ative a opção "Mostrar arquivos escondidos" para tornar visível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Activating this check box will cause OmegaT to check if simple java MessageFormat tags (like {0}) are processed correctly.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181900Z" creationid="karol" creationdate="20160308T181900Z">
