@@ -85,3 +85,4 @@ Commit	Submeter	SNV related | https://tortoisesvn.net/docs/release/TortoiseSVN_p
 Services	Serviços	Quando se referir ao app do macOS
 arguments	parâmetros
 translation engines	ferramentas de tradução automática
+EU Directorate-General for Translation	Direção-Geral da Tradução da Comissão Europeia
