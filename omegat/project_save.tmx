@@ -21417,6 +21417,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T025106Z" creationid="edumartins" creationdate="20210517T025106Z">
+        <seg>Se muitas ferramentas de tradução automática estiverem selecionadas, então &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; é usado também para alternar entre elas e inserir a última selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T210245Z" creationid="Sheila" creationdate="20170904T210245Z">
@@ -29099,6 +29107,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Isa" changedate="20210516T193544Z" creationid="Isa" creationdate="20210516T193544Z">
         <seg>Observe o duplo caracter &lt;l5&gt;-&lt;/l5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T024716Z" creationid="edumartins" creationdate="20210517T024716Z">
+        <seg>Nota: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; é um atalho alternativo se a opção &lt;l3&gt;Usar TAB para avançar&lt;/l3&gt; não estiver selecionada.</seg>
       </tuv>
     </tu>
     <tu>
