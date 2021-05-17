@@ -43765,6 +43765,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These settings apply to OmegaT level, to all projects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T155914Z" creationid="Isa" creationdate="20210517T155914Z">
+        <seg>Estas configurações se aplicam para todos os projetos do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These three are certain:
 Death, taxes, and page not found
 You, victim of one</seg>
