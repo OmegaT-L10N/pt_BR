@@ -53770,6 +53770,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T022448Z" creationid="edumartins" creationdate="20210517T022448Z">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/howtos/iceni_infix.html</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T123403Z" creationid="sheilagomes" creationdate="20210512T123403Z">
@@ -58296,5 +58304,16 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">doc_src/Menus_Edit.xml</prop>
+      <prop type="prev">Edit</prop>
+      <prop type="next">Undo Last Action</prop>
+      <tuv lang="en">
+        <seg>This menu displays entries only when a project is open.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T022743Z" creationid="edumartins" creationdate="20210517T022743Z">
+        <seg>Esse menu mostra entradas somente quando um projeto está aberto.</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
