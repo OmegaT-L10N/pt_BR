@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9109,8 +9109,8 @@ the above requirements apply either way.</seg>
       <tuv lang="en">
         <seg>Aligner</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T144342Z" creationid="Isa" creationdate="20210517T144342Z">
-        <seg>[parcial]Alinhar</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T151347Z" creationid="Isa" creationdate="20210517T144342Z">
+        <seg>Alinhar</seg>
       </tuv>
     </tu>
     <tu>
@@ -27401,8 +27401,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Menus</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T145416Z" creationid="Isa" creationdate="20210517T145416Z">
-        <seg>[parcial]Menu</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T151336Z" creationid="Isa" creationdate="20210517T145416Z">
+        <seg>Menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -33140,8 +33140,8 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="en">
         <seg>Project Files</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T145452Z" creationid="Isa" creationdate="20210517T145452Z">
-        <seg>[parcial]Arquivos do projeto</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T151355Z" creationid="Isa" creationdate="20210517T145452Z">
+        <seg>Arquivos do projeto</seg>
       </tuv>
     </tu>
     <tu>
