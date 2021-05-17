@@ -11956,8 +11956,16 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T153048Z" creationid="Isa" creationdate="20210517T153048Z">
-        <seg>Selecione &lt;g0&gt;Autocompletar histórico&lt;/g0&gt; para mostrar palavras sugeridas assim que as primeiras letras forem inseridas.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T153254Z" creationid="Isa" creationdate="20210517T153048Z">
+        <seg>Selecione &lt;g0&gt;Autocompletar histórico&lt;/g0&gt; para exibir palavras sugeridas assim que as primeiras letras forem inseridas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &lt;g0&gt;History Prediction&lt;/g0&gt; to display suggested words that commonly follow the word that has just been entered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T153348Z" creationid="Isa" creationdate="20210517T153248Z">
+        <seg>Selecione &lt;g0&gt;Autocompletar preditivo&lt;/g0&gt; para exibir sugestões de palavras que normalmente acompanham a palavra que acabou de ser inserida.</seg>
       </tuv>
     </tu>
     <tu>
