@@ -18907,6 +18907,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T175235Z" creationid="Isa" creationdate="20210517T175235Z">
+        <seg>Por exemplo (se o padrão for aceito), a tradução da TM auxiliar é aceita e prefixada com &lt;e3&gt;[fuzzy]&lt;/e3&gt;, de modo que o tradutor possa rever as traduções numa fase posterior e verificar se os segmentos marcados desta forma foram traduzidos corretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002126Z" creationid="karol" creationdate="20160309T002126Z">
@@ -57154,6 +57162,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T172838Z" creationid="Isa" creationdate="20210517T172838Z">
+        <seg>source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>source = currSegment.getSrcText();</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170625T190732Z" creationid="Sheila" creationdate="20170625T190732Z">
@@ -57326,6 +57342,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001015Z" creationid="Evandro" creationdate="20160310T001015Z">
         <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T172855Z" creationid="Isa" creationdate="20210517T172855Z">
+        <seg>target</seg>
       </tuv>
     </tu>
     <tu>
@@ -57558,6 +57582,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001016Z" creationid="Evandro" creationdate="20160310T001016Z">
         <seg>tl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T172859Z" creationid="Isa" creationdate="20210517T172859Z">
+        <seg>tm</seg>
       </tuv>
     </tu>
     <tu>
