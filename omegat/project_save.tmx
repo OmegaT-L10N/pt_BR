@@ -47543,6 +47543,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T180929Z" creationid="edumartins" creationdate="20210517T180929Z">
+        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; directory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Urdu</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001017Z" creationid="Evandro" creationdate="20160310T001017Z">
