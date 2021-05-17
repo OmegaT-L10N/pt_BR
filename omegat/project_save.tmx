@@ -23354,6 +23354,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In some operating systems, this folder is not displayed by default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T185608Z" creationid="Isa" creationdate="20210517T185608Z">
+        <seg>Em alguns sistemas operacionais, essa pasta não é exibida, por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T001341Z" creationid="karol" creationdate="20160309T001341Z">
