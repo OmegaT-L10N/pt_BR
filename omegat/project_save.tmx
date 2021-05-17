@@ -9099,6 +9099,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T144342Z" creationid="Isa" creationdate="20210517T144342Z">
+        <seg>[parcial]Alinhar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170918T103138Z" creationid="Sheila" creationdate="20170918T101804Z">
