@@ -19780,6 +19780,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go To</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T024226Z" creationid="edumartins" creationdate="20210517T024226Z">
+        <seg>Acessar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170815T190912Z" creationid="karol" creationdate="20160308T172852Z">
