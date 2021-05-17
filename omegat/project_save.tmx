@@ -2296,6 +2296,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021638Z" creationid="edumartins" creationdate="20210517T021638Z">
+        <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--alignDir={location of translated files}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182403Z" creationid="karol" creationdate="20160308T182403Z">
@@ -2312,10 +2320,26 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021623Z" creationid="edumartins" creationdate="20210517T021623Z">
+        <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=/path/to/config-file/ \</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T231014Z" creationid="Sheila" creationdate="20170903T231014Z">
         <seg>--config-file=/path/to/config-file/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021623Z" creationid="edumartins" creationdate="20210517T021623Z">
+        <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2370,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T150819Z" creationid="Sheila" creationdate="20170905T143513Z">
         <seg>--disable-project-locking
 		Impede o bloqueio do arquivo omegat.project do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021626Z" creationid="edumartins" creationdate="20210517T021626Z">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -2418,6 +2450,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021631Z" creationid="edumartins" creationdate="20210517T021631Z">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--pseudotranslatetmx=allsegments.tmx --pseudotranslatetype=[equal|empty]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T102302Z" creationid="Sheila" creationdate="20170904T102302Z">
@@ -2472,6 +2512,22 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021643Z" creationid="edumartins" creationdate="20210517T021643Z">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021627Z" creationid="edumartins" creationdate="20210517T021627Z">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--source-pattern={regexp}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T231015Z" creationid="Sheila" creationdate="20170903T231015Z">
@@ -2514,6 +2570,22 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021512Z" creationid="edumartins" creationdate="20210517T021512Z">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021541Z" creationid="edumartins" creationdate="20210517T021541Z">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Dmymemory.api.email=your@email-address.com</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T132640Z" creationid="Sheila" creationdate="20170905T121230Z">
@@ -2526,6 +2598,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T224815Z" creationid="Sheila" creationdate="20170903T224815Z">
         <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021611Z" creationid="edumartins" creationdate="20210517T021611Z">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5268,6 +5348,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215101Z" creationid="karol" creationdate="20160308T215101Z">
         <seg>&lt;l0&gt;--source-pattern={regexp} &lt;/l0&gt;Os arquivos a serem traduzidos podem ser especificados dessa forma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021647Z" creationid="edumartins" creationdate="20210517T021647Z">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42613,6 +42701,14 @@ Dúvida nesse "call-out" do segmento.</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The sources of the current version can be retrieved with a Git client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021914Z" creationid="edumartins" creationdate="20210517T021914Z">
+        <seg>As fontes da versão atual podem ser coletadas com um cliente Git do repositório&lt;u0/&gt; ou diretamente no &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111149Z" creationid="Evandro" creationdate="20160312T111149Z">
@@ -47155,6 +47251,14 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182435Z" creationid="karol" creationdate="20160308T182435Z">
         <seg>Uso: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021700Z" creationid="edumartins" creationdate="20210517T021700Z">
+        <seg>Usage: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -53610,6 +53714,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021708Z" creationid="edumartins" creationdate="20210517T021708Z">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20181113T103209Z" creationid="Sheila" creationdate="20181113T103209Z">
@@ -53662,6 +53774,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170814T165113Z" creationid="Sheila" creationdate="20170814T165113Z">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021713Z" creationid="edumartins" creationdate="20210517T021713Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
       </tuv>
     </tu>
     <tu>
@@ -54180,6 +54300,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021617Z" creationid="edumartins" creationdate="20210517T021617Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>java -Duser.language=fr -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T230932Z" creationid="Sheila" creationdate="20170903T230932Z">
@@ -54188,10 +54316,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021505Z" creationid="edumartins" creationdate="20210517T021505Z">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>java -Xmx1024M -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T230937Z" creationid="Sheila" creationdate="20170903T230937Z">
         <seg>java -Xmx1024M -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021506Z" creationid="edumartins" creationdate="20210517T021506Z">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -54232,6 +54376,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T133614Z" creationid="Sheila" creationdate="20170905T133614Z">
         <seg>java -jar OmegaT.jar --mode=console-align /my-project-dir --alignDir=/translatedFiles/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021622Z" creationid="edumartins" creationdate="20210517T021622Z">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \</seg>
       </tuv>
     </tu>
     <tu>
