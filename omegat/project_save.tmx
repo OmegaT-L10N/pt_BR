@@ -9002,6 +9002,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T210933Z" creationid="edumartins" creationdate="20210518T210933Z">
+        <seg>Depois de várias dessas operações, selecione &lt;m0&gt; &lt;g1&gt;Editar&lt;/g1&gt; &lt;g2&gt;Realinhar pendentes&lt;/g2&gt; &lt;/m0&gt; para atualizar o alinhamento dos outros segmentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T210256Z" creationid="edumartins" creationdate="20210518T210256Z">
@@ -12607,6 +12615,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172635Z" creationid="karol" creationdate="20160308T172635Z">
         <seg>Clique em &lt;g0&gt;Criar projeto&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in the other column on the translation corresponding to the first segment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T210747Z" creationid="edumartins" creationdate="20210518T210747Z">
+        <seg>Clique na outra coluna na tradução correspondente ao primeiro segmento.</seg>
       </tuv>
     </tu>
     <tu>
