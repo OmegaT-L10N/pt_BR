@@ -86,3 +86,4 @@ Services	Serviços	Quando se referir ao app do macOS
 arguments	parâmetros
 translation engines	ferramentas de tradução automática
 EU Directorate-General for Translation	Direção-Geral da Tradução da Comissão Europeia
+stemming	lematização
