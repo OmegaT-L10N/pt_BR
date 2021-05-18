@@ -9002,6 +9002,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T210256Z" creationid="edumartins" creationdate="20210518T210256Z">
+        <seg>Depois do processo automático, o alinhamento dos dois arquivos normalmente precisa de correções manuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the initial installation you can, of course, also use &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; also when you are offline.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182234Z" creationid="karol" creationdate="20160308T182234Z">
@@ -38833,8 +38841,8 @@ make it effectively proprietary.</seg>
       <tuv lang="en">
         <seg>Step 2: Make manual corrections</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20171025T220003Z" creationid="Sheila" creationdate="20171025T220003Z">
-        <seg>Etapa 2:</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T210154Z" creationid="Sheila" creationdate="20171025T220003Z">
+        <seg>Passo 2:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47062,6 +47070,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T190343Z" creationid="Evandro" creationdate="20160311T190343Z">
         <seg>Encontrada variante da unidade de tradução fora da unidade de tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation units are located in cells in the two last columns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T210408Z" creationid="edumartins" creationdate="20210518T210408Z">
+        <seg>As unidades de tradução estão nas células das duas últimas colunas.</seg>
       </tuv>
     </tu>
     <tu>
