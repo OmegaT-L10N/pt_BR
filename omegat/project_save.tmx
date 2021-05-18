@@ -29881,6 +29881,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 4.2 - User's Guide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T142300Z" creationid="edumartins" creationdate="20210518T142300Z">
+        <seg>OmegaT 4.2 - Manual do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170915T024013Z" creationid="CALDAS" creationdate="20170915T023804Z">
@@ -30551,6 +30559,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170810T161145Z" creationid="karol" creationdate="20160308T172603Z">
         <seg>O OmegaT suporta os dois sistemas populares de controle de versão (abreviado como VCS, version control system), o &lt;u0&gt;Apache Subversion&lt;/u0&gt; (muitas vezes abreviado como SVN, relacionado ao comando svn) e o &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT team</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T142313Z" creationid="edumartins" creationdate="20210518T142313Z">
+        <seg>Equipe do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -41241,6 +41257,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T142227Z" creationid="edumartins" creationdate="20210518T142227Z">
+        <seg>A diferença é pequena: chamamos de "Janela" a janela que pode continuar aberta ao lado do editor e interagir com ele, e "caixa de diálogo" a janela onde você deve selecionar parâmetros antes de fechá-la e continuar sua tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181421Z" creationid="karol" creationdate="20160308T181421Z">
@@ -46882,6 +46906,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Troubleshooting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T142018Z" creationid="edumartins" creationdate="20210518T142018Z">
+        <seg>Solução de problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tsonga</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001016Z" creationid="Evandro" creationdate="20160310T001016Z">
@@ -49752,6 +49784,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181256Z" creationid="karol" creationdate="20160308T181256Z">
         <seg>Windows Vista e 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows and dialogs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T142053Z" creationid="edumartins" creationdate="20210518T142053Z">
+        <seg>Janelas e caixas de diálogo</seg>
       </tuv>
     </tu>
     <tu>
