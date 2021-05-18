@@ -11001,6 +11001,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T182441Z" creationid="Isa" creationdate="20210518T182441Z">
+        <seg>Como é a linguagem por trás de programas conhecidos, como o Firefox, é uma ferramenta de programação popular no meio do código aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Belarusian</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171204Z" creationid="karol" creationdate="20160308T171204Z">
