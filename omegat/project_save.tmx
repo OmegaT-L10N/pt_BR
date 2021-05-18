@@ -20547,6 +20547,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T141942Z" creationid="edumartins" creationdate="20210518T141942Z">
+        <seg>Instruções...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T041119Z" creationid="CALDAS" creationdate="20170912T000909Z">
@@ -27513,8 +27521,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Menus</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210517T151336Z" creationid="Isa" creationdate="20210517T145416Z">
-        <seg>Menu</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T141958Z" creationid="Isa" creationdate="20210517T145416Z">
+        <seg>Menus</seg>
       </tuv>
     </tu>
     <tu>
