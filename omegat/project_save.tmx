@@ -35233,6 +35233,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click a button from &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in the bottom panel and select &lt;g2&gt;Add Script&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T171637Z" creationid="Isa" creationdate="20210518T171637Z">
+        <seg>Clique com o lado direito em um botão de &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; a &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; no canto inferior do painel e selecione &lt;g2&gt;Adicionar script&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182030Z" creationid="karol" creationdate="20160308T182030Z">
