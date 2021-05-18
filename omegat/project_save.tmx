@@ -31289,6 +31289,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T211448Z" creationid="edumartins" creationdate="20210518T211448Z">
+        <seg>Somente linhas com a caixa de seleção &lt;g0&gt;Manter&lt;/g0&gt; marcada serão incluídas quando a memória de tradução for criada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T223859Z" creationid="Francisco Valdez" creationdate="20210515T223859Z">
@@ -46247,6 +46255,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190828T162858Z" creationid="Sheila" creationdate="20190828T162858Z">
         <seg>Para alterar as opções, selecione o filtro na lista e clique em &lt;e0&gt;Opções&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T211139Z" creationid="edumartins" creationdate="20210518T211139Z">
+        <seg>Para alterar a posição de um ou mais segmentos individualmente, selecione o(s) segmento(s) e pressione &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Subir&lt;/g1&gt;) ou &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Descer&lt;/g3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
