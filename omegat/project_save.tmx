@@ -45456,8 +45456,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T204555Z" creationid="edumartins" creationdate="20210518T204555Z">
-        <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T205129Z" creationid="edumartins" creationdate="20210518T204555Z">
+        <seg>Isso funciona mesmo se as chaves não estiverem na mesma ordem nos dois arquivos, e/ou se os dois arquivos não possuírem a mesma quantidade de informação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48172,8 +48172,8 @@ na linha {1}, coluna {2}.</seg>
       <tuv lang="en">
         <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T204458Z" creationid="edumartins" creationdate="20210518T204458Z">
-        <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T204953Z" creationid="edumartins" creationdate="20210518T204458Z">
+        <seg>Use o modo de comparação &lt;g0&gt;ID&lt;/g0&gt; para alinhar Chave=Valor em textos.</seg>
       </tuv>
     </tu>
     <tu>
