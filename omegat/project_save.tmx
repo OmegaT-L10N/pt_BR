@@ -45358,6 +45358,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T170847Z" creationid="Isa" creationdate="20210518T170847Z">
+        <seg>Esta janela pode ser acessada ao selecionar &lt;m0&gt;&lt;g1&gt;Ferramentas&lt;/g1&gt;&lt;g2&gt;Scripts...&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T151455Z" creationid="sheilagomes" creationdate="20210517T151455Z">
