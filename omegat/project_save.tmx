@@ -11434,6 +11434,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T174519Z" creationid="Isa" creationdate="20210518T174519Z">
+        <seg>Por padrão, os scripts estão armazenados na pasta &lt;f0&gt;scripts&lt;/f0&gt;, localizada na pasta de instalação do OmegaT (a pasta contém o arquivo &lt;f1&gt;OmegaT.jar&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003724Z" creationid="karol" creationdate="20160309T003724Z">
