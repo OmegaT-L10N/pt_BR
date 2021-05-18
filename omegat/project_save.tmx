@@ -21690,8 +21690,8 @@ to choose that version for the Program.</seg>
       <tuv lang="en">
         <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T142725Z" creationid="edumartins" creationdate="20210518T142725Z">
-        <seg>Se o alinhamento parecer que pode ser melhorado, tente mudar os parâmetros.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T143117Z" creationid="edumartins" creationdate="20210518T142725Z">
+        <seg>Se o alinhamento puder ser melhorado, tente mudar os parâmetros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22968,6 +22968,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; comparison mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T143151Z" creationid="edumartins" creationdate="20210518T143151Z">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; comparison mode, the texts are evaluated globally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004105Z" creationid="karol" creationdate="20160309T004105Z">
@@ -23235,8 +23243,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T143111Z" creationid="edumartins" creationdate="20210518T143111Z">
-        <seg>Em muitos casos, quanto mais baixo o In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T152159Z" creationid="edumartins" creationdate="20210518T143111Z">
+        <seg>Em muitos casos, quanto mais baixa a &lt;g0&gt;Pontuação média&lt;/g0&gt;, melhor será o alinhamento.</seg>
       </tuv>
     </tu>
     <tu>
