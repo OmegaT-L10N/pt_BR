@@ -3959,6 +3959,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T180744Z" creationid="Isa" creationdate="20210518T180016Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (às vezes abreviado como JS, não confundir com o Java): uma linguagem de scripts baseada em protótipos, com tipagem fraca e dinâmica e funções de primeira classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): is a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170530T221450Z" creationid="karol" creationdate="20160308T171909Z">
