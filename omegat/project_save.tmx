@@ -24712,6 +24712,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is possible to modify the sort order of the three percentages but not which is used to select the fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T140632Z" creationid="edumartins" creationdate="20210518T140632Z">
+        <seg>It is possible to modify the sort order of the three percentages but not which is used to select the fuzzy matches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171130Z" creationid="karol" creationdate="20160308T171130Z">
@@ -51970,8 +51978,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>and ignoring tags and numbers (generally the highest)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T182607Z" creationid="edumartins" creationdate="20210517T182607Z">
-        <seg>and ignoring tags and numbers (generally the highest)</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T140540Z" creationid="edumartins" creationdate="20210517T182607Z">
+        <seg>e ignorando as tags e números (normalmente o mais alto)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57678,6 +57686,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T151002Z" creationid="sheilagomes" creationdate="20210517T151002Z">
         <seg>the percentage calculated with stemming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T140827Z" creationid="edumartins" creationdate="20210518T140631Z">
+        <seg>a porcentagem calculada com o texto completo, incluindo tags e numeros (normalmente a mais baixa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated without stemming and still ignoring tags and numbers (generally slightly lower)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T140748Z" creationid="edumartins" creationdate="20210518T140556Z">
+        <seg>a porcentagem calculada sem origem e ignorando tags e números (normalmente um pouco menor)</seg>
       </tuv>
     </tu>
     <tu>
