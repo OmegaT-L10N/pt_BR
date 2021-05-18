@@ -22138,8 +22138,8 @@ Public License instead of this License.</seg>
       <tuv lang="en">
         <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T174731Z" creationid="Isa" creationdate="20210518T174731Z">
-        <seg>Se adicionar novos scripts, eles aparacerão na lista de scripts disponíveis na janela &lt;g0&gt;Scripts&lt;/g0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T180822Z" creationid="Isa" creationdate="20210518T174731Z">
+        <seg>Se adicionar novos scripts, eles aparecerão na lista de scripts disponíveis na janela &lt;g0&gt;Scripts&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35267,8 +35267,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Right-click a button from &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in the bottom panel and select &lt;g2&gt;Add Script&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T171637Z" creationid="Isa" creationdate="20210518T171637Z">
-        <seg>Clique com o lado direito em um botão de &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; a &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; no canto inferior do painel e selecione &lt;g2&gt;Adicionar script&lt;/g2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T180847Z" creationid="Isa" creationdate="20210518T171637Z">
+        <seg>Clicar com o botão direito do mouse em um botão de &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; a &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; no canto inferior do painel e selecione &lt;g2&gt;Adicionar script&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49640,8 +49640,8 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
       <tuv lang="en">
         <seg>When you left-click the number, the selected script will run.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T171804Z" creationid="Isa" creationdate="20210518T171804Z">
-        <seg>Quando clicar com o lado esquerdo no número, o script selecionado será executado.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T180912Z" creationid="Isa" creationdate="20210518T171804Z">
+        <seg>Quando clicar com o botão esquerdo do mouse no número, o script selecionado será executado.</seg>
       </tuv>
     </tu>
     <tu>
