@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23229,6 +23229,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181426Z" creationid="karol" creationdate="20160308T181426Z">
         <seg>Em muitos casos, entretanto, é necessário incluir texto EPD em textos DPE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T143111Z" creationid="edumartins" creationdate="20210518T143111Z">
+        <seg>Em muitos casos, quanto mais baixo o In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
       </tuv>
     </tu>
     <tu>
