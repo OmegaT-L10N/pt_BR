@@ -89,3 +89,4 @@ EU Directorate-General for Translation	Direção-Geral da Tradução da Comissã
 stemming	lematização
 Heapwise	Em pilha
 Parsewise	Com análise
+Forward-Backward	Para frente-para trás
