@@ -31690,6 +31690,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T141610Z" creationid="edumartins" creationdate="20210518T141610Z">
+        <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Orphan segments&lt;i2/&gt; (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004100Z" creationid="karol" creationdate="20160309T004100Z">
@@ -41901,6 +41909,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004059Z" creationid="karol" creationdate="20160309T004059Z">
         <seg>A linha com a porcentagem correspondente também inclui o nome da memória de tradução &lt;i1/&gt; contendo a correspondência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T141610Z" creationid="edumartins" creationdate="20210518T141610Z">
+        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
       </tuv>
     </tu>
     <tu>
