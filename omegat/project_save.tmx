@@ -12498,6 +12498,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose the one that provides the best results.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T205435Z" creationid="edumartins" creationdate="20210518T205435Z">
+        <seg>Escolha o que der melhores resultados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172635Z" creationid="karol" creationdate="20160308T172635Z">
@@ -12575,6 +12583,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002104Z" creationid="karol" creationdate="20160309T002104Z">
         <seg>Clique em &lt;e2&gt;Substituir Próximo&lt;/e2&gt; ou &lt;e3&gt;Pular&lt;/e3&gt;, e então finalize a sessão de substituição em &lt;e4&gt;Finalizar&lt;/e4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T205513Z" creationid="edumartins" creationdate="20210518T205513Z">
+        <seg>Clique &lt;g0&gt;Continuar&lt;/g0&gt; para acessar o próximo passo.</seg>
       </tuv>
     </tu>
     <tu>
