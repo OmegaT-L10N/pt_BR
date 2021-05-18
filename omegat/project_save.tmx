@@ -49606,6 +49606,14 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you left-click the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T171804Z" creationid="Isa" creationdate="20210518T171804Z">
+        <seg>Quando clicar com o lado esquerdo no número, o script selecionado será executado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170515T200457Z" creationid="karol" creationdate="20160308T170032Z">
@@ -50679,6 +50687,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T225123Z" creationid="Francisco Valdez" creationdate="20210515T224953Z">
         <seg>Pode-se também iniciar a ferramenta diretamente com o seguinte comando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T172403Z" creationid="Isa" creationdate="20210518T172403Z">
+        <seg>Também é possível iniciar as macros selecionadas a partir do menu principal ao usar as opções no menu &lt;g0&gt;Ferramentas&lt;/g0&gt; ou ao pressionar &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt; (# de 1 a 12).</seg>
       </tuv>
     </tu>
     <tu>
