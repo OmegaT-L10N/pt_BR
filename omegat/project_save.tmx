@@ -33133,6 +33133,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T210712Z" creationid="edumartins" creationdate="20210518T210712Z">
+        <seg>Pressione a barra de espaço (atalho para &lt;m0&gt; &lt;g1&gt;Editar&lt;/g1&gt; &lt;g2&gt;Iniciar alinhamento distante&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T210747Z" creationid="Sheila" creationdate="20170904T210747Z">
@@ -37148,6 +37156,14 @@ In this segment {0,number,#} should remain unchanged</note>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003701Z" creationid="karol" creationdate="20160309T003701Z">
         <seg>Selecione a memória de tradução de backup que mais provavelmente contém os dados que você está procurando - por exemplo, o mais recente, ou a última versão do dia anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the first segment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T210439Z" creationid="edumartins" creationdate="20210518T210439Z">
+        <seg>Selecione o primeiro segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45717,6 +45733,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151555Z" creationid="sheilagomes" creationdate="20210504T151555Z">
         <seg>Para adicionar outros recursos (dicionários, TMXs ou glossários), use um cliente SVN ou Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To align two segments on the same line:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T210431Z" creationid="edumartins" creationdate="20210518T210431Z">
+        <seg>Para alinhar dois segmentos na mesma linha:</seg>
       </tuv>
     </tu>
     <tu>
