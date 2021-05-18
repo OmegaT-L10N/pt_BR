@@ -9163,6 +9163,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T142436Z" creationid="edumartins" creationdate="20210518T142436Z">
+        <seg>O alinhamento envolve a criação de uma memória de tradução bilíngue a partir de documentos monolíngues que já foram traduzidos anteriormente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181005T023828Z" creationid="User" creationdate="20181005T023828Z">
@@ -21676,6 +21684,14 @@ to choose that version for the Program.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201533Z" creationid="karol" creationdate="20160308T201533Z">
         <seg>Se o Programa especificar que uma procuração pode decidir quais futuras versões da Licença Pública Geral (GNU) podem ser usadas, essa declaração pública de procuração da aceitação de uma versão permanentemente o autoriza a escolher esta versão do Programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T142725Z" creationid="edumartins" creationdate="20210518T142725Z">
+        <seg>Se o alinhamento parecer que pode ser melhorado, tente mudar os parâmetros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38687,6 +38703,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 1: Adjust the alignment parameters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T142548Z" creationid="edumartins" creationdate="20210518T142548Z">
+        <seg>Passo 1: Ajustar parâmetros de alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Step 1: Create an empty project on a server</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20191024T104945Z" creationid="Sheila" creationdate="20191024T104945Z">
@@ -45453,6 +45477,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T013835Z" creationid="Sheila" creationdate="20170905T013835Z">
         <seg>Para acessar o serviço TaaS, um usuário deve criar uma chave usando https://term.tilde.com/account/keys/create?system=omegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T142535Z" creationid="edumartins" creationdate="20210518T142535Z">
+        <seg>Para acessar essa janela, selecione &lt;m0&gt; &lt;g1&gt;Ferramentas&lt;/g1&gt; &lt;g2&gt;Alinhar arquivos...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
