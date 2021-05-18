@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -49566,8 +49566,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T151413Z" creationid="sheilagomes" creationdate="20210517T151413Z">
-        <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T211626Z" creationid="sheilagomes" creationdate="20210517T151413Z">
+        <seg>Quando as duas colunas estiverem suficientemente alinhadas, clique em &lt;g0&gt;Salvar TMX...&lt;/g0&gt; para criar a memória de tradução resultante.</seg>
       </tuv>
     </tu>
     <tu>
