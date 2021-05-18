@@ -26391,6 +26391,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T171231Z" creationid="Isa" creationdate="20210518T171231Z">
+        <seg>Na lista do painel esquerdo, clique no nome do script que deseja carregar no editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171903Z" creationid="karol" creationdate="20160308T171903Z">
@@ -45743,6 +45751,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171903Z" creationid="karol" creationdate="20160308T171903Z">
         <seg>Para personalizar o recurso de scripts, faça o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To customize the scripting feature, do the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T170942Z" creationid="Isa" creationdate="20210518T170942Z">
+        <seg>Para personalizar o recurso de scripts, siga os passos:</seg>
       </tuv>
     </tu>
     <tu>
