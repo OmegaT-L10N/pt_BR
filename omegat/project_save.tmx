@@ -45454,6 +45454,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T204555Z" creationid="edumartins" creationdate="20210518T204555Z">
+        <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T005217Z" creationid="karol" creationdate="20160309T005217Z">
@@ -57948,8 +57956,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T140827Z" creationid="edumartins" creationdate="20210518T140631Z">
-        <seg>a porcentagem calculada com o texto completo, incluindo tags e numeros (normalmente a mais baixa)</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T204544Z" creationid="edumartins" creationdate="20210518T140631Z">
+        <seg>a porcentagem calculada com o texto completo, incluíndo tags e números (normalmente a mais baixa)</seg>
       </tuv>
     </tu>
     <tu>
