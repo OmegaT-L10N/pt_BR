@@ -57836,8 +57836,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>the percentage calculated without stemming and still ignoring tags and numbers (generally slightly lower)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T140748Z" creationid="edumartins" creationdate="20210518T140556Z">
-        <seg>a porcentagem calculada sem origem e ignorando tags e números (normalmente um pouco menor)</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T153302Z" creationid="edumartins" creationdate="20210518T140556Z">
+        <seg>a porcentagem calculada sem lematização e ignorando tags e números (normalmente um pouco menor)</seg>
       </tuv>
     </tu>
     <tu>
