@@ -87,3 +87,4 @@ arguments	parâmetros
 translation engines	ferramentas de tradução automática
 EU Directorate-General for Translation	Direção-Geral da Tradução da Comissão Europeia
 stemming	lematização
+Heapwise	Em pilha
