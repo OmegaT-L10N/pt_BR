@@ -23018,8 +23018,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; comparison mode, the texts are evaluated globally.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T143151Z" creationid="edumartins" creationdate="20210518T143151Z">
-        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; comparison mode, the texts are evaluated globally.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T204114Z" creationid="edumartins" creationdate="20210518T143151Z">
+        <seg>No modo de comparação &lt;g0&gt;Em pilha&lt;/g0&gt;, os textos são avaliados globalmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23028,6 +23028,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004105Z" creationid="karol" creationdate="20160309T004105Z">
         <seg>Em &lt;g0&gt;Opções &gt; TMXs externas&lt;/g0&gt;, uma série de variáveis ​​permitem configurar a exibição do painel de correspondência:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T161551Z" creationid="edumartins" creationdate="20210518T161551Z">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31804,8 +31812,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T141610Z" creationid="edumartins" creationdate="20210518T141610Z">
-        <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T203453Z" creationid="edumartins" creationdate="20210518T141610Z">
+        <seg>Os segmentos órfãos (a correspondência #2) descrevem segmentos na memória de tradução padrão do projeto que não têm nenhum segmento fonte correspondente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42051,8 +42059,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T141610Z" creationid="edumartins" creationdate="20210518T141610Z">
-        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T203411Z" creationid="edumartins" creationdate="20210518T141610Z">
+        <seg>A linha com a porcentagem correspondente também inclui o nome da memória de tradução contendo a correspondência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42429,6 +42437,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T173137Z" creationid="karol" creationdate="20160308T173137Z">
         <seg>A opção permite que o OmegaT ignore a especificação no cabeçalho do arquivo PO e use o padrão para o idioma de destino selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The option only appears when such a selection is possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T203504Z" creationid="edumartins" creationdate="20210518T203504Z">
+        <seg>The option only appears when such a selection is possible.</seg>
       </tuv>
     </tu>
     <tu>
