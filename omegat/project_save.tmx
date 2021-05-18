@@ -23034,8 +23034,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T161551Z" creationid="edumartins" creationdate="20210518T161551Z">
-        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T204352Z" creationid="edumartins" creationdate="20210518T161551Z">
+        <seg>No modo de comparação &lt;g1&gt;Com análise&lt;/g1&gt;, eles são avaliados segmento por segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42443,8 +42443,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="en">
         <seg>The option only appears when such a selection is possible.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T203504Z" creationid="edumartins" creationdate="20210518T203504Z">
-        <seg>The option only appears when such a selection is possible.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T204426Z" creationid="edumartins" creationdate="20210518T203504Z">
+        <seg>Essa opção só aparece quando este tipo de seleção é possível.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48158,6 +48158,14 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T003647Z" creationid="sheilagomes" creationdate="20210514T003647Z">
         <seg>Use o arquivo &lt;f0&gt;OmegaT.jar&lt;/f0&gt; localizado em &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; para iniciar o &lt;a2&gt;OmegaT&lt;/a2&gt; a partir da linha de comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T204458Z" creationid="edumartins" creationdate="20210518T204458Z">
+        <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
       </tuv>
     </tu>
     <tu>
