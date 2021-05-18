@@ -18886,6 +18886,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T183700Z" creationid="Isa" creationdate="20210518T183700Z">
+        <seg>O seguinte fragmento de código em Groovy, por exemplo, verifica todos os segmentos em todos os arquivos do projeto atual e, se a tradução existir, imprime a origem e o destino do segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T180952Z" creationid="karol" creationdate="20160308T180952Z">
