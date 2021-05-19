@@ -20375,6 +20375,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Have you considered donating to OmegaT?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T101848Z" creationid="Francisco Valdez" creationdate="20210519T101848Z">
+        <seg>Já considerou doar para o OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Have you considered writing some user documentation yourself?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170919T155837Z" creationid="mroch" creationdate="20170919T155837Z">
@@ -38851,8 +38859,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T101704Z" creationid="Francisco Valdez" creationdate="20210519T101704Z">
-        <seg>Versão Estável - {{site.data.versions.standard.name}}</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T101831Z" creationid="Francisco Valdez" creationdate="20210519T101704Z">
+        <seg>Versão estável - {{site.data.versions.standard.name}}</seg>
       </tuv>
     </tu>
     <tu>
