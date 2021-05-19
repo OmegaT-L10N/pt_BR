@@ -25083,6 +25083,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T103959Z" creationid="Francisco Valdez" creationdate="20210519T103959Z">
+        <seg>É sempre mais seguro instalar a versão do OmegaT com o JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is therefore possible to select existing folders or create folders in locations that reflect your work flow and project management habits.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181218Z" creationid="karol" creationdate="20160308T181218Z">
