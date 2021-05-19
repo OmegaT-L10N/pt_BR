@@ -40476,6 +40476,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T092644Z" creationid="Francisco Valdez" creationdate="20210519T092644Z">
+        <seg>A janela &lt;g2&gt;Arquivos de projeto&lt;/g2&gt; exibe as seguintes informações:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181419Z" creationid="karol" creationdate="20160308T181419Z">
