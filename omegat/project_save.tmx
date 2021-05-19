@@ -40923,6 +40923,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T110934Z" creationid="Francisco Valdez" creationdate="20210519T110934Z">
+        <seg>A Versão estável requer Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Mac OS X equivalent is the application Terminal located in Applications → Utilities.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182242Z" creationid="karol" creationdate="20160308T182242Z">
