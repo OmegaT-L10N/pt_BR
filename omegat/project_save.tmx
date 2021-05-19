@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18459,6 +18459,14 @@ Teias de aranha estão te bloqueando
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210519T193418Z" creationid="Isa" creationdate="20210519T193418Z">
+        <seg>Arquivos em formatos antigos do MS Word, Excel e Powerpoint podem ser traduzidos após a conversão para uma versão atualizada, ou, como alternativa, para o formato Office Open XML, que pode ser feito em OpenOffice.org ou no LibreOffice (também gratuito).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted by the project manager.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155727Z" creationid="sheilagomes" creationdate="20210512T155727Z">
@@ -30474,6 +30482,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20200309T140901Z" creationid="CALDAS" creationdate="20200309T140901Z">
         <seg>O OmegaT tem um grupo de usuários muito ativo, acolhedor e multilíngue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210519T190159Z" creationid="Isa" creationdate="20210519T190159Z">
+        <seg>O OmegaT foi instalado com sucesso no Windows (todas as versões a partir da 98), Macintosh OS X e Linux.</seg>
       </tuv>
     </tu>
     <tu>
