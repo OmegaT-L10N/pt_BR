@@ -47283,6 +47283,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T092738Z" creationid="Francisco Valdez" creationdate="20210519T092738Z">
+        <seg>Digitar qualquer texto fará com que o campo &lt;g0&gt;Filtro&lt;/g0&gt; se abra, e neste campo podem ser inseridas partes de nomes de arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Typing any text will open a Filter field where parts of filenames can be entered.</seg>
