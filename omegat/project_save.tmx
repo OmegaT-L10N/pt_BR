@@ -50500,6 +50500,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T114249Z" creationid="Francisco Valdez" creationdate="20210519T114249Z">
+        <seg>Com esta versão, atualizações futuras serão instaladas automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With/without JRE</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T102356Z" creationid="Francisco Valdez" creationdate="20210519T102356Z">
