@@ -44602,6 +44602,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T093017Z" creationid="Francisco Valdez" creationdate="20210519T093017Z">
+        <seg>Isso copia os arquivos selecionados para a pasta &lt;f2&gt;source&lt;/f2&gt; e recarrega o projeto para importar os novos arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This copies the selected files to the &lt;f3&gt;source&lt;/f3&gt; folder and reloads the project to import the new files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T005219Z" creationid="karol" creationdate="20160309T005219Z">
