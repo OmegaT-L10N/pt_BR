@@ -40737,6 +40737,14 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T095308Z" creationid="Francisco Valdez" creationdate="20210519T095308Z">
+        <seg>O JRE agora é fornecido com o OmegaT e não requer ser obtido separadamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
