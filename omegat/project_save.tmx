@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40578,6 +40578,14 @@ control those activities.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171127Z" creationid="karol" creationdate="20160308T171127Z">
         <seg>A tecla “Shift” não exibe nenhum comportamento especial: quando ela é pressionada, todas as teclas movem o cursor da maneira habitual, exceto no caso da combinação  &lt;l0&gt;Shift+Enter&lt;/l0&gt;, que insere uma quebra de linha no texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210519T181918Z" creationid="Isa" creationdate="20210519T181918Z">
+        <seg>A versão "estável" do OmegaT inclui um manual do usuário completo (pelo menos em inglês) e foi testada por algum tempo para eliminar erros.</seg>
       </tuv>
     </tu>
     <tu>
