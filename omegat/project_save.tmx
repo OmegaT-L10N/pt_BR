@@ -30934,6 +30934,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T094855Z" creationid="Francisco Valdez" creationdate="20210519T094855Z">
+        <seg>O OmegaT rodará em qualquer sistema em que uma versão apropriada on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182455Z" creationid="karol" creationdate="20160308T182455Z">
