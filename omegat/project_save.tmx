@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2155,6 +2155,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T170446Z" creationid="karol" creationdate="20160308T170446Z">
         <seg>* Estas teclas comportam-se de maneira diferente quando o cursor está do lado de fora do segmento editável:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185857Z" creationid="Evandro" creationdate="20160311T185857Z">
+        <seg>+{0} more</seg>
       </tuv>
     </tu>
     <tu>
@@ -25708,6 +25716,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185422Z" creationid="Evandro" creationdate="20160311T185422Z">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Khmer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001007Z" creationid="Evandro" creationdate="20160310T001007Z">
@@ -29810,6 +29826,14 @@ otherwise be available to you under applicable patent law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me When a Segment Has "{0}"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20170920T130245Z" creationid="Sheila" creationdate="20170920T130245Z">
+        <seg>Notify Me When a Segment Has "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T222953Z" creationid="Sheila" creationdate="20170905T222953Z">
@@ -29875,6 +29899,14 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201528Z" creationid="karol" creationdate="20160308T201528Z">
         <seg>Independentemente de qualquer outra provisão desta Licença, você tem a permissão de vincular ou agregar qualquer trabalho coberto com um trabalho autorizado sob a versão 3 da Licença Pública Geral (GNU) Affero em um trabalho combinado único e transmitir o trabalho resultante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T184804Z" creationid="Evandro" creationdate="20160311T184804Z">
+        <seg>Now</seg>
       </tuv>
     </tu>
     <tu>
@@ -38969,8 +39001,8 @@ make it effectively proprietary.</seg>
       <tuv lang="en">
         <seg>Step 2: Make manual corrections</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T210154Z" creationid="Sheila" creationdate="20171025T220003Z">
-        <seg>Passo 2:</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210519T232326Z" creationid="Sheila" creationdate="20171025T220003Z">
+        <seg>Passo 2: Fazer correções manuais</seg>
       </tuv>
     </tu>
     <tu>
@@ -50404,6 +50436,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103833Z" creationid="Evandro" creationdate="20160312T103833Z">
+        <seg>Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WordAr&amp;t</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T104033Z" creationid="Evandro" creationdate="20160312T104033Z">
@@ -52000,6 +52040,9 @@ create its configuration folder.</seg>
     <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
+        <seg>[Fuzzy]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111831Z" creationid="Evandro" creationdate="20160312T111831Z">
         <seg>[Fuzzy]</seg>
       </tuv>
     </tu>
@@ -59222,6 +59265,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181005T023834Z" creationid="User" creationdate="20181005T023834Z">
         <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185858Z" creationid="Evandro" creationdate="20160311T185858Z">
+        <seg>{0} +{1} more</seg>
       </tuv>
     </tu>
     <tu>
