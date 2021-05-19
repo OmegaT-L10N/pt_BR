@@ -11391,6 +11391,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By Marco Cevoli and Sergio Alasia.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T110320Z" creationid="Francisco Valdez" creationdate="20210519T110320Z">
+        <seg>Por Marco Cevoli e Sergio Alasia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T110224Z" creationid="Francisco Valdez" creationdate="20210519T110224Z">
