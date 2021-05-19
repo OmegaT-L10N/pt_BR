@@ -30937,8 +30937,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T202706Z" creationid="CarolVignolis" creationdate="20181014T202706Z">
-        <seg>O OmegaT rodará normalemente em qualquer sistema Linux em que uma versão apropriada do Java Runtime Environment (JRE) possa ser instalada.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T093350Z" creationid="CarolVignolis" creationdate="20181014T202706Z">
+        <seg>O OmegaT rodará normalmente em qualquer sistema Linux em que uma versão apropriada do Java Runtime Environment (JRE) possa ser instalada.</seg>
       </tuv>
     </tu>
     <tu>
