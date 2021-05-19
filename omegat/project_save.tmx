@@ -22323,6 +22323,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T103113Z" creationid="Francisco Valdez" creationdate="20210519T103113Z">
+        <seg>Caso tenha certeza de que uma versão adequada do Java Runtime Environment já está instalada no seu computador, você pode baixar a versão do OmegaT sem o JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20200309T163020Z" creationid="CALDAS" creationdate="20200309T163020Z">
