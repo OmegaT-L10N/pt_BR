@@ -16423,8 +16423,8 @@ project_save.tmx não foi atualizada no servidor, e o SVN entrou em estado inst�
       <tuv lang="en">
         <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T104743Z" creationid="Francisco Valdez" creationdate="20210519T104743Z">
-        <seg>Durante a instalação, dependendo do seu sistema operacional, você pode receber diversos avisos de segurança..&lt;br0/&gt;</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T104817Z" creationid="Francisco Valdez" creationdate="20210519T104743Z">
+        <seg>Durante a instalação, dependendo do seu sistema operacional, você pode receber diversos avisos de segurança.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
