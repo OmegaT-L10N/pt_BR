@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19064,8 +19064,8 @@ freedoms that you received.</seg>
       <tuv lang="en">
         <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210518T183700Z" creationid="Isa" creationdate="20210518T183700Z">
-        <seg>O seguinte fragmento de código em Groovy, por exemplo, verifica todos os segmentos em todos os arquivos do projeto atual e, se a tradução existir, imprime a origem e o destino do segmento:</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210519T121630Z" creationid="Isa" creationdate="20210518T183700Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
