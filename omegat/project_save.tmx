@@ -51237,6 +51237,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T092841Z" creationid="Francisco Valdez" creationdate="20210519T092841Z">
+        <seg>Você pode selecionar um arquivo com as teclas &lt;k1&gt;Seta para cima&lt;/k1&gt; e &lt;k2&gt;Seta para baixo&lt;/k2&gt; , e abri-lo para tradução ao pressionar &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T173147Z" creationid="karol" creationdate="20160308T173147Z">
