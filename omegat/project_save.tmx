@@ -52077,6 +52077,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T114752Z" creationid="Francisco Valdez" creationdate="20210519T114752Z">
+        <seg>Seus documentos e memórias de tradução permanecem no seu computador, e o projeto OmegaT não terá acesso ao seu trabalho ou informação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172102Z" creationid="karol" creationdate="20160308T172102Z">
