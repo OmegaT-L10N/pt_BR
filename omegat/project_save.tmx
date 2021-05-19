@@ -29898,14 +29898,6 @@ otherwise be available to you under applicable patent law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Notify Me When a Segment Has "{0}"</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20170920T130245Z" creationid="Sheila" creationdate="20170920T130245Z">
-        <seg>Notify Me When a Segment Has "{0}"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T222953Z" creationid="Sheila" creationdate="20170905T222953Z">
@@ -50580,14 +50572,6 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Word</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103833Z" creationid="Evandro" creationdate="20160312T103833Z">
-        <seg>Word</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>WordAr&amp;t</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T104033Z" creationid="Evandro" creationdate="20160312T104033Z">
@@ -52184,9 +52168,6 @@ create its configuration folder.</seg>
     <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
-        <seg>[Fuzzy]</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111831Z" creationid="Evandro" creationdate="20160312T111831Z">
         <seg>[Fuzzy]</seg>
       </tuv>
     </tu>
