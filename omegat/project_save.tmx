@@ -41723,8 +41723,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T103252Z" creationid="Francisco Valdez" creationdate="20210519T103252Z">
-        <seg>O download será mais rápido, e a instalação ocupará meno espaço no seu disco rígido.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T103543Z" creationid="Francisco Valdez" creationdate="20210519T103252Z">
+        <seg>O download será mais rápido, e a instalação ocupará menos espaço no seu disco rígido.</seg>
       </tuv>
     </tu>
     <tu>
