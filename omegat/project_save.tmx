@@ -40387,6 +40387,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TexTra plugin</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T120943Z" creationid="Francisco Valdez" creationdate="20210519T120943Z">
+        <seg>Plugin TexTra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T102907Z" creationid="Evandro" creationdate="20160312T102907Z">
