@@ -32705,6 +32705,14 @@ em seguida, confirme tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T101953Z" creationid="Francisco Valdez" creationdate="20210519T101953Z">
+        <seg>Plataforma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Platform-independent; require tcl/tk.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170914T040210Z" creationid="CALDAS" creationdate="20170914T040210Z">
