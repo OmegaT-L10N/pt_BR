@@ -22578,6 +22578,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T101109Z" creationid="Francisco Valdez" creationdate="20210519T101109Z">
+        <seg>Se você tem uma aversão natural a leitura de instruções, e sua abordagem com um novo programa seja apertar todos os todos os botões que vê até que algo parecido com o efeito desejado ocorra, então o OmegaT provavelmente não é adequado para você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170901T094532Z" creationid="Sheila" creationdate="20170901T094532Z">
