@@ -18379,6 +18379,14 @@ Teias de aranha estão te bloqueando
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T095619Z" creationid="Francisco Valdez" creationdate="20210519T095619Z">
+        <seg>Arquivos no formato Microsoft Office XML podem ser traduzidos diretamente no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted by the project manager.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155727Z" creationid="sheilagomes" creationdate="20210512T155727Z">
