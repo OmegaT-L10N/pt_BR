@@ -48951,6 +48951,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T111724Z" creationid="Francisco Valdez" creationdate="20210519T111724Z">
+        <seg>Usuários com alguma experiência com o OmegaT geralmente preferem a Última versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Users\&lt;User Name&gt;\AppData\Roaming\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T210556Z" creationid="Sheila" creationdate="20170903T210556Z">
