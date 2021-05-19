@@ -18191,6 +18191,14 @@ Teias de aranha estão te bloqueando
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Fast access to websites.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T120849Z" creationid="Francisco Valdez" creationdate="20210519T120849Z">
+        <seg>Acesso rápido aos sites.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
