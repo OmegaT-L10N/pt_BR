@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23264,14 +23264,6 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T204531Z" creationid="sheilagomes" creationdate="20210513T204531Z">
-        <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T170135Z" creationid="karol" creationdate="20160308T170135Z">
@@ -32106,14 +32098,6 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T204553Z" creationid="sheilagomes" creationdate="20210513T204553Z">
-        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Other OmegaT resources</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T073446Z" creationid="CALDAS" creationdate="20170913T073446Z">
@@ -34160,14 +34144,6 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T115254Z" creationid="CALDAS" creationdate="20170912T115254Z">
         <seg>Qabiria</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150843Z" creationid="sheilagomes" creationdate="20210517T150843Z">
-        <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36597,14 +36573,6 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150835Z" creationid="sheilagomes" creationdate="20210517T150835Z">
-        <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181230Z" creationid="karol" creationdate="20160308T181230Z">
@@ -37364,14 +37332,6 @@ In this segment {0,number,#} should remain unchanged</note>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182149Z" creationid="karol" creationdate="20160308T182149Z">
         <seg>Selecione o ícone &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T204603Z" creationid="sheilagomes" creationdate="20210513T204603Z">
-        <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43265,14 +43225,6 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>The results window is laid out in the form of a table in which:</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150845Z" creationid="sheilagomes" creationdate="20210517T150845Z">
-        <seg>The results window is laid out in the form of a table in which:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T170137Z" creationid="karol" creationdate="20160308T170137Z">
@@ -46745,14 +46697,6 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T224911Z" creationid="karol" creationdate="20160308T182136Z">
         <seg>Para descompactar o arquivo &lt;e1&gt;.tar.gz&lt;/e1&gt; :</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>To untar the &lt;f2&gt;.tar.gz&lt;/f2&gt; file:</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T001943Z" creationid="sheilagomes" creationdate="20210513T001943Z">
-        <seg>To untar the &lt;f2&gt;.tar.gz&lt;/f2&gt; file:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53277,14 +53221,6 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>clicking a column header changes the sort order for the column,</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150846Z" creationid="sheilagomes" creationdate="20210517T150846Z">
-        <seg>clicking a column header changes the sort order for the column,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215133Z" creationid="karol" creationdate="20160308T215133Z">
@@ -53617,14 +53553,6 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002020Z" creationid="karol" creationdate="20160309T002020Z">
         <seg>palavras duplicadas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150846Z" creationid="sheilagomes" creationdate="20210517T150846Z">
-        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
       </tuv>
     </tu>
     <tu>
