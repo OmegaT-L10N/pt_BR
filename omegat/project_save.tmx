@@ -11137,6 +11137,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Blogs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T110348Z" creationid="Francisco Valdez" creationdate="20210519T110348Z">
+        <seg>Blogues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103539Z" creationid="Evandro" creationdate="20160312T103539Z">
