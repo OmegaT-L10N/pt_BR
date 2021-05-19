@@ -2087,14 +2087,6 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>(external search commands)</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150852Z" creationid="sheilagomes" creationdate="20210517T150852Z">
-        <seg>(external search commands)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>(including a physical distribution medium), accompanied by a</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201417Z" creationid="karol" creationdate="20160308T201417Z">
@@ -10157,14 +10149,6 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Appendices</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T151001Z" creationid="sheilagomes" creationdate="20210517T151001Z">
-        <seg>Appendices</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181301Z" creationid="karol" creationdate="20160308T181301Z">
@@ -10304,14 +10288,6 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150847Z" creationid="sheilagomes" creationdate="20210517T150847Z">
-        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>As above.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011022Z" creationid="sheilagomes" creationdate="20210511T011022Z">
@@ -10444,14 +10420,6 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182114Z" creationid="karol" creationdate="20160308T182114Z">
         <seg>No início da instalação é possível selecionar o idioma que será usado durante a instalação.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150851Z" creationid="sheilagomes" creationdate="20210517T150851Z">
-        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21437,14 +21405,6 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150907Z" creationid="sheilagomes" creationdate="20210517T150907Z">
-        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113458Z" creationid="Evandro" creationdate="20160312T113458Z">
@@ -21457,14 +21417,6 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113454Z" creationid="Evandro" creationdate="20160312T113454Z">
         <seg>Se marcado, os termos mais longos são colocados no início da lista.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150906Z" creationid="sheilagomes" creationdate="20210517T150906Z">
-        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21489,14 +21441,6 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T212616Z" creationid="karol" creationdate="20160308T212616Z">
         <seg>Se selecionada, os espaços em branco serão exibidos com um ponto.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150854Z" creationid="sheilagomes" creationdate="20210517T150854Z">
-        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26272,14 +26216,6 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T175417Z" creationid="CarolVignolis" creationdate="20181014T175417Z">
         <seg>Inicializar o programa de instalação</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Launches scripts that have been associated with a number.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150849Z" creationid="sheilagomes" creationdate="20210517T150849Z">
-        <seg>Launches scripts that have been associated with a number.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31631,14 +31567,6 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Open the Scripting window</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150850Z" creationid="sheilagomes" creationdate="20210517T150850Z">
-        <seg>Open the Scripting window</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002101Z" creationid="karol" creationdate="20160309T002101Z">
@@ -31828,14 +31756,6 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T182514Z" creationid="edumartins" creationdate="20210517T182514Z">
         <seg>Abre o pacote do projeto no formato MED definido pela Direção-Geral da Tradução da Comissão Europeia.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150848Z" creationid="sheilagomes" creationdate="20210517T150848Z">
-        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37376,14 +37296,6 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Select the script you want from the list on the left</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150850Z" creationid="sheilagomes" creationdate="20210517T150850Z">
-        <seg>Select the script you want from the list on the left</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210517T142019Z" creationid="Francisco Valdez" creationdate="20210516T154648Z">
@@ -41379,14 +41291,6 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T212618Z" creationid="karol" creationdate="20160308T212618Z">
         <seg>As cores são exibidas contanto que a opção "Salvar estados auto-preenchidos" (em Opções/Modo de trabalho...) esteja marcada.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T150908Z" creationid="sheilagomes" creationdate="20210517T150908Z">
-        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45786,14 +45690,6 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Isa" changedate="20210518T170847Z" creationid="Isa" creationdate="20210518T170847Z">
         <seg>Esta janela pode ser acessada ao selecionar &lt;m0&gt;&lt;g1&gt;Ferramentas&lt;/g1&gt;&lt;g2&gt;Scripts...&lt;/g2&gt;&lt;/m0&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T151455Z" creationid="sheilagomes" creationdate="20210517T151455Z">
-        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
