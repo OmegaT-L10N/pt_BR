@@ -22319,6 +22319,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210519T183109Z" creationid="Isa" creationdate="20210519T183109Z">
+        <seg>Se essa versão não estiver disponível, tente &lt;a0&gt;baixar a versão não assinada&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If used, neither the user's decision to accept the translation nor the final translation are made available to Google.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201621Z" creationid="karol" creationdate="20160308T201621Z">
@@ -40584,8 +40592,8 @@ control those activities.</seg>
       <tuv lang="en">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210519T181918Z" creationid="Isa" creationdate="20210519T181918Z">
-        <seg>A versão "estável" do OmegaT inclui um manual do usuário completo (pelo menos em inglês) e foi testada por algum tempo para eliminar erros.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210519T182032Z" creationid="Isa" creationdate="20210519T181918Z">
+        <seg>A versão "Estável" do OmegaT inclui um manual do usuário completo (pelo menos em inglês) e foi testada por algum tempo para eliminar erros.</seg>
       </tuv>
     </tu>
     <tu>
