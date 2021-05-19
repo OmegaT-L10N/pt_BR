@@ -3662,6 +3662,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T092946Z" creationid="Francisco Valdez" creationdate="20210519T092946Z">
+        <seg>&lt;e0&gt;Adicionar arquivos ao projeto: &lt;/e0&gt;Para adicionar arquivos fonte ao projeto, basta clicar no botão "&lt;g1&gt;Importar arquivos fonte..."&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190830T173925Z" creationid="Sheila" creationdate="20190830T173925Z">
