@@ -30555,6 +30555,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T100229Z" creationid="Francisco Valdez" creationdate="20210519T100229Z">
+        <seg>O OmegaT não é particularmente difícil de instalar ou usar, embora exija uma disposição para ler e seguir as instruções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is not yet able to detect mistakes in formatting fully automatically, so it will not prompt you if you make an error or change formatting to fit your target language better.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170523T195431Z" creationid="karol" creationdate="20160308T181935Z">
