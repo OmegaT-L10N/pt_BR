@@ -19064,8 +19064,8 @@ freedoms that you received.</seg>
       <tuv lang="en">
         <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210519T121630Z" creationid="Isa" creationdate="20210518T183700Z">
-        <seg></seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210519T121752Z" creationid="Isa" creationdate="20210518T183700Z">
+        <seg>O seguinte fragmento de código em groovy, por exemplo, verifica todos os segmentos em todos os arquivos do projeto atual e, se a tradução existir, imprime a fonte e o alvo do segmento:</seg>
       </tuv>
     </tu>
     <tu>
