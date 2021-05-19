@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29991,14 +29991,6 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Now</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T184804Z" creationid="Evandro" creationdate="20160311T184804Z">
-        <seg>Now</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Nr of matching segments: {0}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185853Z" creationid="Evandro" creationdate="20160311T185849Z">
@@ -30442,14 +30434,6 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002138Z" creationid="karol" creationdate="20160309T002138Z">
         <seg>O OmegaT exibirá uma lista de todos os segmentos contendo as palavras especificadas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>OmegaT does not have read and write permissions to this folder.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="User" changedate="20180923T192603Z" creationid="User" creationdate="20180923T192603Z">
-        <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
     </tu>
     <tu>
