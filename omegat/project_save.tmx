@@ -9845,14 +9845,6 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20190930T174022Z" creationid="Sheila" creationdate="20190930T174022Z">
-        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>An example would be a software project, with GUI localized in a number of languages.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214416Z" creationid="karol" creationdate="20160308T214416Z">
@@ -23046,14 +23038,6 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20190925T160231Z" creationid="Sheila" creationdate="20190925T160231Z">
-        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e2&gt;Move Up&lt;/e2&gt; button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002440Z" creationid="karol" creationdate="20160309T002440Z">
@@ -27291,14 +27275,6 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170919T155742Z" creationid="mroch" creationdate="20170919T155727Z">
         <seg>Muitos de vocês, que estão lendo isso, traduzirão muita documentação para usuários.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Mapping for additional sources from remote repository, with filters:</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T012051Z" creationid="sheilagomes" creationdate="20210511T012051Z">
-        <seg>Mapping for additional sources from remote repository, with filters:</seg>
       </tuv>
     </tu>
     <tu>
