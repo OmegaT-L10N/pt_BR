@@ -35166,6 +35166,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T094743Z" creationid="Francisco Valdez" creationdate="20210519T094743Z">
+        <seg>Requisitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170914T093029Z" creationid="CALDAS" creationdate="20170914T093029Z">
