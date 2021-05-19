@@ -26238,8 +26238,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T102030Z" creationid="Francisco Valdez" creationdate="20210519T102030Z">
-        <seg>Versão estável - {{site.data.versions.latest.name}}</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T111200Z" creationid="Francisco Valdez" creationdate="20210519T102030Z">
+        <seg>Última versão - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
