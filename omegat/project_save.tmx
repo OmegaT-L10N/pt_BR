@@ -41239,6 +41239,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The application runs on your machine.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T114620Z" creationid="Francisco Valdez" creationdate="20210519T114620Z">
+        <seg>A ferramenta roda na sua máquina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The argument &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; specifies, whether the target segments are to be equal to the source, or left empty.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182401Z" creationid="karol" creationdate="20160308T182401Z">
