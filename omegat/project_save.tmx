@@ -15189,6 +15189,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T102007Z" creationid="Francisco Valdez" creationdate="20210519T102007Z">
+        <seg>Instruções detalhadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T022442Z" creationid="edumartins" creationdate="20210517T022034Z">
