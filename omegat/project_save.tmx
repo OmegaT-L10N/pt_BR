@@ -37328,6 +37328,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210519T232651Z" creationid="edumartins" creationdate="20210519T232651Z">
+        <seg>Selecione o ícone &lt;f2&gt;OmegaT.png&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T002457Z" creationid="sheilagomes" creationdate="20210513T205005Z">
@@ -45528,8 +45536,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T205219Z" creationid="edumartins" creationdate="20210518T205219Z">
-        <seg>Essa opção só aparece se os dois arquivos selecionados forem reconhecidos como Chave=Valor em textos.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210519T232936Z" creationid="edumartins" creationdate="20210518T205219Z">
+        <seg>Essa opção só aparece se os dois arquivos selecionados forem reconhecidos como textos tipo chave=valor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45768,8 +45776,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T205129Z" creationid="edumartins" creationdate="20210518T204555Z">
-        <seg>Isso funciona mesmo se as chaves não estiverem na mesma ordem nos dois arquivos, e/ou se os dois arquivos não possuírem a mesma quantidade de informação.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210519T232914Z" creationid="edumartins" creationdate="20210518T204555Z">
+        <seg>Isso funciona mesmo se as chaves não estiverem na mesma ordem nos dois arquivos, e/ou se os dois arquivos não tiverem a mesma quantidade de informação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48524,8 +48532,8 @@ na linha {1}, coluna {2}.</seg>
       <tuv lang="en">
         <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T204953Z" creationid="edumartins" creationdate="20210518T204458Z">
-        <seg>Use o modo de comparação &lt;g0&gt;ID&lt;/g0&gt; para alinhar Chave=Valor em textos.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210519T232852Z" creationid="edumartins" creationdate="20210518T204458Z">
+        <seg>Use o modo de comparação &lt;g0&gt;ID&lt;/g0&gt; para alinhar textos tipo chave=valor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58340,8 +58348,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T204544Z" creationid="edumartins" creationdate="20210518T140631Z">
-        <seg>a porcentagem calculada com o texto completo, incluíndo tags e números (normalmente a mais baixa)</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210519T232808Z" creationid="edumartins" creationdate="20210518T140631Z">
+        <seg>a porcentagem calculada com o texto completo, incluindo tags e números (normalmente a mais baixa)</seg>
       </tuv>
     </tu>
     <tu>
