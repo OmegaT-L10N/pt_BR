@@ -41110,8 +41110,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T101735Z" creationid="Francisco Valdez" creationdate="20210519T101735Z">
-        <seg>eThe Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T110758Z" creationid="Francisco Valdez" creationdate="20210519T101735Z">
+        <seg>A Versão estável requer Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
