@@ -41012,6 +41012,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T101735Z" creationid="Francisco Valdez" creationdate="20210519T101735Z">
+        <seg>eThe Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T101659Z" creationid="Evandro" creationdate="20160311T190506Z">
