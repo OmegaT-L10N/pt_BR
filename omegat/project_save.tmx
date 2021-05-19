@@ -20816,6 +20816,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T094027Z" creationid="Francisco Valdez" creationdate="20210519T094027Z">
+        <seg>Contudo, o manual do usuário pode não estar atualizado (and therefore possibly confusing), e é possível haver pequenos erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215129Z" creationid="karol" creationdate="20160308T215129Z">
