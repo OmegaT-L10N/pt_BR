@@ -48097,6 +48097,14 @@ na linha {1}, coluna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T092537Z" creationid="Francisco Valdez" creationdate="20210519T092537Z">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; para abrir e &lt;k1&gt;Esc&lt;/k1&gt; para fechar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; to open and &lt;k2&gt;Esc&lt;/k2&gt; to close it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004526Z" creationid="karol" creationdate="20160309T004526Z">
