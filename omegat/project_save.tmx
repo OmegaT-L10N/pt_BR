@@ -50839,6 +50839,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T115920Z" creationid="Francisco Valdez" creationdate="20210519T115920Z">
+        <seg>XHTML e HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XLIFF</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103304Z" creationid="Evandro" creationdate="20160312T103304Z">
