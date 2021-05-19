@@ -10958,6 +10958,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T094645Z" creationid="Francisco Valdez" creationdate="20210519T094645Z">
+        <seg>Baseado nas suas escolhas, recomendamos que você use:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bashkir</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001000Z" creationid="Evandro" creationdate="20160310T001000Z">
