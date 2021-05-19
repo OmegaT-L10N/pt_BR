@@ -50404,6 +50404,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With/without JRE</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T102356Z" creationid="Francisco Valdez" creationdate="20210519T102356Z">
+        <seg>Com/sem o JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Within a given language pair it is best to keep different subjects and/or clients as separate repositories as well.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170523T185504Z" creationid="karol" creationdate="20160308T172640Z">
