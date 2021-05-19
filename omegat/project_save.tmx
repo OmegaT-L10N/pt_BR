@@ -11391,6 +11391,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T110224Z" creationid="Francisco Valdez" creationdate="20210519T110224Z">
+        <seg>Por Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170918T071155Z" creationid="CALDAS" creationdate="20170918T071155Z">
