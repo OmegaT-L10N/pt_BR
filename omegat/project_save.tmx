@@ -11025,6 +11025,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before proceeding</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T101148Z" creationid="Francisco Valdez" creationdate="20210519T101148Z">
+        <seg>Antes de seguir </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before proceeding with such conversions, be sure to test all options.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181411Z" creationid="karol" creationdate="20160308T181411Z">
