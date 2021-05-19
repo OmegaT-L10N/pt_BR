@@ -9845,6 +9845,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210519T232342Z" creationid="edumartins" creationdate="20210519T232342Z">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An example would be a software project, with GUI localized in a number of languages.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214416Z" creationid="karol" creationdate="20160308T214416Z">
@@ -22998,6 +23006,14 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210519T232340Z" creationid="edumartins" creationdate="20210519T232340Z">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e2&gt;Move Up&lt;/e2&gt; button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002440Z" creationid="karol" creationdate="20160309T002440Z">
@@ -23212,6 +23228,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182141Z" creationid="karol" creationdate="20160308T182141Z">
         <seg>Em KMenuEditor selecione &lt;e3&gt;Arquivo -&gt; Novo item.&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210519T232513Z" creationid="edumartins" creationdate="20210519T232513Z">
+        <seg>Selecione no KMenuEditor &lt;e3&gt;Arquivo &gt; Novo item.&lt;/e3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27227,6 +27251,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170919T155742Z" creationid="mroch" creationdate="20170919T155727Z">
         <seg>Muitos de vocês, que estão lendo isso, traduzirão muita documentação para usuários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for additional sources from remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210519T232343Z" creationid="edumartins" creationdate="20210519T232343Z">
+        <seg>Mapping for additional sources from remote repository, with filters:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32046,6 +32078,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182144Z" creationid="karol" creationdate="20160308T182144Z">
         <seg>Outros ícones - Procure, e acesse a subpasta /images na pasta do programa &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210519T232630Z" creationid="edumartins" creationdate="20210519T232630Z">
+        <seg>Outros ícones - Procure, e acesse a subpasta &lt;f0&gt;/images&lt;/f0&gt; na pasta do programa &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46625,6 +46665,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T224911Z" creationid="karol" creationdate="20160308T182136Z">
         <seg>Para descompactar o arquivo &lt;e1&gt;.tar.gz&lt;/e1&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To untar the &lt;f2&gt;.tar.gz&lt;/f2&gt; file:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210519T232414Z" creationid="edumartins" creationdate="20210519T232414Z">
+        <seg>Para descompactar o arquivo &lt;f2&gt;.tar.gz&lt;/f2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
