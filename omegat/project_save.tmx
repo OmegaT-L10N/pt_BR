@@ -23514,6 +23514,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T102647Z" creationid="Francisco Valdez" creationdate="20210519T102647Z">
+        <seg>Para que rode, OmegaT requer a instalação do Java Runtime Environment (JRE) no seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt; &lt;g4&gt;Properties...&lt;/g4&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002358Z" creationid="karol" creationdate="20160309T002358Z">
