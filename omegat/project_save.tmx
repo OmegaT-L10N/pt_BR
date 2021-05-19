@@ -2167,14 +2167,6 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>+{0} more</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185857Z" creationid="Evandro" creationdate="20160311T185857Z">
-        <seg>+{0} more</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>,</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181005T024130Z" creationid="User" creationdate="20181005T024130Z">
@@ -25784,14 +25776,6 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002139Z" creationid="karol" creationdate="20160309T002139Z">
         <seg>As buscas de palavra-chave são similares à pesquisa "com todas as palavras" em um dispositivo de busca na Internet, como o Google (lógica AND).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185422Z" creationid="Evandro" creationdate="20160311T185422Z">
-        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59441,14 +59425,6 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181005T023834Z" creationid="User" creationdate="20181005T023834Z">
         <seg>{0} ({1})</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>{0} +{1} more</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185858Z" creationid="Evandro" creationdate="20160311T185858Z">
-        <seg>{0} +{1} more</seg>
       </tuv>
     </tu>
     <tu>
