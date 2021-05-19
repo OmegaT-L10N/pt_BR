@@ -30238,6 +30238,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT currently requires version 1.8 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T093334Z" creationid="Francisco Valdez" creationdate="20210519T093334Z">
+        <seg>Atualmente, o OmegaT requer a versão 1.6 do JRE ou mais recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002138Z" creationid="karol" creationdate="20160309T002138Z">
