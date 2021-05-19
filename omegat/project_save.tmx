@@ -10344,6 +10344,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T093705Z" creationid="Francisco Valdez" creationdate="20210519T093705Z">
+        <seg>Como seu nome sugere, a versão "Estável" é a mais atualizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As opposed to user-generated translation memories (as in the case of &lt;a0&gt;OmegaT&lt;/a0&gt;) Machine translation (MT) tools use rule-based linguistic tools to create a translation of the source segment without the need for a translation memory.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201613Z" creationid="karol" creationdate="20160308T201613Z">
