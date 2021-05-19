@@ -28595,6 +28595,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T094552Z" creationid="Francisco Valdez" creationdate="20210519T094552Z">
+        <seg>Mesmo assim, as "Últimas" versões do OmegaT são geralmente muito estáveis e recomendadas para quaisquer usuários que possuem alguma experiência com o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170625T192452Z" creationid="Sheila" creationdate="20170625T192452Z">
