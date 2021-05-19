@@ -11282,6 +11282,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Browser plugin</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T120543Z" creationid="Francisco Valdez" creationdate="20210519T120543Z">
+        <seg>Plugin de navegador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bug reports</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172739Z" creationid="karol" creationdate="20160308T172739Z">
