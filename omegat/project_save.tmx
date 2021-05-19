@@ -7719,6 +7719,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T115342Z" creationid="Francisco Valdez" creationdate="20210519T115342Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; é uma ferramenta de memória de tradução livre que funciona no Windows, macOS, Linux...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170915T024833Z" creationid="mroch" creationdate="20170915T024833Z">
