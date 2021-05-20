@@ -2087,6 +2087,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(external search commands)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T103712Z" creationid="Francisco Valdez" creationdate="20210520T103712Z">
+        <seg>(comandos de busca externa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(including a physical distribution medium), accompanied by a</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201417Z" creationid="karol" creationdate="20160308T201417Z">
