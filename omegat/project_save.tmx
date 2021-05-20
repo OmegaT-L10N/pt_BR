@@ -41479,6 +41479,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T104558Z" creationid="Francisco Valdez" creationdate="20210520T104558Z">
+        <seg>As cores são exibidas contanto que a opção &lt;l1&gt;&lt;g2&gt;Salvar estados auto-preenchidos&lt;/g2&gt;&lt;/l1&gt; esteja marcada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20190420T123132Z" creationid="CALDAS" creationdate="20190420T123132Z">
