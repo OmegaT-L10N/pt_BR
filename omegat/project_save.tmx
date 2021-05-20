@@ -37450,8 +37450,8 @@ In this segment {0,number,#} should remain unchanged</note>
       <tuv lang="en">
         <seg>Select the script you want from the list on the left</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T103435Z" creationid="Francisco Valdez" creationdate="20210520T103435Z">
-        <seg>Selecione o script desejado na lista da esquerda</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T103649Z" creationid="Francisco Valdez" creationdate="20210520T103435Z">
+        <seg>Selecione o script desejado na lista à esquerda</seg>
       </tuv>
     </tu>
     <tu>
