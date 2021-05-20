@@ -21477,6 +21477,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T103842Z" creationid="Francisco Valdez" creationdate="20210520T103842Z">
+        <seg>Se marcadas, as separações entre os parágrafos no documento de origem são indicadas visualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the translated segments will be marked in yellow.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T212611Z" creationid="karol" creationdate="20160308T212611Z">
