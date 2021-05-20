@@ -7719,6 +7719,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T163745Z" creationid="Isa" creationdate="20210520T163745Z">
+        <seg>&lt;s0&gt;Usuários do Linux&lt;/s0&gt;: a maioria das distribuições do Linux é fornecida com Java Runtime Environment, mas algumas implementações de código aberto não funcionam corretamente com o OmegaT (embora não seja aparente de imediato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T115342Z" creationid="Francisco Valdez" creationdate="20210519T115342Z">
