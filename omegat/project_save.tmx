@@ -22820,6 +22820,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T115554Z" creationid="Francisco Valdez" creationdate="20210520T115554Z">
+        <seg>Se você instalar a versão do OmegaT version com o JRE mesmo que já esteja instalado em seu computador, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you later change filters, only the project filters will be updated, while the user filters stay unchanged.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170901T100208Z" creationid="karol" creationdate="20160308T173114Z">
