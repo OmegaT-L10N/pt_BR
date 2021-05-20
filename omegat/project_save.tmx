@@ -15262,6 +15262,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T113114Z" creationid="Francisco Valdez" creationdate="20210520T113114Z">
+        <seg>Versão de desenvolvedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170912T222547Z" creationid="mroch" creationdate="20170912T222547Z">
