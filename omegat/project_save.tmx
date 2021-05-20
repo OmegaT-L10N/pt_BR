@@ -46707,6 +46707,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T144902Z" creationid="edumartins" creationdate="20210520T144531Z">
+        <seg>Para baixar o OpenOffice.org ou o LibreOffice, siga o link do botão "Software de terceiros" à esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190927T121715Z" creationid="Sheila" creationdate="20190927T121715Z">
@@ -58212,8 +58220,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>some version</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T024710Z" creationid="edumartins" creationdate="20210520T024545Z">
-        <seg>some version</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T144538Z" creationid="edumartins" creationdate="20210520T024545Z">
+        <seg>alguma versão</seg>
       </tuv>
     </tu>
     <tu>
