@@ -40699,6 +40699,14 @@ implementation is available to the public in source code form.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T153024Z" creationid="Isa" creationdate="20210520T153024Z">
+        <seg>A versão "master" é uma versão "alpha", de última geração, ainda em desenvolvimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182125Z" creationid="karol" creationdate="20160308T182125Z">
