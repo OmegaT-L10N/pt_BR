@@ -19253,6 +19253,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For most users, these are not of interest.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T154037Z" creationid="Isa" creationdate="20210520T154037Z">
+        <seg>Para a maioria dos usuários, elas não são interessantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For pre-defined options, remove the # before a parameter to enable it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182203Z" creationid="karol" creationdate="20160308T182203Z">
@@ -26496,6 +26504,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Isa" changedate="20210520T153617Z" creationid="Isa" creationdate="20210520T153617Z">
         <seg>Versões obsoletas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T153917Z" creationid="Isa" creationdate="20210520T153917Z">
+        <seg>As versões obsoletas são versões antigas que estão ultrapassadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51809,6 +51825,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170530T215853Z" creationid="karol" creationdate="20160308T171906Z">
         <seg>Você pode ativar as macros selecionadas no menu principal ou também usando as opções no menu &lt;g0&gt;Ferramentas &lt;/g0&gt;ou pressionando&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (F# = teclas F1 a F12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T153757Z" creationid="Isa" creationdate="20210520T153757Z">
+        <seg>Ainda é possíivel encontrar &lt;a0&gt;versões antigas e ultrapassadas&lt;/a0&gt; do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
