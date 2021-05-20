@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25020,14 +25020,6 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170523T185625Z" creationid="karol" creationdate="20160308T181317Z">
         <seg>Foi traduzido em diversos idiomas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>It has usually been in use for some time and is therefore proven.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210520T204907Z" creationid="sheilagomes" creationdate="20210520T204907Z">
-        <seg>It has usually been in use for some time and is therefore proven.</seg>
       </tuv>
     </tu>
     <tu>
