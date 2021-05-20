@@ -21479,8 +21479,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T113732Z" creationid="Francisco Valdez" creationdate="20210520T113601Z">
-        <seg>Se marcado, o fundo de todos os segmentos cujo segmento de destino foi auto-preenchido (de TMXs localizadas em &lt;f0&gt;/tm/auto&lt;/f0&gt; por exemplo) é exibido em cores.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T113751Z" creationid="Francisco Valdez" creationdate="20210520T113601Z">
+        <seg>Se marcado, os fundos de todos os segmentos cujo segmento de destino foi auto-preenchido (de TMXs localizadas em &lt;f0&gt;/tm/auto&lt;/f0&gt; por exemplo) são exibidos em cores.</seg>
       </tuv>
     </tu>
     <tu>
