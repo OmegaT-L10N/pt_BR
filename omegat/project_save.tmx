@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10992,9 +10992,6 @@ Buy another drink</seg>
     <tu>
       <note>Acredito que há espaço suficiente.</note>
       <tuv lang="en">
-        <seg>Beautify resulting DOCX</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20190501T133248Z" creationid="CALDAS" creationdate="20190501T133248Z">
         <seg>Beautify resulting DOCX</seg>
       </tuv>
     </tu>
@@ -26276,16 +26273,6 @@ permissions.</seg>
       <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063812Z" creationid="CALDAS" creationdate="20190420T123407Z">
         <seg>Iniciando o OmegaT (Mac)
 ========================</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Launching OmegaT (Windows)
-==========================</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20181121T231218Z" creationid="Sheila" creationdate="20181121T231218Z">
-        <seg>Launching OmegaT (Windows)
-==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -51041,14 +51028,6 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T003225Z" creationid="sheilagomes" creationdate="20210514T003225Z">
         <seg>Você também pode usar &lt;c3&gt;cd&lt;/c3&gt; diretamente na linha de comando e abrir &lt;f4&gt;Configuration.properties&lt;/f4&gt; em um editor de linha de comando como emacs ou vi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210517T151457Z" creationid="sheilagomes" creationdate="20210517T151457Z">
-        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
     </tu>
     <tu>
