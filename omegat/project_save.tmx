@@ -20319,6 +20319,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T023956Z" creationid="edumartins" creationdate="20210520T023956Z">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gujarati</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171225Z" creationid="karol" creationdate="20160308T171225Z">
@@ -37485,6 +37493,14 @@ In this segment {0,number,#} should remain unchanged</note>
       </tuv>
       <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T024020Z" creationid="edumartins" creationdate="20210517T024020Z">
         <seg>Seleciona a anterior, a próxima ou a correspondência parcial exibida na janela de correspondências parciais para substituir ou inserir no segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T024231Z" creationid="edumartins" creationdate="20210520T024231Z">
+        <seg>Curso de treinamento online em ritmo próprio (para compra)</seg>
       </tuv>
     </tu>
     <tu>
