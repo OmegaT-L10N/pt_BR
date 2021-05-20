@@ -43345,6 +43345,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The results window is laid out in the form of a table in which:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T113227Z" creationid="Francisco Valdez" creationdate="20210520T113227Z">
+        <seg>A janela de resultados é apresentada em forma de tabela na qual:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T170137Z" creationid="karol" creationdate="20160308T170137Z">
