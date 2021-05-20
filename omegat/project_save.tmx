@@ -25042,8 +25042,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T150854Z" creationid="Isa" creationdate="20210520T150854Z">
-        <seg>É uma versão mais recente e inclui recursos novos não presentes na versão Estável.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T203203Z" creationid="Isa" creationdate="20210520T150854Z">
+        <seg>É uma versão mais recente e inclui novos recursos não presentes na versão Estável.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26518,16 +26518,16 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Legacy versions</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T153617Z" creationid="Isa" creationdate="20210520T153617Z">
-        <seg>Versões obsoletas</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T203238Z" creationid="Isa" creationdate="20210520T153617Z">
+        <seg>Versões Legacy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Legacy versions are older versions that have been superseded.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T153917Z" creationid="Isa" creationdate="20210520T153917Z">
-        <seg>As versões obsoletas são versões antigas que estão ultrapassadas.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T203303Z" creationid="Isa" creationdate="20210520T153917Z">
+        <seg>As versões Legacy são versões antigas que estão ultrapassadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27706,6 +27706,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113909Z" creationid="Evandro" creationdate="20160312T113909Z">
         <seg>Máscara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T203049Z" creationid="Isa" creationdate="20210520T203049Z">
+        <seg>Master</seg>
       </tuv>
     </tu>
     <tu>
