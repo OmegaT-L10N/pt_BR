@@ -33289,6 +33289,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T153300Z" creationid="Isa" creationdate="20210520T153300Z">
+        <seg>Binários pré-construídos estão disponíveis como Nightly Builds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pre-defined themes can be set through a script.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T213443Z" creationid="karol" creationdate="20160308T213443Z">
