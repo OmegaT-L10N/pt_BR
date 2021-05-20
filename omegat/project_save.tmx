@@ -34340,6 +34340,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T023338Z" creationid="edumartins" creationdate="20210520T023338Z">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Redo Last Action</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170625T192755Z" creationid="karol" creationdate="20160308T172124Z">
@@ -44429,6 +44437,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T190431Z" creationid="Evandro" creationdate="20160311T190431Z">
         <seg>Estas unidades foram puladas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T023738Z" creationid="edumartins" creationdate="20210520T023738Z">
+        <seg>Esses utilitários permitem que o OmegaT seja usado para traduzir os formatos de arquivos para os quais os filtros de conversão XLIFF estão disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
