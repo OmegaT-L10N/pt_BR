@@ -4738,8 +4738,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.8 of the Java runtime environment.&lt;/i1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T093309Z" creationid="Francisco Valdez" creationdate="20210519T093309Z">
-        <seg>&lt;i1&gt;O OmegaT pode ser instalado em qualquer sistema operacional capaz de rodar a versão 1.6 do Java runtime environment.&lt;/i1&gt;</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T022737Z" creationid="Francisco Valdez" creationdate="20210519T093309Z">
+        <seg>&lt;i1&gt;O OmegaT pode ser instalado em qualquer sistema operacional capaz de rodar a versão 1.8 do Java runtime environment.&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
