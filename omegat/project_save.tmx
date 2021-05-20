@@ -23959,8 +23959,8 @@ sue for patent infringement).</seg>
       <tuv lang="en">
         <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T115144Z" creationid="Francisco Valdez" creationdate="20210520T115144Z">
-        <seg>Neste caso, não selecione a Versão padrão; selecione uma diferente (ex: Estável ou última), then select a version marked "Java not included".</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T115213Z" creationid="Francisco Valdez" creationdate="20210520T115144Z">
+        <seg>Neste caso, não selecione a Versão padrão; selecione uma diferente (ex: Estável ou última), e então selecione a versão marcada "Java not included".</seg>
       </tuv>
     </tu>
     <tu>
