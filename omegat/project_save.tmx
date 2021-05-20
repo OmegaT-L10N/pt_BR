@@ -31856,6 +31856,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T102912Z" creationid="Francisco Valdez" creationdate="20210520T102912Z">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, e onde os scripts podem ser escritos, executados e associados a um atalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T150721Z" creationid="Francisco Valdez" creationdate="20210516T150721Z">
