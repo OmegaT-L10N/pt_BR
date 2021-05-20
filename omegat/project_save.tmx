@@ -51040,6 +51040,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T022555Z" creationid="edumartins" creationdate="20210520T022555Z">
+        <seg>Você também pode adicionar arquivos de origem de páginas da Internet, escritas em MediaWiki, clicando no botão &lt;g3&gt; "Baixar a página MediaWiki"&lt;/g3&gt; e inserindo a URL correspondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T005220Z" creationid="karol" creationdate="20160309T005220Z">
