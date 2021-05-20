@@ -41439,6 +41439,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The certificate is signed by OmegaT's lead developer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T130218Z" creationid="Francisco Valdez" creationdate="20210520T130218Z">
+        <seg>O certificado é assinado pelo desenvolvedor chefe do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The changes are displayed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T220659Z" creationid="Sheila" creationdate="20170904T220659Z">
