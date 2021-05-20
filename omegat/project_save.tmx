@@ -4642,8 +4642,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T152632Z" creationid="Francisco Valdez" creationdate="20210516T152632Z">
-        <seg>&lt;g0&gt;Problemas de Terminologia&lt;/g0&gt; (opcional).</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T102108Z" creationid="Francisco Valdez" creationdate="20210516T152632Z">
+        <seg>&lt;g0&gt;Problemas de terminologia&lt;/g0&gt; (opcional).</seg>
       </tuv>
     </tu>
     <tu>
