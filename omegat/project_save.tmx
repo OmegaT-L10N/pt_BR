@@ -34172,6 +34172,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T101919Z" creationid="Francisco Valdez" creationdate="20210520T101919Z">
+        <seg>A ferramenta de controle de qualidade que realiza todas as verificações automáticas de uma vez e mostra os resultados em uma janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T102904Z" creationid="Evandro" creationdate="20160312T102904Z">
