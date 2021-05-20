@@ -25016,6 +25016,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T150854Z" creationid="Isa" creationdate="20210520T150854Z">
+        <seg>É uma versão mais recente e inclui recursos novos não presentes na versão Estável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170531T001326Z" creationid="karol" creationdate="20160308T171910Z">
@@ -59559,6 +59567,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170625T190724Z" creationid="Sheila" creationdate="20170625T190724Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T145835Z" creationid="Isa" creationdate="20210520T145835Z">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T145759Z" creationid="Isa" creationdate="20210520T145759Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
