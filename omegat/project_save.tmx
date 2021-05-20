@@ -26492,6 +26492,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Legacy versions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T153617Z" creationid="Isa" creationdate="20210520T153617Z">
+        <seg>Versões obsoletas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Legal notices</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171538Z" creationid="karol" creationdate="20160308T171538Z">
@@ -29014,6 +29022,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182454Z" creationid="karol" creationdate="20160308T182454Z">
         <seg>Em seguida, é aberta a caixa de diálogo &lt;g0&gt;Arquivos do projeto&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nightly Builds</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T153310Z" creationid="Isa" creationdate="20210520T153310Z">
+        <seg>Nightly Builds</seg>
       </tuv>
     </tu>
     <tu>
