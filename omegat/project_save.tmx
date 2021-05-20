@@ -5490,8 +5490,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T093103Z" creationid="Francisco Valdez" creationdate="20210519T093103Z">
-        <seg>&lt;l0&gt;As expressões regulares&lt;/l0&gt; são uma excelente maneira de procurar por ocorrências de uma sequência.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T022543Z" creationid="Francisco Valdez" creationdate="20210519T093103Z">
+        <seg>&lt;l0&gt;As expressões regulares&lt;/l0&gt; são uma excelente maneira de procurar por ocorrências de uma sequência de caracteres.</seg>
       </tuv>
     </tu>
     <tu>
