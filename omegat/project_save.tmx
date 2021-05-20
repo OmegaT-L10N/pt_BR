@@ -33231,6 +33231,14 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Plug-ins</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T154724Z" creationid="Isa" creationdate="20210520T154724Z">
+        <seg>Plug-ins</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
@@ -34175,6 +34183,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T015253Z" creationid="CarolVignolis" creationdate="20181014T015253Z">
         <seg>Fornecedor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T154834Z" creationid="Isa" creationdate="20210520T154821Z">
+        <seg>Fornece filtros para lidar com mais formatos de arquivo, incluindo o Trados TTX e Markdown.</seg>
       </tuv>
     </tu>
     <tu>
