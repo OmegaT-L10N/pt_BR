@@ -22508,6 +22508,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T161700Z" creationid="Isa" creationdate="20210520T161700Z">
+        <seg>Caso não tenha certeza de que sua versão do JRE é apropriada, selecione a versão com JRE (ou a versão padrão).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110622Z" creationid="Evandro" creationdate="20160312T110622Z">
