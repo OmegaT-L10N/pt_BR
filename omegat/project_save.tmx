@@ -25000,6 +25000,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T145102Z" creationid="edumartins" creationdate="20210520T145102Z">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181316Z" creationid="karol" creationdate="20160308T181316Z">
@@ -47845,6 +47853,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T144955Z" creationid="edumartins" creationdate="20210520T144955Z">
+        <seg>&lt;a0&gt;Doação&lt;/a0&gt;em USD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uighur, Uyghur</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171338Z" creationid="karol" creationdate="20160308T171338Z">
@@ -49010,6 +49026,14 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170918T154415Z" creationid="mroch" creationdate="20170918T154415Z">
         <seg>Foto do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User requirements</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T144920Z" creationid="edumartins" creationdate="20210520T144920Z">
+        <seg>Requisitos do usuário</seg>
       </tuv>
     </tu>
     <tu>
