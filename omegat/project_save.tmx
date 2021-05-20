@@ -10994,6 +10994,9 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Beautify resulting DOCX</seg>
       </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T022907Z">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
     </tu>
     <tu>
       <note>Segment added on version 3.6</note>
@@ -19250,6 +19253,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T023034Z" creationid="edumartins" creationdate="20210520T023034Z">
+        <seg>Para solicitações de suporte, use o &lt;a1&gt;canal de suporte recomendado&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For technical details, see the &lt;u0&gt;Request For Enhancement&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T212620Z" creationid="karol" creationdate="20160308T212620Z">
@@ -26273,6 +26284,16 @@ permissions.</seg>
       <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20210514T063812Z" creationid="CALDAS" creationdate="20190420T123407Z">
         <seg>Iniciando o OmegaT (Mac)
 ========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T022637Z" creationid="edumartins" creationdate="20210520T022637Z">
+        <seg>Iniciando o OmegaT (Windows)
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -59488,6 +59509,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170915T024701Z" creationid="mroch" creationdate="20170915T024701Z">
         <seg>×</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T023334Z" creationid="edumartins" creationdate="20210520T023334Z">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
       </tuv>
     </tu>
     <tu>
