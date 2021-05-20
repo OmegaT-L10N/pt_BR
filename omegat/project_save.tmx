@@ -36605,6 +36605,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T101459Z" creationid="Francisco Valdez" creationdate="20210520T101459Z">
+        <seg>Veja &lt;l0&gt;Usar um projeto de equipe&lt;/l0&gt; para mais detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181230Z" creationid="karol" creationdate="20160308T181230Z">
