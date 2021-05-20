@@ -22822,8 +22822,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T115554Z" creationid="Francisco Valdez" creationdate="20210520T115554Z">
-        <seg>Se você instalar a versão do OmegaT version com o JRE mesmo que já esteja instalado em seu computador, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T115629Z" creationid="Francisco Valdez" creationdate="20210520T115554Z">
+        <seg>Se você instalar a versão do OmegaT version com o JRE mesmo que já esteja instalado em seu computador, O JRE do OmegaT será instalado separadamente e não causará conflito.</seg>
       </tuv>
     </tu>
     <tu>
