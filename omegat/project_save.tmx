@@ -33760,6 +33760,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T033258Z" creationid="edumartins" creationdate="20210521T033258Z">
+        <seg>Informação de privacidade: O OmegaT Java Web Start não guarda nenhuma informação sua nos servidores do OmegaT na Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Private collections are displayed in bold.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003302Z" creationid="karol" creationdate="20160309T003302Z">
@@ -40855,6 +40863,14 @@ implementation is available to the public in source code form.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20200614T150131Z" creationid="CALDAS" creationdate="20200614T150131Z">
         <seg>É a versão do OmegaT com seu próprio Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T033354Z" creationid="edumartins" creationdate="20210521T033354Z">
+        <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
       </tuv>
     </tu>
     <tu>
