@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30672,8 +30672,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T032715Z" creationid="edumartins" creationdate="20210521T032430Z">
-        <seg>OmegaT para MacOS está disponível tanto em versões Assinada ou Não assinada; elas são idênticas em funcionalidade, mas a versão Assinada tem preferência, já que é reconhecida pelo sistema como sendo a) publicada por um desenvolvedor conhecido, e b) verificada pela Apple.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T143314Z" creationid="edumartins" creationdate="20210521T032430Z">
+        <seg>O OmegaT para MacOS está disponível tanto em versões Assinada ou Não assinada; elas são idênticas em funcionalidade, mas a versão Assinada tem preferência, já que é reconhecida pelo sistema como sendo a) publicada por um desenvolvedor conhecido, e b) verificada pela Apple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33754,8 +33754,8 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="en">
         <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T033258Z" creationid="edumartins" creationdate="20210521T033258Z">
-        <seg>Informação de privacidade: O OmegaT Java Web Start não guarda nenhuma informação sua nos servidores do OmegaT na Internet.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T143407Z" creationid="edumartins" creationdate="20210521T033258Z">
+        <seg>Informação de privacidade: o OmegaT Java Web Start não guarda nenhuma informação sua nos servidores do OmegaT na Internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40855,6 +40855,14 @@ implementation is available to the public in source code form.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20200614T150131Z" creationid="CALDAS" creationdate="20200614T150131Z">
         <seg>É a versão do OmegaT com seu próprio Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T143309Z" creationid="edumartins" creationdate="20210521T143309Z">
+        <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
       </tuv>
     </tu>
     <tu>
