@@ -24976,6 +24976,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be obtained using the git command:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210521T153741Z" creationid="Isa" creationdate="20210521T153741Z">
+        <seg>Também pode ser obtida ao usar o comando git:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181423Z" creationid="karol" creationdate="20160308T181423Z">
@@ -32913,6 +32921,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002056Z" creationid="karol" creationdate="20160309T002056Z">
         <seg>Ponto final, seguido por um caractere maiúsculo - possivelmente um espaço está faltando entre o ponto final e o início de uma nova sentença?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Periodic builds are available on SourceForge.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210521T154016Z" creationid="Isa" creationdate="20210521T154016Z">
+        <seg>Compilações periódicas estão disponíveis no SourceForge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54653,6 +54669,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001014Z" creationid="Evandro" creationdate="20160310T001014Z">
         <seg>gd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210521T153809Z" creationid="Isa" creationdate="20210521T153809Z">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
     </tu>
     <tu>
