@@ -23698,6 +23698,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.8 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T033151Z" creationid="edumartins" creationdate="20210521T033151Z">
+        <seg>Para instalar a versão Web start, você precisa já ter a versão 1.8 ou superior do Java instalada em seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T102702Z" creationid="Francisco Valdez" creationdate="20210519T102647Z">
@@ -41475,6 +41483,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20200309T163351Z" creationid="CALDAS" creationdate="20200309T163351Z">
         <seg>A versão Web Start é a versão do tipo "instale e esqueça".&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T033038Z" creationid="edumartins" creationdate="20210521T033038Z">
+        <seg>A versão Web Start oferece modos alternativos para instalar o OmegaT em seu computador.</seg>
       </tuv>
     </tu>
     <tu>
