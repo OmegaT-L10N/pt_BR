@@ -10320,6 +10320,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T023632Z" creationid="edumartins" creationdate="20210521T023632Z">
+        <seg>Como acima, mas somente para o documento atualmente exibido no painel do editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As above.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011022Z" creationid="sheilagomes" creationdate="20210511T011022Z">
@@ -10452,6 +10460,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182114Z" creationid="karol" creationdate="20160308T182114Z">
         <seg>No início da instalação é possível selecionar o idioma que será usado durante a instalação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T023856Z" creationid="edumartins" creationdate="20210521T023856Z">
+        <seg>Na parte de baixo da janela clique com o botão direito em um número livre e selecione &lt;g0&gt;Adicionar script&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26400,6 +26416,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T175417Z" creationid="CarolVignolis" creationdate="20181014T175417Z">
         <seg>Inicializar o programa de instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launches scripts that have been associated with a number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T023706Z" creationid="edumartins" creationdate="20210521T023706Z">
+        <seg>Inicializa scripts que foram associados a um número.</seg>
       </tuv>
     </tu>
     <tu>
