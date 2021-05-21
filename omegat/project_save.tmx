@@ -10181,6 +10181,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T024302Z" creationid="edumartins" creationdate="20210521T024106Z">
+        <seg>Apêndices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181301Z" creationid="karol" creationdate="20160308T181301Z">
@@ -22507,6 +22515,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T024144Z" creationid="edumartins" creationdate="20210521T024144Z">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T165956Z" creationid="karol" creationdate="20160308T165956Z">
@@ -28342,6 +28358,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172741Z" creationid="karol" creationdate="20160308T172741Z">
         <seg>Mais detalhes no artigo &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; de Joel Spolsky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T024227Z" creationid="edumartins" creationdate="20210521T024227Z">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
       </tuv>
     </tu>
     <tu>
