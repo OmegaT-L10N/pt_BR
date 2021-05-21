@@ -21573,6 +21573,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T024032Z" creationid="edumartins" creationdate="20210521T024032Z">
+        <seg>Se comandos para realizar buscar externas foram definidos em &lt;l0&gt;Preferências&lt;/l0&gt;, eles estão listados e acessíveis aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If conditions are imposed on you (whether by court order, agreement or
 otherwise) that contradict the conditions of this License, they do not
 excuse you from the conditions of this License.</seg>
