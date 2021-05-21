@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -56504,8 +56504,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T125623Z" creationid="Francisco Valdez" creationdate="20210520T125419Z">
-        <seg>macOS tenta aumentar a segurança dificultando a execução de programas não verificados.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210521T014222Z" creationid="Francisco Valdez" creationdate="20210520T125419Z">
+        <seg>O macOS tenta aumentar a segurança dificultando a execução de programas não verificados.</seg>
       </tuv>
     </tu>
     <tu>
