@@ -22517,8 +22517,8 @@ where to find the applicable terms.</seg>
       <tuv lang="en">
         <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T024144Z" creationid="edumartins" creationdate="20210521T024144Z">
-        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T024540Z" creationid="edumartins" creationdate="20210521T024144Z">
+        <seg>Se você é relativamente novo em Linux, aconselhamos que selecione uma versão do OmegaT com JRE incluído.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28364,8 +28364,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T024227Z" creationid="edumartins" creationdate="20210521T024227Z">
-        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T031820Z" creationid="edumartins" creationdate="20210521T024227Z">
+        <seg>Usuários mais experientes em Linux podem preferir instalar o JRE da Oracle (antiga Sun) no sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29491,6 +29491,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T170413Z" creationid="karol" creationdate="20160308T170413Z">
         <seg>Sem esquecer do seu cuidado e diligência, ao manter os repositórios intactos e em boa ordem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T024400Z" creationid="edumartins" creationdate="20210521T024400Z">
+        <seg>Notarized vs Unsigned</seg>
       </tuv>
     </tu>
     <tu>
