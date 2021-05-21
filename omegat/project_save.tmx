@@ -53890,8 +53890,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T102736Z" creationid="Francisco Valdez" creationdate="20210520T102736Z">
-        <seg>um duplo clique na fileira ativa o segmento correspondente no Painel do editor,</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210521T014312Z" creationid="Francisco Valdez" creationdate="20210520T102736Z">
+        <seg>um duplo clique na linha ativa o segmento correspondente no Painel do editor,</seg>
       </tuv>
     </tu>
     <tu>
