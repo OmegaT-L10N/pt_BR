@@ -29497,8 +29497,8 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       <tuv lang="en">
         <seg>Notarized vs Unsigned</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T032234Z" creationid="edumartins" creationdate="20210521T024400Z">
-        <seg>Assinado vs Não assinado</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T032552Z" creationid="edumartins" creationdate="20210521T024400Z">
+        <seg>Assinada vs Não assinada</seg>
       </tuv>
     </tu>
     <tu>
@@ -30666,6 +30666,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170918T071155Z" creationid="CALDAS" creationdate="20170918T071155Z">
         <seg>Tutorial para Iniciantes do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T032430Z" creationid="edumartins" creationdate="20210521T032430Z">
+        <seg>OmegaT para MacOS está disponível tanto em versões Assinada ou Não assinada; elas são idênticas em funcionalidade, mas a versão Assinada they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
       </tuv>
     </tu>
     <tu>
