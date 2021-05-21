@@ -38849,8 +38849,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source code packages are not required by users and are intended for developers only.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210521T154257Z" creationid="Isa" creationdate="20210521T154257Z">
-        <seg>Os pacotes de código-fonte não são necessários para os usuários e são destinados apenas aos desenvolvedores.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210521T154316Z" creationid="Isa" creationdate="20210521T154257Z">
+        <seg>Os pacotes de código-fonte não são necessários para os usuários e são destinados aos desenvolvedores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44934,6 +44934,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230229Z" creationid="sheilagomes" creationdate="20210503T230229Z">
         <seg>Eles podem ser criados e atualizados manualmente ou importados de outros projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be found in the folders of the corresponding compiled versions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210521T154441Z" creationid="Isa" creationdate="20210521T154441Z">
+        <seg>Eles são encontrados nas  pastas das versões compiladas correspondentes.</seg>
       </tuv>
     </tu>
     <tu>
