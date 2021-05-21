@@ -92,3 +92,4 @@ Parsewise	Com análise
 Forward-Backward	Para frente-para trás
 Project Files	Arquivos do projeto	Quando se refere ao termo presente no menu Projeto.
 Legacy version	versão legada
+header	cabeçalho
