@@ -25216,6 +25216,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210521T151456Z" creationid="Isa" creationdate="20210521T151456Z">
+        <seg>é possível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is safest
 to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
