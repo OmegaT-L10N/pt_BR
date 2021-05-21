@@ -94,5 +94,5 @@ Project Files	Arquivos do projeto	Quando se refere ao termo presente no menu Pro
 Legacy version	versão legada
 header	cabeçalho
 Add Script	Adicionar script
-Notarized	Assinado
-Unsigned	Não assinado
+Notarized	Assinada
+Unsigned	Não assinada
