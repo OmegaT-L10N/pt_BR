@@ -30672,8 +30672,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T032430Z" creationid="edumartins" creationdate="20210521T032430Z">
-        <seg>OmegaT para MacOS está disponível tanto em versões Assinada ou Não assinada; elas são idênticas em funcionalidade, mas a versão Assinada they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T032715Z" creationid="edumartins" creationdate="20210521T032430Z">
+        <seg>OmegaT para MacOS está disponível tanto em versões Assinada ou Não assinada; elas são idênticas em funcionalidade, mas a versão Assinada tem preferência, já que é reconhecida pelo sistema como sendo a) publicada por um desenvolvedor conhecido, e b) verificada pela Apple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44654,6 +44654,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be a delay in publishing the Notarized version.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T032736Z" creationid="edumartins" creationdate="20210521T032736Z">
+        <seg>Pode haver atraso na publicação da versão Assinada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003809Z" creationid="karol" creationdate="20160309T003809Z">
@@ -49283,6 +49291,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T000343Z" creationid="CALDAS" creationdate="20170912T000343Z">
         <seg>Os usuários são livres para baixar e usar o programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T032929Z" creationid="edumartins" creationdate="20210521T032929Z">
+        <seg>Usuários com pressa podem usar a versão Não assinada em seu lugar; se você tiver dificuldade em inicializar o aplicativo, veja &lt;a0&gt;como abrir um aplicativo de um desenvolvedor não identificado&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
