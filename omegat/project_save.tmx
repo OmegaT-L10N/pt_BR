@@ -28015,6 +28015,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T014315Z" creationid="Isa" creationdate="20210522T014315Z">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Memor&amp;y</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185138Z" creationid="Evandro" creationdate="20160311T185138Z">
@@ -31825,6 +31833,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T014310Z" creationid="Isa" creationdate="20210522T014310Z">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Document Format (ODF) files</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T202907Z" creationid="karol" creationdate="20160308T180739Z">
@@ -33133,6 +33149,14 @@ to determine the source of the error and try again.</seg>
         <seg>Consulte o arquivo de registro
 ({1})
 para determinar a origem do erro e tente novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T014937Z" creationid="Isa" creationdate="20210522T014937Z">
+        <seg>Entre em contato com o &lt;a0&gt;coordenador de localização do OmegaT&lt;/a0&gt; para detalhes sobre a localização/tradução do programa.</seg>
       </tuv>
     </tu>
     <tu>
