@@ -23318,6 +23318,14 @@ work and works based on it.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T012848Z" creationid="Isa" creationdate="20210522T012848Z">
+        <seg>Importante: os plugins listados funcionam na versão 4 ou superior do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Importing Wiki Page Failed</seg>
