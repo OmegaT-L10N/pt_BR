@@ -2654,8 +2654,8 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="en">
         <seg>...and around 30 other file formats</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="mroch" changedate="20170915T025553Z" creationid="mroch" creationdate="20170915T025553Z">
-        <seg>... e cerca de 30 outros formatos de arquivo</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210522T020746Z" creationid="mroch" creationdate="20170915T025553Z">
+        <seg>...e cerca de 30 outros formatos de arquivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -48424,8 +48424,8 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       <tuv lang="en">
         <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="mroch" changedate="20170915T025605Z" creationid="mroch" creationdate="20170915T025605Z">
-        <seg>Suporte Unicode (UTF-8): pode ser usado com alfabetos não-latinos</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210522T020803Z" creationid="mroch" creationdate="20170915T025605Z">
+        <seg>Suporte a Unicode (UTF-8): pode ser usado com alfabetos não-latinos</seg>
       </tuv>
     </tu>
     <tu>
