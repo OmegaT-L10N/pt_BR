@@ -21591,8 +21591,8 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="en">
         <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210522T015803Z" creationid="edumartins" creationdate="20210521T024032Z">
-        <seg>Os comandos para realizar buscar externas foram definidos em &lt;l0&gt;Preferências&lt;/l0&gt;, eles estão listados e acessíveis aqui.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210522T015839Z" creationid="edumartins" creationdate="20210521T024032Z">
+        <seg>Os comandos para realizar buscar externas que forem definidos em &lt;l0&gt;Preferências&lt;/l0&gt;estarão listados e acessíveis aqui.</seg>
       </tuv>
     </tu>
     <tu>
