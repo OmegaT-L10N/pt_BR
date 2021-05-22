@@ -10330,8 +10330,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="edumartins" changedate="20210521T023632Z" creationid="edumartins" creationdate="20210521T023632Z">
-        <seg>Como acima, mas somente para o documento atualmente exibido no painel do editor.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210522T015531Z" creationid="edumartins" creationdate="20210521T023632Z">
+        <seg>Como acima, mas somente para o documento exibido atualmente no painel do editor.</seg>
       </tuv>
     </tu>
     <tu>
