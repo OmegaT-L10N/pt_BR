@@ -28153,6 +28153,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Word, Excel, Power</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T014254Z" creationid="Isa" creationdate="20210522T014228Z">
+        <seg>Microsoft Word, Excel, Powerpoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mine</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113607Z" creationid="Evandro" creationdate="20160312T113607Z">
