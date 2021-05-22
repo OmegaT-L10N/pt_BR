@@ -32162,8 +32162,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210522T231708Z" creationid="Francisco Valdez" creationdate="20210520T102912Z">
-        <seg>Abre a &lt;l0&gt;Janela de&lt;g1&gt; script &lt;/g1&gt; &lt;/l0&gt;, em que pode ser definido o local dos scripts, e onde os scripts podem ser escritos, executados e associados a um atalho.</seg>
+      <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210522T231814Z" creationid="Francisco Valdez" creationdate="20210520T102912Z">
+        <seg>Abre a &lt;l0&gt;Janela de&lt;g1&gt; script &lt;/g1&gt;&lt;/l0&gt;, em que pode ser definido o local dos scripts, e onde os scripts podem ser escritos, executados e associados a um atalho.</seg>
       </tuv>
     </tu>
     <tu>
