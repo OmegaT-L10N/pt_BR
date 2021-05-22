@@ -16618,6 +16618,14 @@ Segment added on version 3.6
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EPWING plugin</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T012241Z" creationid="Isa" creationdate="20210522T012225Z">
+        <seg>Plugin EPWING.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T112406Z" creationid="Evandro" creationdate="20160312T112406Z">
@@ -34339,6 +34347,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides functionality to read EPWING dictionary format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T012503Z" creationid="Isa" creationdate="20210522T012503Z">
+        <seg>Fornece recurso para ler o dicionário no formato EPWING.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170914T030553Z" creationid="CALDAS" creationdate="20170913T100547Z">
@@ -41513,8 +41529,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The TexTra API is freely provided by NICT, Japan government research agency.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T012152Z" creationid="Isa" creationdate="20210522T012152Z">
-        <seg>A API do TexTra é fornecido gratuitamente pela NICT, uma agência de pesquisa do governo japonês.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T012220Z" creationid="Isa" creationdate="20210522T012152Z">
+        <seg>A API do TexTra é fornecida gratuitamente pela NICT, uma agência de pesquisa do governo japonês.</seg>
       </tuv>
     </tu>
     <tu>
