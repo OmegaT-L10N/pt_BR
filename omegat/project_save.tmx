@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15271,8 +15271,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T031846Z" creationid="CALDAS" creationdate="20170912T031632Z">
-        <seg>Detalhadas discussões técnicas sobre alterações são melhor aproveitadas se feitas diretamente com os desenvolvedores do OmegaT.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20210522T155629Z" creationid="CALDAS" creationdate="20170912T031632Z">
+        <seg>Discussões técnicas detalhadas sobre alterações são melhores aproveitadas se feitas diretamente com os desenvolvedores do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20869,8 +20869,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T041119Z" creationid="CALDAS" creationdate="20170912T000909Z">
-        <seg>No entanto, como decidem fazê-lo vai de acordo com o julgamento de cada um deles.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20210522T154634Z" creationid="CALDAS" creationdate="20170912T000909Z">
+        <seg>No entanto, como farão isso, é decisão deles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23804,8 +23804,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In some areas, some degree of co-ordination is required.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T014450Z" creationid="CALDAS" creationdate="20170912T014450Z">
-        <seg>Em algumas áreas, é necessário algum grau de coordenação.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20210522T154829Z" creationid="CALDAS" creationdate="20170912T014450Z">
+        <seg>Em certas áreas, é requerido algum grau de coordenação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26873,8 +26873,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T043514Z" creationid="CALDAS" creationdate="20170912T034508Z">
-        <seg>Literalmente centenas de RFE foram feitos e muitos já foram implementados.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20210522T155819Z" creationid="CALDAS" creationdate="20170912T034508Z">
+        <seg>Literalmente centenas de RFE foram feitas e muitos já foram implementadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29537,8 +29537,8 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       <tuv lang="en">
         <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T032250Z" creationid="CALDAS" creationdate="20170911T234502Z">
-        <seg>Não somente pode ser usado gratuitamente, mas os usuários também podem fazer cópias e distribuí-las livremente.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20210522T151251Z" creationid="CALDAS" creationdate="20170911T234502Z">
+        <seg>Não somente para ser usado gratuitamente, mas os usuários também para fazer cópias e distribuí-las livremente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30923,8 +30923,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="en">
         <seg>OmegaT is an open-source application and project.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T115843Z" creationid="CALDAS" creationdate="20170911T233025Z">
-        <seg>O OmegaT é um aplicativo de código aberto e de projetos.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20210520T193854Z" creationid="CALDAS" creationdate="20170911T233025Z">
+        <seg>O OmegaT é um aplicativo de código aberto e projetos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31731,8 +31731,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T051225Z" creationid="CALDAS" creationdate="20170912T030718Z">
-        <seg>Isso se deve ao fato de que a função desejada pode já ter sido implementada, ou pode ser que existem razões para a impossibilidade de implementá-las, ou ainda, </seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20210522T155510Z" creationid="CALDAS" creationdate="20170912T030718Z">
+        <seg>Isso se deve ao fato de que a função desejada pode já ter sido implementada, ou pode haver razões para a impossibilidade de implementá-las, ou ainda, </seg>
       </tuv>
     </tu>
     <tu>
@@ -43414,8 +43414,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T043347Z" creationid="CALDAS" creationdate="20170912T034417Z">
-        <seg>O procedimento é denominado como &lt;a0&gt;“RFE” (Request for Feature Enhancement, solicitação de melhoria de recurso) e é gerido aqui&lt;/a0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20210522T155742Z" creationid="CALDAS" creationdate="20170912T034417Z">
+        <seg>O procedimento é denominado como &lt;a0&gt;“RFE” (Request for Feature Enhancement, solicitação de melhoria de recurso) e é administrado aqui&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43755,8 +43755,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The same spirit can be found within the OmegaT project.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T000336Z" creationid="CALDAS" creationdate="20170912T000336Z">
-        <seg>A mesma correlação pode ser encontrada no projeto OmegaT.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20210522T154532Z" creationid="CALDAS" creationdate="20170912T000336Z">
+        <seg>A mesma idéia pode ser encontrada no projeto OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44776,8 +44776,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T030417Z" creationid="CALDAS" creationdate="20170912T030417Z">
-        <seg>No entanto, há margem considerável no projeto para os usuários sugerirem melhorias e influenciar o curso do desenvolvimento futuro.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20210522T155405Z" creationid="CALDAS" creationdate="20170912T030417Z">
+        <seg>No entanto, há um escopo considerável dentro do projeto para que os usuários possam sugerir melhorias e influenciar o curso do desenvolvimento futuros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45693,8 +45693,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T040028Z" creationid="CALDAS" creationdate="20170912T000155Z">
-        <seg>Isso é descrito como “free as in speech”, em contraste com o “free as in beer”.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20210522T154427Z" creationid="CALDAS" creationdate="20170912T000155Z">
+        <seg>Isso é conhecido como “free as in speech”, em contraste com o “free as in beer”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45976,8 +45976,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20170911T233852Z" creationid="CALDAS" creationdate="20170911T233852Z">
-        <seg>Isso significa que o código-fonte do OmegaT está disponível gratuitamente e que a licença do OmegaT proporciona aos seus usuários uma liberdade considerável na sua utilização.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20210520T194211Z" creationid="CALDAS" creationdate="20170911T233852Z">
+        <seg>Isso significa que o código-fonte do OmegaT está disponível gratuitamente, e que a licença do OmegaT permite aos seus usuários uma liberdade considerável na sua utilização.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50744,8 +50744,8 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
       <tuv lang="en">
         <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T122332Z" creationid="CALDAS" creationdate="20170912T002355Z">
-        <seg>No que tange a tarefas de rotina, é garantido aos voluntários que trabalham no projeto OmegaT o máximo de liberdade possível para determinar como contribuirão.</seg>
+      <tuv lang="pt-BR" changeid="User" changedate="20210522T154730Z" creationid="CALDAS" creationdate="20170912T002355Z">
+        <seg>Nas tarefas de rotina, é garantido aos voluntários que trabalham no projeto OmegaT o máximo de liberdade possível para determinar como contribuirão.</seg>
       </tuv>
     </tu>
     <tu>
