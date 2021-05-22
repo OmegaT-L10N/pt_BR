@@ -41511,6 +41511,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TexTra API is freely provided by NICT, Japan government research agency.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T012152Z" creationid="Isa" creationdate="20210522T012152Z">
+        <seg>A API do TexTra é fornecido gratuitamente pela NICT, uma agência de pesquisa do governo japonês.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20190420T123114Z" creationid="CALDAS" creationdate="20190420T123114Z">
