@@ -28025,8 +28025,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>MediaWiki (Wikipedia)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T014315Z" creationid="Isa" creationdate="20210522T014315Z">
-        <seg>MediaWiki (Wikipedia)</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T134353Z" creationid="Isa" creationdate="20210522T014315Z">
+        <seg>MediaWiki (Wikipédia)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34405,8 +34405,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>Provides functionality to read EPWING dictionary format.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T012503Z" creationid="Isa" creationdate="20210522T012503Z">
-        <seg>Fornece recurso para ler o dicionário no formato EPWING.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T134506Z" creationid="Isa" creationdate="20210522T012503Z">
+        <seg>Fornece recursos para ler o dicionário no formato EPWING.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50173,8 +50173,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>Website support can be scripted in Groovy.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T011159Z" creationid="Isa" creationdate="20210522T005036Z">
-        <seg>O suporte do site pode ser com script em Groovy.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T134416Z" creationid="Isa" creationdate="20210522T005036Z">
+        <seg>O suporte do site pode ser escrito em Groovy.</seg>
       </tuv>
     </tu>
     <tu>
