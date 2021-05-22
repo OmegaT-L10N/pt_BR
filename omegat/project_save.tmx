@@ -9649,8 +9649,8 @@ conditions are met.</seg>
       <tuv lang="en">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="mroch" changedate="20170919T154815Z" creationid="mroch" creationdate="20170918T162100Z">
-        <seg>Embora muitos usuários saibam disso, a maioria deles não ajuda o porque não sabe programar.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210522T021223Z" creationid="mroch" creationdate="20170918T162100Z">
+        <seg>Embora muitos usuários saibam disso, a maioria deles não ajuda por não saber programar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39694,8 +39694,8 @@ makes it unnecessary.</seg>
       <tuv lang="en">
         <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="mroch" changedate="20170919T161412Z" creationid="mroch" creationdate="20170919T161412Z">
-        <seg>Muito código auxiliar já foi escrito em Javascript, Groovy e Tcl / Tk, por exemplo.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210522T021426Z" creationid="mroch" creationdate="20170919T161412Z">
+        <seg>Muito código auxiliar já foi escrito em Javascript, Groovy e Tcl/Tk, por exemplo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40875,8 +40875,8 @@ O escopo de uma substituição de texto inclui os segmentos destino do projeto, 
       <tuv lang="en">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="mroch" changedate="20170918T161340Z" creationid="mroch" creationdate="20170918T161340Z">
-        <seg>Isso significa que se você quiser muito, você pode até modificar OmegaT para se ele adeque às suas nececidades.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210522T021147Z" creationid="mroch" creationdate="20170918T161340Z">
+        <seg>Isso significa que se você quiser muito, pode até modificar OmegaT para se ele adeque às suas necessidades.</seg>
       </tuv>
     </tu>
     <tu>
