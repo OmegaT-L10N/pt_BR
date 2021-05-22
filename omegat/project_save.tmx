@@ -24713,8 +24713,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Integrates the TexTra neural machine translation engine into OmegaT.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T011558Z" creationid="Isa" creationdate="20210522T011558Z">
-        <seg>Integra o TexTra, mecanismo de tradução de máquina neural, dentro do OmegaT.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T015548Z" creationid="Isa" creationdate="20210522T011558Z">
+        <seg>Integra o TexTra, mecanismo de tradução de máquina neural, ao OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
