@@ -30670,6 +30670,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210522T013215Z" creationid="Isa" creationdate="20210522T013215Z">
+        <seg>O OmegaT não tem permissão para ler e escrever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181013T133430Z" creationid="CarolVignolis" creationdate="20181013T133430Z">
