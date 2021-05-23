@@ -39678,8 +39678,8 @@ makes it unnecessary.</seg>
       <tuv lang="en">
         <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T183116Z" creationid="Isa" creationdate="20210515T204810Z">
-        <seg>Os próximos cliques em &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; verificarão se há alguma versão mais nova e, se houver, ela será instalada para, então, o &lt;a2&gt;OmegaT&lt;/a2&gt; ser inicializado.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T142448Z" creationid="Isa" creationdate="20210515T204810Z">
+        <seg>Os próximos cliques em &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; verificarão se há alguma versão mais nova e, se houver, ela será instalada e depois o &lt;a2&gt;OmegaT&lt;/a2&gt; será inicializado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59717,8 +59717,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T213320Z" creationid="Isa" creationdate="20210515T212026Z">
-        <seg>em &lt;p0&gt;pasta&lt;/p0&gt; está o nome da pasta, com o caminho completo, na qual o programa &lt;a1&gt;OmegaT&lt;/a1&gt; – ou mais especificamente, o arquivo &lt;f2&gt;OmegaT.jar&lt;/f2&gt; – está localizado.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T142709Z" creationid="Isa" creationdate="20210515T212026Z">
+        <seg>em &lt;p0&gt;pasta&lt;/p0&gt; está a pasta na qual o programa &lt;a1&gt;OmegaT&lt;/a1&gt; (ou mais especificamente, o arquivo &lt;f2&gt;OmegaT.jar&lt;/f2&gt;) está localizado.</seg>
       </tuv>
     </tu>
     <tu>
