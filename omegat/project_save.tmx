@@ -51765,8 +51765,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T200034Z" creationid="Isa" creationdate="20210515T195426Z">
-        <seg>Também é possível usar o AppleScript ou Automator para criar Serviços ou scripts que automatizem as ações frequentes.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T142215Z" creationid="Isa" creationdate="20210515T195426Z">
+        <seg>Também é possível usar o AppleScript ou Automator para criar Serviços ou scripts que automatizem ações frequentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52167,8 +52167,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T210730Z" creationid="Isa" creationdate="20210515T194924Z">
-        <seg>Será possível, portanto, selecionar uma palavra em qualquer lugar no &lt;a1&gt;OmegaT&lt;/a1&gt; e usar Serviços para conferir essa palavra no Google ou no Spotlight, por exemplo.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T141926Z" creationid="Isa" creationdate="20210515T194924Z">
+        <seg>Será possível, portanto, selecionar uma palavra em qualquer lugar no &lt;a1&gt;OmegaT&lt;/a1&gt; e usar Serviços para conferi-la no Google ou no Spotlight, por exemplo.</seg>
       </tuv>
     </tu>
     <tu>
