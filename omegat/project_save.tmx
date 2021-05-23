@@ -31545,8 +31545,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210515T211634Z" creationid="Isa" creationdate="20210515T190049Z">
-        <seg>Depois de instalado, o &lt;a0&gt;OmegaT&lt;/a0&gt; pode ser iniciado diretamente da linha de comando, com a opção de criar um script com os parâmetros de inicialização para a linha de comando ou iniciar o programa diretamente clicando em &lt;f1&gt;OmegaT.jar&lt;/f1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T142334Z" creationid="Isa" creationdate="20210515T190049Z">
+        <seg>Depois de instalado, o &lt;a0&gt;OmegaT&lt;/a0&gt; pode ser iniciado diretamente da linha de comando, com a opção de criar um script com os parâmetros de inicialização para a linha de comando ou de iniciar o programa diretamente clicando em &lt;f1&gt;OmegaT.jar&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
