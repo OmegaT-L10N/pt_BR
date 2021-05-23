@@ -22111,8 +22111,8 @@ copy of the Program in return for a fee.</seg>
       <tuv lang="en">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="karol" changedate="20160308T181242Z" creationid="karol" creationdate="20160308T181242Z">
-        <seg>Se os arquivos a serem traduzidos fazem parte de uma árvore de diretórios (como em um website), basta especificar a pasta principal e o OmegaT manterá todo o conteúdo, mantendo a estrutura original.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T141654Z" creationid="karol" creationdate="20160308T181242Z">
+        <seg>Se os arquivos a serem traduzidos fazem parte de uma árvore de diretórios (como em um site), basta especificar a pasta principal e o OmegaT manterá todo o conteúdo e a estrutura original.</seg>
       </tuv>
     </tu>
     <tu>
