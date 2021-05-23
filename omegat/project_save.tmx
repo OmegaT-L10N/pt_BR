@@ -5362,8 +5362,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T193705Z" creationid="Isa" creationdate="20210516T193705Z">
-        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; indica ao &lt;a2&gt;OmegaT&lt;/a2&gt;qual configuração de arquivo usar.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T145351Z" creationid="Isa" creationdate="20210516T193705Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; diz ao &lt;a2&gt;OmegaT&lt;/a2&gt;qual configuração de arquivo usar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29921,8 +29921,8 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       <tuv lang="en">
         <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T193544Z" creationid="Isa" creationdate="20210516T193544Z">
-        <seg>Observe o duplo caracter &lt;l5&gt;-&lt;/l5&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T145239Z" creationid="Isa" creationdate="20210516T193544Z">
+        <seg>Observe o duplo caractere &lt;l5&gt;-&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38706,8 +38706,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T195017Z" creationid="Isa" creationdate="20210516T195017Z">
-        <seg>Alguns filtros compatíveis: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T150135Z" creationid="Isa" creationdate="20210516T195017Z">
+        <seg>Alguns filtros compatíveis: ILIAS Language File, pacotes de recursos Java(TM), Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, legendas SubRip, recursos do Windows</seg>
       </tuv>
     </tu>
     <tu>
