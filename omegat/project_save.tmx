@@ -41150,8 +41150,8 @@ for making modifications to it.</seg>
       <tuv lang="en">
         <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T184003Z" creationid="Isa" creationdate="20210516T183151Z">
-        <seg>O argumento &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; faz com que o &lt;a2&gt;OmegaT&lt;/a2&gt; use o idioma especificado e não o idioma do sistema operacional do usuário.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T143101Z" creationid="Isa" creationdate="20210516T183151Z">
+        <seg>O parâmetro &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; faz o &lt;a2&gt;OmegaT&lt;/a2&gt; usar o idioma especificado e não o idioma do sistema operacional do usuário.</seg>
       </tuv>
     </tu>
     <tu>
