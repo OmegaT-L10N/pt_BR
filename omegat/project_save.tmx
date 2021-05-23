@@ -5346,8 +5346,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T192138Z" creationid="Isa" creationdate="20210516T192034Z">
-        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; indica ao &lt;a2&gt;OmegaT&lt;/a2&gt; em qual pasta os arquivos de configuração estão armazenados.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T144942Z" creationid="Isa" creationdate="20210516T192034Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; diz ao &lt;a2&gt;OmegaT&lt;/a2&gt; em qual pasta os arquivos de configuração estão armazenados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5458,8 +5458,8 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T192041Z" creationid="Isa" creationdate="20210516T192009Z">
-        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; indica ao &lt;a1&gt;OmegaT&lt;/a1&gt; onde achar projetos para traduzir.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T144849Z" creationid="Isa" creationdate="20210516T192009Z">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; diz ao &lt;a1&gt;OmegaT&lt;/a1&gt; onde achar projetos para traduzir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21649,8 +21649,8 @@ excuse you from the conditions of this License.</seg>
       <tuv lang="en">
         <seg>If given, &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode and will translate the given project.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="karol" changedate="20160308T182355Z" creationid="karol" creationdate="20160308T182355Z">
-        <seg>Ao utilizar esse parâmetro, o &lt;a2&gt;OmegaT&lt;/a2&gt; inicia no modo console e traduzirá o projeto determinado.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T145034Z" creationid="karol" creationdate="20160308T182355Z">
+        <seg>Ao usar esse parâmetro, o &lt;a2&gt;OmegaT&lt;/a2&gt; inicia no modo console e traduzirá o projeto determinado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21805,8 +21805,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T193434Z" creationid="Isa" creationdate="20210516T192216Z">
-        <seg>Caso não utilize esse parâmetro, o &lt;a3&gt;OmegaT&lt;/a3&gt; reverterá para os valores padrão (pasta &lt;a4&gt;OmegaT&lt;/a4&gt; na pasta local do usuário, ou se não existir, na pasta de trabalho atual).</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T145205Z" creationid="Isa" creationdate="20210516T192216Z">
+        <seg>Caso não use, o &lt;a3&gt;OmegaT&lt;/a3&gt; reverterá para os valores padrão (pasta &lt;a4&gt;OmegaT&lt;/a4&gt; na pasta local do usuário, ou se não existir, na pasta de trabalho atual).</seg>
       </tuv>
     </tu>
     <tu>
