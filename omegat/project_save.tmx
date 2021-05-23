@@ -3616,16 +3616,16 @@ A configuraçao atual é {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T185434Z" creationid="Isa" creationdate="20210516T185434Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; O endereço IP do seu servidor proxy, se o seu sistema usar um proxy.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T143331Z" creationid="Isa" creationdate="20210516T185434Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; O endereço IP do seu servidor proxy, se o sistema usar proxy.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The port number your system uses to access the proxy server.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T185532Z" creationid="Isa" creationdate="20210516T185532Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; O número da porta usada pelo seu sistema para acessar o servidor proxy.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T143410Z" creationid="Isa" creationdate="20210516T185532Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; O número da porta usada pelo sistema para acessar o servidor proxy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43599,8 +43599,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T191204Z" creationid="Isa" creationdate="20210516T191204Z">
-        <seg>Os arquivos relevantes são &lt;f2&gt;filters.conf&lt;/f2&gt; e &lt;f3&gt;segmentation.conf&lt;/f3&gt; e se encontram na pasta base do usuário (por exemplo, &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; no Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; no Linux).</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T144456Z" creationid="Isa" creationdate="20210516T191204Z">
+        <seg>Os arquivos relevantes são &lt;f2&gt;filters.conf&lt;/f2&gt; e &lt;f3&gt;segmentation.conf&lt;/f3&gt; que se encontram na pasta base do usuário (por exemplo, &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; no Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; no Linux).</seg>
       </tuv>
     </tu>
     <tu>
