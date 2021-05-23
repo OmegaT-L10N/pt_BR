@@ -11620,8 +11620,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T200421Z" creationid="Isa" creationdate="20210516T200421Z">
-        <seg>No Windows, por padrão, o arquivo &lt;f1&gt;omegat.project&lt;/f1&gt; está bloqueado e aparece uma mensagem de erro ao tentar abrir um projeto já aberto em outra instância do OmegaT.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T151830Z" creationid="Isa" creationdate="20210516T200421Z">
+        <seg>No Windows, o arquivo &lt;f1&gt;omegat.project&lt;/f1&gt; está bloqueado e exibe uma mensagem de erro ao tentar abrir um projeto já aberto em outra instância do OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21319,8 +21319,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="en">
         <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210516T200116Z" creationid="Isa" creationdate="20210516T200116Z">
-        <seg>Se &lt;l0&gt;cancelar &lt;/l0&gt;for selecionado, o validador de tags irá parar no primeiro segmento inválido.</seg>
+      <tuv lang="pt-BR" changeid="Isa" changedate="20210523T151614Z" creationid="Isa" creationdate="20210516T200116Z">
+        <seg>Se clicar em &lt;l0&gt;cancelar &lt;/l0&gt;, o validador de tags irá parar no primeiro segmento inválido.</seg>
       </tuv>
     </tu>
     <tu>
