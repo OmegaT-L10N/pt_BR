@@ -19181,8 +19181,8 @@ sale, or importing the Program or any portion of it.</seg>
       <tuv lang="en">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20190708T133105Z" creationid="CarolVignolis" creationdate="20181014T201704Z">
-        <seg>Para instalação em Mac OS X.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210524T013432Z" creationid="CarolVignolis" creationdate="20181014T201704Z">
+        <seg>Para instalação em MacOS X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23039,8 +23039,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Michael" changedate="20190608T014856Z" creationid="Michael" creationdate="20190608T014856Z">
-        <seg>Ao desmarcar a opção &lt;e0&gt;Buscar traduções automaticamente&lt;/e0&gt;, as traduções automáticas serão obtidas apenas ao pressionar&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; (&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; no Mac OS X) no segmento atual.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210524T013414Z" creationid="Michael" creationdate="20190608T014856Z">
+        <seg>Ao desmarcar a opção &lt;e0&gt;Buscar traduções automaticamente&lt;/e0&gt;, as traduções automáticas serão obtidas apenas ao pressionar&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; (&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; no MacOS X) no segmento atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24550,8 +24550,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Installed plugins:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223344Z" creationid="sheilagomes" creationdate="20210503T223344Z">
-        <seg>Plug-ins instalados:</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210524T013618Z" creationid="sheilagomes" creationdate="20210503T223344Z">
+        <seg>Plugins instalados:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27167,8 +27167,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mac OS X</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T201629Z" creationid="CarolVignolis" creationdate="20181014T201629Z">
-        <seg>Mac OS X</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210524T013429Z" creationid="CarolVignolis" creationdate="20181014T201629Z">
+        <seg>MacOS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -27191,8 +27191,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="karol" changedate="20160308T181423Z" creationid="karol" creationdate="20160308T181423Z">
-        <seg>Usuário do Mac OS X, observem: use o atalho &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; e &lt;e4&gt;não &lt;/e4&gt;cmd+Ctrl+O.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210524T013424Z" creationid="karol" creationdate="20160308T181423Z">
+        <seg>Usuário do MacOS X, observem: use o atalho &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; e &lt;e4&gt;não &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
     </tu>
     <tu>
