@@ -33426,8 +33426,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Plug-ins</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Isa" changedate="20210520T154724Z" creationid="Isa" creationdate="20210520T154724Z">
-        <seg>Plug-ins</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210524T013707Z" creationid="Isa" creationdate="20210520T154724Z">
+        <seg>Plugins</seg>
       </tuv>
     </tu>
     <tu>
@@ -33451,8 +33451,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T235122Z" creationid="sheilagomes" creationdate="20210503T235122Z">
-        <seg>Os plug-ins são instalados na pasta &lt;f0&gt;/plugins&lt;/f0&gt; na pasta de instalação do OmegaT ou na pasta de preferências do usuário do OmegaT específica da plataforma.</seg>
+      <tuv lang="pt-BR" changeid="edumartins" changedate="20210524T013628Z" creationid="sheilagomes" creationdate="20210503T235122Z">
+        <seg>Os plugins são instalados na pasta &lt;f0&gt;/plugins&lt;/f0&gt; na pasta de instalação do OmegaT ou na pasta de preferências do usuário do OmegaT específica da plataforma.</seg>
       </tuv>
     </tu>
     <tu>
