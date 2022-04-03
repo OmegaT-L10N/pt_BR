@@ -47478,6 +47478,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20220403T161256Z" creationid="sheilagomes" creationdate="20220403T161256Z">
+        <seg>Total de caracteres (sem espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
