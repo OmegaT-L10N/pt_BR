@@ -44622,6 +44622,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20220403T153712Z" creationid="sheilagomes" creationdate="20220403T153712Z">
+        <seg>Tema:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002101Z" creationid="karol" creationdate="20160309T002101Z">
