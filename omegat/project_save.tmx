@@ -12058,6 +12058,22 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20220403T161143Z" creationid="sheilagomes" creationdate="20220403T161143Z">
+        <seg>Caracteres (com espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20220403T161212Z" creationid="sheilagomes" creationdate="20220403T160958Z">
+        <seg>Caracteres (sem espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters (without spaces)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T182537Z" creationid="Evandro" creationdate="20160311T182537Z">
