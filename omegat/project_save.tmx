@@ -2458,6 +2458,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145531Z" creationid="sheilagomes" creationdate="20221115T145526Z">
+        <seg>--no-team
+	  Desabilita a função projeto de equipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--output-tag-validation-={regexp}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T102314Z" creationid="Sheila" creationdate="20170904T102314Z">
@@ -2651,9 +2661,9 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145127Z" creationid="sheilagomes" creationdate="20221113T221052Z">
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145452Z" creationid="sheilagomes" creationdate="20221113T221052Z">
         <seg>-h, --help
-	  Imprime esta mensagem de ajuda.</seg>
+	  Exibe esta mensagem de ajuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58948,6 +58958,16 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001015Z" creationid="Evandro" creationdate="20160310T001015Z">
         <seg>te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145636Z" creationid="sheilagomes" creationdate="20221115T145528Z">
+        <seg>team init &lt;idioma de origem&gt; &lt;idioma de destino&gt;
+	  Ferramenta de projetos em equipe.</seg>
       </tuv>
     </tu>
     <tu>
