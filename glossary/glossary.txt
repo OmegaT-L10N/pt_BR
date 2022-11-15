@@ -96,3 +96,5 @@ header	cabeçalho
 Add Script	Adicionar script
 Notarized	Assinada
 Unsigned	Não assinada
+project	projeto
+file	arquivo
