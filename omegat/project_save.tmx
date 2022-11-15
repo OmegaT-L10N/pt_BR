@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2632,6 +2632,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="pt-BR" changeid="User" changedate="20180921T123058Z" creationid="User" creationdate="20180921T123058Z">
         <seg>-h, --help
 		Mostra informações de uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221113T221052Z" creationid="sheilagomes" creationdate="20221113T221052Z">
+        <seg>-h, --help
+	  Print this help message.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29351,6 +29361,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221113T215859Z" creationid="sheilagomes" creationdate="20221113T215859Z">
+        <seg>Nenhuma opção: Inicializar a GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T193739Z" creationid="CarolVignolis" creationdate="20181014T193739Z">
@@ -31141,6 +31159,14 @@ http://omegat.org/reviews</note>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172729Z" creationid="karol" creationdate="20160308T172729Z">
         <seg>OmegaT na Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT options:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221113T215713Z" creationid="sheilagomes" creationdate="20221113T215713Z">
+        <seg>Opções do OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34312,6 +34338,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221113T221016Z" creationid="sheilagomes" creationdate="20221113T221016Z">
+        <seg>Somente caminho do projeto: Inicie a GUI e carregue o projeto especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project properties</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214250Z" creationid="karol" creationdate="20160308T214250Z">
@@ -37113,6 +37147,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T162403Z" creationid="Francisco Valdez" creationdate="20210516T162403Z">
         <seg>Ver &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Guide for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221113T215700Z" creationid="sheilagomes" creationdate="20221113T215700Z">
+        <seg>Consulte a Ajuda &gt; Manual do usuário para saber mais, incluindo as opções disponíveis do Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48876,6 +48918,14 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T160257Z" creationid="Sheila" creationdate="20170905T160240Z">
         <seg>Uso: java -jar OmegaT.jar team &lt;comando&gt; [&lt;opções&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221113T215557Z" creationid="sheilagomes" creationdate="20221113T215557Z">
+        <seg>Uso: java -jar [&lt;opções do java&gt;] OmegaT.jar [&lt;opções do OmegaT&gt;] [&lt;caminho do projeto&gt;]</seg>
       </tuv>
     </tu>
     <tu>
