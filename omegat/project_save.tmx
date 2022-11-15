@@ -2312,6 +2312,20 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145946Z" creationid="sheilagomes" creationdate="20221115T145946Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021638Z" creationid="edumartins" creationdate="20210517T021638Z">
@@ -37239,8 +37253,8 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       <tuv lang="en">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T112911Z" creationid="Evandro" creationdate="20160310T112813Z">
-        <seg>Consulte OmegaT.jar/META-INF/MANIFEST.MF para valores válidos.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T150043Z" creationid="Evandro" creationdate="20160310T112813Z">
+        <seg>Consulte os valores válidos em OmegaT.jar/META-INF/MANIFEST.MF.</seg>
       </tuv>
     </tu>
     <tu>
