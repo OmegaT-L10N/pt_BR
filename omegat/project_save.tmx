@@ -2317,11 +2317,11 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
 	  Source- or target-language tokenizer to use (overrides project
 	  settings).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145946Z" creationid="sheilagomes" creationdate="20221115T145946Z">
-        <seg>--ITokenizer=&lt;classname&gt;
-	--ITokenizerTarget=&lt;classname&gt;
-	  Source- or target-language tokenizer to use (overrides project
-	  settings).</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T194001Z" creationid="sheilagomes" creationdate="20221115T145946Z">
+        <seg>--ITokenizer=&lt;nome da classe&gt;
+	--ITokenizerTarget=&lt;nome da classe&gt;
+	  Tokenizer do idioma de origem ou de destino a ser usado (substitui
+	  as configurações do projeto).</seg>
       </tuv>
     </tu>
     <tu>
