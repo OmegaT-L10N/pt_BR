@@ -2380,12 +2380,32 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145901Z" creationid="sheilagomes" creationdate="20221115T145901Z">
+        <seg>--disable-location-save
+	  Não registra o último diretório aberto no seletor de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T150819Z" creationid="Sheila" creationdate="20170905T143513Z">
         <seg>--disable-project-locking
 		Impede o bloqueio do arquivo omegat.project do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145826Z" creationid="sheilagomes" creationdate="20221115T145826Z">
+        <seg>--disable-project-locking
+	  Impede o bloqueio do arquivo omegat.project do projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21745,6 +21765,16 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145755Z" creationid="sheilagomes" creationdate="20221115T145755Z">
+        <seg>Se invocado em uma árvore ativa do git ou checkout do svn, os resultados
+	  serão incluídos/adicionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181005T025000Z" creationid="User" creationdate="20181005T025000Z">
@@ -24331,6 +24361,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="grego" changedate="20171108T013651Z" creationid="grego" creationdate="20171108T013651Z">
         <seg>Informação sobre procedimentos e recursos do OmegaT para usuários avançados que pode ser encontrada em outros websites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145711Z" creationid="sheilagomes" creationdate="20221115T145711Z">
+        <seg>Inicializa um projeto de equipe mínimo com os idiomas especificados.</seg>
       </tuv>
     </tu>
     <tu>
