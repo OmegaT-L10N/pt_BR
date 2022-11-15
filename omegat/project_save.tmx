@@ -2504,6 +2504,18 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145446Z" creationid="sheilagomes" creationdate="20221115T145446Z">
+        <seg>--remote-project
+	  Baixa um arquivo omegat.project da URL dada como &lt;caminho
+	  do projeto&gt; e carrega o projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--resource-bundle=&lt;path&gt;
 		A Java .properties file to use for interface text
 	--config-dir=&lt;path&gt;
@@ -2639,9 +2651,9 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221113T221052Z" creationid="sheilagomes" creationdate="20221113T221052Z">
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145127Z" creationid="sheilagomes" creationdate="20221113T221052Z">
         <seg>-h, --help
-	  Print this help message.</seg>
+	  Imprime esta mensagem de ajuda.</seg>
       </tuv>
     </tu>
     <tu>
