@@ -2512,6 +2512,24 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T144423Z" creationid="sheilagomes" creationdate="20221116T144423Z">
+        <seg>--mode=console-stats
+	  project_path
+	    O caminho para o projeto
+	  --output-file=[stats-output-file]
+	    Envia ao arquivo especificado ou à saída padrão
+	    se nenhum arquivo for fornecido ou a opção não for usada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T102256Z" creationid="Sheila" creationdate="20170904T102256Z">
