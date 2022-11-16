@@ -2358,6 +2358,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The directory used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T142135Z" creationid="sheilagomes" creationdate="20221116T142135Z">
+        <seg>--config-dir=&lt;caminho&gt;
+	  O diretório usado para ler ou gravar arquivos de configuração do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=/path/to/config-file/ \</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T231014Z" creationid="Sheila" creationdate="20170903T231014Z">
@@ -2380,6 +2390,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T143304Z" creationid="Sheila" creationdate="20170905T143304Z">
         <seg>--config-file=&lt;path&gt;
 		Um arquivo Java .properties a partir do qual as configurações padrão são carregadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T142029Z" creationid="sheilagomes" creationdate="20221116T142029Z">
+        <seg>--config-file=&lt;caminho&gt;
+	  Um arquivo Java .properties a partir do qual as configurações padrão são carregadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2428,6 +2448,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       </tuv>
       <tuv lang="pt-BR" changeid="edumartins" changedate="20210517T021626Z" creationid="edumartins" creationdate="20210517T021626Z">
         <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T142248Z" creationid="sheilagomes" creationdate="20221116T142248Z">
+        <seg>--mode=[nome do modo de console]
+	  Especifique um modo diferente do padrão da GUI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2570,6 +2600,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
 		Um arquivo Java .properties para ser usado na interface de texto
 	--config-dir=&lt;path&gt;
 		O diretório para ler/escrever arquivos de configuração do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T142213Z" creationid="sheilagomes" creationdate="20221116T142213Z">
+        <seg>--resource-bundle=&lt;caminho&gt;
+	  Um arquivo Java .properties usado para o texto da interface.</seg>
       </tuv>
     </tu>
     <tu>
