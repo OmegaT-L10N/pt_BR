@@ -2480,6 +2480,18 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T144236Z" creationid="sheilagomes" creationdate="20221116T144236Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;caminho&gt;
+	    Um diretório contendo os arquivos traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T102259Z" creationid="Sheila" creationdate="20170904T102259Z">
@@ -2586,6 +2598,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T154734Z" creationid="Sheila" creationdate="20170905T154517Z">
         <seg>--pseudotranslatetype=[equal|empty]
 		Como completar o tmx pseudotraduzido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T142602Z" creationid="sheilagomes" creationdate="20221116T142602Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    Como completar o tmx pseudotraduzido.</seg>
       </tuv>
     </tu>
     <tu>
