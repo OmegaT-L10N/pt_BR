@@ -2488,10 +2488,34 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T142547Z" creationid="sheilagomes" creationdate="20221116T142547Z">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    O arquivo TMX pseudotraduzido de saída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T102256Z" creationid="Sheila" creationdate="20170904T102256Z">
         <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T142520Z" creationid="sheilagomes" creationdate="20221116T142520Z">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;padrão&gt;
+	    Uma lista de arquivos fonte permitidos para processamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13502,6 +13526,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170914T101410Z" creationid="CALDAS" creationdate="20170914T101410Z">
         <seg>É composto pelo manual do aluno modelo com instruções para instrutores para adaptação e recursos de amostra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console mode names and their options:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T142336Z" creationid="sheilagomes" creationdate="20221116T142336Z">
+        <seg>Nomes de modos de console e suas opções:</seg>
       </tuv>
     </tu>
     <tu>
