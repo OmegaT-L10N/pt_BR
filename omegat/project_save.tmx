@@ -2720,6 +2720,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T144435Z" creationid="sheilagomes" creationdate="20221116T144435Z">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Especifica o formato de saída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
@@ -13578,6 +13588,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console only options:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221117T094720Z" creationid="sheilagomes" creationdate="20221117T094720Z">
+        <seg>Console only options:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -15243,6 +15261,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172104Z" creationid="karol" creationdate="20160308T172104Z">
         <seg>Atalho padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defaults to xml.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T144611Z" creationid="sheilagomes" creationdate="20221116T144611Z">
+        <seg>É xml por definição.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21475,6 +21501,16 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201325Z" creationid="karol" creationdate="20160308T201325Z">
         <seg>Se a interface apresenta uma lista de comandos de usuário ou opções, tais como um menu, um item proeminente na lista cumpre este critério.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If --stats-type is not specified, the format is
+	    detected from the file extension.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T144505Z" creationid="sheilagomes" creationdate="20221116T144505Z">
+        <seg>Se --stats-type não for especificado, o formato é
+	    detectado a partir da extensão do arquivo.</seg>
       </tuv>
     </tu>
     <tu>
