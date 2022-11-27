@@ -2261,6 +2261,22 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T120554Z" creationid="sheilagomes" creationdate="20221127T120554Z">
+        <seg>- arrastar e soltar arquivos neste painel;
+	- usar Projeto &gt; Adicionar arquivos...;
+	- usar Projeto &gt; Arquivos de origem... e clicar em Adicionar arquivos...;
+	- usar seu gerenciador de arquivos para copiar arquivos para a pasta 'source'
+	  e então usar Projeto &gt; Recarregar para recarregar o projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>- i.e. files with a &lt;f0&gt;.txt &lt;/f0&gt;extension - : in the &lt;e1&gt;Text files &lt;/e1&gt;section of the file filters dialog, change the &lt;e2&gt;Source File Encoding&lt;/e2&gt; from &lt;auto&gt; to the encoding that corresponds to your source &lt;f3&gt;.txt&lt;/f3&gt; file, for instance to .jp for the above example.</seg>
@@ -46915,6 +46931,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T120128Z" creationid="sheilagomes" creationdate="20221127T120128Z">
+        <seg>Para adicionar arquivos ao projeto, você pode:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add new terms to reference glossaries, edit them in an external text editor.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T230459Z" creationid="sheilagomes" creationdate="20210503T230459Z">
@@ -52936,6 +52960,14 @@ ou possam ter acesso ao código fonte.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T011127Z" creationid="sheilagomes" creationdate="20210511T011127Z">
         <seg>Você só precisa especificar isso para substituir algumas exclusões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T120118Z" creationid="sheilagomes" creationdate="20221127T120118Z">
+        <seg>Seu projeto parece não conter arquivos traduzíveis.</seg>
       </tuv>
     </tu>
     <tu>
