@@ -2701,9 +2701,9 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
         <seg>--script=&lt;path&gt;
 	  A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T115509Z" creationid="sheilagomes" creationdate="20221127T115509Z">
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T115535Z" creationid="sheilagomes" creationdate="20221127T115509Z">
         <seg>--script=&lt;path&gt;
-	  Um arquivo script a ser executado no caso de ocorrências no projeto.</seg>
+	  Um arquivo script a ser executado em eventos do projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2756,6 +2756,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T151142Z" creationid="Sheila" creationdate="20170905T151142Z">
         <seg>--tag-validation=[abort|warn]
 		Valida tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+	  Validate tags.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T115551Z" creationid="sheilagomes" creationdate="20221127T115523Z">
+        <seg>--tag-validation=[abort|warn]
+	  Valida tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2944,6 +2954,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113626Z" creationid="Evandro" creationdate="20160312T113626Z">
         <seg>1 segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T115759Z" creationid="sheilagomes" creationdate="20221127T115759Z">
+        <seg>1) Reduza o número de arquivos na pasta de origem;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31436,6 +31454,14 @@ http://omegat.org/reviews</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T115728Z" creationid="sheilagomes" creationdate="20221127T115728Z">
+        <seg>Não há memória suficiente para OmegaT; ele será encerrado quando você clicar em OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
@@ -33333,6 +33359,18 @@ em seguida, confirme tudo.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T115712Z" creationid="sheilagomes" creationdate="20221127T115712Z">
+        <seg>Coloque os arquivos de origem em ./source e o material
+suplementar em ./tm, ./glossary e ./dictionary, conforme seja necessário e,
+em seguida, confirme tudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20200213T033311Z" creationid="CarolVignolis" creationdate="20181014T180110Z">
@@ -33793,6 +33831,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171313Z" creationid="karol" creationdate="20160308T171313Z">
         <seg>Português</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T115733Z" creationid="sheilagomes" creationdate="20221127T115733Z">
+        <seg>Soluções possíveis:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49168,6 +49214,16 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221113T215557Z" creationid="sheilagomes" creationdate="20221113T215557Z">
         <seg>Uso: java -jar [&lt;opções do java&gt;] OmegaT.jar [&lt;opções do OmegaT&gt;] [&lt;caminho do projeto&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T115642Z" creationid="sheilagomes" creationdate="20221127T115642Z">
+        <seg>Uso: team init &lt;idioma de origem&gt; &lt;idioma de destino&gt;
+	Consulte --help.</seg>
       </tuv>
     </tu>
     <tu>
