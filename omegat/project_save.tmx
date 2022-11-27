@@ -2287,6 +2287,22 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if per-project filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T120743Z" creationid="sheilagomes" creationdate="20221127T120743Z">
+        <seg>- verifique se o formato é compatível com o OmegaT:
+	  se as configurações de filtro por projeto foram ativadas
+	  use Projeto &gt; Propriedades... &gt; Filtros de arquivos locais...,
+	  caso contrário, use Opções &gt; Filtros de arquivo globais...;
+	- abra-os em seu aplicativo original e verifique se não estão vazios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T102859Z" creationid="Evandro" creationdate="20160312T102859Z">
@@ -22504,6 +22520,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201557Z" creationid="karol" creationdate="20160308T201557Z">
         <seg>Se o programa fizer interação de terminal, faça-o exibir uma pequena nota como esta ao começar em modo interativo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T120605Z" creationid="sheilagomes" creationdate="20221127T120605Z">
+        <seg>Se o projeto contém arquivos, mas seu conteúdo não é exibido aqui:</seg>
       </tuv>
     </tu>
     <tu>
