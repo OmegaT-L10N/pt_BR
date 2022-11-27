@@ -16327,6 +16327,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do&amp;wnload Team Project...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T120908Z" creationid="sheilagomes" creationdate="20221127T120908Z">
+        <seg>&amp;Baixar projetos em equipe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doc&amp;ument properties</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T170613Z" creationid="Sheila" creationdate="20170905T170543Z">
@@ -30948,6 +30956,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T120815Z" creationid="sheilagomes" creationdate="20221127T120815Z">
+        <seg>O OmegaT escolheu automaticamente a opção 'Sim'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically saves translations every 10 minutes as well as when you close the project or quit OmegaT.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201857Z" creationid="karol" creationdate="20160308T201857Z">
@@ -32195,6 +32211,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210516T152609Z" creationid="Francisco Valdez" creationdate="20210516T152609Z">
         <seg>Funciona se um dicionário ortográfico estiver instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Op&amp;en Recent...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T120928Z" creationid="sheilagomes" creationdate="20221127T120928Z">
+        <seg>Ab&amp;rir recente...</seg>
       </tuv>
     </tu>
     <tu>
@@ -43922,6 +43946,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004029Z" creationid="karol" creationdate="20160309T004029Z">
         <seg>O projeto no exemplo está evidentemente terminado, pois todos os segmentos únicos foram traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T120759Z" creationid="sheilagomes" creationdate="20221127T120755Z">
+        <seg>O projeto está vazio</seg>
       </tuv>
     </tu>
     <tu>
