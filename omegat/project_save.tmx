@@ -2630,6 +2630,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--quiet
+	  Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T115453Z" creationid="sheilagomes" creationdate="20221127T115453Z">
+        <seg>--quiet
+	  Reduz a saída para a linha de comando stdout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -2684,6 +2694,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T151135Z" creationid="Sheila" creationdate="20170905T151135Z">
         <seg>--script=&lt;path&gt;
 		Um arquivo script a ser executado no caso de ocorrências no projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+	  A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T115509Z" creationid="sheilagomes" creationdate="20221127T115509Z">
+        <seg>--script=&lt;path&gt;
+	  Um arquivo script a ser executado no caso de ocorrências no projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13590,8 +13610,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Console only options:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221117T094720Z" creationid="sheilagomes" creationdate="20221117T094720Z">
-        <seg>Console only options:</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T115428Z" creationid="sheilagomes" creationdate="20221117T094720Z">
+        <seg>Opções somente do console:</seg>
       </tuv>
     </tu>
     <tu>
