@@ -3076,6 +3076,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T115809Z" creationid="sheilagomes" creationdate="20221127T115809Z">
+        <seg>2) Aumente a quantidade de memória disponível para o OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2- or 3-letter language code followed by the 2-letter country code (e.g. EN-US - See &lt;x0/&gt; for a partial list of language and country codes).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003707Z" creationid="karol" creationdate="20160309T003707Z">
@@ -36459,6 +36467,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT" in the user guide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T120100Z" creationid="sheilagomes" creationdate="20221127T120028Z">
+        <seg>Executar o OmegaT" no guia do usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170912T103808Z" creationid="Evandro" creationdate="20160312T112541Z">
@@ -37267,6 +37283,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T115706Z" creationid="Evandro" creationdate="20160310T115706Z">
         <seg>Veja o "Capítulo 3".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T120025Z" creationid="sheilagomes" creationdate="20221127T120025Z">
+        <seg>Consulte "Como...</seg>
       </tuv>
     </tu>
     <tu>
@@ -49232,6 +49256,18 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170524T214238Z" creationid="Evandro" creationdate="20160312T114608Z">
         <seg>Uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T115919Z" creationid="sheilagomes" creationdate="20221127T115919Z">
+        <seg>Use "java -Xmx&lt;tamanho-em-MB&gt;M -jar OmegaT.jar" na linha de comando 
+ou no script inicial do OmegaT;
+A configuraçao atual é {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
