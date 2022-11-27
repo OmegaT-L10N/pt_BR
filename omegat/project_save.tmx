@@ -8997,10 +8997,34 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T121058Z" creationid="sheilagomes" creationdate="20221127T121058Z">
+        <seg>Adicionar ar&amp;quivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T121206Z" creationid="sheilagomes" creationdate="20221127T121206Z">
+        <seg>Adicionar arquivos à pasta de origem...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T222755Z" creationid="Sheila" creationdate="20170905T222755Z">
         <seg>Adicionar termo no glossário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Online MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T121344Z" creationid="sheilagomes" creationdate="20221127T121344Z">
+        <seg>Adicionar pá&amp;gina on-line de MediaWiki...</seg>
       </tuv>
     </tu>
     <tu>
