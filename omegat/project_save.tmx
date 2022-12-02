@@ -2400,6 +2400,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221202T171822Z" creationid="sheilagomes" creationdate="20221202T171752Z">
+        <seg>--config-dir=&lt;caminho&gt;
+	  O diretório usado para ler ou gravar arquivos de configuração do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=/path/to/config-file/ \</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T231014Z" creationid="Sheila" creationdate="20170903T231014Z">
@@ -2450,6 +2460,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
 	  Do not remember the last directory opened in the file picker.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145901Z" creationid="sheilagomes" creationdate="20221115T145901Z">
+        <seg>--disable-location-save
+	  Não registra o último diretório aberto no seletor de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221202T171734Z" creationid="sheilagomes" creationdate="20221202T171734Z">
         <seg>--disable-location-save
 	  Não registra o último diretório aberto no seletor de arquivos.</seg>
       </tuv>
@@ -2524,6 +2544,18 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221202T171851Z" creationid="sheilagomes" creationdate="20221202T171842Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;caminho&gt;
+	    Um diretório contendo os arquivos traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T102259Z" creationid="Sheila" creationdate="20170904T102259Z">
@@ -2558,6 +2590,18 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
 	  --output-file=[stats-output-file]
 	    Envia ao arquivo especificado ou à saída padrão
 	    se nenhum arquivo for fornecido ou a opção não for usada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221202T171914Z" creationid="sheilagomes" creationdate="20221202T171844Z">
+        <seg>--mode=console-stats
+	  project_path
+	    O caminho para o projeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2614,6 +2658,18 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221115T145531Z" creationid="sheilagomes" creationdate="20221115T145526Z">
         <seg>--no-team
 	  Desabilita a função projeto de equipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221202T171947Z" creationid="sheilagomes" creationdate="20221202T171947Z">
+        <seg>--output-file=[stats-output-file]
+	    Envia ao arquivo especificado ou à saída padrão
+	    se nenhum arquivo for fornecido ou a opção não for usada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2714,6 +2770,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
 	  A Java .properties file to use for the interface text</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221116T142213Z" creationid="sheilagomes" creationdate="20221116T142213Z">
+        <seg>--resource-bundle=&lt;caminho&gt;
+	  Um arquivo Java .properties usado para o texto da interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221202T171830Z" creationid="sheilagomes" creationdate="20221202T171807Z">
         <seg>--resource-bundle=&lt;caminho&gt;
 	  Um arquivo Java .properties usado para o texto da interface.</seg>
       </tuv>
@@ -34766,6 +34832,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221113T221016Z" creationid="sheilagomes" creationdate="20221113T221016Z">
         <seg>Somente caminho do projeto: Inicie a GUI e carregue o projeto especificado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221202T171714Z" creationid="sheilagomes" creationdate="20221202T171714Z">
+        <seg>Somente caminho do projeto: Inicie a GUI e carregue o projeto especificado.</seg>
       </tuv>
     </tu>
     <tu>
