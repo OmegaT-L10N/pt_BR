@@ -9023,8 +9023,16 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>Add Online MediaWiki Pa&amp;ge...</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T121344Z" creationid="sheilagomes" creationdate="20221127T121344Z">
-        <seg>Adicionar pá&amp;gina on-line de MediaWiki...</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T121359Z" creationid="sheilagomes" creationdate="20221127T121344Z">
+        <seg>Adicionar pá&amp;gina online de MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Online MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T121409Z" creationid="sheilagomes" creationdate="20221127T121409Z">
+        <seg>Adicionar página online de MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -10260,6 +10268,14 @@ work under this License, and how to view a copy of this License.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181004T142049Z" creationid="User" creationdate="20181004T142049Z">
         <seg>Um item com nome "{0}" já existe neste local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An online regular expression matcher that lets you enter the text you want to search and the regular expressions you want to test.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T121511Z" creationid="sheilagomes" creationdate="20221127T121511Z">
+        <seg>An online regular expression matcher that lets you enter the text you want to search and the regular expressions you want to test.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29709,6 +29725,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T121533Z" creationid="sheilagomes" creationdate="20221127T121533Z">
+        <seg>Nenhuma opção: Inicializar a GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T193739Z" creationid="CarolVignolis" creationdate="20181014T193739Z">
@@ -32143,6 +32167,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Online Mediawiki Page URL</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T121435Z" creationid="sheilagomes" creationdate="20221127T121415Z">
+        <seg>URL de página online de MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170914T104955Z" creationid="CALDAS" creationdate="20170914T104826Z">
@@ -32925,6 +32957,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181405Z" creationid="karol" creationdate="20160308T181405Z">
         <seg>Outros formatos de texto simples ou formatado também podem ser processados no OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other plugins are available online.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T121504Z" creationid="sheilagomes" creationdate="20221127T121504Z">
+        <seg>Há outros plugins disponíveis online.</seg>
       </tuv>
     </tu>
     <tu>
