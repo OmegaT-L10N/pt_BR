@@ -13362,6 +13362,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221203T020752Z" creationid="sheilagomes" creationdate="20221203T020752Z">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Code has been contributed by:
 {0}</seg>
       </tuv>
@@ -18600,12 +18608,28 @@ Teias de aranha estão te bloqueando
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221202T172024Z" creationid="sheilagomes" creationdate="20221202T172024Z">
+        <seg>Falha ao tentar copiar os arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T182241Z" creationid="Evandro" creationdate="20160311T182241Z">
         <seg>Falha ao criar o projeto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download Mediawiki page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221202T172009Z" creationid="sheilagomes" creationdate="20221202T172009Z">
+        <seg>Falha ao tentar baixar a página MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -35201,6 +35225,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T181918Z" creationid="Evandro" creationdate="20160311T181918Z">
         <seg>Em vez de um som&lt;p&gt;ou uma rude mensagem de erro,&lt;p&gt;estas palavras: 'Página não encontrada'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221202T172035Z" creationid="sheilagomes" creationdate="20221202T172035Z">
+        <seg>Re&amp;carregar</seg>
       </tuv>
     </tu>
     <tu>
