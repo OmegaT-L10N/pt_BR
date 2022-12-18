@@ -24905,6 +24905,14 @@ parts of the aggregate.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Insert Next Missing T&amp;ag</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T145159Z" creationid="sheilagomes" creationdate="20221218T145159Z">
+        <seg>Inserir próxima tag &amp;ausente</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
@@ -37336,6 +37344,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170914T121237Z" creationid="CALDAS" creationdate="20170914T121015Z">
         <seg>Os scripts/procedimentos disponíveis permitem que você faça o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;lect Source Text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T144946Z" creationid="sheilagomes" creationdate="20221218T144946Z">
+        <seg>Se&amp;lecionar texto de origem</seg>
       </tuv>
     </tu>
     <tu>
