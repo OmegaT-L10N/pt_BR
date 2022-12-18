@@ -1277,6 +1277,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment with xAUTO</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T152124Z" creationid="sheilagomes" creationdate="20221218T152124Z">
+        <seg>Próximo segme&amp;nto com xAUTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103541Z" creationid="Evandro" creationdate="20160312T103541Z">
@@ -1357,6 +1365,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T162453Z" creationid="Evandro" creationdate="20160310T122247Z">
         <seg>Segmento &amp;anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment with xAUTO</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T152209Z" creationid="sheilagomes" creationdate="20221218T152209Z">
+        <seg>Se&amp;gmento anterior com xAUTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -29491,6 +29507,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment with xENFORCED</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T152253Z" creationid="sheilagomes" creationdate="20221218T152253Z">
+        <seg>Próximo s&amp;egmento com xENFORCED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NB:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T013432Z" creationid="Sheila" creationdate="20170905T013432Z">
@@ -33267,6 +33291,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Michael" changedate="20190517T004244Z" creationid="Michael" creationdate="20190517T004244Z">
         <seg>Modo Sobrescrever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment with xENFORCED</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T152338Z" creationid="sheilagomes" creationdate="20221218T152338Z">
+        <seg>Segmento ante&amp;rior com xENFORCED</seg>
       </tuv>
     </tu>
     <tu>
@@ -53573,6 +53605,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T115918Z" creationid="Evandro" creationdate="20160310T115918Z">
         <seg>Seu projeto não contém arquivos nos formatos compatíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T152042Z" creationid="sheilagomes" creationdate="20221218T152042Z">
+        <seg>Seu projeto parece não conter arquivos traduzíveis.</seg>
       </tuv>
     </tu>
     <tu>
