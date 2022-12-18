@@ -1797,6 +1797,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T145940Z" creationid="sheilagomes" creationdate="20221218T145940Z">
+        <seg>&amp;MAIÚSCULA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Undo Changes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181005T141221Z" creationid="User" creationdate="20181005T141221Z">
@@ -1870,6 +1878,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T161345Z" creationid="Evandro" creationdate="20160310T121307Z">
         <seg>Glossário &amp;editável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T145851Z" creationid="sheilagomes" creationdate="20221218T145851Z">
+        <seg>minúscu&amp;la</seg>
       </tuv>
     </tu>
     <tu>
@@ -36226,6 +36242,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T145752Z" creationid="sheilagomes" creationdate="20221218T145752Z">
+        <seg>Substituir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replaces the current target segment contents with the selected match (the first match is selected by default)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214338Z" creationid="karol" creationdate="20160308T214338Z">
@@ -36868,6 +36892,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111243Z" creationid="Evandro" creationdate="20160312T111243Z">
         <seg>&amp;Alternar Caixa Para </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S&amp;witch Case to</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T145834Z" creationid="sheilagomes" creationdate="20221218T145834Z">
+        <seg>Alternar Cai&amp;xa Para </seg>
       </tuv>
     </tu>
     <tu>
