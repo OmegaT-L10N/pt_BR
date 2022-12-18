@@ -24988,6 +24988,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Unicode Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151032Z" creationid="sheilagomes" creationdate="20221218T151032Z">
+        <seg>Inse&amp;rir caractere de controle Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Unicode Control Character</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T161547Z" creationid="Sheila" creationdate="20170905T161547Z">
@@ -27168,6 +27176,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T162204Z" creationid="Sheila" creationdate="20170905T162204Z">
         <seg>Incorporação da esquerda para a direita (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151114Z" creationid="sheilagomes" creationdate="20221218T151114Z">
+        <seg>Marca da esquerda para a direita (LRM U+200&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36906,8 +36922,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>S&amp;witch Case to</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T145834Z" creationid="sheilagomes" creationdate="20221218T145834Z">
-        <seg>Alternar Cai&amp;xa Para </seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T150855Z" creationid="sheilagomes" creationdate="20221218T145834Z">
+        <seg>Alternar cai&amp;xa para </seg>
       </tuv>
     </tu>
     <tu>
