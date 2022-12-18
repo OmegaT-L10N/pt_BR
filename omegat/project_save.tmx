@@ -49290,6 +49290,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T160048Z" creationid="sheilagomes" creationdate="20221218T160048Z">
+        <seg>Não é possível criar os arquivos traduzidos devido a tags ausentes ou danificadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to download team project!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T170151Z" creationid="Sheila" creationdate="20170905T170120Z">
