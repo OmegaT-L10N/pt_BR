@@ -17482,6 +17482,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor Pane</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T152621Z" creationid="sheilagomes" creationdate="20221218T152621Z">
+        <seg>Painel do editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Editor pane</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003850Z" creationid="karol" creationdate="20160309T003850Z">
@@ -30748,6 +30756,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110817Z" creationid="Evandro" creationdate="20160312T110817Z">
         <seg>Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notes Pane</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T152532Z" creationid="sheilagomes" creationdate="20221218T152532Z">
+        <seg>Painel de notas</seg>
       </tuv>
     </tu>
     <tu>
