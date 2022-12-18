@@ -37804,6 +37804,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Se&amp;ntence-level segmenting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T195627Z" creationid="sheilagomes" creationdate="20221218T195627Z">
+        <seg>Segmentação em nível de se&amp;ntença</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Se&amp;t</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T170913Z" creationid="CarolVignolis" creationdate="20181014T170913Z">
@@ -49707,6 +49715,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T193746Z" creationid="sheilagomes" creationdate="20221218T193746Z">
+        <seg>Caracteres únicos (com espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164620Z" creationid="sheilagomes" creationdate="20221218T164620Z">
@@ -49729,6 +49745,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T165325Z" creationid="Evandro" creationdate="20160310T110903Z">
         <seg>Caracteres únicos restantes (incluindo espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T193809Z" creationid="sheilagomes" creationdate="20221218T193809Z">
+        <seg>Caracteres únicos restantes (com espaços)</seg>
       </tuv>
     </tu>
     <tu>
