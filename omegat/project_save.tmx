@@ -28272,6 +28272,14 @@ permissions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T152925Z" creationid="sheilagomes" creationdate="20221218T152925Z">
+        <seg>Marcar espaços i&amp;nseparáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Mark &amp;Non-breakable Spaces</seg>
