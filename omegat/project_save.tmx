@@ -12654,6 +12654,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues for &amp;Current File</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T153340Z" creationid="sheilagomes" creationdate="20221218T153340Z">
+        <seg>Verificar problemas no a&amp;rquivo atual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues for Current Document</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T102235Z" creationid="Francisco Valdez" creationdate="20210516T153626Z">
@@ -28345,6 +28353,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172337Z" creationid="karol" creationdate="20160308T172337Z">
         <seg>Marcar caracteres de controle de algoritmo bidirecional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Gl&amp;ossary Matches</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T153109Z" creationid="sheilagomes" creationdate="20221218T153109Z">
+        <seg>Marcar correspondências do gl&amp;ossário</seg>
       </tuv>
     </tu>
     <tu>
