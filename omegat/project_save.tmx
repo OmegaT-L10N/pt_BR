@@ -13396,6 +13396,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T141513Z" creationid="sheilagomes" creationdate="20221218T141513Z">
+        <seg>Conf$irmar arquivos de destino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T013524Z" creationid="CarolVignolis" creationdate="20181014T013524Z">
@@ -14398,12 +14406,28 @@ unpacking, reading or copying.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T141527Z" creationid="sheilagomes" creationdate="20221218T141527Z">
+        <seg>Criar arquivos &amp;traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170625T193255Z" creationid="karol" creationdate="20160308T172318Z">
         <seg>Criar tradução alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T142029Z" creationid="sheilagomes" creationdate="20221218T142029Z">
+        <seg>Criar documento atual traduzido</seg>
       </tuv>
     </tu>
     <tu>
