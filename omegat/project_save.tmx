@@ -11052,6 +11052,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151902Z" creationid="sheilagomes" creationdate="20221218T151902Z">
+        <seg>Segmentos autopreenchidos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
@@ -34229,6 +34237,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pre&amp;vious Note</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151626Z" creationid="sheilagomes" creationdate="20221218T151626Z">
+        <seg>Nota an&amp;terior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pre-built binaries, are available as Nightly Builds.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Isa" changedate="20210520T153300Z" creationid="Isa" creationdate="20210520T153300Z">
@@ -35652,6 +35668,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T001850Z" creationid="karol" creationdate="20160309T001850Z">
         <seg>Ferramentas e exemplos de uso das Regex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151545Z" creationid="sheilagomes" creationdate="20221218T151545Z">
+        <seg>Registrar tradução idêntica</seg>
       </tuv>
     </tu>
     <tu>
@@ -38793,6 +38817,14 @@ In this segment {0,number,#} should remain unchanged</note>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T170529Z" creationid="CarolVignolis" creationdate="20181014T170529Z">
         <seg>Configurado &amp; Armazenado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151445Z" creationid="sheilagomes" creationdate="20221218T151445Z">
+        <seg>Definir tradução vazia</seg>
       </tuv>
     </tu>
     <tu>
