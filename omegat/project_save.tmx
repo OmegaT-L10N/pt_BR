@@ -14478,6 +14478,14 @@ unpacking, reading or copying.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151411Z" creationid="sheilagomes" creationdate="20221218T151411Z">
+        <seg>Criar tradução a&amp;lternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Create Alternative Translation</seg>
@@ -27172,6 +27180,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151203Z" creationid="sheilagomes" creationdate="20221218T151203Z">
+        <seg>Incorporação da esquerda para a direita (LRE U+202&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T162204Z" creationid="Sheila" creationdate="20170905T162204Z">
@@ -34157,6 +34173,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151329Z" creationid="sheilagomes" creationdate="20221218T151329Z">
+        <seg>Formatação direcional de POP (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170909T121053Z" creationid="Sheila" creationdate="20170909T121053Z">
@@ -35797,6 +35821,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151427Z" creationid="sheilagomes" creationdate="20221218T151427Z">
+        <seg>Remo&amp;ver tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote &amp;server</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170909T130941Z" creationid="Sheila" creationdate="20170909T130941Z">
@@ -36717,10 +36749,26 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151230Z" creationid="sheilagomes" creationdate="20221218T151230Z">
+        <seg>Incorporação da direita para a esquerda (RLE U+202&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T162211Z" creationid="Sheila" creationdate="20170905T162211Z">
         <seg>Incorporação da direita para a esquerda (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151131Z" creationid="sheilagomes" creationdate="20221218T151131Z">
+        <seg>Marca da direita para a esquerda (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49823,6 +49871,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210504T151432Z" creationid="sheilagomes" creationdate="20210504T151432Z">
         <seg>Use um cliente SVN ou Git para adicionar os arquivos a serem traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151353Z" creationid="sheilagomes" creationdate="20221218T151353Z">
+        <seg>Usar como tradução padrão</seg>
       </tuv>
     </tu>
     <tu>
