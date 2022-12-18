@@ -489,6 +489,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Add Files...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T163618Z" creationid="sheilagomes" creationdate="20221218T163618Z">
+        <seg>&amp;Adicionar arquivos...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>&amp;Add...</seg>
@@ -13808,6 +13816,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T163707Z" creationid="sheilagomes" creationdate="20221218T163707Z">
+        <seg>Traduções concluídas e atuais salvas como {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T105344Z" creationid="Evandro" creationdate="20160312T105344Z">
@@ -14912,6 +14928,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T182217Z" creationid="Evandro" creationdate="20160311T182217Z">
         <seg>Criando documentos traduzidos: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T163731Z" creationid="sheilagomes" creationdate="20221218T163731Z">
+        <seg>Criando arquivos traduzidos: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -40464,6 +40488,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start new project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T163717Z" creationid="sheilagomes" creationdate="20221218T163717Z">
+        <seg>Iniciar novo projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start rebase</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113156Z" creationid="Evandro" creationdate="20160312T113156Z">
@@ -48821,6 +48853,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T163857Z" creationid="sheilagomes" creationdate="20221218T163857Z">
+        <seg>Translated file created</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
@@ -48837,6 +48877,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190830T174439Z" creationid="Sheila" creationdate="20190830T174439Z">
         <seg>Nome de arquivo traduzido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T163745Z" creationid="sheilagomes" creationdate="20221218T163745Z">
+        <seg>Arquivos traduzidos criados</seg>
       </tuv>
     </tu>
     <tu>
