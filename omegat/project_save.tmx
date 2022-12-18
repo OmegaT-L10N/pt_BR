@@ -20595,6 +20595,22 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T154216Z" creationid="sheilagomes" creationdate="20221218T154216Z">
+        <seg>Regras de &amp;segmentação globais...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T153653Z" creationid="sheilagomes" creationdate="20221218T153653Z">
+        <seg>&amp;Filtros de arquivo globais...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T155355Z" creationid="karol" creationdate="20160309T155355Z">
@@ -21427,6 +21443,22 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170625T192305Z" creationid="Sheila" creationdate="20170625T192305Z">
         <seg>Histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T153602Z" creationid="sheilagomes" creationdate="20221218T153602Z">
+        <seg>Auto&amp;completar histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T153617Z" creationid="sheilagomes" creationdate="20221218T153617Z">
+        <seg>Autocompletar &amp;preditivo</seg>
       </tuv>
     </tu>
     <tu>
