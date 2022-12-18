@@ -1848,6 +1848,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T144327Z" creationid="sheilagomes" creationdate="20221218T144327Z">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>&amp;Writeable Glossary</seg>
