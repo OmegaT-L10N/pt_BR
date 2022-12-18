@@ -1851,8 +1851,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Writable Glossary</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T144327Z" creationid="sheilagomes" creationdate="20221218T144327Z">
-        <seg>&amp;Writable Glossary</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T144808Z" creationid="sheilagomes" creationdate="20221218T144327Z">
+        <seg>&amp;Glossário editável</seg>
       </tuv>
     </tu>
     <tu>
