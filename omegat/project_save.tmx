@@ -572,6 +572,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T153451Z" creationid="sheilagomes" creationdate="20221218T153451Z">
+        <seg>&amp;Autocompletar</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>&amp;Auto-propagation of Translations</seg>
@@ -777,6 +785,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T132737Z" creationid="Evandro" creationdate="20160310T121121Z">
         <seg>&amp;Dicionários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Dictionary</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T153437Z" creationid="sheilagomes" creationdate="20221218T153437Z">
+        <seg>&amp;Dicionário</seg>
       </tuv>
     </tu>
     <tu>
@@ -1181,6 +1197,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111301Z" creationid="Evandro" creationdate="20160312T111301Z">
         <seg>&amp;Minúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T153357Z" creationid="sheilagomes" creationdate="20221218T153357Z">
+        <seg>&amp;Tradução automática</seg>
       </tuv>
     </tu>
     <tu>
@@ -49838,6 +49862,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20180923T193825Z" creationid="User" creationdate="20180923T193825Z">
         <seg>Use $n para fazer referência ao enésimo grupo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T153429Z" creationid="sheilagomes" creationdate="20221218T153429Z">
+        <seg>Usar &amp;correspondências parciais</seg>
       </tuv>
     </tu>
     <tu>
