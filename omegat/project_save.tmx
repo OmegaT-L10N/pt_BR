@@ -18659,6 +18659,14 @@ Teias de aranha estão te bloqueando
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T213032Z" creationid="sheilagomes" creationdate="20221218T213032Z">
+        <seg>Exportar pasta de memórias de tradução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exports the current selection or the current source, if no text has been selected.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214406Z" creationid="karol" creationdate="20160308T214406Z">
@@ -41239,6 +41247,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T214019Z" creationid="sheilagomes" creationdate="20221218T214019Z">
+        <seg>TMX nível 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T101707Z" creationid="Evandro" creationdate="20160312T101707Z">
@@ -49178,6 +49194,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003718Z" creationid="karol" creationdate="20160309T003718Z">
         <seg>As memórias de tradução também podem conter traduções de referência: um exemplo típico é a legislação multinacional da Comunidade Europeia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T213126Z" creationid="sheilagomes" creationdate="20221218T213126Z">
+        <seg>Memórias de tradução para exportar:</seg>
       </tuv>
     </tu>
     <tu>
