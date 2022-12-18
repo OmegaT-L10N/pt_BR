@@ -1629,8 +1629,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Sentence case</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T150202Z" creationid="sheilagomes" creationdate="20221218T150202Z">
-        <seg>&amp;Sentenças</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T150845Z" creationid="sheilagomes" creationdate="20221218T150202Z">
+        <seg>Estilização &amp;sentencial</seg>
       </tuv>
     </tu>
     <tu>
@@ -1773,8 +1773,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T150343Z" creationid="Evandro" creationdate="20160312T111317Z">
-        <seg>Estilo &amp;Título</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T150505Z" creationid="Evandro" creationdate="20160312T111317Z">
+        <seg>Estilização &amp;Titular</seg>
       </tuv>
     </tu>
     <tu>
