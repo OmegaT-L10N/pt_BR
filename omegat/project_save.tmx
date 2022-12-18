@@ -39944,6 +39944,22 @@ can do so.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T161436Z" creationid="sheilagomes" creationdate="20221218T161436Z">
+        <seg>Arquivos de &amp;origem ({0}) ({0} of {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T161148Z" creationid="sheilagomes" creationdate="20221218T161148Z">
+        <seg>Arquivos de &amp;origem ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Source Files Folder</seg>
