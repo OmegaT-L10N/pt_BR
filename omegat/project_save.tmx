@@ -565,6 +565,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T161009Z" creationid="sheilagomes" creationdate="20221218T161009Z">
+        <seg>&amp;Aplicar esta fonte aos dados tabulares (lista de arquivos de origem, estatísticas, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply to all</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170912T102611Z" creationid="Sheila" creationdate="20170912T102611Z">
