@@ -12089,6 +12089,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T144319Z" creationid="sheilagomes" creationdate="20221218T144319Z">
+        <seg>Arquivo de destino at&amp;ual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CJ Translations</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T115239Z" creationid="CALDAS" creationdate="20170912T115239Z">
