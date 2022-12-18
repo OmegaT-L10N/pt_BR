@@ -1586,6 +1586,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Search...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T145659Z" creationid="sheilagomes" creationdate="20221218T145659Z">
+        <seg>Pe$squisar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T162459Z" creationid="Evandro" creationdate="20160310T122310Z">
