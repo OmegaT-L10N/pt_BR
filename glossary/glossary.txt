@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 open-source	código aberto
 source code	código-fonte
 hands-off approach	abordagem sem interferência
@@ -98,3 +99,4 @@ Notarized	Assinada
 Unsigned	Não assinada
 project	projeto
 file	arquivo
+Search	Pesquisar	OmegaTLoc
