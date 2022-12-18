@@ -27796,6 +27796,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Segmentation R&amp;ules...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T195943Z" creationid="sheilagomes" creationdate="20221218T195906Z">
+        <seg>Re&amp;gras de segmentação locais...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local file mapping:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134346Z" creationid="sheilagomes" creationdate="20210511T134346Z">
@@ -40171,6 +40179,14 @@ can do so.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Source files folder:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T200006Z" creationid="sheilagomes" creationdate="20221218T200006Z">
+        <seg>Pasta de arquivos de origem:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
@@ -49118,6 +49134,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories folder:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T200010Z" creationid="sheilagomes" creationdate="20221218T200010Z">
+        <seg>Pasta de memórias de tradução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories in OmegaT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003307Z" creationid="karol" creationdate="20160309T003307Z">
@@ -50408,6 +50432,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182426Z" creationid="karol" creationdate="20160308T182426Z">
         <seg>Use essa opção caso o OmegaT não deva sincronizar os conteúdos do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T195938Z" creationid="sheilagomes" creationdate="20221218T195938Z">
+        <seg>Usar regras de &amp;segmentação locais</seg>
       </tuv>
     </tu>
     <tu>
