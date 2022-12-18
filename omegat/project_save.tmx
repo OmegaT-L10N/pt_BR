@@ -1887,6 +1887,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;User Guide...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T154301Z" creationid="sheilagomes" creationdate="20221218T154301Z">
+        <seg>&amp;Manual do usuário...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>&amp;User's Manual...</seg>
@@ -8958,6 +8966,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201503Z" creationid="karol" creationdate="20160308T201503Z">
         <seg>Aceitação não é necessária para ter cópias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T154243Z" creationid="sheilagomes" creationdate="20221218T154243Z">
+        <seg>Acessar pasta de &amp;configurações</seg>
       </tuv>
     </tu>
     <tu>
@@ -18790,6 +18806,14 @@ Teias de aranha estão te bloqueando
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T182241Z" creationid="Evandro" creationdate="20160311T182241Z">
         <seg>Falha ao criar o projeto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create the translated files!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T154453Z" creationid="sheilagomes" creationdate="20221218T154453Z">
+        <seg>Não foi possível criar os arquivos traduzidos!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31863,6 +31887,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T154406Z" creationid="sheilagomes" creationdate="20221218T154406Z">
+        <seg>O OmegaT precisa recarregar o projeto para levar as alterações em conta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT on Wikipedia</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T114623Z" creationid="CALDAS" creationdate="20170912T114623Z">
@@ -35885,6 +35917,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172109Z" creationid="karol" creationdate="20160308T172109Z">
         <seg>Recarregar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T154418Z" creationid="sheilagomes" creationdate="20221218T154418Z">
+        <seg>Recarregar o projeto agora?</seg>
       </tuv>
     </tu>
     <tu>
