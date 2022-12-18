@@ -27780,6 +27780,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T195814Z" creationid="sheilagomes" creationdate="20221218T195814Z">
+        <seg>&amp;Filtros de arquivo locais...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T170316Z" creationid="Sheila" creationdate="20170905T170316Z">
