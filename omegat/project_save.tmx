@@ -13062,6 +13062,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T160436Z" creationid="sheilagomes" creationdate="20221218T160436Z">
+        <seg>Verifique se isso é intencional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T010543Z" creationid="karol" creationdate="20160309T010543Z">
@@ -20911,6 +20919,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T015945Z" creationid="CarolVignolis" creationdate="20181014T015945Z">
         <seg>Para habilitar, vá para preferências &gt; Busca externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T160446Z" creationid="sheilagomes" creationdate="20221218T160446Z">
+        <seg>Acessar o segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -35929,6 +35945,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the project?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T160455Z" creationid="sheilagomes" creationdate="20221218T160455Z">
+        <seg>Recarregar o projeto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20200126T151803Z" creationid="CALDAS" creationdate="20200126T151803Z">
@@ -40092,6 +40116,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004110Z" creationid="karol" creationdate="20160309T004110Z">
         <seg>Texto fonte da correspondência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T160530Z" creationid="sheilagomes" creationdate="20221218T160530Z">
+        <seg>Extensão do texto de origem/destino (caracteres)</seg>
       </tuv>
     </tu>
     <tu>
