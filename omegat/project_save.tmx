@@ -748,6 +748,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T144137Z" creationid="sheilagomes" creationdate="20221218T144137Z">
+        <seg>Arquivo de origem a&amp;tual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111321Z" creationid="Evandro" creationdate="20160312T111321Z">
@@ -885,6 +893,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T184717Z" creationid="Evandro" creationdate="20160311T184717Z">
         <seg>Busca &amp;exata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T143923Z" creationid="sheilagomes" creationdate="20221218T143923Z">
+        <seg>TMs &amp;exportadas</seg>
       </tuv>
     </tu>
     <tu>
