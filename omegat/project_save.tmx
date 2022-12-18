@@ -18103,6 +18103,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164531Z" creationid="sheilagomes" creationdate="20221218T164531Z">
+        <seg>Erro ao monitorar comandos de pós-processamento!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error on application startup</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111840Z" creationid="Evandro" creationdate="20160312T111840Z">
@@ -34461,10 +34469,34 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-processing command failed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164500Z" creationid="sheilagomes" creationdate="20221218T164500Z">
+        <seg>Falha no comando de pós-processamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Post-processing commands completed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164353Z" creationid="sheilagomes" creationdate="20221218T164353Z">
         <seg>Comando de pós-processamento concluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands failed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164447Z" creationid="sheilagomes" creationdate="20221218T164447Z">
+        <seg>Falha nos comandos de pós-processamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands were interrupted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164516Z" creationid="sheilagomes" creationdate="20221218T164516Z">
+        <seg>Os comandos de pós-processamento foram interrompidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35060,8 +35092,8 @@ projeto local sem o recurso projeto de equipe.</seg>
       <tuv lang="en">
         <seg>Project Statistics</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T182508Z" creationid="Evandro" creationdate="20160311T182508Z">
-        <seg>Estatística do Projeto</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164537Z" creationid="Evandro" creationdate="20160311T182508Z">
+        <seg>Estatística do projeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -36038,6 +36070,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T165318Z" creationid="Evandro" creationdate="20160310T001253Z">
         <seg>Caracteres restantes (incluindo espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164601Z" creationid="sheilagomes" creationdate="20221218T164601Z">
+        <seg>Caracteres restantes (sem espaços)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49650,6 +49690,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164620Z" creationid="sheilagomes" creationdate="20221218T164620Z">
+        <seg>Caracteres únicos (sem espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
@@ -49665,6 +49713,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T165325Z" creationid="Evandro" creationdate="20160310T110903Z">
         <seg>Caracteres únicos restantes (incluindo espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164704Z" creationid="sheilagomes" creationdate="20221218T164704Z">
+        <seg>Caracteres únicos restantes (sem espaços)</seg>
       </tuv>
     </tu>
     <tu>
