@@ -11060,6 +11060,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151936Z" creationid="sheilagomes" creationdate="20221218T151936Z">
+        <seg>Segmentos autopreenchidos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
@@ -28295,8 +28303,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mark Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20170627T230459Z" creationid="karol" creationdate="20160308T212617Z">
-        <seg>Marcar segmentos auto-preenchidos</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151926Z" creationid="karol" creationdate="20160308T212617Z">
+        <seg>Marcar segmentos autopreenchidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -37222,8 +37230,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>Save auto-populated status</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110112Z" creationid="karol" creationdate="20160308T173034Z">
-        <seg>Salvar estado auto-preenchido</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151947Z" creationid="karol" creationdate="20160308T173034Z">
+        <seg>Salvar estado autopreenchido</seg>
       </tuv>
     </tu>
     <tu>
