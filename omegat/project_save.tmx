@@ -36074,6 +36074,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T193734Z" creationid="sheilagomes" creationdate="20221218T193734Z">
+        <seg>Caracteres restantes (com espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164601Z" creationid="sheilagomes" creationdate="20221218T164601Z">
@@ -48654,6 +48662,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
         <seg>Total Characters (including spaces)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T165316Z" creationid="Evandro" creationdate="20160311T182957Z">
+        <seg>Total de caracteres (incluindo espaços)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164715Z" creationid="sheilagomes" creationdate="20221218T164715Z">
         <seg>Total de caracteres (incluindo espaços)</seg>
       </tuv>
     </tu>
