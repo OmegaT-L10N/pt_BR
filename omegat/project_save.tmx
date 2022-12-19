@@ -17967,6 +17967,16 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T205000Z" creationid="sheilagomes" creationdate="20221219T205000Z">
+        <seg>Insira um código de idioma no formato xx-YY, xxx-YY, xx_YY ou xxx_YY, onde xx ou xxx 
+é o código do idioma e YY é o código da região ou do país (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T210432Z" creationid="Evandro" creationdate="20160312T110526Z">
@@ -18612,6 +18622,14 @@ Teias de aranha estão te bloqueando
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185735Z" creationid="Evandro" creationdate="20160311T185735Z">
         <seg>Excluir segmentos órfãos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exclude pattern</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T204636Z" creationid="sheilagomes" creationdate="20221219T204636Z">
+        <seg>Excluir padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -25069,6 +25087,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include pattern</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T204640Z" creationid="sheilagomes" creationdate="20221219T204640Z">
+        <seg>Incluir padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T190830Z" creationid="Sheila" creationdate="20170905T190830Z">
@@ -27920,6 +27946,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134346Z" creationid="sheilagomes" creationdate="20210511T134346Z">
         <seg>Mapeamento de arquivo local:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local file/folder</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T204611Z" creationid="sheilagomes" creationdate="20221219T204611Z">
+        <seg>Arquivo/pasta local</seg>
       </tuv>
     </tu>
     <tu>
@@ -36353,6 +36387,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T170211Z" creationid="Sheila" creationdate="20170905T170211Z">
         <seg>Repositórios remotos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T204614Z" creationid="sheilagomes" creationdate="20221219T204614Z">
+        <seg>Arquivo/pasta remota</seg>
       </tuv>
     </tu>
     <tu>
