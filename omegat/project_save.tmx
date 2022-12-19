@@ -15461,6 +15461,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current project configuration will be overridden by the remote project configuration.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T204340Z" creationid="sheilagomes" creationdate="20221219T204340Z">
+        <seg>A configuração atual do projeto será substituída pela configuração remota do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current team:
 (alphabetical order)</seg>
       </tuv>
@@ -28503,6 +28511,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping of local folders to remote folders in repositories</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T204603Z" creationid="sheilagomes" creationdate="20221219T204603Z">
+        <seg>Mapeamento de pastas locais para pastas remotas em repositórios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping parameters</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010233Z" creationid="sheilagomes" creationdate="20210511T010233Z">
@@ -36345,6 +36361,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T010338Z" creationid="sheilagomes" creationdate="20210511T010338Z">
         <seg>Localização remota ou diretório dos arquivos a serem traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T204432Z" creationid="sheilagomes" creationdate="20221219T204432Z">
+        <seg>Repositórios remotos</seg>
       </tuv>
     </tu>
     <tu>
@@ -44677,6 +44701,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T204429Z" creationid="sheilagomes" creationdate="20221219T204429Z">
+        <seg>O arquivo original é copiado como: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The output from running a
 covered work is covered by this License only if the output, given its
 content, constitutes a covered work.</seg>
@@ -49474,6 +49506,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T142018Z" creationid="edumartins" creationdate="20210518T142018Z">
         <seg>Solução de problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trying with backup file</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T204322Z" creationid="sheilagomes" creationdate="20221219T204322Z">
+        <seg>Tentando com o arquivo de backup</seg>
       </tuv>
     </tu>
     <tu>
