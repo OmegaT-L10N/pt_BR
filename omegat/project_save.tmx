@@ -19524,6 +19524,14 @@ Teias de aranha estão te bloqueando
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T205517Z" creationid="sheilagomes" creationdate="20221219T205517Z">
+        <seg>A pasta já existe e não está vazia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T165031Z" creationid="Sheila" creationdate="20170905T165031Z">
@@ -20553,6 +20561,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185112Z" creationid="Evandro" creationdate="20160311T185112Z">
         <seg>Sem distinção entre a &amp;largura Total/Parcial dos caracteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full/half-&amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T205637Z" creationid="sheilagomes" creationdate="20221219T205637Z">
+        <seg>Sem distinção entre a &amp;largura total/parcial dos caracteres</seg>
       </tuv>
     </tu>
     <tu>
@@ -31768,6 +31784,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions for this folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T205607Z" creationid="sheilagomes" creationdate="20221219T205607Z">
+        <seg>O OmegaT não tem permissão para ler e escrever nesta pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Isa" changedate="20210522T013758Z" creationid="Isa" creationdate="20210522T013215Z">
@@ -37881,6 +37905,16 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     <tu>
       <tuv lang="en">
         <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T210357Z" creationid="sheilagomes" creationdate="20221219T210357Z">
+        <seg>Escopo:
+As pesquisas se aplicam ao projeto e cobrem seu texto de origem e destino, TMs de referência, glossários, notas e comentários por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185400Z" creationid="Evandro" creationdate="20160311T185400Z">
@@ -39066,6 +39100,14 @@ In this segment {0,number,#} should remain unchanged</note>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170912T102543Z" creationid="Sheila" creationdate="20170912T102543Z">
         <seg>Selecionar um arquivo de script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a different folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T205527Z" creationid="sheilagomes" creationdate="20221219T205527Z">
+        <seg>Selecione uma pasta diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52982,6 +53024,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170914T031846Z" creationid="CALDAS" creationdate="20170914T031846Z">
         <seg>Escrito em Python/Perl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong URL detected in Linkifier: {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T205459Z" creationid="sheilagomes" creationdate="20221219T205459Z">
+        <seg>URL errado detectado no Linkifier: {0}</seg>
       </tuv>
     </tu>
     <tu>
