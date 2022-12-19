@@ -11383,6 +11383,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>B&amp;rowse...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T203117Z" creationid="sheilagomes" creationdate="20221219T203117Z">
+        <seg>P&amp;rocurar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back in history...</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172329Z" creationid="karol" creationdate="20160308T172329Z">
@@ -11798,10 +11806,34 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T203056Z" creationid="sheilagomes" creationdate="20221219T203056Z">
+        <seg>Pro&amp;curar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brow&amp;se...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T203106Z" creationid="sheilagomes" creationdate="20221219T203106Z">
+        <seg>Pro&amp;curar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brows&amp;e</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T184033Z" creationid="Evandro" creationdate="20160311T184033Z">
         <seg>Proc&amp;urar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brows&amp;e...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T203128Z" creationid="sheilagomes" creationdate="20221219T203128Z">
+        <seg>Proc&amp;urar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11818,6 +11850,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20190709T132806Z" creationid="CALDAS" creationdate="20190709T121443Z">
         <seg>Procurar coleções do TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse&amp;...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T203045Z" creationid="sheilagomes" creationdate="20221219T203045Z">
+        <seg>Procura&amp;r...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18663,6 +18703,14 @@ Teias de aranha estão te bloqueando
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172131Z" creationid="karol" creationdate="20160308T172131Z">
         <seg>Exportar seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T203228Z" creationid="sheilagomes" creationdate="20221219T203228Z">
+        <seg>Exportar pasta de arquivos de memória de tradução</seg>
       </tuv>
     </tu>
     <tu>
@@ -35784,6 +35832,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Re&amp;pository Mapping...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T203343Z" creationid="sheilagomes" creationdate="20221219T203343Z">
+        <seg>Ma&amp;peamento de repositório...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Read the tag operations section to see what can be done with tags.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181930Z" creationid="karol" creationdate="20160308T181930Z">
@@ -52690,6 +52746,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215147Z" creationid="karol" creationdate="20160308T215147Z">
         <seg>Trabalhar com texto simples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T203240Z" creationid="sheilagomes" creationdate="20221219T203240Z">
+        <seg>Arquivo de glossário editável</seg>
       </tuv>
     </tu>
     <tu>
