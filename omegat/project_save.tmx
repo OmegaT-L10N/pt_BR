@@ -49065,6 +49065,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated files language:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T202433Z" creationid="sheilagomes" creationdate="20221219T202433Z">
+        <seg>Idioma dos arquivos traduzidos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated files location not defined</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T112710Z" creationid="Evandro" creationdate="20160312T112710Z">
