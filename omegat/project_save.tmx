@@ -27868,6 +27868,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searc&amp;hes...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T203423Z" creationid="sheilagomes" creationdate="20221219T203423Z">
+        <seg>Buscas e&amp;xternas locais...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T195814Z" creationid="sheilagomes" creationdate="20221218T195814Z">
@@ -40550,6 +40558,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215749Z">
         <seg>Especifique a codificação de seus arquivos simples de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T204127Z" creationid="sheilagomes" creationdate="20221219T204127Z">
+        <seg>Especifique sua nova localização ou a recrie.</seg>
       </tuv>
     </tu>
     <tu>
