@@ -613,6 +613,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T202556Z" creationid="sheilagomes" creationdate="20221219T202556Z">
+        <seg>&amp;Propagação automática das traduções</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>&amp;Automatically Fetch Translations</seg>
@@ -27844,6 +27852,22 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local post-processing commands</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T202646Z" creationid="sheilagomes" creationdate="20221219T202646Z">
+        <seg>Comandos de pós-processamento locais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T202724Z" creationid="sheilagomes" creationdate="20221219T202724Z">
+        <seg>Comandos de pós-processamento locais (desabilitado):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113032Z" creationid="Evandro" creationdate="20160312T113032Z">
@@ -36406,6 +36430,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T202602Z" creationid="sheilagomes" creationdate="20221219T202602Z">
+        <seg>Remover ta&amp;gs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove tags from DOCX documents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T193715Z" creationid="CarolVignolis" creationdate="20181014T193715Z">
@@ -40228,6 +40260,14 @@ can do so.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T202530Z" creationid="sheilagomes" creationdate="20221219T202530Z">
+        <seg>Tokenizer do idioma de origem:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Source language: {0}</seg>
@@ -41751,6 +41791,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T112807Z" creationid="Evandro" creationdate="20160312T112744Z">
         <seg>A pasta alvo {0} não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T202547Z" creationid="sheilagomes" creationdate="20221219T202547Z">
+        <seg>Tokenizer do idioma de destino:</seg>
       </tuv>
     </tu>
     <tu>
