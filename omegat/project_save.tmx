@@ -38275,6 +38275,16 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
     </tu>
     <tu>
+      <note>Pesquisa x busca
+</note>
+      <tuv lang="en">
+        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T210544Z" creationid="sheilagomes" creationdate="20221219T210544Z">
+        <seg>As pesquisas também podem ser realizadas em uma hierarquia específica de pastas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
       </tuv>
@@ -47997,6 +48007,14 @@ your copyrighted material outside their relationship with you.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171333Z" creationid="karol" creationdate="20160308T171333Z">
         <seg>Tibetano padrão, Tibetano, Central</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tick or untick the appropriate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T210407Z" creationid="sheilagomes" creationdate="20221219T210407Z">
+        <seg>Marque ou desmarque as caixas apropriadas para alterar essas configurações.</seg>
       </tuv>
     </tu>
     <tu>
