@@ -17717,6 +17717,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T203027Z" creationid="sheilagomes" creationdate="20221219T203027Z">
+        <seg>Habilite-os em Preferências &gt; Gravação e saída....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T102212Z" creationid="Evandro" creationdate="20160312T102212Z">
@@ -27862,8 +27870,16 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Local post-processing commands (disabled):</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T202724Z" creationid="sheilagomes" creationdate="20221219T202724Z">
-        <seg>Comandos de pós-processamento locais (desabilitado):</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T202941Z" creationid="sheilagomes" creationdate="20221219T202724Z">
+        <seg>Comandos de pós-processamento locais (desativados):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T202926Z" creationid="sheilagomes" creationdate="20221219T202926Z">
+        <seg>Os comandos de pós-processamento locais estão desativados e não serão executados.</seg>
       </tuv>
     </tu>
     <tu>
