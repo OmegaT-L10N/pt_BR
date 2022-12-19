@@ -14730,6 +14730,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T204218Z" creationid="sheilagomes" creationdate="20221219T204218Z">
+        <seg>Criar uma pasta de projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Translated Documents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172114Z" creationid="karol" creationdate="20160308T172114Z">
