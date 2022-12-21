@@ -49433,6 +49433,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T212312Z" creationid="sheilagomes" creationdate="20221221T212312Z">
+        <seg>Traduzir segmentos de origem em &amp;branco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate a PDF file</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T174501Z" creationid="sheilagomes" creationdate="20210511T174456Z">
