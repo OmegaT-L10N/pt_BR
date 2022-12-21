@@ -40040,6 +40040,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped translation units for which no source segment was found.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T205854Z" creationid="sheilagomes" creationdate="20221221T205854Z">
+        <seg>Unidades de tradução ignoradas para as quais nenhum segmento de origem foi encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20190420T120521Z" creationid="CALDAS" creationdate="20190420T120521Z">
