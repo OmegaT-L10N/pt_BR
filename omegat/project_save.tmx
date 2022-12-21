@@ -1986,6 +1986,16 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T204557Z" creationid="sheilagomes" creationdate="20221221T204557Z">
+        <seg>'*' corresponde a zero ou mais caracteres ('par*' encontra 'par', 'para', e 'parado', etc.)
+'?' corresponde a exatamente um caractere ('par?' encontra 'para' e 'paro', mas não 'par' nem 'parado').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
@@ -11223,6 +11233,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T204726Z" creationid="sheilagomes" creationdate="20221221T204726Z">
+        <seg>Sincronizar automaticamente com o editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170913T221646Z" creationid="Evandro" creationdate="20160312T113545Z">
@@ -13558,6 +13576,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003623Z" creationid="karol" creationdate="20160309T003623Z">
         <seg>Feche o projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close the search window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T204803Z" creationid="sheilagomes" creationdate="20221221T204803Z">
+        <seg>Feche a janela de busca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18246,6 +18272,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185745Z" creationid="Evandro" creationdate="20160311T185745Z">
         <seg>Erro na busca da árvore de diretórios!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T204750Z" creationid="sheilagomes" creationdate="20221221T204750Z">
+        <seg>Erro na busca da árvore de pastas!</seg>
       </tuv>
     </tu>
     <tu>
@@ -29044,6 +29078,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004107Z" creationid="karol" creationdate="20160309T004107Z">
         <seg>Configuração do painel de correspondências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T204818Z" creationid="sheilagomes" creationdate="20221221T204818Z">
+        <seg>Segmentos correspondentes: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -42330,6 +42372,16 @@ this License.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185328Z" creationid="Evandro" creationdate="20160311T185328Z">
         <seg>Substituição de Texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T204712Z" creationid="sheilagomes" creationdate="20221221T204712Z">
+        <seg>Substituição de texto:
+a substituição se aplica aos segmentos de destino do projeto.</seg>
       </tuv>
     </tu>
     <tu>
