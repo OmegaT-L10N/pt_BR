@@ -52669,6 +52669,16 @@ circunvenção de medidas tecnológicas até o ponto em que tal circunvenção s
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
+Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T204514Z" creationid="sheilagomes" creationdate="20221221T204454Z">
+        <seg>Curingas:
+Tanto a busca exata como a por palavra-chave aceitam os caracteres curingas * e ?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Wildcards:
@@ -61625,6 +61635,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182245Z" creationid="karol" creationdate="20160308T182245Z">
         <seg>onde&lt;e0&gt; {pasta}&lt;/e0&gt; é o nome da pasta com o caminho completo na qual o &lt;a1&gt;OmegaT&lt;/a1&gt; está localizado - especificamente, o arquivo &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jar&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>wildcards.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T204509Z" creationid="sheilagomes" creationdate="20221221T204509Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
