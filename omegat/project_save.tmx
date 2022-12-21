@@ -18211,6 +18211,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T210818Z" creationid="sheilagomes" creationdate="20221221T210818Z">
+        <seg>Erro ao carregar o plugin da classe '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T182451Z" creationid="Evandro" creationdate="20160311T182451Z">
@@ -18304,6 +18312,14 @@ No one hears your screams</seg>
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T101920Z" creationid="Evandro" creationdate="20160312T101920Z">
+        <seg>Erro ao descarregar o plugin da classe '{0}': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error unloading plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T210833Z" creationid="sheilagomes" creationdate="20221221T210833Z">
         <seg>Erro ao descarregar o plugin da classe '{0}': {1}</seg>
       </tuv>
     </tu>
@@ -43180,6 +43196,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TMX file will still be loaded.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T210546Z" creationid="sheilagomes" creationdate="20221221T210546Z">
+        <seg>O arquivo TMX ainda será carregado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T210539Z" creationid="sheilagomes" creationdate="20221221T210539Z">
@@ -54558,6 +54582,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T101723Z" creationid="Evandro" creationdate="20160312T101723Z">
+        <seg>Seu projeto atual usa segmentação por sentença, mas o arquivo TMX foi criado com segmentação por parágrafo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T210756Z" creationid="sheilagomes" creationdate="20221221T210756Z">
         <seg>Seu projeto atual usa segmentação por sentença, mas o arquivo TMX foi criado com segmentação por parágrafo.</seg>
       </tuv>
     </tu>
