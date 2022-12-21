@@ -50052,6 +50052,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to initialize reading of XML file!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T204846Z" creationid="sheilagomes" creationdate="20221221T204846Z">
+        <seg>Não é possível inicializar a leitura do arquivo XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse IAM service response</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223227Z" creationid="sheilagomes" creationdate="20210503T223227Z">
@@ -50446,8 +50454,8 @@ na linha {1}, coluna {2}.</seg>
       <tuv lang="en">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185924Z" creationid="Evandro" creationdate="20160311T185924Z">
-        <seg>Versão XML incompatível {0}!</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T204903Z" creationid="Evandro" creationdate="20160311T185924Z">
+        <seg>Versão XML {0} incompatível!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58608,6 +58616,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T190034Z" creationid="Evandro" creationdate="20160311T190034Z">
         <seg>carregado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>loaded {0} attributes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T205507Z" creationid="sheilagomes" creationdate="20221221T205507Z">
+        <seg>carregou {0} atributos.</seg>
       </tuv>
     </tu>
     <tu>
