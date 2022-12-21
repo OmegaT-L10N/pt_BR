@@ -12417,8 +12417,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Cannot reset the filter to default patterns.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T104656Z" creationid="Evandro" creationdate="20160312T104656Z">
-        <seg>Impossível restaurar o filtro para os padrões predefinidos.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211431Z" creationid="Evandro" creationdate="20160312T104656Z">
+        <seg>Não é possível restaurar o filtro para os padrões predefinidos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16735,6 +16735,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T180414Z" creationid="Evandro" creationdate="20160311T180414Z">
         <seg>Você quer realmente sair?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you really want to remove pattern {0}?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211343Z" creationid="sheilagomes" creationdate="20221221T211343Z">
+        <seg>Tem certeza de que deseja remover o padrão {0}?</seg>
       </tuv>
     </tu>
     <tu>
@@ -36690,6 +36698,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove pattern</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211359Z" creationid="sheilagomes" creationdate="20221221T211359Z">
+        <seg>Remover padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove pattern?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T104652Z" creationid="Evandro" creationdate="20160312T104652Z">
@@ -40501,8 +40517,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source file encoding</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211115Z" creationid="sheilagomes" creationdate="20221221T211115Z">
-        <seg>Codificação do arquivo fonte</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211230Z" creationid="sheilagomes" creationdate="20221221T211115Z">
+        <seg>Codificação do arquivo de origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -40526,8 +40542,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Source filename pattern</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211058Z" creationid="sheilagomes" creationdate="20221221T211058Z">
-        <seg>Tipo do arquivo de origem</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211304Z" creationid="sheilagomes" creationdate="20221221T211058Z">
+        <seg>Padrão do arquivo de origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -49506,8 +49522,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translated file encoding</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211207Z" creationid="sheilagomes" creationdate="20221221T211207Z">
-        <seg>Codificação do Arquivo Traduzido</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211225Z" creationid="sheilagomes" creationdate="20221221T211207Z">
+        <seg>Codificação do arquivo traduzido</seg>
       </tuv>
     </tu>
     <tu>
@@ -49527,6 +49543,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190830T174439Z" creationid="Sheila" creationdate="20190830T174439Z">
         <seg>Nome de arquivo traduzido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename pattern</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211320Z" creationid="sheilagomes" creationdate="20221221T211247Z">
+        <seg>Padrão do nome de arquivo traduzido</seg>
       </tuv>
     </tu>
     <tu>
