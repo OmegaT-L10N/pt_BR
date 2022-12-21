@@ -24242,6 +24242,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore &amp;PO header</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T212333Z" creationid="sheilagomes" creationdate="20221221T212333Z">
+        <seg>Ignorar cabeçalho &amp;PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111039Z" creationid="Evandro" creationdate="20160312T111039Z">
