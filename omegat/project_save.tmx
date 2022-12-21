@@ -515,6 +515,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211838Z" creationid="sheilagomes" creationdate="20221221T211838Z">
+        <seg>Permitir segmento de destino em br&amp;anco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T102455Z" creationid="Evandro" creationdate="20160312T102455Z">
@@ -15623,6 +15631,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170913T221738Z" creationid="Sheila" creationdate="20170913T221738Z">
         <seg>&amp;Personalizar a tabela de caracteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize the processed source filename patterns, the translated file names and their respective encodings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211603Z" creationid="sheilagomes" creationdate="20221221T211603Z">
+        <seg>Personalize os padrões de nome de arquivo de origem processados, os nomes dos arquivos traduzidos e suas respectivas codificações.</seg>
       </tuv>
     </tu>
     <tu>
