@@ -11135,6 +11135,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto &amp;replace plural specification</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T212914Z" creationid="sheilagomes" creationdate="20221221T212914Z">
+        <seg>Substituição automática de especificação de plu&amp;ral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T102516Z" creationid="Evandro" creationdate="20160312T102516Z">
