@@ -13646,6 +13646,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Column index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211018Z" creationid="sheilagomes" creationdate="20221221T211018Z">
+        <seg>Índice de coluna deve ser igual a 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T141513Z" creationid="sheilagomes" creationdate="20221218T141513Z">
@@ -40490,6 +40498,14 @@ can do so.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Source file encoding</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211115Z" creationid="sheilagomes" creationdate="20221221T211115Z">
+        <seg>Codificação do arquivo fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Source file loading complete</seg>
@@ -40504,6 +40520,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T180950Z" creationid="karol" creationdate="20160308T180950Z">
         <seg>Tipo de arquivo fonte, padrão do nome de arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211058Z" creationid="sheilagomes" creationdate="20221221T211058Z">
+        <seg>Tipo do arquivo de origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -49476,6 +49500,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164135Z" creationid="sheilagomes" creationdate="20221218T164135Z">
         <seg>Arquivo traduzido criado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated file encoding</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211207Z" creationid="sheilagomes" creationdate="20221221T211207Z">
+        <seg>Codificação do Arquivo Traduzido</seg>
       </tuv>
     </tu>
     <tu>
