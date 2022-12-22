@@ -1441,6 +1441,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221222T214005Z" creationid="sheilagomes" creationdate="20221222T214005Z">
+        <seg>Se&amp;gmento anterior de tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Previous Segment with xAUTO</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T152209Z" creationid="sheilagomes" creationdate="20221218T152209Z">
@@ -30047,6 +30055,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221222T214033Z" creationid="sheilagomes" creationdate="20221222T214033Z">
+        <seg>Próximo s&amp;egmento de tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>N&amp;ext Segment with xENFORCED</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T152253Z" creationid="sheilagomes" creationdate="20221218T152253Z">
@@ -33855,6 +33871,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Michael" changedate="20190517T004244Z" creationid="Michael" creationdate="20190517T004244Z">
         <seg>Modo Sobrescrever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221222T214123Z" creationid="sheilagomes" creationdate="20221222T214123Z">
+        <seg>Segmento ante&amp;rior de tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
