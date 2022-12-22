@@ -100,3 +100,5 @@ Unsigned	Não assinada
 project	projeto
 file	arquivo
 Search	Pesquisar	OmegaTLoc
+Segment	segmento
+files	arquivos
