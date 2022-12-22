@@ -1341,6 +1341,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221222T211558Z" creationid="sheilagomes" creationdate="20221222T211558Z">
+        <seg>&amp;Próximo segmento de tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Next Segment with xAUTO</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T152124Z" creationid="sheilagomes" creationdate="20221218T152124Z">
@@ -11169,8 +11177,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Auto-Popu&amp;lated Segments</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T151902Z" creationid="sheilagomes" creationdate="20221218T151902Z">
-        <seg>Segmentos autopreenchidos</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221222T211341Z" creationid="sheilagomes" creationdate="20221218T151902Z">
+        <seg>Segmentos &amp;autopreenchidos</seg>
       </tuv>
     </tu>
     <tu>
