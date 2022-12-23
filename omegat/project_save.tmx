@@ -19315,6 +19315,14 @@ Teias de aranha estão te bloqueando
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File &amp;format</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205322Z" creationid="sheilagomes" creationdate="20221223T205322Z">
+        <seg>&amp;Formato do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T012502Z" creationid="Sheila" creationdate="20170905T012502Z">
@@ -19560,6 +19568,14 @@ Teias de aranha estão te bloqueando
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T102100Z" creationid="Evandro" creationdate="20160312T102100Z">
         <seg>Filtro '{0}' não pôde ser carregado de '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter Settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205311Z" creationid="sheilagomes" creationdate="20221223T205311Z">
+        <seg>Configurações de filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -21019,6 +21035,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T153653Z" creationid="sheilagomes" creationdate="20221218T153653Z">
         <seg>&amp;Filtros de arquivo globais...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File Filters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205341Z" creationid="sheilagomes" creationdate="20221223T205341Z">
+        <seg>Filtros de arquivo globais</seg>
       </tuv>
     </tu>
     <tu>
@@ -28172,6 +28196,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T195814Z" creationid="sheilagomes" creationdate="20221218T195814Z">
         <seg>&amp;Filtros de arquivo locais...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local File Filters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205346Z" creationid="sheilagomes" creationdate="20221223T205346Z">
+        <seg>Filtros de arquivo locais</seg>
       </tuv>
     </tu>
     <tu>
@@ -38689,6 +38721,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See /docs/libraries.txt</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205211Z" creationid="sheilagomes" creationdate="20221223T205211Z">
+        <seg>Veja /docs/libraries.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;e2&gt;Translation editing&lt;/e2&gt; for more details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004039Z" creationid="karol" creationdate="20160309T004039Z">
@@ -40480,6 +40520,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T193958Z" creationid="karol" creationdate="20160308T193958Z">
         <seg>Alguns dispositivos são projetados para negar o acesso de usuários para instalar ou executar versões modificadas do programa dentro deles, embora o fabricante possa fazê-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some filters do not allow encoding modifications.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205333Z" creationid="sheilagomes" creationdate="20221223T205333Z">
+        <seg>Alguns filtros não permitem modificações de codificação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51354,6 +51402,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T195938Z" creationid="sheilagomes" creationdate="20221218T195938Z">
         <seg>Usar regras de &amp;segmentação locais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local file fil&amp;ter settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205408Z" creationid="sheilagomes" creationdate="20221223T205408Z">
+        <seg>Usar as configurações de fil&amp;tro de arquivos</seg>
       </tuv>
     </tu>
     <tu>
