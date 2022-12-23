@@ -26941,6 +26941,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T203903Z" creationid="sheilagomes" creationdate="20221223T203903Z">
+        <seg>Manter literais Unico&amp;de (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep in mind that a pair group must have both its opening and its closing tag deleted to ensure that all traces of the formatting are properly erased, otherwise the translated file may become corrupted.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181845Z" creationid="karol" creationdate="20160308T181845Z">
@@ -27878,6 +27886,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201539Z" creationid="karol" creationdate="20160308T201539Z">
         <seg>Limitação de responsabilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line length in target files (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T203821Z" creationid="sheilagomes" creationdate="20221223T203821Z">
+        <seg>Comprimento de linha nos arquivos de destino (0 = sem limite)</seg>
       </tuv>
     </tu>
     <tu>
