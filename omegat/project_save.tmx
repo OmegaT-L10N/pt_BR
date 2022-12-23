@@ -16802,6 +16802,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use the file name to &amp;identify alternate translations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205504Z" creationid="sheilagomes" creationdate="20221223T205504Z">
+        <seg>Não use o nome do arquivo para &amp;identificar traduções alternativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you have a Java implementation compatible with Oracle's Java 1.6 JRE?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182103Z" creationid="karol" creationdate="20160308T182103Z">
@@ -19507,6 +19515,14 @@ Teias de aranha estão te bloqueando
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filename variables:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205538Z" creationid="sheilagomes" creationdate="20221223T205538Z">
+        <seg>Variáveis de nome de arquivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002405Z" creationid="karol" creationdate="20160309T002405Z">
@@ -21539,6 +21555,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T173211Z" creationid="karol" creationdate="20160308T173211Z">
         <seg>Arquivos HTML e XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML file too big!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205603Z" creationid="sheilagomes" creationdate="20221223T205603Z">
+        <seg>Arquivo HTML muito grande!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31371,6 +31395,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205705Z" creationid="sheilagomes" creationdate="20221223T205705Z">
+        <seg>Nota: a definição da codificação do arquivo de origem afeta somente os arquivos HTML que não têm declaração de codificação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: colors are customizable through the &lt;g0&gt;Options / Custom colours...&lt;/g0&gt; dialog.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T212627Z" creationid="karol" creationdate="20160308T212627Z">
@@ -35187,6 +35219,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve &amp;spaces for all tags</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205454Z" creationid="sheilagomes" creationdate="20221223T205454Z">
+        <seg>&amp;Preservar espaços para todas as tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T171419Z" creationid="Sheila" creationdate="20170905T171419Z">
@@ -35658,6 +35698,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T164537Z" creationid="Evandro" creationdate="20160311T182508Z">
         <seg>Estatística do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project autosaved at {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205553Z" creationid="sheilagomes" creationdate="20221223T205553Z">
+        <seg>Projeto gravado automaticamente em {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -39500,6 +39548,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a filter and click on Edit... or Options... to customize it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205418Z" creationid="sheilagomes" creationdate="20221223T205418Z">
+        <seg>Selecione um filtro e clique em Editar... ou Opções... para personalizá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Michael" changedate="20190608T020635Z" creationid="Michael" creationdate="20190608T020635Z">
@@ -40826,6 +40882,14 @@ can do so.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Source file encoding:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205515Z" creationid="sheilagomes" creationdate="20221223T205515Z">
+        <seg>Codificação do arquivo de origem:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Source file loading complete</seg>
@@ -40848,6 +40912,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211304Z" creationid="sheilagomes" creationdate="20221221T211058Z">
         <seg>Padrão do arquivo de origem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205512Z" creationid="sheilagomes" creationdate="20221223T205512Z">
+        <seg>Padrão do nome do arquivo de origem:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49879,6 +49951,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translated file encoding:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205527Z" creationid="sheilagomes" creationdate="20221223T205527Z">
+        <seg>Codificação do arquivo traduzido:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
@@ -50592,6 +50672,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T165943Z" creationid="karol" creationdate="20160308T165943Z">
         <seg>Frases repetidas são traduzidas automaticamente, enquanto que frases atualizadas são exibidas com a tradução prévia mais similar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uncheck the box to disable it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205440Z" creationid="sheilagomes" creationdate="20221223T205440Z">
+        <seg>Desmarque a caixa para desativá-lo.</seg>
       </tuv>
     </tu>
     <tu>
