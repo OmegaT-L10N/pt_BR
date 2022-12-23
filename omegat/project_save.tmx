@@ -9948,6 +9948,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All sets that match the project source language are applied.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210739Z" creationid="sheilagomes" creationdate="20221223T210739Z">
+        <seg>Todas as definições que correspondam ao idioma de origem do projeto são aplicadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the changes will be synchronised the next time a connection is available.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210512T155810Z" creationid="sheilagomes" creationdate="20210512T155810Z">
@@ -27461,6 +27469,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language sets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210912Z" creationid="sheilagomes" creationdate="20221223T210912Z">
+        <seg>Listas de idiomas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170909T153320Z" creationid="Sheila" creationdate="20170909T153320Z">
@@ -29685,6 +29701,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mo&amp;ve Up</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210852Z" creationid="sheilagomes" creationdate="20221223T210852Z">
+        <seg>Mo&amp;ver para cima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181004T140230Z" creationid="User" creationdate="20181004T140230Z">
@@ -29995,8 +30019,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="hilge" changedate="20160403T230252Z" creationid="Evandro" creationdate="20160311T181225Z">
-        <seg>Mover para &amp;o último</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210823Z" creationid="Evandro" creationdate="20160311T181225Z">
+        <seg>Mover para o &amp;fim</seg>
       </tuv>
     </tu>
     <tu>
@@ -30026,12 +30050,20 @@ Lost to paradise</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Move F&amp;irst</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210809Z" creationid="sheilagomes" creationdate="20221223T210745Z">
+        <seg>Mover para o &amp;topo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Move U&amp;p</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T171806Z" creationid="Evandro" creationdate="20160312T105741Z">
-        <seg>Mover para ci&amp;ma</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210835Z" creationid="Evandro" creationdate="20160312T105741Z">
+        <seg>Mover &amp;para cima</seg>
       </tuv>
     </tu>
     <tu>
