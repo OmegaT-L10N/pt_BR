@@ -26876,6 +26876,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jean-Christophe Helary is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204824Z" creationid="sheilagomes" creationdate="20221223T204824Z">
+        <seg>Jean-Christophe Helary é o gerente de projetos da OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T170417Z" creationid="karol" creationdate="20160308T170417Z">
