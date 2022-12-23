@@ -10834,6 +10834,14 @@ paragraph of section 11).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211015Z" creationid="sheilagomes" creationdate="20221223T211015Z">
+        <seg>Tem certeza de que deseja remover a lista de regras de segmentação {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
@@ -30512,6 +30520,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New language and country</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211019Z" creationid="sheilagomes" creationdate="20221223T211019Z">
+        <seg>Novo idioma e país</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181955Z" creationid="karol" creationdate="20160308T181955Z">
@@ -40041,6 +40057,14 @@ In this segment {0,number,#} should remain unchanged</note>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003222Z" creationid="karol" creationdate="20160309T003222Z">
         <seg>Definir um segmento após "。" (ponto japonês)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set contents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210935Z" creationid="sheilagomes" creationdate="20221223T210935Z">
+        <seg>Conteúdo da lista</seg>
       </tuv>
     </tu>
     <tu>
@@ -52922,6 +52946,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When entering an empty segment:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211228Z" creationid="sheilagomes" creationdate="20221223T211228Z">
+        <seg>Ao inserir um segmento vazio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171531Z" creationid="karol" creationdate="20160308T171531Z">
@@ -55281,6 +55313,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T114752Z" creationid="Francisco Valdez" creationdate="20210519T114752Z">
         <seg>Seus documentos e memórias de tradução permanecem no seu computador, e o projeto OmegaT não terá acesso ao seu trabalho ou informação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your name/ID is used to identify your translations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211028Z" creationid="sheilagomes" creationdate="20221223T211028Z">
+        <seg>Seu nome/ID é usado para identificar suas traduções.</seg>
       </tuv>
     </tu>
     <tu>
