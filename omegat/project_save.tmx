@@ -17318,6 +17318,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Duplicate fallbac&amp;k text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204419Z" creationid="sheilagomes" creationdate="20221223T204419Z">
+        <seg>Duplicar texto de conti&amp;ngência</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Duplicate segments: {0}</seg>
@@ -30731,6 +30739,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-visible instruction te&amp;xt</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204329Z" creationid="sheilagomes" creationdate="20221223T204329Z">
+        <seg>Te&amp;xto de instrução não-visível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>None</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181013T133912Z" creationid="CarolVignolis" creationdate="20181013T133912Z">
@@ -34961,6 +34977,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PowerPoint</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204424Z" creationid="sheilagomes" creationdate="20221223T204424Z">
+        <seg>PowerPoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Powerful tools</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170915T025556Z" creationid="mroch" creationdate="20170915T025556Z">
@@ -37787,6 +37811,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S&amp;lide comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204438Z" creationid="sheilagomes" creationdate="20221223T204438Z">
+        <seg>Comentários do s&amp;lide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185131Z" creationid="Evandro" creationdate="20160311T185131Z">
@@ -40264,6 +40296,14 @@ In this segment {0,number,#} should remain unchanged</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Sli&amp;de masters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204459Z" creationid="sheilagomes" creationdate="20221223T204459Z">
+        <seg>Sli&amp;de mestre</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Slide La&amp;youts</seg>
@@ -42327,6 +42367,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T010540Z" creationid="karol" creationdate="20160309T010540Z">
         <seg>Texto destino mais longo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target segment status</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204220Z" creationid="sheilagomes" creationdate="20221223T204220Z">
+        <seg>Status do segmento de destino</seg>
       </tuv>
     </tu>
     <tu>
@@ -50992,6 +51040,14 @@ The current setting is {0}MB;</seg>
         <seg>Use "java -Xmx&lt;tamanho-em-MB&gt;M -jar OmegaT.jar" na linha de comando 
 ou no script inicial do OmegaT;
 A configuraçao atual é {0}MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204303Z" creationid="sheilagomes" creationdate="20221223T204303Z">
+        <seg>Usar "tradução-precisa-revisão" em vez de "traduzido"</seg>
       </tuv>
     </tu>
     <tu>
