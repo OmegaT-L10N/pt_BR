@@ -13978,6 +13978,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compress whitespace in translated file</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210230Z" creationid="sheilagomes" creationdate="20221223T210230Z">
+        <seg>Compactar espaço em branco no arquivo traduzido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Con&amp;figure</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181013T133032Z" creationid="CarolVignolis" creationdate="20181013T133032Z">
@@ -24467,6 +24475,30 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210146Z" creationid="sheilagomes" creationdate="20221223T210146Z">
+        <seg>Atributo "content" de tags &lt;meta&gt; ignorado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored paragraphs (regular expression)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210104Z" creationid="sheilagomes" creationdate="20221223T210104Z">
+        <seg>Parágrafos ignorados (expressão regular)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored tags (attribute=value)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210159Z" creationid="sheilagomes" creationdate="20221223T210159Z">
+        <seg>Tags ignoradas (attribute=value)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T171531Z" creationid="CarolVignolis" creationdate="20181014T171405Z">
@@ -27405,6 +27437,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language pattern</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210259Z" creationid="sheilagomes" creationdate="20221223T210259Z">
+        <seg>Padrão do idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170909T153320Z" creationid="Sheila" creationdate="20170909T153320Z">
@@ -29709,6 +29749,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modify encoding declaration</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210059Z" creationid="sheilagomes" creationdate="20221223T210059Z">
+        <seg>Modificar declaração de codificação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifying tag group order may result in the nesting of a tag group within another tag group.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181848Z" creationid="karol" creationdate="20160308T181848Z">
@@ -31399,6 +31447,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T105119Z" creationid="Evandro" creationdate="20160312T105119Z">
         <seg>Nota: a definição da codificação do arquivo fonte afeta somente os arquivos HTML que não possuem declaração de codificação interna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210253Z" creationid="sheilagomes" creationdate="20221223T210253Z">
+        <seg>Nota: A configuração de codificação de arquivo de origem afeta apenas arquivos HHC e HHK sem declaração de codificação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33247,8 +33303,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CALDAS" changedate="20190708T132825Z" creationid="Evandro" creationdate="20160312T105217Z">
-        <seg>Somente se o arquivo (X)HTML tiver uma declaração de &amp;codificação</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210223Z" creationid="Evandro" creationdate="20160312T105217Z">
+        <seg>Somente se o arquivo (X)HTML tiver uma d&amp;eclaração de codificação</seg>
       </tuv>
     </tu>
     <tu>
@@ -36877,6 +36933,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T105405Z" creationid="Evandro" creationdate="20160312T105345Z">
         <seg>Remover comentários HTML em documento traduzido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove HTML comments in translated file</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210234Z" creationid="sheilagomes" creationdate="20221223T210234Z">
+        <seg>Remover comentários HTML no arquivo traduzido</seg>
       </tuv>
     </tu>
     <tu>
