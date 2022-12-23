@@ -40246,6 +40246,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211613Z" creationid="sheilagomes" creationdate="20221223T211613Z">
+        <seg>Configurações para tags de arquivos TMX que não são do OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T125937Z" creationid="karol" creationdate="20160308T173128Z">
