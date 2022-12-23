@@ -1021,6 +1021,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204201Z" creationid="sheilagomes" creationdate="20221223T204201Z">
+        <seg>&amp;Forçar atalho de tags &lt;it pos="end"&gt; para "&lt;f &gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103719Z" creationid="Evandro" creationdate="20160312T103719Z">
@@ -1734,6 +1742,14 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103550Z" creationid="Evandro" creationdate="20160312T103550Z">
+        <seg>Nomes de pl&amp;anilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Sheet names</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204107Z" creationid="sheilagomes" creationdate="20221223T204107Z">
         <seg>Nomes de pl&amp;anilhas</seg>
       </tuv>
     </tu>
@@ -16859,6 +16875,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DocBook files must have a proper DOCTYPE declaration.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204051Z" creationid="sheilagomes" creationdate="20221223T204051Z">
+        <seg>Os arquivos DocBook devem ter uma declaração DOCTYPE adequada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110834Z" creationid="Evandro" creationdate="20160312T110834Z">
@@ -19592,8 +19616,8 @@ Teias de aranha estão te bloqueando
       <tuv lang="en">
         <seg>Flash XML Export</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103335Z" creationid="Evandro" creationdate="20160312T103335Z">
-        <seg>Flash XML Export</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204032Z" creationid="Evandro" creationdate="20160312T103335Z">
+        <seg>Exportação XML Flash</seg>
       </tuv>
     </tu>
     <tu>
@@ -20442,6 +20466,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170524T223103Z" creationid="karol" creationdate="20160308T170023Z">
         <seg>Caso essas palavras estejam presentes tanto no segmento aberto quanto no glossário, O OmegaT exibe a tradução para sua consulta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Force Unicode literals compatibility with Java 8</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T203910Z" creationid="sheilagomes" creationdate="20221223T203910Z">
+        <seg>Forçar compatibilidade de literais Unicode com Java 8</seg>
       </tuv>
     </tu>
     <tu>
@@ -29605,6 +29637,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Monolingual XLIFF</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T203944Z" creationid="sheilagomes" creationdate="20221223T203944Z">
+        <seg>XLIFF monolíngue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moodle PHP</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20181121T231325Z" creationid="Sheila" creationdate="20181121T231229Z">
@@ -37789,6 +37829,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SVG  / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204018Z" creationid="sheilagomes" creationdate="20221223T204018Z">
+        <seg>Exportação SVG  / Adobe Illustrator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103330Z" creationid="Evandro" creationdate="20160312T103330Z">
@@ -41969,6 +42017,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag handling compatibility</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204123Z" creationid="sheilagomes" creationdate="20221223T204123Z">
+        <seg>Compatibilidade de manipulação de tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T190009Z" creationid="Evandro" creationdate="20160311T190009Z">
@@ -41997,6 +42053,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181838Z" creationid="karol" creationdate="20160308T181838Z">
         <seg>Trabalhar com tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204138Z" creationid="sheilagomes" creationdate="20221223T204138Z">
+        <seg>Atalhos de tag (não se aplicam a arquivos compatíveis com OmegaT 2.6):</seg>
       </tuv>
     </tu>
     <tu>
@@ -43091,8 +43155,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103301Z" creationid="Evandro" creationdate="20160312T103301Z">
-        <seg>O filtro dos Pacotes de Recursos do Java lançou uma exceçã]o:</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T203929Z" creationid="Evandro" creationdate="20160312T103301Z">
+        <seg>O filtro dos pacotes de recursos do Java lançou uma exceção:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53246,6 +53310,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103343Z" creationid="Evandro" creationdate="20160312T103343Z">
         <seg>Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordpress XML export</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204040Z" creationid="sheilagomes" creationdate="20221223T204040Z">
+        <seg>Exportação XML do Wordpress</seg>
       </tuv>
     </tu>
     <tu>
