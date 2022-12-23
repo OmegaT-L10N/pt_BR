@@ -1218,8 +1218,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Line breaks</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T102932Z" creationid="Evandro" creationdate="20160312T102932Z">
-        <seg>Quebras de li&amp;nha</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221222T214405Z" creationid="Evandro" creationdate="20160312T102932Z">
+        <seg>Quebras de &amp;linha</seg>
       </tuv>
     </tu>
     <tu>
@@ -14889,6 +14889,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T194801Z" creationid="CarolVignolis" creationdate="20181014T194801Z">
         <seg>Criar arquivos backup do DOCX original</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create paragraphs on:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221222T214352Z" creationid="sheilagomes" creationdate="20221222T214352Z">
+        <seg>Criar parágrafos em:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33919,6 +33927,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170915T023839Z" creationid="mroch" creationdate="20170915T023839Z">
         <seg>Arquivos PDF são um caso especial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PDF text contents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221222T214248Z" creationid="sheilagomes" creationdate="20221222T214248Z">
+        <seg>Conteúdo do texto PDF</seg>
       </tuv>
     </tu>
     <tu>
