@@ -11848,6 +11848,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break/exception</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210302Z" creationid="sheilagomes" creationdate="20221223T210302Z">
+        <seg>Quebra/Exceção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Breton</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171210Z" creationid="karol" creationdate="20160308T171210Z">
@@ -21071,6 +21079,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210331Z" creationid="sheilagomes" creationdate="20221223T210331Z">
+        <seg>Regras de segmentação globais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T155355Z" creationid="karol" creationdate="20160309T155355Z">
@@ -28296,6 +28312,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210340Z" creationid="sheilagomes" creationdate="20221223T210340Z">
+        <seg>Regras de segmentação locais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local file mapping:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210511T134346Z" creationid="sheilagomes" creationdate="20210511T134346Z">
@@ -34461,6 +34485,22 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T171715Z" creationid="Evandro" creationdate="20160312T105547Z">
         <seg>Padrão anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern after</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210323Z" creationid="sheilagomes" creationdate="20221223T210323Z">
+        <seg>Padrão depois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern before</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210309Z" creationid="sheilagomes" creationdate="20221223T210309Z">
+        <seg>Padrão antes</seg>
       </tuv>
     </tu>
     <tu>
@@ -41221,6 +41261,16 @@ can do so.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20191204T152631Z" creationid="CALDAS" creationdate="20191204T152631Z">
         <seg>Parâmetros específicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specific sets should be put above general sets:
+"FR-CA" should be above "FR.*", which should be above ".*".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210719Z" creationid="sheilagomes" creationdate="20221223T210719Z">
+        <seg>Definições específicas devem ser colocados acima de definições gerais:
+"FR-CA" deve estar acima de "FR.*", que deve estar acima de ".*".</seg>
       </tuv>
     </tu>
     <tu>
