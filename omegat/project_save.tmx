@@ -746,6 +746,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Check issues when leaving a segment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211411Z" creationid="sheilagomes" creationdate="20221223T211411Z">
+        <seg>&amp;Verificar problemas ao sair de um segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20180921T135428Z" creationid="User" creationdate="20180921T135236Z">
@@ -1853,6 +1861,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T133054Z" creationid="Evandro" creationdate="20160310T122523Z">
         <seg>&amp;Estatísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211257Z" creationid="sheilagomes" creationdate="20221223T211257Z">
+        <seg>&amp;Parar em segmentos que não estão traduzidos ou têm traduções alternativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -11142,6 +11158,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to convert fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211329Z" creationid="sheilagomes" creationdate="20221223T211329Z">
+        <seg>Tentar converter &amp;números em correspondências parciais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172830Z" creationid="karol" creationdate="20160308T172830Z">
@@ -17500,6 +17524,14 @@ Segment added on version 3.6
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T161440Z" creationid="Evandro" creationdate="20160310T121611Z">
         <seg>E&amp;xportar seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E&amp;xport the segment to a text file</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211240Z" creationid="sheilagomes" creationdate="20221223T211240Z">
+        <seg>E&amp;xportar o segmento para um arquivo de texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -25511,6 +25543,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="grego" changedate="20171108T013651Z" creationid="grego" creationdate="20171108T013651Z">
         <seg>Informação sobre procedimentos e recursos do OmegaT para usuários avançados que pode ser encontrada em outros websites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initial number of loaded segments:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211440Z" creationid="sheilagomes" creationdate="20221223T211440Z">
+        <seg>Número inicial de segmentos carregados:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34399,6 +34439,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph delimiter:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211455Z" creationid="sheilagomes" creationdate="20221223T211455Z">
+        <seg>Delimitador de parágrafo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002358Z" creationid="karol" creationdate="20160309T002358Z">
@@ -38361,8 +38409,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T172014Z" creationid="Sheila" creationdate="20170905T172014Z">
-        <seg>Salvar estado aut&amp;o-preenchido</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211428Z" creationid="Sheila" creationdate="20170905T172014Z">
+        <seg>Salvar estado aut&amp;o preenchido</seg>
       </tuv>
     </tu>
     <tu>
@@ -38388,6 +38436,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181005T022720Z" creationid="User" creationdate="20181005T022720Z">
         <seg>Salvar alterações nas regras de segmentação?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save origin of &amp;translation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211436Z" creationid="sheilagomes" creationdate="20221223T211436Z">
+        <seg>Salvar origem da &amp;tradução</seg>
       </tuv>
     </tu>
     <tu>
@@ -52908,8 +52964,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110312Z" creationid="Evandro" creationdate="20160312T110312Z">
-        <seg>Quando um arquivo único possuir mais segmentos que este, segmentos adicionais serão carregados sob demanda em conjunto com o rolamento da página.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T211508Z" creationid="Evandro" creationdate="20160312T110312Z">
+        <seg>Quando um arquivo único tiver mais segmentos que este, segmentos adicionais serão carregados sob demanda em conjunto com o rolamento da página.</seg>
       </tuv>
     </tu>
     <tu>
