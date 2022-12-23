@@ -1439,6 +1439,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Preserve whitespace for all tags</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204552Z" creationid="sheilagomes" creationdate="20221223T204552Z">
+        <seg>&amp;Preservar espaço em branco para todas as tags</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>&amp;Previous Segment</seg>
@@ -8913,6 +8921,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A&amp;ggregate tags</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204516Z" creationid="sheilagomes" creationdate="20221223T204516Z">
+        <seg>A&amp;gregar tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A&amp;uto-completion</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170625T191055Z" creationid="Evandro" creationdate="20160310T153401Z">
@@ -14554,6 +14570,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204613Z" creationid="sheilagomes" creationdate="20221223T204613Z">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk e outros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171212Z" creationid="karol" creationdate="20160308T171212Z">
@@ -19024,6 +19048,14 @@ Teias de aranha estão te bloqueando
       </tuv>
       <tuv lang="pt-BR" changeid="grego" changedate="20171108T013424Z" creationid="grego" creationdate="20171108T013424Z">
         <seg>Documentação externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204509Z" creationid="sheilagomes" creationdate="20221223T204509Z">
+        <seg>Lin&amp;ks externos</seg>
       </tuv>
     </tu>
     <tu>
@@ -32221,6 +32253,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204815Z" creationid="sheilagomes" creationdate="20221223T204815Z">
+        <seg>OmegaT é uma ferramenta de tradução assistida por computador (CAT) multiplataforma gratuita e de código aberto que oferece correspondências parciais, memória de tradução, pesquisa de palavras-chave, glossários e reutilização de traduções na atualização de projetos traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free, open-source translation memory program.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170916T025323Z" creationid="CALDAS" creationdate="20170916T025323Z">
@@ -33859,6 +33899,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172620Z" creationid="karol" creationdate="20160308T172620Z">
         <seg>Outros sistemas operacionais (Linux, OS X) oferecem pacotes semelhantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other options:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204513Z" creationid="sheilagomes" creationdate="20221223T204513Z">
+        <seg>Outras opções:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40314,6 +40362,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Slide la&amp;youts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204505Z" creationid="sheilagomes" creationdate="20221223T204505Z">
+        <seg>La&amp;youts do slide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slovak</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171323Z" creationid="karol" creationdate="20160308T171323Z">
@@ -41196,6 +41252,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T170649Z" creationid="Evandro" creationdate="20160312T104148Z">
         <seg>C&amp;omeçar um novo parágrafo na quebra de linha do word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft return</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204603Z" creationid="sheilagomes" creationdate="20221223T204603Z">
+        <seg>C&amp;omeçar um novo parágrafo na quebra de linha do Word</seg>
       </tuv>
     </tu>
     <tu>
