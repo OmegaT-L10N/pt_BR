@@ -1373,6 +1373,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T211222Z" creationid="sheilagomes" creationdate="20221226T211222Z">
+        <seg>&amp;Nenhum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103541Z" creationid="Evandro" creationdate="20160312T103541Z">
@@ -1800,6 +1808,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170625T191106Z" creationid="Sheila" creationdate="20170625T191106Z">
         <seg>&amp;Mostrar sugestões relevantes automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Simple variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T211233Z" creationid="sheilagomes" creationdate="20221226T211233Z">
+        <seg>Variáveis &amp;simples (por exemplo, %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10028,6 +10044,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T211241Z" creationid="sheilagomes" creationdate="20221226T211241Z">
+        <seg>Todas as variáveis (por exemplo, %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T171959Z" creationid="Sheila" creationdate="20170905T171959Z">
@@ -12832,6 +12856,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &amp;Java MessageFormat placeholders (e.g. {0})</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T211353Z" creationid="sheilagomes" creationdate="20221226T211353Z">
+        <seg>Verifique os espaços reservados de MessageFormat do &amp;Java (por exemplo, {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110702Z" creationid="Evandro" creationdate="20160312T110702Z">
@@ -13100,6 +13132,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190926T141845Z" creationid="Sheila" creationdate="20190926T141845Z">
         <seg>Marque ou desmarque as regras, dependendo de sua relevância para o tipo de texto que você está traduzindo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check printf function variables:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T211215Z" creationid="sheilagomes" creationdate="20221226T211215Z">
+        <seg>Verifique as variáveis de função printf:</seg>
       </tuv>
     </tu>
     <tu>
