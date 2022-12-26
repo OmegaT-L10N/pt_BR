@@ -15763,6 +15763,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customize segment modification &amp;information</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T210049Z" creationid="sheilagomes" creationdate="20221226T210049Z">
+        <seg>Personalizar as &amp;informações de alteração de segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customize the processed source filename patterns, the translated file names and their respective encodings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T211603Z" creationid="sheilagomes" creationdate="20221221T211603Z">
@@ -29250,6 +29258,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark all non-unique segments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T205849Z" creationid="sheilagomes" creationdate="20221226T205849Z">
+        <seg>Marcar todos os segmentos repetidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark unknown words</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223010Z" creationid="sheilagomes" creationdate="20210503T223010Z">
@@ -40511,6 +40527,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simplify tag &amp;tooltips</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T210002Z" creationid="sheilagomes" creationdate="20221226T210002Z">
+        <seg>Simplificar dicas de &amp;tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplify the original text</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181926Z" creationid="karol" creationdate="20160308T181926Z">
@@ -41587,6 +41611,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T101831Z" creationid="Francisco Valdez" creationdate="20210519T101704Z">
         <seg>Versão estável - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standard template</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T210008Z" creationid="sheilagomes" creationdate="20221226T210008Z">
+        <seg>Modelos padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -42955,6 +42987,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001015Z" creationid="Evandro" creationdate="20160310T001015Z">
         <seg>Telugu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template for segments without date</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T210015Z" creationid="sheilagomes" creationdate="20221226T210015Z">
+        <seg>Modelo para segmentos sem data</seg>
       </tuv>
     </tu>
     <tu>
