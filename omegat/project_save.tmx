@@ -11191,6 +11191,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authenticated proxy credentials:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T210230Z" creationid="sheilagomes" creationdate="20221226T210230Z">
+        <seg>Credenciais de proxy autenticadas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authentication</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T112954Z" creationid="Evandro" creationdate="20160312T112954Z">
