@@ -14831,6 +14831,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Count &amp;flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T212151Z" creationid="sheilagomes" creationdate="20221226T212151Z">
+        <seg>Contar texto &amp;sinalizado e tags personalizadas em estatísticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110720Z" creationid="Evandro" creationdate="20160312T110720Z">
