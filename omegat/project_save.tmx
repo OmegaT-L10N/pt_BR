@@ -48945,6 +48945,16 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will reset all
+settings to their defaults.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T214825Z" creationid="sheilagomes" creationdate="20221226T214825Z">
+        <seg>Reinicia todas as
+configurações com os seus valores padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Isa" changedate="20210518T170847Z" creationid="Isa" creationdate="20210518T170847Z">
@@ -55407,6 +55417,16 @@ provided under this License.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004054Z" creationid="karol" creationdate="20160309T004054Z">
         <seg>É possível selecionar outra correspondência pressionando &lt;g0&gt;Ctrl+2, 3, 4, ou 5&lt;/g0&gt;.&lt;i1/&gt; É claro, pressionar &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; não terá nenhum efeito, se não houver uma correspondência nº5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may therefore experience
+unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T215139Z" creationid="sheilagomes" creationdate="20221226T215139Z">
+        <seg>Você pode, portanto, experimentar
+comportamento inesperado, mas correto.</seg>
       </tuv>
     </tu>
     <tu>
