@@ -20403,6 +20403,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T214222Z" creationid="sheilagomes" creationdate="20221226T214222Z">
+        <seg>Para formatos de arquivo e filtros que aceitam comentários (por exemplo, filtro PO), exibe os comentários para o tradutor sobre o segmento ativo, se houver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on Linux.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T201908Z" creationid="CarolVignolis" creationdate="20181014T201724Z">
