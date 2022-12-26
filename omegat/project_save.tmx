@@ -33121,6 +33121,17 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T214735Z" creationid="sheilagomes" creationdate="20221226T214735Z">
+        <seg>Não foi permitido ao OmegaT acessar a propriedade do sistema contendo
+o nome do seu SO e/ou a propriedade do sistema contendo sua pasta base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172728Z" creationid="karol" creationdate="20160308T172728Z">
