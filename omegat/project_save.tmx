@@ -31878,6 +31878,14 @@ otherwise be available to you under applicable patent law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T213159Z" creationid="sheilagomes" creationdate="20221226T213159Z">
+        <seg>Notifique-me mesmo que não haja resultados de pesquisa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has "{0}"</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170920T130245Z" creationid="Sheila" creationdate="20170920T130245Z">
@@ -41081,6 +41089,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170913T221641Z" creationid="Sheila" creationdate="20170913T221641Z">
         <seg>Classificar por texto completo, não por atal&amp;hos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by Target Term Length</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T213105Z" creationid="sheilagomes" creationdate="20221226T213105Z">
+        <seg>Classificar por extensão dos termos de destino</seg>
       </tuv>
     </tu>
     <tu>
