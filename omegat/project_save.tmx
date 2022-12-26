@@ -11847,6 +11847,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Block the creation of translated files with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T211736Z" creationid="sheilagomes" creationdate="20221226T211736Z">
+        <seg>Bloquear a cr&amp;iação de arquivos traduzidos com problemas de tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="edumartins" changedate="20210520T024257Z" creationid="edumartins" creationdate="20210520T024257Z">
@@ -12740,6 +12748,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T001344Z" creationid="karol" creationdate="20160309T001344Z">
         <seg>Modificar as configurações de segmentação pode fazer com que alguns segmentos já traduzidos fiquem divididos ou combinados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the tag order may break the translated file!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T211518Z" creationid="sheilagomes" creationdate="20221226T211518Z">
+        <seg>Alterar a ordem das tags pode quebrar o arquivo traduzido!</seg>
       </tuv>
     </tu>
     <tu>
