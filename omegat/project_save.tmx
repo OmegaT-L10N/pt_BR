@@ -18374,8 +18374,8 @@ is the language code and YY is the region or country code (optional).</seg>
       <tuv lang="en">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110742Z" creationid="Evandro" creationdate="20160312T110742Z">
-        <seg>Termos do glossário editável estão em negrito.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T212756Z" creationid="Evandro" creationdate="20160312T110742Z">
+        <seg>Os termos do glossário editável estão em negrito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51747,6 +51747,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T232248Z" creationid="Francisco Valdez" creationdate="20210515T232248Z">
         <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; para percorrer as quatro alternativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T212845Z" creationid="sheilagomes" creationdate="20221226T212845Z">
+        <seg>Use a opção Criar termos no glossário no menu Editar para adicionar novos termos.</seg>
       </tuv>
     </tu>
     <tu>
