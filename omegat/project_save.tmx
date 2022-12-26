@@ -15819,6 +15819,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags (regular expression):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T212323Z" creationid="sheilagomes" creationdate="20221226T212323Z">
+        <seg>Tags personalizadas (expressão regular):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customer ID (corresponds to &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; command-line parameter)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201648Z" creationid="karol" creationdate="20160308T201648Z">
