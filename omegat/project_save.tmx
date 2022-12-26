@@ -8719,6 +8719,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A note is simply a remark about the source text or its translation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T213843Z" creationid="sheilagomes" creationdate="20221226T213843Z">
+        <seg>Uma nota é apenas um comentário sobre o texto de origem ou sua tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T001851Z" creationid="karol" creationdate="20160309T001851Z">
@@ -52813,6 +52821,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T104755Z" creationid="Evandro" creationdate="20160312T104755Z">
         <seg>Visualizar ou editar filtros de arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T213515Z" creationid="sheilagomes" creationdate="20221226T213515Z">
+        <seg>Visualizar, adicionar, remover ou editar uma nota no segmento ativo.</seg>
       </tuv>
     </tu>
     <tu>
