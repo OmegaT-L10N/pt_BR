@@ -51543,6 +51543,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T205813Z" creationid="sheilagomes" creationdate="20221226T205813Z">
+        <seg>Usar notação &amp;XML para tags individuais (por exemplo,&lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T163426Z" creationid="Sheila" creationdate="20170905T163426Z">
