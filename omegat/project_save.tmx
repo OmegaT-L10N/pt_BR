@@ -55652,6 +55652,16 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create the configuration folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T215415Z" creationid="sheilagomes" creationdate="20221226T215415Z">
+        <seg>Seu sistema operacional se recusou a permitir que o OmegaT
+crie a pasta de configuração.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Your project does not contain any files in a supported file format.</seg>
