@@ -22788,6 +22788,18 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If access to the desired location is granted later,
+that location will be used and all settings will be reset to
+their default values.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T220238Z" creationid="sheilagomes" creationdate="20221226T220238Z">
+        <seg>Se o acesso ao local desejado for concedido posteriormente,
+esse local será usado e todas as configurações serão redefinidas para
+seus valores padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If additional permissions
 apply only to part of the Program, that part may be used separately
 under those permissions, but the entire Program remains governed by
