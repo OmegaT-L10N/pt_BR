@@ -26878,8 +26878,9 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110952Z" creationid="Evandro" creationdate="20160312T110952Z">
-        <seg>Não foi possível criar a pasta de script dentro da pasta de configuração.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T220314Z" creationid="Evandro" creationdate="20160312T110952Z">
+        <seg>Não foi possível criar a pasta de scripts
+dentro da pasta de configuração.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44481,8 +44482,9 @@ Please try to correct the error and reload the project.</seg>
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110954Z" creationid="Evandro" creationdate="20160312T110954Z">
-        <seg>Em vez disso, a pasta atual será usada.</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T220524Z" creationid="Evandro" creationdate="20160312T110954Z">
+        <seg>Em vez disso, a pasta de configuração
+será usada.</seg>
       </tuv>
     </tu>
     <tu>
