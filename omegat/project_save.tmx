@@ -16035,6 +16035,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DeepL API key not available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211722Z" creationid="sheilagomes" creationdate="20221227T211722Z">
+        <seg>A chave de API do DeepL não está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DeepL Api key not available.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181004T140123Z" creationid="User" creationdate="20181004T140123Z">
