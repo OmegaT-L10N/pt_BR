@@ -1174,6 +1174,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install new language...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T210444Z" creationid="sheilagomes" creationdate="20221227T210444Z">
+        <seg>&amp;Instalar novo idioma...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181005T023415Z" creationid="User" creationdate="20181005T023415Z">
@@ -14157,6 +14165,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confirm deletion</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T210634Z" creationid="sheilagomes" creationdate="20221227T210634Z">
+        <seg>Confirmar exclusão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T104648Z" creationid="Evandro" creationdate="20160312T104648Z">
@@ -15903,6 +15919,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170519T004230Z" creationid="karol" creationdate="20160308T171214Z">
         <seg>Tcheco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D&amp;elete</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T210456Z" creationid="sheilagomes" creationdate="20221227T210456Z">
+        <seg>&amp;Excluir</seg>
       </tuv>
     </tu>
     <tu>
@@ -51000,6 +51024,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL of downloadable spellchecking dictionaries:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T210621Z" creationid="sheilagomes" creationdate="20221227T210540Z">
+        <seg>URL dos verificadores ortográficos transferíveis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL of online dictionaries:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111138Z" creationid="Evandro" creationdate="20160312T111138Z">
@@ -51077,6 +51109,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T160048Z" creationid="sheilagomes" creationdate="20221218T160048Z">
         <seg>Não é possível criar os arquivos traduzidos devido a tags ausentes ou danificadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to delete the selected dictionary</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T210739Z" creationid="sheilagomes" creationdate="20221227T210739Z">
+        <seg>Não é possível excluir o dicionário selecionado</seg>
       </tuv>
     </tu>
     <tu>
@@ -54554,6 +54594,14 @@ execute o script de inicialização do Kaptain conforme os seguintes passos:</se
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170918T160825Z" creationid="mroch" creationdate="20170918T160737Z">
         <seg>Você também poderá copiar e distribuir o OmegaT para outras pessoas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are deleting the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T210609Z" creationid="sheilagomes" creationdate="20221227T210609Z">
+        <seg>Você está excluindo o verificador ortográfico que seu projeto usa atualmente.</seg>
       </tuv>
     </tu>
     <tu>
