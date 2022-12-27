@@ -8813,6 +8813,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211111Z" creationid="sheilagomes" creationdate="20221227T211111Z">
+        <seg>O ID de regra pode conter apenas letras latinas, sublinhados e pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190724T133834Z" creationid="Sheila" creationdate="20190724T133825Z">
@@ -10411,6 +10419,14 @@ organization, or merging organizations.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111156Z" creationid="Evandro" creationdate="20160312T111156Z">
         <seg>Um erro ocorreu ao baixar o dicionário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while downloading the spellchecking dictionary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211047Z" creationid="sheilagomes" creationdate="20221227T211047Z">
+        <seg>Um erro ocorreu ao baixar o verificador ortográfico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18084,6 +18100,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211355Z" creationid="sheilagomes" creationdate="20221227T211355Z">
+        <seg>Atualize para o JDK 1.6 mais recente ou remova os arquivos jaxb-*.jar da pasta OmegaT /lib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Email:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170911T222936Z" creationid="Sheila" creationdate="20170911T222936Z">
@@ -21611,6 +21635,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T160446Z" creationid="sheilagomes" creationdate="20221218T160446Z">
         <seg>Acessar o segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Segment Source</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211307Z" creationid="sheilagomes" creationdate="20221227T211307Z">
+        <seg>Acessar o segmento de origem</seg>
       </tuv>
     </tu>
     <tu>
@@ -25840,6 +25872,14 @@ parts of the aggregate.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Insert Match or Selection into Translation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211315Z" creationid="sheilagomes" creationdate="20221227T211315Z">
+        <seg>Inserir correspondência ou seleção na tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
@@ -27691,6 +27731,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T114122Z" creationid="karol" creationdate="20160308T213857Z">
         <seg>Verificador de Idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language Installer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211121Z" creationid="sheilagomes" creationdate="20221227T211121Z">
+        <seg>Instalador de idiomas</seg>
       </tuv>
     </tu>
     <tu>
@@ -31100,6 +31148,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111219Z" creationid="Evandro" creationdate="20160312T111219Z">
         <seg>Não há dicionários disponíveis no servidor remoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No new languages available at the remote server.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211133Z" creationid="sheilagomes" creationdate="20221227T211133Z">
+        <seg>Não há novos idiomas disponíveis no servidor remoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35420,6 +35476,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="edumartins" changedate="20210524T013707Z" creationid="Isa" creationdate="20210520T154724Z">
         <seg>Plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin Installer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211153Z" creationid="sheilagomes" creationdate="20221227T211153Z">
+        <seg>Instalador de plugins</seg>
       </tuv>
     </tu>
     <tu>
@@ -40028,6 +40092,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a plugin file (*.jar, *.zip)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211217Z" creationid="sheilagomes" creationdate="20221227T211217Z">
+        <seg>Selecione um arquivo de plugin (*.jar, *.zip)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Michael" changedate="20190608T020635Z" creationid="Michael" creationdate="20190608T020635Z">
@@ -40112,6 +40184,14 @@ In this segment {0,number,#} should remain unchanged</note>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003701Z" creationid="karol" creationdate="20160309T003701Z">
         <seg>Selecione a memória de tradução de backup que mais provavelmente contém os dados que você está procurando - por exemplo, o mais recente, ou a última versão do dia anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the desired languages and click Install.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211128Z" creationid="sheilagomes" creationdate="20221227T211128Z">
+        <seg>Selecione os idiomas desejados e clique em Instalar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50849,6 +50929,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T142018Z" creationid="edumartins" creationdate="20210518T142018Z">
         <seg>Solução de problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Try again later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211053Z" creationid="sheilagomes" creationdate="20221227T211053Z">
+        <seg>Tente de novo mais tarde.</seg>
       </tuv>
     </tu>
     <tu>
