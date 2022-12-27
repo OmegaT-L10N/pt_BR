@@ -14931,8 +14931,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Could not save credentials to text file</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113120Z" creationid="Evandro" creationdate="20160312T113120Z">
-        <seg>Impossível salvar as credenciais para o arquivo de texto</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212923Z" creationid="Evandro" creationdate="20160312T113120Z">
+        <seg>Não foi possível salvar as credenciais no arquivo de texto</seg>
       </tuv>
     </tu>
     <tu>
@@ -15348,6 +15348,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113728Z" creationid="Evandro" creationdate="20160312T113728Z">
         <seg>Data de criação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creation of new team project cancelled</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212903Z" creationid="sheilagomes" creationdate="20221227T212903Z">
+        <seg>A criação do novo projeto de equipe foi cancelada</seg>
       </tuv>
     </tu>
     <tu>
@@ -15895,8 +15903,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Custom branch</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212829Z" creationid="sheilagomes" creationdate="20221227T212829Z">
-        <seg>Ramo personalizada</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T213054Z" creationid="sheilagomes" creationdate="20221227T212829Z">
+        <seg>Branch personalizada</seg>
       </tuv>
     </tu>
     <tu>
@@ -16103,8 +16111,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Default branch</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212821Z" creationid="sheilagomes" creationdate="20221227T212821Z">
-        <seg>Ramo padrão</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T213047Z" creationid="sheilagomes" creationdate="20221227T212821Z">
+        <seg>Branch padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -17377,6 +17385,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181223Z" creationid="karol" creationdate="20160308T181223Z">
         <seg>Para abrir um projeto, basta clicar duas vezes no item com o ícone do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-check it and try again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212958Z" creationid="sheilagomes" creationdate="20221227T212958Z">
+        <seg>Verifique e tente de novo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18728,6 +18744,14 @@ No one hears your screams</seg>
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170913T220651Z" creationid="Sheila" creationdate="20170913T113010Z">
+        <seg>Erro ao recuperar {0} como arquivo de projeto remoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T213114Z" creationid="sheilagomes" creationdate="20221227T213114Z">
         <seg>Erro ao recuperar {0} como arquivo de projeto remoto</seg>
       </tuv>
     </tu>
@@ -21445,6 +21469,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T210331Z" creationid="sheilagomes" creationdate="20221223T210331Z">
         <seg>Regras de segmentação globais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global post-processing commands</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T213126Z" creationid="sheilagomes" creationdate="20221227T213126Z">
+        <seg>Comandos globais de pós-processamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -31306,6 +31338,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No predefined credentials passed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T213107Z" creationid="sheilagomes" creationdate="20221227T213107Z">
+        <seg>As credenciais predefinidas não foram passadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T193739Z" creationid="CarolVignolis" creationdate="20181014T193739Z">
@@ -36460,6 +36500,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111034Z" creationid="Evandro" creationdate="20160312T111034Z">
         <seg>Início da criação do projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project data saving interval</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T213120Z" creationid="sheilagomes" creationdate="20221227T213120Z">
+        <seg>Intervalo de salvamento de dados do projeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -52671,6 +52719,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182317Z" creationid="karol" creationdate="20160308T182317Z">
         <seg>País do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User credentials denied</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212909Z" creationid="sheilagomes" creationdate="20221227T212909Z">
+        <seg>Credenciais de usuário negadas</seg>
       </tuv>
     </tu>
     <tu>
