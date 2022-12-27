@@ -52632,6 +52632,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Username or API key:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212221Z" creationid="sheilagomes" creationdate="20221227T212221Z">
+        <seg>Nome de usuário ou chave de API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Users are free to download and use the program.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170912T000343Z" creationid="CALDAS" creationdate="20170912T000343Z">
