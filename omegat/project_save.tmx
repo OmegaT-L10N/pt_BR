@@ -531,6 +531,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T213139Z" creationid="sheilagomes" creationdate="20221227T213139Z">
+        <seg>Permitir com&amp;andos locais de pós-processamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170913T221800Z" creationid="Sheila" creationdate="20170913T221800Z">
@@ -13344,6 +13352,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the tag issues again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T213151Z" creationid="sheilagomes" creationdate="20221227T213151Z">
+        <seg>Verifique os problemas de tag novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the web site for the latest list of implemented language pairs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201640Z" creationid="karol" creationdate="20160308T201640Z">
@@ -20294,6 +20310,14 @@ actually uses, or expects or is expected to use, the product.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T183224Z" creationid="Evandro" creationdate="20160311T183224Z">
         <seg>Para todos os arquivos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For best results, install the appropriate dictionaries via Preferences &gt; Spellchecker.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T213313Z" creationid="sheilagomes" creationdate="20221227T213313Z">
+        <seg>Para ter resultados melhores, instale os dicionários adequados em Preferências &gt; Verificação ortográfica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43803,6 +43827,14 @@ O escopo de uma substituição de texto inclui os segmentos destino do projeto, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text to remove</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T213145Z" creationid="sheilagomes" creationdate="20221227T213145Z">
+        <seg>Texto a ser removido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Texted dragged from outside the target segment is copied, while text dragged from within the segment is moved.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T143004Z" creationid="Sheila" creationdate="20170904T143004Z">
@@ -53755,6 +53787,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T213224Z" creationid="sheilagomes" creationdate="20221227T213224Z">
+        <seg>Quando marcado, os itens na visualização de preenchimento automático do glossário também conterão o texto de origem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T214530Z" creationid="Evandro" creationdate="20160312T113444Z">
@@ -55066,6 +55106,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113603Z" creationid="Evandro" creationdate="20160312T113603Z">
         <seg>Você está tentando usar o HunspellTokenizer com o idioma {0}, mas não há dicionários ortográficos instalados para este idioma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are trying to use the HunspellTokenizer with {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T213254Z" creationid="sheilagomes" creationdate="20221227T213254Z">
+        <seg>Você está tentando usar o HunspellTokenizer com {0}, mas nenhum verificador ortográfico está instalado para este idioma.</seg>
       </tuv>
     </tu>
     <tu>
