@@ -13408,6 +13408,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether your repository has correct commits and files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212744Z" creationid="sheilagomes" creationdate="20221227T212744Z">
+        <seg>Verifique se o seu repositório tem as confirmações e arquivos corretos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T010543Z" creationid="karol" creationdate="20160309T010543Z">
@@ -14366,6 +14374,16 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20171016T122703Z" creationid="CALDAS" creationdate="20171016T122703Z">
         <seg>Entre em contato com o coordenador para o trabalho de tradução:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212718Z" creationid="sheilagomes" creationdate="20221227T212718Z">
+        <seg>Entre em contato com o administrador do projeto para descobrir se há
+medidas adicionais a serem tomadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15875,6 +15893,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom branch</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212829Z" creationid="sheilagomes" creationdate="20221227T212829Z">
+        <seg>Ramo personalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom colours...</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T213442Z" creationid="karol" creationdate="20160308T213442Z">
@@ -16071,6 +16097,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T105631Z" creationid="Evandro" creationdate="20160312T105631Z">
         <seg>Padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default branch</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212821Z" creationid="sheilagomes" creationdate="20221227T212821Z">
+        <seg>Ramo padrão</seg>
       </tuv>
     </tu>
     <tu>
@@ -34011,6 +34045,14 @@ o nome do seu SO e/ou a propriedade do sistema contendo sua pasta base.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212550Z" creationid="sheilagomes" creationdate="20221227T212550Z">
+        <seg>Abra-o na interface gráfica do OmegaT para convertê-lo para o novo formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open project</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214244Z" creationid="karol" creationdate="20160308T214244Z">
@@ -35885,6 +35927,14 @@ projeto local sem o recurso projeto de equipe.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212559Z" creationid="sheilagomes" creationdate="20221227T212559Z">
+        <seg>Pressione 'OK' para converter o projeto em um projeto de equipe 4.x.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170912T203727Z" creationid="Sheila" creationdate="20170912T203704Z">
@@ -36378,6 +36428,22 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T193806Z" creationid="CarolVignolis" creationdate="20181014T193806Z">
         <seg>O projeto não contém nenhum arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion failed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212731Z" creationid="sheilagomes" creationdate="20221227T212731Z">
+        <seg>A conversão do projeto falhou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion successful.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212629Z" creationid="sheilagomes" creationdate="20221227T212629Z">
+        <seg>A conversão de projeto foi realizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37986,6 +38052,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T170306Z" creationid="Sheila" creationdate="20170905T170306Z">
         <seg>Repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212726Z" creationid="sheilagomes" creationdate="20221227T212726Z">
+        <seg>URL do repositório (tipo: {0}) não definida no caminho: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -49215,6 +49289,18 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will
+delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212611Z" creationid="sheilagomes" creationdate="20221227T212611Z">
+        <seg>Isso
+excluirá seus dados locais e baixará novamente o conteúdo do projeto do
+servidor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will actually do a checkout of the project in a local folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170810T162207Z" creationid="karol" creationdate="20160308T172709Z">
@@ -55737,6 +55823,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003728Z" creationid="karol" creationdate="20160309T003728Z">
         <seg>Você pode querer remover aquelas que não são mais necessárias após o uso de seu conteúdo para preencher o arquivo &lt;f0&gt;project-save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may have forgotten an initial commit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212754Z" creationid="sheilagomes" creationdate="20221227T212754Z">
+        <seg>Você pode ter esquecido de fazer uma confirmação inicial.</seg>
       </tuv>
     </tu>
     <tu>
