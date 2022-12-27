@@ -9017,6 +9017,22 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API key (optional)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211528Z" creationid="sheilagomes" creationdate="20221227T211528Z">
+        <seg>Chave de API (opcional)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API key:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211524Z" creationid="sheilagomes" creationdate="20221227T211524Z">
+        <seg>Chave de API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20181008T130917Z" creationid="karol" creationdate="20160308T182337Z">
@@ -21655,6 +21671,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Google API key not available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211533Z" creationid="sheilagomes" creationdate="20221227T211533Z">
+        <seg>A chave de API do Google não está disponível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Google Api key not available.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20181008T130633Z" creationid="Evandro" creationdate="20160312T111955Z">
@@ -28874,6 +28898,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201553Z" creationid="karol" creationdate="20160308T201553Z">
         <seg>VALOR COMERCIAL ou APTIDÃO PARA UM DETERMINADO OBJETIVO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MT engine error({0}) {1}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211520Z" creationid="sheilagomes" creationdate="20221227T211457Z">
+        <seg>Erro do mecanismo de tradução automática ({0}) {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -39681,6 +39713,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T001336Z" creationid="karol" creationdate="20160309T001336Z">
         <seg>Veja a seção Prevenindo a perda de dados para maneiras e jeitos de proteger o seu trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the user guide for instructions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211638Z" creationid="sheilagomes" creationdate="20221227T211638Z">
+        <seg>Consulte o guia do usuário para obter instruções.</seg>
       </tuv>
     </tu>
     <tu>
