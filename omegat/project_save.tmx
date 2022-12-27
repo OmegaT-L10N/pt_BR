@@ -9443,6 +9443,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to Dictionary</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T220712Z" creationid="sheilagomes" creationdate="20221226T220712Z">
+        <seg>Adicionar ao dicionário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T101827Z" creationid="Evandro" creationdate="20160312T101827Z">
@@ -11477,6 +11485,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111223Z" creationid="Evandro" creationdate="20160312T111223Z">
         <seg>Dicionários disponíveis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T220757Z" creationid="sheilagomes" creationdate="20221226T220757Z">
+        <seg>Idiomas disponíveis:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21643,6 +21659,22 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111926Z" creationid="Evandro" creationdate="20160312T111912Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T220654Z" creationid="sheilagomes" creationdate="20221226T220654Z">
+        <seg>Obteve resposta HTTP inesperada {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected MIME TYPE {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T220645Z" creationid="sheilagomes" creationdate="20221226T220645Z">
+        <seg>Obteve o tipo MIME inesperado {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -41678,6 +41710,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck the tr&amp;anslation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T220753Z" creationid="sheilagomes" creationdate="20221226T220753Z">
+        <seg>Verificação ortográfica do tr&amp;adução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T155355Z" creationid="karol" creationdate="20160309T155355Z">
@@ -41707,6 +41747,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170916T015531Z" creationid="CALDAS" creationdate="20170916T015531Z">
         <seg>Verificação Ortográfica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecking dictionaries location:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T020259Z" creationid="sheilagomes" creationdate="20221227T020259Z">
+        <seg>Localização dos dicionários de verificação ortográfica:</seg>
       </tuv>
     </tu>
     <tu>
