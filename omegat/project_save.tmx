@@ -2222,6 +2222,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API key.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212250Z" creationid="sheilagomes" creationdate="20221227T212250Z">
+        <seg>(Deixe a senha em branco se você estiver usando uma chave de API)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170913T132648Z" creationid="CALDAS" creationdate="20170913T132648Z">
@@ -14509,6 +14517,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212525Z" creationid="sheilagomes" creationdate="20221227T212525Z">
+        <seg>A conversão para o novo formato de projeto de equipe não pode ser realizada no modo de console.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convert</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T194537Z" creationid="CarolVignolis" creationdate="20181014T194537Z">
@@ -16800,6 +16816,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays alternative translations you have created for repeated segments in the project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212304Z" creationid="sheilagomes" creationdate="20221227T212304Z">
+        <seg>Exibe traduções alternativas que você criou para segmentos repetidos no projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110827Z" creationid="Evandro" creationdate="20160312T110827Z">
@@ -18435,6 +18459,14 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212340Z" creationid="sheilagomes" creationdate="20221227T212340Z">
+        <seg>Digite o nome desta lista:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002103Z" creationid="karol" creationdate="20160309T002103Z">
@@ -19219,6 +19251,14 @@ Teias de aranha estão te bloqueando
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T213032Z" creationid="sheilagomes" creationdate="20221218T213032Z">
         <seg>Exportar pasta de memórias de tradução:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212423Z" creationid="sheilagomes" creationdate="20221227T212423Z">
+        <seg>A pasta de memória de tradução de exportação {0} não existe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21291,6 +21331,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170912T113631Z" creationid="Evandro" creationdate="20160312T112935Z">
         <seg>Início da execução de '{0}' do Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git notification: {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212505Z" creationid="sheilagomes" creationdate="20221227T212505Z">
+        <seg>Notificação do git: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -30082,6 +30130,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Model ID:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212236Z" creationid="sheilagomes" creationdate="20221227T212236Z">
+        <seg>ID do modelo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181004T140230Z" creationid="User" creationdate="20181004T140230Z">
@@ -31252,6 +31308,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110427Z" creationid="Evandro" creationdate="20160312T110427Z">
         <seg>Sem tags nem números</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No writable glossary file in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212444Z" creationid="sheilagomes" creationdate="20221227T212444Z">
+        <seg>O arquivo do glossário editável não está na pasta de glossários.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38449,6 +38513,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run script in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212327Z" creationid="sheilagomes" creationdate="20221227T212327Z">
+        <seg>Executar script no slot #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170912T103808Z" creationid="Evandro" creationdate="20160312T112541Z">
@@ -42357,6 +42429,14 @@ makes it unnecessary.</seg>
         <seg>Subscription Key:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170911T223005Z" creationid="Sheila" creationdate="20170911T223005Z">
+        <seg>Chave de assinatura:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subscription key:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212252Z" creationid="sheilagomes" creationdate="20221227T212252Z">
         <seg>Chave de assinatura:</seg>
       </tuv>
     </tu>
@@ -46942,6 +47022,14 @@ Dúvida nesse "call-out" do segmento.</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6 team project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212518Z" creationid="sheilagomes" creationdate="20221227T212518Z">
+        <seg>O projeto especificado é um projeto de equipe do OmegaT 3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified project is an OmegaT 3.6-style team project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170912T145634Z" creationid="Sheila" creationdate="20170912T145634Z">
@@ -50574,6 +50662,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Translate this plural as a plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212401Z" creationid="sheilagomes" creationdate="20221227T212401Z">
+        <seg>Traduza este plural como uma forma plural #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Translated File Encoding</seg>
@@ -51253,6 +51349,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T182235Z" creationid="Evandro" creationdate="20160311T182235Z">
         <seg>Impossível criar novo arquivo TMX!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to commit because remote translation was changed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T212453Z" creationid="sheilagomes" creationdate="20221227T212453Z">
+        <seg>Não foi possível confirmar porque a tradução remota foi alterada.</seg>
       </tuv>
     </tu>
     <tu>
