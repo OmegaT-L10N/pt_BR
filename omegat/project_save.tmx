@@ -10349,6 +10349,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternative</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210709Z" creationid="sheilagomes" creationdate="20221228T210709Z">
+        <seg>Alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternative Language</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170911T215526Z" creationid="Sheila" creationdate="20170911T215454Z">
@@ -17777,6 +17785,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Duplicated</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210619Z" creationid="sheilagomes" creationdate="20221228T210619Z">
+        <seg>Duplicada</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>During SVN error({0}),
@@ -22149,6 +22165,22 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171225Z" creationid="karol" creationdate="20160308T171225Z">
         <seg>Crioulo haitiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has Comment, see Comments Tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210703Z" creationid="sheilagomes" creationdate="20221228T210703Z">
+        <seg>Tem comentário, consulte a aba Comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has Note, see Notes Tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210639Z" creationid="sheilagomes" creationdate="20221228T210639Z">
+        <seg>Tem Nota, consulte a aba Notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -27684,10 +27716,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Remote Version</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210527Z" creationid="sheilagomes" creationdate="20221228T210527Z">
+        <seg>Manter a versão remota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T203903Z" creationid="sheilagomes" creationdate="20221223T203903Z">
         <seg>Manter literais Unico&amp;de (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Your Version</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210521Z" creationid="sheilagomes" creationdate="20221228T210516Z">
+        <seg>Manter a sua versão</seg>
       </tuv>
     </tu>
     <tu>
@@ -31341,6 +31389,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210628Z" creationid="sheilagomes" creationdate="20221228T210628Z">
+        <seg>Não</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No .DOCX files to clean.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T194025Z" creationid="CarolVignolis" creationdate="20181014T194025Z">
@@ -31349,10 +31405,26 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210705Z" creationid="sheilagomes" creationdate="20221228T210705Z">
+        <seg>Sem comentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181005T023811Z" creationid="User" creationdate="20181005T023811Z">
         <seg>Nenhum problema encontrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Note</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210644Z" creationid="sheilagomes" creationdate="20221228T210644Z">
+        <seg>Nenhuma  nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -31710,6 +31782,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171258Z" creationid="karol" creationdate="20160308T171258Z">
         <seg>Norueguês Nynorsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not Alternative</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210717Z" creationid="sheilagomes" creationdate="20221228T210717Z">
+        <seg>Não é alternativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -34651,6 +34731,14 @@ o nome do seu SO e/ou a propriedade do sistema contendo sua pasta base.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170912T222229Z" creationid="mroch" creationdate="20170912T222229Z">
         <seg>Criador original do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Original version</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210459Z" creationid="sheilagomes" creationdate="20221228T210459Z">
+        <seg>Versão original</seg>
       </tuv>
     </tu>
     <tu>
@@ -37747,6 +37835,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote version</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210508Z" creationid="sheilagomes" creationdate="20221228T210508Z">
+        <seg>Versão remota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T170202Z" creationid="Sheila" creationdate="20170905T170202Z">
@@ -40534,6 +40630,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select appropriate version</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210449Z" creationid="sheilagomes" creationdate="20221228T210449Z">
+        <seg>Selecione a versão apropriada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T015051Z" creationid="CarolVignolis" creationdate="20181014T015051Z">
@@ -40690,6 +40794,14 @@ In this segment {0,number,#} should remain unchanged</note>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T202230Z" creationid="CarolVignolis" creationdate="20181014T202230Z">
         <seg>Selecionar baixar o OmegaT com ou sem o Java Runtime Environment (JRE) incluída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select your version, the original version or the remote version.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210455Z" creationid="sheilagomes" creationdate="20221228T210455Z">
+        <seg>Selecione sua versão, a versão original ou a versão remota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51234,6 +51346,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation is</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210556Z" creationid="sheilagomes" creationdate="20221228T210556Z">
+        <seg>A tradução é</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation is fuzzy</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170927T222301Z" creationid="Sheila" creationdate="20170927T222301Z">
@@ -52077,6 +52197,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T170435Z" creationid="Sheila" creationdate="20170905T170435Z">
         <seg>Tipo desconhecido de plugin '{0}' em '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown/Manual</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210534Z" creationid="sheilagomes" creationdate="20221228T210534Z">
+        <seg>Desconhecido/Manual</seg>
       </tuv>
     </tu>
     <tu>
@@ -55170,6 +55298,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210544Z" creationid="sheilagomes" creationdate="20221228T210544Z">
+        <seg>Sim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Yiddish</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171345Z" creationid="karol" creationdate="20160308T171345Z">
@@ -56424,6 +56560,14 @@ crie a pasta de configuração.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T152042Z" creationid="sheilagomes" creationdate="20221218T152042Z">
         <seg>Seu projeto parece não conter arquivos traduzíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your version</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210503Z" creationid="sheilagomes" creationdate="20221228T210503Z">
+        <seg>Sua versão</seg>
       </tuv>
     </tu>
     <tu>
@@ -58538,6 +58682,14 @@ crie a pasta de configuração.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201424Z" creationid="karol" creationdate="20160308T201424Z">
         <seg>cobrança extra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fuzzy</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210604Z" creationid="sheilagomes" creationdate="20221228T210604Z">
+        <seg>parcial</seg>
       </tuv>
     </tu>
     <tu>
@@ -61061,8 +61213,8 @@ crie a pasta de configuração.</seg>
       <tuv lang="en">
         <seg>no</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001011Z" creationid="Evandro" creationdate="20160310T001011Z">
-        <seg>no</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210549Z" creationid="Evandro" creationdate="20160310T001011Z">
+        <seg>não</seg>
       </tuv>
     </tu>
     <tu>
@@ -61087,6 +61239,14 @@ crie a pasta de configuração.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001011Z" creationid="Evandro" creationdate="20160310T001011Z">
         <seg>nor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not fuzzy</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210608Z" creationid="sheilagomes" creationdate="20221228T210608Z">
+        <seg>não parcial</seg>
       </tuv>
     </tu>
     <tu>
