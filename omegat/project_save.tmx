@@ -31693,6 +31693,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T213302Z" creationid="sheilagomes" creationdate="20221228T213302Z">
+        <seg>Nenhum executável de GPG encontrado; defina-o nas preferências do Git na seção "Confirmando", ou defina-o em git config gpg.program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T212326Z" creationid="sheilagomes" creationdate="20221228T212326Z">
@@ -53491,6 +53499,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170627T231454Z" creationid="karol" creationdate="20160308T172536Z">
         <seg>Manual do usuário...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User canceled signing (no passphrase provided)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T212728Z" creationid="sheilagomes" creationdate="20221228T212728Z">
+        <seg>Assinatura cancelada pelo usuário (sem senha fornecida)</seg>
       </tuv>
     </tu>
     <tu>
