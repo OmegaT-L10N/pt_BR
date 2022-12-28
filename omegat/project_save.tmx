@@ -1660,8 +1660,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181013T133515Z" creationid="CarolVignolis" creationdate="20181013T133515Z">
-        <seg>&amp;Restaurar Senha Mestra</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211828Z" creationid="CarolVignolis" creationdate="20181013T133515Z">
+        <seg>&amp;Restaurar senha mestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -10219,6 +10219,14 @@ conditions are met.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Allow local external search commands</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211705Z" creationid="sheilagomes" creationdate="20221228T211705Z">
+        <seg>Permitir comandos de pesquisa externa locais</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Allow tag editing</seg>
@@ -11274,6 +11282,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171154Z" creationid="karol" creationdate="20160308T171154Z">
         <seg>Assamês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Assign &amp;shortcut</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211740Z" creationid="sheilagomes" creationdate="20221228T211740Z">
+        <seg>A&amp;ssociar atalho</seg>
       </tuv>
     </tu>
     <tu>
@@ -14559,6 +14575,14 @@ medidas adicionais a serem tomadas.</seg>
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20190420T122843Z" creationid="CALDAS" creationdate="20190420T122843Z">
+        <seg>Prioridade do menu de contexto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Context menu priority:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211717Z" creationid="sheilagomes" creationdate="20221228T211717Z">
         <seg>Prioridade do menu de contexto:</seg>
       </tuv>
     </tu>
@@ -19548,6 +19572,30 @@ Teias de aranha estão te bloqueando
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External Search Command</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211759Z" creationid="sheilagomes" creationdate="20221228T211759Z">
+        <seg>Comando de busca externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search Set</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211726Z" creationid="sheilagomes" creationdate="20221228T211726Z">
+        <seg>Lista de pesquisa externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search URL</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211751Z" creationid="sheilagomes" creationdate="20221228T211751Z">
+        <seg>URL de busca externa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Search...</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T165913Z" creationid="Sheila" creationdate="20170905T165913Z">
@@ -21629,6 +21677,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T154216Z" creationid="sheilagomes" creationdate="20221218T154216Z">
         <seg>Regras de &amp;segmentação globais...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global External Searches</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211644Z" creationid="sheilagomes" creationdate="20221228T211644Z">
+        <seg>Pesquisas externas globais</seg>
       </tuv>
     </tu>
     <tu>
@@ -25483,6 +25539,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In editor</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211655Z" creationid="sheilagomes" creationdate="20221228T211655Z">
+        <seg>No editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In its most basic form, this command is:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182249Z" creationid="karol" creationdate="20160308T182249Z">
@@ -29007,6 +29071,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searches</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211649Z" creationid="sheilagomes" creationdate="20221228T211649Z">
+        <seg>Pesquisas externas locais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T195814Z" creationid="sheilagomes" creationdate="20221218T195814Z">
@@ -29989,6 +30061,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181013T133434Z" creationid="CarolVignolis" creationdate="20181013T133434Z">
         <seg>Senha mestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master password:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211821Z" creationid="sheilagomes" creationdate="20221228T211821Z">
+        <seg>Senha mestra:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31930,6 +32010,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not assigned</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211803Z" creationid="sheilagomes" creationdate="20221228T211803Z">
+        <seg>Não atribuído</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20210522T151251Z" creationid="CALDAS" creationdate="20170911T234502Z">
@@ -31942,6 +32030,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113702Z" creationid="Evandro" creationdate="20160312T113702Z">
         <seg>Ausente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not set</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211902Z" creationid="sheilagomes" creationdate="20221228T211902Z">
+        <seg>Não definida</seg>
       </tuv>
     </tu>
     <tu>
@@ -38675,8 +38771,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Reset Master Password</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181013T133612Z" creationid="CarolVignolis" creationdate="20181013T133612Z">
-        <seg>Restaurar Senha Mestra</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211935Z" creationid="CarolVignolis" creationdate="20181013T133612Z">
+        <seg>Restaurar senha mestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -41129,8 +41225,8 @@ In this segment {0,number,#} should remain unchanged</note>
       <tuv lang="en">
         <seg>Set</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T170556Z" creationid="CarolVignolis" creationdate="20181014T170556Z">
-        <seg>Configurado</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211910Z" creationid="CarolVignolis" creationdate="20181014T170556Z">
+        <seg>Definida</seg>
       </tuv>
     </tu>
     <tu>
@@ -41139,6 +41235,14 @@ In this segment {0,number,#} should remain unchanged</note>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181014T170529Z" creationid="CarolVignolis" creationdate="20181014T170529Z">
         <seg>Configurado &amp; Armazenado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set &amp; stored</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211920Z" creationid="sheilagomes" creationdate="20221228T211835Z">
+        <seg>Definida e armazenada</seg>
       </tuv>
     </tu>
     <tu>
