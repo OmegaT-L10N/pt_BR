@@ -9897,6 +9897,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Accepted" group</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210124Z" creationid="sheilagomes" creationdate="20221228T210124Z">
+        <seg>Grupo "Aceito" de alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170918T103135Z" creationid="Sheila" creationdate="20170918T103135Z">
@@ -20088,6 +20096,14 @@ Teias de aranha estão te bloqueando
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Flagged text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T205951Z" creationid="sheilagomes" creationdate="20221228T205951Z">
+        <seg>Texto sinalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flagged text (regular expression):</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T212447Z" creationid="sheilagomes" creationdate="20221226T212447Z">
@@ -21674,6 +21690,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T112821Z" creationid="Evandro" creationdate="20160312T112821Z">
         <seg>A pasta glossário {0} não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary matches</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210009Z" creationid="sheilagomes" creationdate="20221228T210009Z">
+        <seg>Correspondências do glossário</seg>
       </tuv>
     </tu>
     <tu>
@@ -27939,6 +27963,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language checker</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210003Z" creationid="sheilagomes" creationdate="20221228T210003Z">
+        <seg>Verificador de idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language name</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170519T004040Z" creationid="karol" creationdate="20160308T171141Z">
@@ -29905,10 +29937,50 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches changed</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210021Z" creationid="sheilagomes" creationdate="20221228T210021Z">
+        <seg>Correspondências alteradas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T212533Z" creationid="sheilagomes" creationdate="20221226T212533Z">
         <seg>As correspondências vêm da sua tradução atual ou dos arquivos TMX colocados na pasta /tm/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted active</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210048Z" creationid="sheilagomes" creationdate="20221228T210048Z">
+        <seg>Correspondências excluídas ativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted inactive</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210050Z" creationid="sheilagomes" creationdate="20221228T210050Z">
+        <seg>Correspondências excluídas inativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted active</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210043Z" creationid="sheilagomes" creationdate="20221228T210043Z">
+        <seg>Correspondências inseridas ativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted inactive</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210045Z" creationid="sheilagomes" creationdate="20221228T210045Z">
+        <seg>Correspondências inseridas inativas</seg>
       </tuv>
     </tu>
     <tu>
@@ -29925,6 +29997,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004107Z" creationid="karol" creationdate="20160309T004107Z">
         <seg>Configuração do painel de correspondências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches unchanged</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210032Z" creationid="sheilagomes" creationdate="20221228T210032Z">
+        <seg>Correspondências não alteradas</seg>
       </tuv>
     </tu>
     <tu>
@@ -39431,6 +39511,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search found mark</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210103Z" creationid="sheilagomes" creationdate="20221228T210103Z">
+        <seg>Pesquisar marca encontrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search in</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185134Z" creationid="Evandro" creationdate="20160311T185134Z">
@@ -39467,6 +39555,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214344Z" creationid="karol" creationdate="20160308T214344Z">
         <seg>Buscar no projeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search replaced mark</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210109Z" creationid="sheilagomes" creationdate="20221228T210109Z">
+        <seg>Pesquisar marca substituída</seg>
       </tuv>
     </tu>
     <tu>
@@ -42098,8 +42194,8 @@ can do so.</seg>
       <tuv lang="en">
         <seg>Spellcheck</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T114133Z" creationid="karol" creationdate="20160309T155354Z">
-        <seg>Verificação Ortográfica</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210013Z" creationid="karol" creationdate="20160309T155354Z">
+        <seg>Verificação ortográfica</seg>
       </tuv>
     </tu>
     <tu>
