@@ -1618,6 +1618,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Colour</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210228Z" creationid="sheilagomes" creationdate="20221228T210228Z">
+        <seg>&amp;Restaurar cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CarolVignolis" changedate="20181013T133515Z" creationid="CarolVignolis" creationdate="20181013T133515Z">
@@ -5249,6 +5257,14 @@ A configuraçao atual é {0}MB;</seg>
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170918T103343Z" creationid="Sheila" creationdate="20170918T103343Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferências&lt;/i&gt; &amp;gt; &lt;i&gt;Geral&lt;/i&gt; &amp;gt; &lt;i&gt;Usar TAB para avançar&lt;/i&gt; está marcado&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210436Z" creationid="sheilagomes" creationdate="20221228T210436Z">
         <seg>&lt;html&gt;&lt;i&gt;Preferências&lt;/i&gt; &amp;gt; &lt;i&gt;Geral&lt;/i&gt; &amp;gt; &lt;i&gt;Usar TAB para avançar&lt;/i&gt; está marcado&lt;/html&gt;</seg>
       </tuv>
     </tu>
@@ -9913,6 +9929,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Needs Review" group</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210143Z" creationid="sheilagomes" creationdate="20221228T210143Z">
+        <seg>Grupo "Precisa de revisão" do alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner Highlight</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170918T103153Z" creationid="Sheila" creationdate="20170916T104254Z">
@@ -9924,6 +9948,22 @@ the above requirements apply either way.</seg>
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170918T103251Z" creationid="Sheila" creationdate="20170918T103251Z">
+        <seg>Destaque de linha da tabela de alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner highlight</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210150Z" creationid="sheilagomes" creationdate="20221228T210150Z">
+        <seg>Destaque do alinhamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner table row highlight</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210156Z" creationid="sheilagomes" creationdate="20221228T210156Z">
         <seg>Destaque de linha da tabela de alinhamento</seg>
       </tuv>
     </tu>
@@ -29198,6 +29238,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003853Z" creationid="karol" creationdate="20160309T003853Z">
         <seg>Painel de Traduções Automáticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine translate highlight</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210217Z" creationid="sheilagomes" creationdate="20221228T210217Z">
+        <seg>Destaque de tradução automática</seg>
       </tuv>
     </tu>
     <tu>
