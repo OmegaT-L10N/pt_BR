@@ -1138,6 +1138,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211236Z" creationid="sheilagomes" creationdate="20221228T211236Z">
+        <seg>&amp;Ignorar termos com letras maiúsculas e minúsculas muito diferentes (Ex: FOO ou foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
@@ -1244,6 +1252,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170909T130924Z" creationid="Sheila" creationdate="20170909T130924Z">
         <seg>&amp;Inicializar servidor local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211311Z" creationid="sheilagomes" creationdate="20221228T211311Z">
+        <seg>&amp;Leiaute:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30316,6 +30332,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211242Z" creationid="sheilagomes" creationdate="20221228T211242Z">
+        <seg>Combinar definições alternativas para o mesmo termo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172807Z" creationid="karol" creationdate="20160308T172807Z">
@@ -38329,6 +38353,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Michael" changedate="20190617T011947Z" creationid="Michael" creationdate="20190617T011947Z">
         <seg>Substituir termos do glossário ao inserir texto de origem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace matches when inserting source text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211133Z" creationid="sheilagomes" creationdate="20221228T211133Z">
+        <seg>Substituir correspondências ao inserir texto de origem</seg>
       </tuv>
     </tu>
     <tu>
