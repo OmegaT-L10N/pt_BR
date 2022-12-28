@@ -12691,6 +12691,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Call to external program was interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T212255Z" creationid="sheilagomes" creationdate="20221228T212255Z">
+        <seg>A chamada para o programa externo foi interrompida: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103319Z" creationid="Evandro" creationdate="20160312T103319Z">
@@ -19698,6 +19706,14 @@ Teias de aranha estão te bloqueando
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204509Z" creationid="sheilagomes" creationdate="20221223T204509Z">
         <seg>Lin&amp;ks externos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External program failed({1}): {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T212308Z" creationid="sheilagomes" creationdate="20221228T212308Z">
+        <seg>Programa externo falhou({1}): {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -29336,6 +29352,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T212701Z" creationid="sheilagomes" creationdate="20221228T212701Z">
+        <seg>Procurando por um executável GPG: o caminho {0} de $PATH não está acessível; ignorando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Losing them may affect the project's integrity and your ability to complete a job.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181210Z" creationid="karol" creationdate="20160308T181210Z">
@@ -31665,6 +31689,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210705Z" creationid="sheilagomes" creationdate="20221228T210705Z">
         <seg>Sem comentário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T212326Z" creationid="sheilagomes" creationdate="20221228T212326Z">
+        <seg>Nenhuma chave GPG encontrada para o ID da chave ''{0}''; verifique ou defina git config user.signingKey</seg>
       </tuv>
     </tu>
     <tu>
