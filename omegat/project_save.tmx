@@ -1258,8 +1258,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Layout:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211311Z" creationid="sheilagomes" creationdate="20221228T211311Z">
-        <seg>&amp;Leiaute:</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211355Z" creationid="sheilagomes" creationdate="20221228T211311Z">
+        <seg>&amp;Layout:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21961,6 +21961,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211630Z" creationid="sheilagomes" creationdate="20221228T211630Z">
+        <seg>Vá para Preferências &gt; Pesquisas externas globais para habilitá-las.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Segment</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T160446Z" creationid="sheilagomes" creationdate="20221218T160446Z">
@@ -29087,6 +29095,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211513Z" creationid="sheilagomes" creationdate="20221228T211513Z">
+        <seg>Os comandos do projeto local estão desativados por razões de segurança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113032Z" creationid="Evandro" creationdate="20160312T113032Z">
@@ -32908,6 +32924,22 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211502Z" creationid="sheilagomes" creationdate="20221228T211502Z">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211452Z" creationid="sheilagomes" creationdate="20221228T211452Z">
+        <seg>OmegaT padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20200309T163031Z" creationid="CALDAS" creationdate="20200309T163031Z">
@@ -33073,6 +33105,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211506Z" creationid="sheilagomes" creationdate="20221228T211506Z">
+        <seg>Tema clássico do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT compatibility</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170918T071158Z" creationid="CALDAS" creationdate="20170918T071158Z">
@@ -33101,6 +33141,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210520T022758Z" creationid="Francisco Valdez" creationdate="20210519T093334Z">
         <seg>Atualmente, o OmegaT requer a versão 1.8 do JRE ou mais recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211459Z" creationid="sheilagomes" creationdate="20221228T211459Z">
+        <seg>Tema padrão do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -39680,6 +39728,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002058Z" creationid="karol" creationdate="20160309T002058Z">
         <seg>Buscar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search &amp;automatically</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211423Z" creationid="sheilagomes" creationdate="20221228T211423Z">
+        <seg>Pesquisar &amp;automaticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -49077,6 +49133,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file describes the overall OmegaT layout.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211350Z" creationid="sheilagomes" creationdate="20221228T211350Z">
+        <seg>Este arquivo descreve o layout geral do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is very important and you should make sure you read it before launching OmegaT.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181316Z" creationid="karol" creationdate="20160308T181316Z">
@@ -52695,6 +52759,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;Condensed view</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211433Z" creationid="sheilagomes" creationdate="20221228T211433Z">
+        <seg>Usar visão &amp;condensada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T153429Z" creationid="sheilagomes" creationdate="20221218T153429Z">
@@ -52740,6 +52812,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T205813Z" creationid="sheilagomes" creationdate="20221226T205813Z">
         <seg>Usar notação &amp;XML para tags individuais (por exemplo,&lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;fuzzy matching</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211404Z" creationid="sheilagomes" creationdate="20221228T211404Z">
+        <seg>Usar &amp;correspondências parciais</seg>
       </tuv>
     </tu>
     <tu>
