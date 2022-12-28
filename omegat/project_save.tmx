@@ -580,6 +580,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Always confirm quit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210943Z" creationid="sheilagomes" creationdate="20221228T210943Z">
+        <seg>&amp;Sempre confirmar a saída</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply a different font size to the dictionary pane</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T161139Z" creationid="sheilagomes" creationdate="20221218T161139Z">
@@ -1194,6 +1202,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181005T023415Z" creationid="User" creationdate="20181005T023415Z">
         <seg>&amp;Pular para segmento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Jump to Segment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210755Z" creationid="sheilagomes" creationdate="20221228T210755Z">
+        <seg>&amp;Pular para o segmento</seg>
       </tuv>
     </tu>
     <tu>
@@ -9523,6 +9539,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210801Z" creationid="sheilagomes" creationdate="20221228T210801Z">
+        <seg>Adicionar ao dicionário: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T101827Z" creationid="Evandro" creationdate="20160312T101827Z">
@@ -10727,6 +10751,14 @@ work under this License, and how to view a copy of this License.</seg>
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181004T142049Z" creationid="User" creationdate="20181004T142049Z">
+        <seg>Um item com nome "{0}" já existe neste local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An item with the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210749Z" creationid="sheilagomes" creationdate="20221228T210749Z">
         <seg>Um item com nome "{0}" já existe neste local.</seg>
       </tuv>
     </tu>
@@ -16848,6 +16880,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display TBX &amp;glossaries context description</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211011Z" creationid="sheilagomes" creationdate="20221228T211011Z">
+        <seg>Exibir descrição do contexto de glossários TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110445Z" creationid="Evandro" creationdate="20160312T110445Z">
@@ -17465,6 +17505,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181223Z" creationid="karol" creationdate="20160308T181223Z">
         <seg>Para abrir um projeto, basta clicar duas vezes no item com o ícone do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-check and try again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210843Z" creationid="sheilagomes" creationdate="20221228T210843Z">
+        <seg>Confira e tente de novo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18638,6 +18686,14 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210814Z" creationid="sheilagomes" creationdate="20221228T210814Z">
+        <seg>Digite sua senha novamente para confirmar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter your user name and your password, if you use a proxy to access your projects.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T213519Z" creationid="karol" creationdate="20160308T213519Z">
@@ -18923,6 +18979,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190710T145957Z" creationid="Sheila" creationdate="20190710T145957Z">
         <seg>Erro ao atualizar o repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while loading the source files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210734Z" creationid="sheilagomes" creationdate="20221228T210734Z">
+        <seg>Erro ao carregar os arquivos de origem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26017,6 +26081,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incorrect password.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210806Z" creationid="sheilagomes" creationdate="20221228T210806Z">
+        <seg>Senha incorreta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004124Z" creationid="karol" creationdate="20160309T004124Z">
@@ -29960,6 +30032,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003900Z" creationid="karol" creationdate="20160309T003900Z">
         <seg>Janela Estatísticas das correspondências</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match term groups even if the terms appear separately</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211022Z" creationid="sheilagomes" creationdate="20221228T211022Z">
+        <seg>Combinar grupos de termos, mesmo que os termos apareçam separadamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -34727,6 +34807,14 @@ o nome do seu SO e/ou a propriedade do sistema contendo sua pasta base.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Origin</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210723Z" creationid="sheilagomes" creationdate="20221228T210723Z">
+        <seg>Origem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="mroch" changedate="20170912T222229Z" creationid="mroch" creationdate="20170912T222229Z">
@@ -37647,6 +37735,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the current project to apply these changes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210936Z" creationid="sheilagomes" creationdate="20221228T210936Z">
+        <seg>Recarregue o projeto atual para aplicar essas alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload the project now?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T154418Z" creationid="sheilagomes" creationdate="20221218T154418Z">
@@ -38525,6 +38621,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170927T222343Z" creationid="Sheila" creationdate="20170927T222343Z">
         <seg>Nome do recurso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210930Z" creationid="sheilagomes" creationdate="20221228T210930Z">
+        <seg>Reinicie o OmegaT para aplicar essas alterações</seg>
       </tuv>
     </tu>
     <tu>
@@ -46606,6 +46710,14 @@ content, constitutes a covered work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The passwords do not match.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210820Z" creationid="sheilagomes" creationdate="20221228T210820Z">
+        <seg>As senhas não coincidem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The passwords don't match.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181005T140549Z" creationid="User" creationdate="20181005T140549Z">
@@ -52576,6 +52688,14 @@ A configuraçao atual é {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;TAB to advance</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T210940Z" creationid="sheilagomes" creationdate="20221228T210940Z">
+        <seg>Usar TAB para avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110403Z" creationid="Evandro" creationdate="20160312T110403Z">
@@ -52596,6 +52716,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T163426Z" creationid="Sheila" creationdate="20170905T163426Z">
         <seg>&amp;Usar correspondências parciais para termos do dicionário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;stemming</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211058Z" creationid="sheilagomes" creationdate="20221228T211058Z">
+        <seg>Usar &amp;lematização</seg>
       </tuv>
     </tu>
     <tu>
