@@ -11027,6 +11027,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Application Folder</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T213317Z" creationid="sheilagomes" creationdate="20221228T213317Z">
+        <seg>Pasta Aplicativos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181301Z" creationid="karol" creationdate="20160308T181301Z">
@@ -19573,6 +19581,14 @@ Teias de aranha estão te bloqueando
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T210312Z" creationid="karol" creationdate="20160308T202006Z">
         <seg>Exporta o segmento atual para um arquivo de texto para processamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External GPG did not return a valid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T213309Z" creationid="sheilagomes" creationdate="20221228T213309Z">
+        <seg>GPG externo não retornou uma assinatura válida; obteve: {0}</seg>
       </tuv>
     </tu>
     <tu>
