@@ -1113,6 +1113,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Go to Downloads</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T212057Z" creationid="sheilagomes" creationdate="20221228T212057Z">
+        <seg>&amp;Ir para Atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>&amp;Help</seg>
@@ -1202,6 +1210,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T210444Z" creationid="sheilagomes" creationdate="20221227T210444Z">
         <seg>&amp;Instalar novo idioma...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Install plugin from disk</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211944Z" creationid="sheilagomes" creationdate="20221228T211944Z">
+        <seg>&amp;Instalar plugin do disco</seg>
       </tuv>
     </tu>
     <tu>
@@ -12750,6 +12766,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot find GPG executable on the bash $PATH</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T212203Z" creationid="sheilagomes" creationdate="20221228T212203Z">
+        <seg>Não é possível encontrar GPG executável no bash $PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111147Z" creationid="Evandro" creationdate="20160312T111147Z">
@@ -12763,6 +12787,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185939Z" creationid="Evandro" creationdate="20160311T185939Z">
         <seg>Impossível carregar o arquivo XML especificado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot prepare GPG environment properly</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T212236Z" creationid="sheilagomes" creationdate="20221228T212236Z">
+        <seg>Não é possível preparar o ambiente GPG corretamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -19019,6 +19051,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190710T145957Z" creationid="Sheila" creationdate="20190710T145957Z">
         <seg>Erro ao atualizar o repositório</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while getting output of external program</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T212108Z" creationid="sheilagomes" creationdate="20221228T212108Z">
+        <seg>Erro ao obter a saída do programa externo</seg>
       </tuv>
     </tu>
     <tu>
@@ -26522,6 +26562,22 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T210926Z" creationid="sheilagomes" creationdate="20221227T210926Z">
         <seg>Falha na instalação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugin file</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211947Z" creationid="sheilagomes" creationdate="20221228T211947Z">
+        <seg>Instalar arquivo de plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugin {0} {1}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211959Z" creationid="sheilagomes" creationdate="20221228T211959Z">
+        <seg>Instalar plugin {0} {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -36174,6 +36230,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211153Z" creationid="sheilagomes" creationdate="20221227T211153Z">
         <seg>Instalador de plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation failed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T212005Z" creationid="sheilagomes" creationdate="20221228T212005Z">
+        <seg>Falha ao instalar plugin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49245,6 +49309,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is not a plugin archive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T212027Z" creationid="sheilagomes" creationdate="20221228T212012Z">
+        <seg>Este arquivo não é um plugin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is very important and you should make sure you read it before launching OmegaT.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181316Z" creationid="karol" creationdate="20160308T181316Z">
@@ -52692,6 +52764,18 @@ na linha {1}, coluna {2}.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182033Z" creationid="karol" creationdate="20160308T182033Z">
         <seg>É bastante simples atualizar um arquivo de glossário: pressione &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; e insira um novo termo, sua tradução e algum comentário (tenha certeza de que pressionou tab entre os campos) e salve o arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade/override plugin {0}
+current: {1}
+new version: {2}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T211955Z" creationid="sheilagomes" creationdate="20221228T211955Z">
+        <seg>Atualizar/substituir plugin {0}
+atual: {1}
+nova versão: {2}</seg>
       </tuv>
     </tu>
     <tu>
