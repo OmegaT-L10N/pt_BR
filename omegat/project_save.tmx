@@ -8767,6 +8767,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A link to the support page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212650Z" creationid="sheilagomes" creationdate="20221230T212650Z">
+        <seg>Um link para a página de suporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182257Z" creationid="karol" creationdate="20160308T182257Z">
@@ -18175,6 +18183,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201507Z" creationid="karol" creationdate="20160308T201507Z">
         <seg>Cada vez que você transmite um trabalho coberto, o recipiente automaticamente recebe uma licença dos concessores originais, para executar, modificar e propagar este trabalho, sujeito a esta Licença.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each translated user manual comes in a different language folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T213010Z" creationid="sheilagomes" creationdate="20221230T213010Z">
+        <seg>Cada manual do usuário traduzido vem em uma pasta de idioma diferente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41849,6 +41865,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple installation and running instructions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212709Z" creationid="sheilagomes" creationdate="20221230T212709Z">
+        <seg>Instruções simples de instalação e execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple search and replace script</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T155352Z" creationid="karol" creationdate="20160309T155352Z">
@@ -46004,6 +46028,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The documentation folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212818Z" creationid="sheilagomes" creationdate="20221230T212818Z">
+        <seg>A pasta do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170524T214108Z" creationid="Sheila" creationdate="20170524T214108Z">
@@ -46704,6 +46736,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212437Z" creationid="sheilagomes" creationdate="20221230T212437Z">
         <seg>A lista de melhorias e correções de erros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of individual contributors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212847Z" creationid="sheilagomes" creationdate="20221230T212847Z">
+        <seg>A lista dos contribuidores individuais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58409,6 +58449,14 @@ crie a pasta de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>contributors.txt</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212822Z" creationid="sheilagomes" creationdate="20221230T212822Z">
+        <seg>contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>conveying of source, or (2) access to copy the</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201420Z" creationid="karol" creationdate="20160308T201420Z">
@@ -58669,6 +58717,14 @@ crie a pasta de configuração.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T210909Z" creationid="Sheila" creationdate="20170903T210909Z">
         <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212713Z" creationid="sheilagomes" creationdate="20221230T212713Z">
+        <seg>docs/</seg>
       </tuv>
     </tu>
     <tu>
@@ -58989,6 +59045,14 @@ crie a pasta de configuração.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001002Z" creationid="Evandro" creationdate="20160310T001002Z">
         <seg>en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212851Z" creationid="sheilagomes" creationdate="20221230T212851Z">
+        <seg>en/</seg>
       </tuv>
     </tu>
     <tu>
