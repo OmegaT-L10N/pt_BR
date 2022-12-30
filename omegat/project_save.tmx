@@ -46284,6 +46284,22 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where images used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T213214Z" creationid="sheilagomes" creationdate="20221230T213214Z">
+        <seg>A pasta onde as imagens usadas pelo OmegaT são armazenadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where the libraries used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T213228Z" creationid="sheilagomes" creationdate="20221230T213228Z">
+        <seg>A pasta onde as bibliotecas usadas pelo OmegaT são armazenadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171912Z" creationid="karol" creationdate="20160308T171912Z">
@@ -46744,6 +46760,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212847Z" creationid="sheilagomes" creationdate="20221230T212847Z">
         <seg>A lista dos contribuidores individuais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of libraries used by OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T213044Z" creationid="sheilagomes" creationdate="20221230T213044Z">
+        <seg>A lista de bibliotecas usadas pelo OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60507,6 +60531,14 @@ crie a pasta de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>images/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T213047Z" creationid="sheilagomes" creationdate="20221230T213047Z">
+        <seg>images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>import the file into ODF writer</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181407Z" creationid="karol" creationdate="20160308T181407Z">
@@ -61219,6 +61251,22 @@ crie a pasta de configuração.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001009Z" creationid="Evandro" creationdate="20160310T001009Z">
         <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T213216Z" creationid="sheilagomes" creationdate="20221230T213216Z">
+        <seg>lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>libraries.txt</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T213027Z" creationid="sheilagomes" creationdate="20221230T213027Z">
+        <seg>libraries.txt</seg>
       </tuv>
     </tu>
     <tu>
