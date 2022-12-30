@@ -13416,6 +13416,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check it if you need information on OmegaT's evolution.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212445Z" creationid="sheilagomes" creationdate="20221230T212445Z">
+        <seg>Verifique se você precisa de informações sobre a evolução do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check number of tags</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T010546Z" creationid="karol" creationdate="20160309T010546Z">
@@ -40607,6 +40615,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212352Z" creationid="sheilagomes" creationdate="20221230T212352Z">
+        <seg>Veja o capítulo &lt;l0/&gt; para obter mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171855Z" creationid="karol" creationdate="20160308T171855Z">
@@ -45980,6 +45996,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The documentation distribution license.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212453Z" creationid="sheilagomes" creationdate="20221230T212453Z">
+        <seg>A licença de distribuição de documentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170524T214108Z" creationid="Sheila" creationdate="20170524T214108Z">
@@ -46512,6 +46536,14 @@ parts of the General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The index to the multilingual user manual.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212642Z" creationid="sheilagomes" creationdate="20221230T212642Z">
+        <seg>O índice do manual do usuário multilíngue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The information below summarizes their use and how they are invoked:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003849Z" creationid="karol" creationdate="20160309T003849Z">
@@ -46664,6 +46696,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="edumartins" changedate="20210518T203411Z" creationid="edumartins" creationdate="20210518T141610Z">
         <seg>A linha com a porcentagem correspondente também inclui o nome da memória de tradução contendo a correspondência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of improvements and bug fixes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212437Z" creationid="sheilagomes" creationdate="20221230T212437Z">
+        <seg>A lista de melhorias e correções de erros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60463,6 +60503,14 @@ crie a pasta de configuração.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T202923Z" creationid="karol" creationdate="20160308T180944Z">
         <seg>entradas de índice, marcadores, referências de marcadores, notas, comentários, notas de apresentação, links (URL), nomes de planilhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212509Z" creationid="sheilagomes" creationdate="20221230T212509Z">
+        <seg>index.html</seg>
       </tuv>
     </tu>
     <tu>
