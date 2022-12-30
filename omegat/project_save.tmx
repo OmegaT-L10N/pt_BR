@@ -45369,6 +45369,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The application folder contains the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; application and a number of other important files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T211807Z" creationid="sheilagomes" creationdate="20221230T211807Z">
+        <seg>A pasta de aplicativos contém o aplicativo &lt;f0&gt;OmegaT.jar&lt;/f0&gt; e vários outros arquivos importantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The application runs on your machine only.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182235Z" creationid="karol" creationdate="20160308T182235Z">
