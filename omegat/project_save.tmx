@@ -14435,6 +14435,14 @@ software for all its users.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Configuration Folder</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T213542Z" creationid="sheilagomes" creationdate="20221230T213542Z">
+        <seg>Pasta de configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Confirm</seg>
@@ -45741,6 +45749,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T215152Z" creationid="karol" creationdate="20160308T215152Z">
         <seg>O computador, executando o OmegaT, tem Russo como idioma padrão, e portanto exibe os caracteres no alfabeto Cirílico e não em Kanjii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The configuration folder stores the majority of the OmegaT options and preferences for the user.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T214908Z" creationid="sheilagomes" creationdate="20221230T214908Z">
+        <seg>A pasta de configurações armazena a maioria das opções e preferências do OmegaT para o usuário.</seg>
       </tuv>
     </tu>
     <tu>
