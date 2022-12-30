@@ -56714,6 +56714,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T221013Z" creationid="sheilagomes" creationdate="20221230T221013Z">
+        <seg>Você pode especificar uma pasta de configuração diferente do padrão ao iniciar o OmegaT a partir da linha de comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170530T215853Z" creationid="karol" creationdate="20160308T171906Z">
@@ -64936,6 +64944,30 @@ crie a pasta de configuração.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170625T190737Z" creationid="Sheila" creationdate="20170625T190737Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/.omegat</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T215104Z" creationid="sheilagomes" creationdate="20221230T215104Z">
+        <seg>~/.omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T215111Z" creationid="sheilagomes" creationdate="20221230T215111Z">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~\AppData\Roaming\OmegaT</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T215119Z" creationid="sheilagomes" creationdate="20221230T215119Z">
+        <seg>~\AppData\Roaming\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
