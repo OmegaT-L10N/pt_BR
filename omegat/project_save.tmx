@@ -3314,6 +3314,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T211931Z" creationid="sheilagomes" creationdate="20221230T211931Z">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T210853Z" creationid="Sheila" creationdate="20170903T210853Z">
@@ -3334,6 +3342,14 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T210858Z" creationid="Sheila" creationdate="20170903T210858Z">
         <seg>/lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/opt/omegat/</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T211922Z" creationid="sheilagomes" creationdate="20221230T211922Z">
+        <seg>/opt/omegat/</seg>
       </tuv>
     </tu>
     <tu>
@@ -12679,6 +12695,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T144319Z" creationid="sheilagomes" creationdate="20221218T144319Z">
         <seg>Arquivo de destino at&amp;ual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C:\Program Files\OmegaT\</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T211916Z" creationid="sheilagomes" creationdate="20221230T211916Z">
+        <seg>C:\Program Files\OmegaT\</seg>
       </tuv>
     </tu>
     <tu>
@@ -34157,10 +34181,26 @@ o nome do seu SO e/ou a propriedade do sistema contendo sua pasta base.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's distribution license.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212009Z" creationid="sheilagomes" creationdate="20221230T212009Z">
+        <seg>Licença de distribuição do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182506Z" creationid="karol" creationdate="20160308T182506Z">
         <seg>O OmegaT, porém, apresentará esta frase da seguinte maneira:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT-license.txt</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212000Z" creationid="sheilagomes" creationdate="20221230T212000Z">
+        <seg>OmegaT-license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -44964,6 +45004,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The GPL version 3.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212105Z" creationid="sheilagomes" creationdate="20221230T212105Z">
+        <seg>A GPL versão 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T004126Z" creationid="karol" creationdate="20160309T004126Z">
@@ -45373,6 +45421,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T211807Z" creationid="sheilagomes" creationdate="20221230T211807Z">
         <seg>A pasta de aplicativos contém o aplicativo &lt;f0&gt;OmegaT.jar&lt;/f0&gt; e vários outros arquivos importantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application folder location depends on your platform and on the way you have installed OmegaT.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T211905Z" creationid="sheilagomes" creationdate="20221230T211905Z">
+        <seg>A localização da pasta do aplicativo depende da sua plataforma e da maneira como você instalou o OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47323,6 +47379,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182035Z" creationid="karol" creationdate="20160308T182035Z">
         <seg>As extensões reconhecidas são &lt;f1&gt;TXT&lt;/f1&gt; e &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The recommended or default locations are the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T211909Z" creationid="sheilagomes" creationdate="20221230T211909Z">
+        <seg>Os locais recomendados ou padrão são os seguintes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61199,6 +61263,14 @@ crie a pasta de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T211925Z" creationid="sheilagomes" creationdate="20221230T211925Z">
+        <seg>macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>macOS Users</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210513T205052Z" creationid="sheilagomes" creationdate="20210513T205052Z">
@@ -62237,6 +62309,14 @@ crie a pasta de configuração.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160310T001012Z" creationid="Evandro" creationdate="20160310T001012Z">
         <seg>oss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>other platforms</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T211954Z" creationid="sheilagomes" creationdate="20221230T211954Z">
+        <seg>outras plataformas</seg>
       </tuv>
     </tu>
     <tu>
