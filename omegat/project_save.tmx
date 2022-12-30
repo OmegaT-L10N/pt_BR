@@ -46876,6 +46876,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T215052Z" creationid="sheilagomes" creationdate="20221230T215052Z">
+        <seg>A localização da pasta de configuração padrão varia de acordo com o sistema (o caractere &lt;e0&gt;~&lt;/e0&gt; representa sua pasta pessoal):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181942Z" creationid="karol" creationdate="20160308T181942Z">
@@ -53352,6 +53360,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210515T232248Z" creationid="Francisco Valdez" creationdate="20210515T232248Z">
         <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; para percorrer as quatro alternativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T214917Z" creationid="sheilagomes" creationdate="20221230T214917Z">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; para acessá-lo diretamente.</seg>
       </tuv>
     </tu>
     <tu>
