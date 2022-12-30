@@ -34189,6 +34189,14 @@ o nome do seu SO e/ou a propriedade do sistema contendo sua pasta base.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's executable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212234Z" creationid="sheilagomes" creationdate="20221230T212234Z">
+        <seg>Executável do OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182506Z" creationid="karol" creationdate="20160308T182506Z">
@@ -53561,6 +53569,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003856Z" creationid="karol" creationdate="20160309T003856Z">
         <seg>Usada para validar tags (abra com &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, feche com &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used when launching OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T212319Z" creationid="sheilagomes" creationdate="20221230T212319Z">
+        <seg>Usado ao inicializar o OmegaT a partir da linha de comando.</seg>
       </tuv>
     </tu>
     <tu>
