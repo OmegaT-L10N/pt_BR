@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_3bb57a48c" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18810,6 +18810,15 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T180232Z" creationid="Evandro" creationdate="20160311T180232Z">
         <seg>Digite o número do segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20221231T155442Z" creationid="Kos Ivantsov" creationdate="20221231T155442Z">
+        <seg>Digite o nome de usuário/senha para {0}</seg>
       </tuv>
     </tu>
     <tu>
