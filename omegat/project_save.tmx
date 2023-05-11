@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_3bb57a48c" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18813,7 +18813,6 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Enter username/password for {0}</seg>
       </tuv>
@@ -40487,6 +40486,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
         <seg>See Help &gt; User Guide for details, including available Java options.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221113T215700Z" creationid="sheilagomes" creationdate="20221113T215700Z">
+        <seg>Consulte a Ajuda &gt; Manual do usuário para saber mais, incluindo as opções disponíveis do Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230511T205519Z" creationid="sheilagomes" creationdate="20230511T205519Z">
         <seg>Consulte a Ajuda &gt; Manual do usuário para saber mais, incluindo as opções disponíveis do Java.</seg>
       </tuv>
     </tu>
