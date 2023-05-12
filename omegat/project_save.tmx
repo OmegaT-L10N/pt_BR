@@ -1010,6 +1010,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230511T231843Z" creationid="sheilagomes" creationdate="20230511T231843Z">
+        <seg>&amp;Encontrar próxima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170912T104028Z" creationid="Sheila" creationdate="20170912T104028Z">
@@ -1658,6 +1666,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230512T012038Z" creationid="sheilagomes" creationdate="20230512T012038Z">
+        <seg>&amp;Substituir e encontrar a próxima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Replace...</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170912T104034Z" creationid="Sheila" creationdate="20170912T104034Z">
@@ -1864,6 +1880,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T163738Z" creationid="Evandro" creationdate="20160310T153058Z">
         <seg>&amp;Mostrar sugestões relevantes automaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230511T231821Z" creationid="sheilagomes" creationdate="20230511T231821Z">
+        <seg>&amp;Mostrar substituições</seg>
       </tuv>
     </tu>
     <tu>
