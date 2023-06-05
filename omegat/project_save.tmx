@@ -20608,6 +20608,14 @@ Teias de aranha estão te bloqueando
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>First Steps</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112658Z" creationid="sheilagomes" creationdate="20230605T112658Z">
+        <seg>Primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>First, they need to use &lt;g1&gt;Project &gt; Download Team Project&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172708Z" creationid="karol" creationdate="20160308T172708Z">
@@ -27749,6 +27757,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112645Z" creationid="sheilagomes" creationdate="20230605T112645Z">
+        <seg>É armazenada no arquivo TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is the recommended version for first-time users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Francisco Valdez" changedate="20210519T093621Z" creationid="Francisco Valdez" creationdate="20210519T093608Z">
@@ -29914,6 +29930,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112542Z" creationid="sheilagomes" creationdate="20230605T112542Z">
+        <seg>Tradução automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translations pane</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003853Z" creationid="karol" creationdate="20160309T003853Z">
@@ -30734,6 +30758,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T212533Z" creationid="sheilagomes" creationdate="20221226T212533Z">
         <seg>As correspondências vêm da sua tradução atual ou dos arquivos TMX colocados na pasta /tm/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches come from your current translation or the reference files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112530Z" creationid="sheilagomes" creationdate="20230605T112530Z">
+        <seg>As correspondências vêm da sua tradução atual ou dos arquivos de referência colocados na pasta /tm/.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33286,6 +33318,14 @@ otherwise be available to you under applicable patent law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112533Z" creationid="sheilagomes" creationdate="20230605T112533Z">
+        <seg>Avisar quando um segmento tiver correspondências parciais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notwithstanding any other provision of this License, for material you
 add to a covered work, you may (if authorized by the copyright holders of
 that material) supplement the terms of this License with terms:</seg>
@@ -33798,6 +33838,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T002138Z" creationid="karol" creationdate="20160309T002138Z">
         <seg>O OmegaT exibirá uma lista de todos os segmentos contendo as palavras especificadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112806Z" creationid="sheilagomes" creationdate="20230605T112806Z">
+        <seg>O OmegaT não tem acesso ao repositório remoto: verifique sua conexão ou suas credenciais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41160,6 +41208,14 @@ O escopo de uma busca é, por padrão, o projeto, e pode ser definido como quais
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the user manual for instructions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112712Z" creationid="sheilagomes" creationdate="20230605T112712Z">
+        <seg>Consulte o manual do usuário para obter instruções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181341Z" creationid="karol" creationdate="20160308T181341Z">
@@ -48009,6 +48065,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112815Z" creationid="sheilagomes" creationdate="20230605T112815Z">
+        <seg>O projeto está em modo offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182029Z" creationid="karol" creationdate="20160308T182029Z">
@@ -48630,6 +48694,14 @@ Dúvida nesse "call-out" do segmento.</note>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20171017T104514Z" creationid="Sheila" creationdate="20171017T104514Z">
         <seg>Os arquivos especificados não são compatíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified folder is not an OmegaT project, or the project file is broken, or there is no valid backup.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112748Z" creationid="sheilagomes" creationdate="20230605T112748Z">
+        <seg>A pasta especificada não é um projeto OmegaT, ou o arquivo do projeto está corrompido, ou não há um backup válido.</seg>
       </tuv>
     </tu>
     <tu>
