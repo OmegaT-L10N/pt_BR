@@ -19386,6 +19386,14 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Error while reading a TMX file in the project: {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113608Z" creationid="sheilagomes" creationdate="20230605T113608Z">
+        <seg>Erro ao ler o arquivo TMX  no projeto: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Error while trying to edit the project!</seg>
@@ -20299,6 +20307,14 @@ Teias de aranha estão te bloqueando
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T190306Z" creationid="Evandro" creationdate="20160311T190306Z">
         <seg>Erro fatal na linha {0}, coluna {1} durante a análise:{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fatal error while parsing "project_save.tmx" file(line {0}, column {1}):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113527Z" creationid="sheilagomes" creationdate="20230605T113527Z">
+        <seg>Erro irrecuperável durante a análise do arquivo "project_save.tmx" na linha {0}, coluna {1}:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45803,8 +45819,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The HTML parser encountered an error during file processing:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112421Z" creationid="sheilagomes" creationdate="20230605T112421Z">
-        <seg>O analisador (parser) HTML encontrou um erro durante o processamento do arquivo:
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113422Z" creationid="sheilagomes" creationdate="20230605T112421Z">
+        <seg>O analisador HTML encontrou um erro durante o processamento do arquivo:
 </seg>
       </tuv>
     </tu>
@@ -53345,6 +53361,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223246Z" creationid="sheilagomes" creationdate="20210503T223246Z">
         <seg>Não é possível analisar o relatório de erro do serviço</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse source XML file</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113640Z" creationid="sheilagomes" creationdate="20230605T113640Z">
+        <seg>Não foi possível analisar arquivo XML de origem</seg>
       </tuv>
     </tu>
     <tu>
