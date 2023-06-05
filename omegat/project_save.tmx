@@ -19141,6 +19141,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading : {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111946Z" creationid="sheilagomes" creationdate="20230605T111946Z">
+        <seg>Erro de carregamento: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T210818Z" creationid="sheilagomes" creationdate="20221221T210818Z">
@@ -28024,6 +28032,14 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Java Resource Bundles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112150Z" creationid="sheilagomes" creationdate="20230605T112109Z">
+        <seg>Pacotes de recursos do Java</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Java Resource Bundles Filter Options</seg>
@@ -30901,10 +30917,26 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111949Z" creationid="sheilagomes" creationdate="20230605T111949Z">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170903T211038Z" creationid="Sheila" creationdate="20170903T211038Z">
         <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Open XML (legacy filter)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112004Z" creationid="sheilagomes" creationdate="20230605T112004Z">
+        <seg>Microsoft Office Open XML (filtro legado)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31017,6 +31049,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113340Z" creationid="Evandro" creationdate="20160312T113340Z">
         <seg>Ausente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing attribute '{0}' in &lt;{1}&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112047Z" creationid="sheilagomes" creationdate="20230605T112047Z">
+        <seg>Atributo ausente '{0}' em &lt;{1}&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39815,6 +39855,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112048Z" creationid="sheilagomes" creationdate="20230605T112048Z">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL project (beta)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112049Z" creationid="sheilagomes" creationdate="20230605T112049Z">
+        <seg>SDL project (beta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
@@ -45468,6 +45524,14 @@ software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The Java Resource Bundles filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112127Z" creationid="sheilagomes" creationdate="20230605T112127Z">
+        <seg>O filtro dos pacotes de recursos do Java encontrou um erro:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
@@ -45538,6 +45602,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T005253Z" creationid="karol" creationdate="20160309T005253Z">
         <seg>As estatísticas de correspondência são separadas por tabulações e você pode usar &lt;g0&gt;Ctrl+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, Ctrl+C &lt;i3/&gt;&lt;/g2&gt;, &lt;g4&gt;Ctrl+V &lt;i5/&gt;&lt;/g4&gt; para copiá-las ou colá-las, por exemplo, em uma planilha ou em seu aplicativo de contabilidade de custos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Moodle PHP filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112213Z" creationid="sheilagomes" creationdate="20230605T112213Z">
+        <seg>O filtro PHP do Moodle encontrou um erro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45634,6 +45706,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T234927Z" creationid="sheilagomes" creationdate="20210503T234927Z">
         <seg>O filtro PO já lida com %..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112021Z" creationid="sheilagomes" creationdate="20230605T112021Z">
+        <seg>O filtro PO encontrou um erro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56332,6 +56412,30 @@ Your page is not found</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>XLIFF (legacy filter)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112058Z" creationid="sheilagomes" creationdate="20230605T112058Z">
+        <seg>XLIFF (filtro legado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF 1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112027Z" creationid="sheilagomes" creationdate="20230605T112027Z">
+        <seg>XLIFF 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF 2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112028Z" creationid="sheilagomes" creationdate="20230605T112028Z">
+        <seg>XLIFF 2</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>XLIFF Filter Options</seg>
@@ -65179,8 +65283,8 @@ crie a pasta de configuração.</seg>
       <tuv lang="en">
         <seg>{0} +{1} more</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185858Z" creationid="Evandro" creationdate="20160311T185858Z">
-        <seg>{0} +{1} more</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111930Z" creationid="Evandro" creationdate="20160311T185858Z">
+        <seg>{0} +{1} outras</seg>
       </tuv>
     </tu>
     <tu>
@@ -65313,6 +65417,14 @@ crie a pasta de configuração.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20180921T122137Z" creationid="User" creationdate="20180921T122137Z">
         <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} matches</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111922Z" creationid="sheilagomes" creationdate="20230605T111922Z">
+        <seg>{0} correspondências</seg>
       </tuv>
     </tu>
     <tu>
