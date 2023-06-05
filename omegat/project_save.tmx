@@ -870,6 +870,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not insert the source text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112443Z" creationid="sheilagomes" creationdate="20230605T112443Z">
+        <seg>&amp;Não inserir o texto de origem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T103240Z" creationid="Evandro" creationdate="20160312T103240Z">
@@ -11538,6 +11546,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172830Z" creationid="karol" creationdate="20160308T172830Z">
         <seg>Tentar converter números ao inserir uma correspondência parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempt to replace fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112504Z" creationid="sheilagomes" creationdate="20230605T112504Z">
+        <seg>Tentar substituir &amp;números em correspondências parciais</seg>
       </tuv>
     </tu>
     <tu>
@@ -22563,8 +22579,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>HTML Help Compiler</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T105443Z" creationid="Evandro" creationdate="20160312T105443Z">
-        <seg>Compilador de Ajuda HTML</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112427Z" creationid="Evandro" creationdate="20160312T105443Z">
+        <seg>Compilador de ajuda HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -22896,6 +22912,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111842Z" creationid="sheilagomes" creationdate="20230605T111842Z">
         <seg>Ocultar &amp;opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112306Z" creationid="sheilagomes" creationdate="20230605T112306Z">
+        <seg>Ocultar &amp;tags sobrando à esquerda e à direita</seg>
       </tuv>
     </tu>
     <tu>
@@ -30477,6 +30501,14 @@ permissions.</seg>
         <seg>Mark all non-unique segments</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T205849Z" creationid="sheilagomes" creationdate="20221226T205849Z">
+        <seg>Marcar todos os segmentos repetidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all repeated segments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112511Z" creationid="sheilagomes" creationdate="20230605T112511Z">
         <seg>Marcar todos os segmentos repetidos</seg>
       </tuv>
     </tu>
@@ -38676,6 +38708,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove HTML comments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112331Z" creationid="sheilagomes" creationdate="20230605T112331Z">
+        <seg>Remover comentários HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T105405Z" creationid="Evandro" creationdate="20160312T105345Z">
@@ -39891,6 +39931,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
         <seg>SVG  / Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T204018Z" creationid="sheilagomes" creationdate="20221223T204018Z">
+        <seg>Exportação SVG  / Adobe Illustrator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVG / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112250Z" creationid="sheilagomes" creationdate="20230605T112250Z">
         <seg>Exportação SVG  / Adobe Illustrator</seg>
       </tuv>
     </tu>
@@ -43493,6 +43541,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new segment on:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112340Z" creationid="sheilagomes" creationdate="20230605T112340Z">
+        <seg>Iniciar um novo segmento em:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start new project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T163717Z" creationid="sheilagomes" creationdate="20221218T163717Z">
@@ -45509,6 +45565,15 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML parser encountered an error during file processing:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112421Z" creationid="sheilagomes" creationdate="20230605T112421Z">
+        <seg>O analisador (parser) HTML encontrou um erro durante o processamento do arquivo:
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="CALDAS" changedate="20170918T071153Z" creationid="CALDAS" creationdate="20170918T071153Z">
@@ -45630,10 +45695,26 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Mozilla DTD filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112232Z" creationid="sheilagomes" creationdate="20230605T112232Z">
+        <seg>O filtro DTD do Mozilla encontrou um erro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T102851Z" creationid="Evandro" creationdate="20160312T102851Z">
         <seg>O filtro Mozilla DTD lançou uma exceção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112244Z" creationid="sheilagomes" creationdate="20230605T112244Z">
+        <seg>O filtro FTL do Mozilla encontrou um erro:</seg>
       </tuv>
     </tu>
     <tu>
