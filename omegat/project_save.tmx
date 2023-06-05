@@ -18754,6 +18754,22 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Embeddings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T152017Z" creationid="sheilagomes" creationdate="20230605T152017Z">
+        <seg>Incorporações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Embeddings can be used to create a longer section of text (containing several words and spaces) that must flow in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T152038Z" creationid="sheilagomes" creationdate="20230605T152038Z">
+        <seg>As incorporações podem ser usadas para criar uma seção de texto mais longa (contendo várias palavras e espaços) que deve fluir na direção oposta à do segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Emptiness of soul
 Forever aching blackness
 Your help page not found</seg>
@@ -27046,6 +27062,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T151947Z" creationid="sheilagomes" creationdate="20230605T151947Z">
         <seg>Insira um LRM após um caractere de direcionalidade fraca que deve ser executado da esquerda para a direita em um segmento da direita para a esquerda (por exemplo, um trecho em inglês dentro do texto em árabe).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert a RLM after a weak-directionality character that must run right-to-left in a left-to-right segment (e.g. an Arabic excerpt inside English text).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T152007Z" creationid="sheilagomes" creationdate="20230605T152007Z">
+        <seg>Insira um RLM após um caractere de direcionalidade fraca que deve ser executado da direita para a esquerda em um segmento da esquerda para a direita (por exemplo, um trecho em árabe dentro do texto em inglês).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51746,10 +51770,26 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To create a left-to-right embedding in a right-to-left segment, insert a left-to-right embedding (LRE) character, type or insert the left-to-right text, and then insert the pop directional formatting (PDF) character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T152149Z" creationid="sheilagomes" creationdate="20230605T152149Z">
+        <seg>Para criar uma incorporação da esquerda para a direita em um segmento da direita para a esquerda, insira um caractere de incorporação da esquerda para a direita (LRE), digite ou insira o texto da esquerda para a direita e insira o caractere de formatação direcional pop ( PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T001608Z" creationid="karol" creationdate="20160309T001608Z">
         <seg>Para criar um conjunto de filtros de arquivos específicos por projeto, clique no botão &lt;g0&gt;Filtros de arquivo...&lt;/g0&gt;, e então ative a caixa de seleção &lt;g1&gt;Ativar filtros específicos de projeto&lt;/g1&gt; na janela que se abrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a right-to-left embedding in a left-to-right segment, insert a right-to-left embedding (RLE) character, type or insert the right-to-left text, and then insert the PDF character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T152219Z" creationid="sheilagomes" creationdate="20230605T152219Z">
+        <seg>Para criar uma incorporação da direita para a esquerda em um segmento da esquerda para a direita, insira um caractere de incorporação da direita para a esquerda (RLE), digite ou insira o texto da direita para a esquerda e insira o caractere PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57484,6 +57524,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T110741Z" creationid="Evandro" creationdate="20160312T110741Z">
         <seg>Você pode criar termos no glossário em Criar termo no glossário, no menu Editar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create two kinds of embeddings depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T152050Z" creationid="sheilagomes" creationdate="20230605T152050Z">
+        <seg>Você pode criar dois tipos de incorporação, dependendo da direcionalidade do segmento:</seg>
       </tuv>
     </tu>
     <tu>
