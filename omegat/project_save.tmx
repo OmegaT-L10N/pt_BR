@@ -2605,6 +2605,58 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Vincent Bidaux (documentation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (project manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T153443Z" creationid="sheilagomes" creationdate="20230605T153443Z">
+        <seg>- Anthony Baldwin (gerente de localização)
+- Vincent Bidaux (gerente de documentação)
+- Didier Briel (gerente de projeto)
+- Alex Buloichik (desenvolvedor líder)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (gerente de projeto)
+- Maxym Mykhalchuk (desenvolvedor líder)
+- Samuel Murray
+- Henry Pijffers (gerente de lançamento)
+- Marc Prior (coordenador do projeto, webmaster)
+- Vito Smolej (gerente de documentação)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Philippe Tourigny (documentation manager)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T153344Z" creationid="sheilagomes" creationdate="20230605T153344Z">
+        <seg>- Marco Cevoli (gerente de comunidade do Telegram)
+- Jean-Christophe Helary (gerente da comunidade do Twitter)
+- Kos Ivantsov (gerente de localização)
+- Concepción Martin (gerente da comunidade do Facebook)
+- Hiroshi Miura (desenvolvedor líder)
+- Briac Pilpré (webmaster)
+- Philippe Tourigny (gerente de documentação)
+- Lucie Vecerova (gerente da comunidade do Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Vincent Bidaux (documentation manager)
 - Marco Cevoli (Telegram community manager)
 - Jean-Christophe Helary (Twitter community manager)
