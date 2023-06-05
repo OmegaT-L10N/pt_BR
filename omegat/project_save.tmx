@@ -1587,6 +1587,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T105825Z" creationid="sheilagomes" creationdate="20230605T105825Z">
+        <seg>&amp;Refazer</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>&amp;Redo Last Action</seg>
@@ -2057,6 +2065,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T145940Z" creationid="sheilagomes" creationdate="20221218T145940Z">
         <seg>&amp;MAIÚSCULA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T105822Z" creationid="sheilagomes" creationdate="20230605T105822Z">
+        <seg>&amp;Desfazer</seg>
       </tuv>
     </tu>
     <tu>
@@ -17045,6 +17061,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T110050Z" creationid="sheilagomes" creationdate="20230605T110050Z">
+        <seg>Exibir delimitações de &amp;parágrafo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
@@ -22805,10 +22829,34 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T110018Z" creationid="sheilagomes" creationdate="20230605T110018Z">
+        <seg>Destacar segmentos &amp;traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T110030Z" creationid="sheilagomes" creationdate="20230605T110030Z">
+        <seg>Destacar segmentos &amp;não traduzidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20171023T161426Z" creationid="Sheila" creationdate="20171023T161426Z">
         <seg>Padrão de destaque...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Repeated Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T110109Z" creationid="sheilagomes" creationdate="20230605T110109Z">
+        <seg>Destacar se&amp;gmentos repetidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -26506,6 +26554,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T105948Z" creationid="sheilagomes" creationdate="20230605T105948Z">
+        <seg>Inserir c&amp;aractere de controle Bidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match or Selection</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170625T192836Z" creationid="Sheila" creationdate="20170625T192836Z">
@@ -26527,6 +26583,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211315Z" creationid="sheilagomes" creationdate="20221227T211315Z">
         <seg>Inserir correspondência ou seleção na tradução</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Missing &amp;Tags</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T105844Z" creationid="sheilagomes" creationdate="20230605T105844Z">
+        <seg>Inserir &amp;tags ausentes</seg>
       </tuv>
     </tu>
     <tu>
@@ -32847,6 +32911,14 @@ leis semelhantes que proíbam ou restrinjam a circunvenção de tais medidas.</s
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20190927T121453Z" creationid="Sheila" creationdate="20190927T121453Z">
         <seg>Nota: estas duas instruções podem ser combinadas escrevendo &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notepad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T110000Z" creationid="sheilagomes" creationdate="20230605T110000Z">
+        <seg>Bloco de notas</seg>
       </tuv>
     </tu>
     <tu>
