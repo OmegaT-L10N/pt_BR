@@ -1739,6 +1739,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111119Z" creationid="sheilagomes" creationdate="20230605T111119Z">
+        <seg>&amp;Restaurar a janela principal do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>&amp;Root</seg>
@@ -2116,6 +2124,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221218T154301Z" creationid="sheilagomes" creationdate="20221218T154301Z">
         <seg>&amp;Manual do usuário...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;User Manual...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111129Z" creationid="sheilagomes" creationdate="20230605T111129Z">
+        <seg>Manual do &amp;usuário...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17069,6 +17085,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111051Z" creationid="sheilagomes" creationdate="20230605T111051Z">
+        <seg>Exibir &amp;informações de alteração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T110138Z" creationid="sheilagomes" creationdate="20230605T110138Z">
@@ -20072,11 +20096,35 @@ Teias de aranha estão te bloqueando
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Failed to load the project due to a file access issue.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111312Z" creationid="sheilagomes" creationdate="20230605T111312Z">
+        <seg>Falha ao carregar o projeto devido a um problema de acesso aos arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111227Z" creationid="sheilagomes" creationdate="20230605T111227Z">
+        <seg>Falha ao carregar o projeto especificado!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T180101Z" creationid="Evandro" creationdate="20160311T180101Z">
+        <seg>Falha ao carregar a memória de tradução {0} para o projeto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111224Z" creationid="sheilagomes" creationdate="20230605T111224Z">
         <seg>Falha ao carregar a memória de tradução {0} para o projeto!</seg>
       </tuv>
     </tu>
@@ -42290,6 +42338,14 @@ In this segment {0,number,#} should remain unchanged</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111221Z" creationid="sheilagomes" creationdate="20230605T111221Z">
+        <seg>Arquivo de origem {0} ignorado porque não foi possível carregá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped translation units for which no source segment was found.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221221T205854Z" creationid="sheilagomes" creationdate="20221221T205854Z">
@@ -59642,6 +59698,14 @@ crie a pasta de configuração.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111107Z" creationid="sheilagomes" creationdate="20230605T111107Z">
+        <seg>para &amp;todos os segmentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170625T190723Z" creationid="Sheila" creationdate="20170625T190723Z">
@@ -59654,6 +59718,14 @@ crie a pasta de configuração.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170625T190725Z" creationid="Sheila" creationdate="20170625T190725Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111102Z" creationid="sheilagomes" creationdate="20230605T111102Z">
+        <seg>para o &amp;segmento atual</seg>
       </tuv>
     </tu>
     <tu>
