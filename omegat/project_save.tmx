@@ -13716,6 +13716,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the omegat directory of the project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113325Z" creationid="sheilagomes" creationdate="20230605T113325Z">
+        <seg>Verifique o diretório omegat do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the tag issues again.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T213151Z" creationid="sheilagomes" creationdate="20221227T213151Z">
@@ -19653,6 +19661,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception while parsing "project_save.tmx":</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113415Z" creationid="sheilagomes" creationdate="20230605T113415Z">
+        <seg>Exception while parsing "project_save.tmx":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T190221Z" creationid="Evandro" creationdate="20160311T190221Z">
@@ -20181,6 +20197,14 @@ Teias de aranha estão te bloqueando
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project by a file access problem.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113338Z" creationid="sheilagomes" creationdate="20230605T113338Z">
+        <seg>Falha ao carregar o projeto devido a um problema de acesso aos arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project due to a file access issue.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111312Z" creationid="sheilagomes" creationdate="20230605T111312Z">
@@ -20189,9 +20213,25 @@ Teias de aranha estão te bloqueando
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project due to file corruption.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113244Z" creationid="sheilagomes" creationdate="20230605T113244Z">
+        <seg>Falha ao carregar o projeto devido a corrupção de arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the specified project!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111227Z" creationid="sheilagomes" creationdate="20230605T111227Z">
+        <seg>Falha ao carregar o projeto especificado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113224Z" creationid="sheilagomes" creationdate="20230605T113224Z">
         <seg>Falha ao carregar o projeto especificado!</seg>
       </tuv>
     </tu>
@@ -20209,6 +20249,14 @@ Teias de aranha estão te bloqueando
         <seg>Failed to load translation memory {0} for the project!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111224Z" creationid="sheilagomes" creationdate="20230605T111224Z">
+        <seg>Falha ao carregar a memória de tradução {0} para o projeto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113223Z" creationid="sheilagomes" creationdate="20230605T113223Z">
         <seg>Falha ao carregar a memória de tradução {0} para o projeto!</seg>
       </tuv>
     </tu>
@@ -20317,6 +20365,14 @@ Teias de aranha estão te bloqueando
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221223T205322Z" creationid="sheilagomes" creationdate="20221223T205322Z">
         <seg>&amp;Formato do arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File (segs):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113216Z" creationid="sheilagomes" creationdate="20230605T113216Z">
+        <seg>Arquivos (segs):</seg>
       </tuv>
     </tu>
     <tu>
@@ -36551,6 +36607,14 @@ em seguida, confirme tudo.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Please check you have permissions, or you can access files if there are files in cloud storage.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113350Z" creationid="sheilagomes" creationdate="20230605T113350Z">
+        <seg>Verifique se você tem as permissões corretas ou se pode acessar os arquivos se estiverem armazenados na nuvem.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Please close search window.</seg>
@@ -37900,6 +37964,14 @@ projeto local sem o recurso projeto de equipe.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113033Z" creationid="Evandro" creationdate="20160312T113033Z">
         <seg>O projeto não será atualizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113149Z" creationid="sheilagomes" creationdate="20230605T113149Z">
+        <seg>Projeto:</seg>
       </tuv>
     </tu>
     <tu>
