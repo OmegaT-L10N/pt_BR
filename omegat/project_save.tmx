@@ -22884,6 +22884,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide &amp;Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111842Z" creationid="sheilagomes" creationdate="20230605T111842Z">
+        <seg>Ocultar &amp;opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T111838Z" creationid="Evandro" creationdate="20160312T111838Z">
@@ -29922,6 +29930,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Main Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111859Z" creationid="sheilagomes" creationdate="20230605T111859Z">
+        <seg>Memór&amp;ia principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T201703Z" creationid="karol" creationdate="20160308T201703Z">
@@ -33221,8 +33237,8 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="en">
         <seg>Now</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T184804Z" creationid="Evandro" creationdate="20160311T184804Z">
-        <seg>Now</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111849Z" creationid="Evandro" creationdate="20160311T184804Z">
+        <seg>Agora</seg>
       </tuv>
     </tu>
     <tu>
@@ -38147,6 +38163,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T214254Z" creationid="karol" creationdate="20160308T214254Z">
         <seg>Refaz as últimas ações de edição no segmento destino aberto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reference T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111907Z" creationid="sheilagomes" creationdate="20230605T111907Z">
+        <seg>T&amp;Ms de referência</seg>
       </tuv>
     </tu>
     <tu>
@@ -44048,6 +44072,14 @@ LEGISLAÇÃO APLICÁVEL.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170909T153616Z" creationid="Sheila" creationdate="20170909T153616Z">
         <seg>Opções de correspondências de TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TM Search &amp;Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111805Z" creationid="sheilagomes" creationdate="20230605T111805Z">
+        <seg>&amp;Opções de busca de TM</seg>
       </tuv>
     </tu>
     <tu>
@@ -52828,6 +52860,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T170135Z" creationid="Sheila" creationdate="20170905T170114Z">
         <seg>Não é possível converter o projeto!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111742Z" creationid="sheilagomes" creationdate="20230605T111742Z">
+        <seg>Não foi possível criar um arquivo de backup para {0}</seg>
       </tuv>
     </tu>
     <tu>
