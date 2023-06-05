@@ -103,3 +103,4 @@ Search	Pesquisar	OmegaTLoc
 Segment	segmento
 files	arquivos
 issue	problema
+hide	ocultar
