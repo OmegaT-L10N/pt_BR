@@ -45843,6 +45843,16 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The @language@ version of OmegaT has been translated by:
+@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T153246Z" creationid="sheilagomes" creationdate="20230605T153246Z">
+        <seg>A versão em português brasileiro do OmegaT foi traduzida por:
+@TRANSLATION_NOTICE@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Add Finished!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172656Z" creationid="karol" creationdate="20160308T172656Z">
