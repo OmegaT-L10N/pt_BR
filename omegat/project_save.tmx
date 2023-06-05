@@ -2618,6 +2618,22 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     <tu>
       <tuv lang="en">
         <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T105656Z" creationid="sheilagomes" creationdate="20230605T105614Z">
+        <seg>- verifique se o formato é compatível com o OmegaT:
+	  se as configurações de filtro local estiverem ativadas
+	  use Projeto &gt; Propriedades... &gt; Filtros de arquivos locais...,
+	  caso contrário, use Opções &gt; Filtros de arquivo globais...;
+	  - abra-os em seu aplicativo original e verifique se não estão vazios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
 	  if per-project filter settings are enabled
 	  use Project &gt; Properties... &gt; Local File Filters...,
 	  otherwise use Options &gt; Global File Filters...;
@@ -9225,6 +9241,14 @@ included in conveying the object code work.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Abort: Exit with an error if tags are invalid.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T105519Z" creationid="sheilagomes" creationdate="20230605T105519Z">
+        <seg>Cancelar: Sair com erro caso as tags sejam inválidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
@@ -9507,8 +9531,16 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>Add MediaWiki Pa&amp;ge...</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T105458Z" creationid="sheilagomes" creationdate="20230605T105458Z">
-        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T105736Z" creationid="sheilagomes" creationdate="20230605T105458Z">
+        <seg>Adicionar pág&amp;ina MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T105751Z" creationid="sheilagomes" creationdate="20230605T105707Z">
+        <seg>Adicionar página MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -19964,6 +19996,14 @@ Teias de aranha estão te bloqueando
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221202T172009Z" creationid="sheilagomes" creationdate="20221202T172009Z">
         <seg>Falha ao tentar baixar a página MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T105812Z" creationid="sheilagomes" creationdate="20230605T105812Z">
+        <seg>Falha ao baixar a página</seg>
       </tuv>
     </tu>
     <tu>
