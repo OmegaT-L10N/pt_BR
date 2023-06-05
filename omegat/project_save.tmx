@@ -2900,6 +2900,16 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name] &lt;project path&gt; &lt;mode options&gt;
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113057Z" creationid="sheilagomes" creationdate="20230605T113057Z">
+        <seg>--mode=[nome do modo de console] &lt;project path&gt; &lt;mode options&gt;
+	  Especifique um modo diferente do padrão da GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -2942,6 +2952,18 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    The folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113108Z" creationid="sheilagomes" creationdate="20230605T113108Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;caminho&gt;
+	    Um diretório contendo os arquivos traduzidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170904T102259Z" creationid="Sheila" creationdate="20170904T102259Z">
@@ -2958,6 +2980,20 @@ Para adicionar arquivos ao projeto, clique no botão Copiar arquivos para a past
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;path&gt;
 	    O arquivo TMX pseudotraduzido de saída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113140Z" creationid="sheilagomes" creationdate="20230605T113140Z">
+        <seg>--mode=console-stats
+	  --output-file=[stats-output-file]
+	    Envia ao arquivo especificado ou à saída padrão
+	    se nenhum arquivo for fornecido ou a opção não for usada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17821,6 +17857,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112921Z" creationid="sheilagomes" creationdate="20230605T112921Z">
+        <seg>Clique duas vezes nos caracteres ou selecione-os e pressione a tecla Inserir para adicioná-los à tabela personalizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210514T003108Z" creationid="sheilagomes" creationdate="20210514T003108Z">
@@ -18978,6 +19022,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Kos Ivantsov" changedate="20221231T155442Z" creationid="Kos Ivantsov" creationdate="20221231T155442Z">
         <seg>Digite o nome de usuário/senha para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your master password</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113032Z" creationid="sheilagomes" creationdate="20230605T113032Z">
+        <seg>DIgite sua senha mestra</seg>
       </tuv>
     </tu>
     <tu>
@@ -22949,6 +23001,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide Tags</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113025Z" creationid="sheilagomes" creationdate="20230605T113025Z">
+        <seg>Ocultar tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20171023T161407Z" creationid="Sheila" creationdate="20171023T161407Z">
@@ -26573,6 +26633,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T010542Z" creationid="karol" creationdate="20160309T010542Z">
         <seg>Números inconsistentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incorrect password</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T113034Z" creationid="sheilagomes" creationdate="20230605T113034Z">
+        <seg>Senha incorreta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38724,6 +38792,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote repository git+ssh credential error: {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112838Z" creationid="sheilagomes" creationdate="20230605T112838Z">
+        <seg>Erro de credencial git+ssh do repositório remoto: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="User" changedate="20181004T141836Z" creationid="User" creationdate="20181004T141649Z">
@@ -39014,6 +39090,30 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T181920Z" creationid="karol" creationdate="20160308T181920Z">
         <seg>É fácil consertar as tags e recriar os documentos traduzidos com a função verificar tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112947Z" creationid="sheilagomes" creationdate="20230605T112947Z">
+        <seg>Repetidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112926Z" creationid="sheilagomes" creationdate="20230605T112926Z">
+        <seg>Segmentos repetidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments background</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112940Z" creationid="sheilagomes" creationdate="20230605T112940Z">
+        <seg>Fundo dos segmentos repetidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -44147,6 +44247,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T113103Z" creationid="Evandro" creationdate="20160312T113103Z">
         <seg>Erro na sincronização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronization of repositories</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T112844Z" creationid="sheilagomes" creationdate="20230605T112844Z">
+        <seg>Sincronização de repositórios</seg>
       </tuv>
     </tu>
     <tu>
