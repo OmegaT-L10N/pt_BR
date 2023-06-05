@@ -15587,6 +15587,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a section of text that flows in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150818Z" creationid="sheilagomes" creationdate="20230605T150818Z">
+        <seg>Criar uma seção de texto que flua na direção oposta à do segmento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20191024T105041Z" creationid="Sheila" creationdate="20191024T105024Z">
@@ -30770,6 +30778,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20210503T223010Z" creationid="sheilagomes" creationdate="20210503T223010Z">
         <seg>Marcar palavras desconhecidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Marks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150905Z" creationid="sheilagomes" creationdate="20230605T150905Z">
+        <seg>Marcações</seg>
       </tuv>
     </tu>
     <tu>
@@ -49854,6 +49870,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These control characters change directionality but are invisible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150841Z" creationid="sheilagomes" creationdate="20230605T150841Z">
+        <seg>Esses caracteres de controle mudam a direcionalidade, mas são invisíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These files are copies of the file &lt;f0&gt;project_save.tmx&lt;/f0&gt;, i.e. of the project's main translation memory, excluding the so-called orphan segments.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003316Z" creationid="karol" creationdate="20160309T003316Z">
@@ -51654,6 +51678,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Sheila" changedate="20170901T095147Z" creationid="karol" creationdate="20160308T181218Z">
         <seg>Para mudar o local das pastas após a criação de um projeto, abra &lt;g0&gt;Projeto &gt; Propriedades...&lt;/g0&gt; no menu ou com &lt;g1&gt;Ctrl+E&lt;/g1&gt; e faça as alterações necessárias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the position of a character with weak or neutral directionality (like punctuation symbols), insert an LRM or RLM character after the character, depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T151618Z" creationid="sheilagomes" creationdate="20230605T151618Z">
+        <seg>Para alterar a posição de um caractere com direcionalidade fraca ou neutra (como símbolos de pontuação), insira um caractere LRM ou RLM após o caractere, dependendo da direcionalidade do segmento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54302,6 +54334,14 @@ A configuraçao atual é {0}MB;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221230T214917Z" creationid="sheilagomes" creationdate="20221230T214917Z">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; para acessá-lo diretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to show a visual indication of their position.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150854Z" creationid="sheilagomes" creationdate="20230605T150854Z">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; para mostrar uma indicação visual de sua posição.</seg>
       </tuv>
     </tu>
     <tu>
