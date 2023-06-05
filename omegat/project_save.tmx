@@ -27042,6 +27042,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert a LRM after a weak-directionality character that must run left-to-right in a right-to-left segment (e.g. an English excerpt inside Arabic text).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T151947Z" creationid="sheilagomes" creationdate="20230605T151947Z">
+        <seg>Insira um LRM após um caractere de direcionalidade fraca que deve ser executado da esquerda para a direita em um segmento da direita para a esquerda (por exemplo, um trecho em inglês dentro do texto em árabe).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert an invisible character with a strong directionality to force a specific position for a character with weak or neutral directionality.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150758Z" creationid="sheilagomes" creationdate="20230605T150758Z">
