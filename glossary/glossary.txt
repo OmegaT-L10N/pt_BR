@@ -102,3 +102,4 @@ file	arquivo
 Search	Pesquisar	OmegaTLoc
 Segment	segmento
 files	arquivos
+issue	problema
