@@ -20097,6 +20097,14 @@ Teias de aranha estão te bloqueando
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111414Z" creationid="sheilagomes" creationdate="20230605T111352Z">
+        <seg>Falha ao carregar o projeto porque a pasta de origem especificada contém um link simbólico ou físico que aponta para si mesmo ou para uma de suas subpastas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project due to a file access issue.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111312Z" creationid="sheilagomes" creationdate="20230605T111312Z">
@@ -29994,6 +30002,15 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure all links are outside the source folder and subfolders.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111427Z" creationid="sheilagomes" creationdate="20230605T111427Z">
+        <seg>Certifique-se de que todos os links estejam fora da pasta e subpastas de origem.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that you have a free Microsoft account.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T182332Z" creationid="karol" creationdate="20160308T182332Z">
@@ -30046,6 +30063,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T172644Z" creationid="karol" creationdate="20160308T172644Z">
         <seg>Verifique se o campo &lt;e1&gt;Checkout directory&lt;/e1&gt; está correto, isto é, se especifica a pasta vazia que você criou, e pressione &lt;e2&gt;OK&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111359Z" creationid="sheilagomes" creationdate="20230605T111349Z">
+        <seg>Verifique se você tem as permissões corretas ou se pode acessar os arquivos se estiverem armazenados na nuvem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38841,6 +38866,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111451Z" creationid="sheilagomes" creationdate="20230605T111451Z">
+        <seg>Segmentos repetidos: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T183159Z" creationid="Evandro" creationdate="20160311T183159Z">
@@ -42898,6 +42931,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221219T202203Z" creationid="sheilagomes" creationdate="20221219T202203Z">
         <seg>Idioma dos arquivos de origem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T111703Z" creationid="sheilagomes" creationdate="20230605T111703Z">
+        <seg>Arquivos de origem carregados, mas ignorando arquivo(s) por erro(s) de filtro</seg>
       </tuv>
     </tu>
     <tu>
