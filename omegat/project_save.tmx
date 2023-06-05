@@ -14956,6 +14956,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230512T012134Z" creationid="sheilagomes" creationdate="20230512T012134Z">
+        <seg>Copiar o erro para a área de transferência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy it to &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160309T003702Z" creationid="karol" creationdate="20160309T003702Z">
