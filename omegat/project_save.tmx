@@ -11466,6 +11466,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ask again...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150357Z" creationid="sheilagomes" creationdate="20230605T150357Z">
+        <seg>Perguntar de novo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Assamese</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171154Z" creationid="karol" creationdate="20160308T171154Z">
@@ -12966,6 +12974,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221228T212203Z" creationid="sheilagomes" creationdate="20221228T212203Z">
         <seg>Não é possível encontrar GPG executável no bash $PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot get correct answer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150429Z" creationid="sheilagomes" creationdate="20230605T150400Z">
+        <seg>Não foi possível obter a resposta correta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19016,12 +19032,28 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Enter the password for {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150303Z" creationid="sheilagomes" creationdate="20230605T150303Z">
+        <seg>Digite a senha para {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Segment added on version 3.6</note>
       <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T180232Z" creationid="Evandro" creationdate="20160311T180232Z">
         <seg>Digite o número do segmento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the username for {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150255Z" creationid="sheilagomes" creationdate="20230605T150255Z">
+        <seg>Digite o nome de usuário para {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22617,6 +22649,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221226T220645Z" creationid="sheilagomes" creationdate="20221226T220645Z">
         <seg>Obteve o tipo MIME inesperado {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected input.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150335Z" creationid="sheilagomes" creationdate="20230605T150335Z">
+        <seg>Obteve uma entrada inesperada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29982,8 +30022,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>MT({0}) report error {1}</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150114Z" creationid="sheilagomes" creationdate="20230605T150114Z">
-        <seg>Erro do mecanismo de tradução automática ({0}) {1}</seg>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150218Z" creationid="sheilagomes" creationdate="20230605T150114Z">
+        <seg>Erro do relatório de tradução automática ({0}) {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -53341,6 +53381,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to get result</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150238Z" creationid="sheilagomes" creationdate="20230605T150238Z">
+        <seg>Não foi possível obter resultados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T185921Z" creationid="Evandro" creationdate="20160311T185921Z">
@@ -56629,6 +56677,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160312T112958Z" creationid="Evandro" creationdate="20160312T112958Z">
         <seg>Autenticação incorreta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong password for {0}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150317Z" creationid="sheilagomes" creationdate="20230605T150317Z">
+        <seg>Senha incorreta para {0}</seg>
       </tuv>
     </tu>
     <tu>
