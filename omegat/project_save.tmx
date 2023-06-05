@@ -9505,6 +9505,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T105458Z" creationid="sheilagomes" creationdate="20230605T105458Z">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Online MediaWiki Pa&amp;ge...</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221127T121359Z" creationid="sheilagomes" creationdate="20221127T121344Z">
@@ -27895,6 +27903,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="karol" changedate="20160308T171235Z" creationid="karol" creationdate="20160308T171235Z">
         <seg>Javanês</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jean-Christophe Helary</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Sheila" changedate="20170905T134550Z" creationid="Sheila" creationdate="20170905T134550Z">
+        <seg>Jean-Christophe Helary</seg>
       </tuv>
     </tu>
     <tu>
