@@ -29964,9 +29964,25 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MT engine error happened</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150152Z" creationid="sheilagomes" creationdate="20230605T150152Z">
+        <seg>Ocorreu um erro do mecanismo de tradução automática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MT engine error({0}) {1}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="sheilagomes" changedate="20221227T211520Z" creationid="sheilagomes" creationdate="20221227T211457Z">
+        <seg>Erro do mecanismo de tradução automática ({0}) {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MT({0}) report error {1}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150114Z" creationid="sheilagomes" creationdate="20230605T150114Z">
         <seg>Erro do mecanismo de tradução automática ({0}) {1}</seg>
       </tuv>
     </tu>
@@ -53675,6 +53691,14 @@ A busca exata encontra a string (sequência de caracteres) inteira.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Evandro" changedate="20160311T182653Z" creationid="Evandro" creationdate="20160311T182653Z">
         <seg>Únicos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown language code {0} specified</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="sheilagomes" changedate="20230605T150046Z" creationid="sheilagomes" creationdate="20230605T150046Z">
+        <seg>O código de idioma {0} é desconhecido</seg>
       </tuv>
     </tu>
     <tu>
